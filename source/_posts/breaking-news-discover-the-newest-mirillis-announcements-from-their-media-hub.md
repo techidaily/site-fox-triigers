@@ -1,7 +1,7 @@
 ---
 title: "Breaking News: Discover the Newest Mirillis Announcements From Their Media Hub"
-date: 2024-09-19 20:33:59
-updated: 2024-09-20 11:33:13
+date: 2024-09-12T20:13:22.621Z
+updated: 2024-09-20T04:49:11.978Z
 tags:
   - product
 categories:
@@ -80,6 +80,13 @@ The Mirillis latest news, products and events.
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 4.39.0 is now available!") 
 
 01/02/2024 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Action! 4.39.0 is now available!
 
@@ -184,6 +191,13 @@ The Mirillis latest news, products and events.
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 4.35.0 with AI-powered auto webcam (face) centering is now available!") 
 
 07/07/2023 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Action! 4.35.0 with AI-powered auto webcam (face) centering is now available!
 
@@ -587,6 +601,13 @@ The Mirillis latest news, products and events.
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 4.21.4 is now available!") 
 
 10/09/2021 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Action! 4.21.4 is now available!
 
@@ -2053,6 +2074,13 @@ To use HDR10 mode please check Hardware Acceleration list in Action 4 video tab 
 
 23/10/2017 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Action! 2.8.1 is now available.
 
 **What's new in Action! 2.8.1?** 
@@ -2535,6 +2563,13 @@ To use HDR10 mode please check Hardware Acceleration list in Action 4 video tab 
 
 11/11/2016 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Action! 2.0.1 is now available.
 
 **What's new in Action! 2.0.1?** 
@@ -2646,8 +2681,6 @@ We are proud to announce that new Action! 2.0 is now available, with refreshed l
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

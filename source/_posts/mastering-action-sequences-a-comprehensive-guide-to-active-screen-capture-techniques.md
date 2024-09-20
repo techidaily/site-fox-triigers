@@ -1,7 +1,7 @@
 ---
 title: "Mastering Action Sequences: A Comprehensive Guide to Active Screen Capture Techniques"
-date: 2024-09-18 22:19:23
-updated: 2024-09-20 10:33:46
+date: 2024-09-16T23:14:42.705Z
+updated: 2024-09-19T18:06:45.549Z
 tags:
   - product
 categories:
@@ -77,9 +77,30 @@ Action Tutorials
 
 ![Mirillis Action! - HUD showing desktop recording in progress](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_video_recording_status.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Press "Start/stop recording" button or F9 hotkey again to stop desktop recording. HUD status changes showing that Windows desktop recording has finished.
 
 ![Mirillis Action! - HUD showing finished desktop recording](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Screen recordings playback
 
@@ -105,8 +126,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
