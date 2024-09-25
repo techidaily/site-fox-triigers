@@ -1,7 +1,7 @@
 ---
 title: "Breaking News: Discover the Newest Mirillis Announcements From Their Media Hub"
-date: 2024-09-12T20:13:22.621Z
-updated: 2024-09-20T04:49:11.978Z
+date: 2024-09-19T17:32:53.093Z
+updated: 2024-09-25T19:11:52.581Z
 tags:
   - product
 categories:
@@ -81,13 +81,6 @@ The Mirillis latest news, products and events.
 
 01/02/2024 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Action! 4.39.0 is now available!
 
 **What's new in Action! 4.39.0?**
@@ -116,6 +109,13 @@ The Mirillis latest news, products and events.
 [Read more and download the latest Action! version](https://tools.techidaily.com/mirillis/products/)
 
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 4.38.1 is now available!") 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 31/10/2023 
 
@@ -191,13 +191,6 @@ The Mirillis latest news, products and events.
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 4.35.0 with AI-powered auto webcam (face) centering is now available!") 
 
 07/07/2023 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Action! 4.35.0 with AI-powered auto webcam (face) centering is now available!
 
@@ -602,13 +595,6 @@ The Mirillis latest news, products and events.
 
 10/09/2021 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Action! 4.21.4 is now available!
 
 **What's new in Action! 4.21.4?**
@@ -677,6 +663,13 @@ The Mirillis latest news, products and events.
 [Read more and download the latest Action! version](https://tools.techidaily.com/mirillis/products/)
 
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 4.20.3 is now available!") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 03/08/2021 
 
@@ -763,6 +756,13 @@ The Mirillis latest news, products and events.
 [Read more and download the latest Action! version](https://tools.techidaily.com/mirillis/products/)
 
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 4.18.1 with OriSound function improvements is now available!") 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 07/05/2021 
 
@@ -1028,6 +1028,19 @@ Read more about YouTube HDR Live Broadcasting below:
 [Read more and download the latest Action! version](https://tools.techidaily.com/mirillis/products/)
 
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 4.11.0 with new Window recording mode is now available!") 
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 09/09/2020 
 
@@ -1306,6 +1319,13 @@ We advise to record/stream Vulkan applications in Game mode (capturing Vulkan in
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 4.2.0 with improved HDR10 recording is now available!") 
 
 11/03/2020 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Action! 4.2.0 with improved HDR10 recording is now available!
 
@@ -1741,7 +1761,21 @@ To use HDR10 mode please check Hardware Acceleration list in Action 4 video tab 
 
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 3.6.1 is now available.") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 08/11/2018 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Action! 3.6.1 is now available.
 
@@ -2073,13 +2107,6 @@ To use HDR10 mode please check Hardware Acceleration list in Action 4 video tab 
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 2.8.1 is now available.") 
 
 23/10/2017 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Action! 2.8.1 is now available.
 
@@ -2563,13 +2590,6 @@ To use HDR10 mode please check Hardware Acceleration list in Action 4 video tab 
 
 11/11/2016 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Action! 2.0.1 is now available.
 
 **What's new in Action! 2.0.1?** 
@@ -2583,6 +2603,13 @@ To use HDR10 mode please check Hardware Acceleration list in Action 4 video tab 
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 2.0 is now available.") 
 
 04/11/2016 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Action! 2.0 is now available.
 
@@ -2688,3 +2715,22 @@ We are proud to announce that new Action! 2.0 is now available, with refreshed l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-frameflick-recorder-reflection-for-2024/"><u>[New] FrameFlick Recorder Reflection for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleashing-adventures-in-samsung-gear-vr-worlds/"><u>[Updated] Unleashing Adventures in Samsung Gear VR Worlds</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/argon-power-up-bootstrap-ncreative-tims-free-open-source-dashboard-for-advanced-web-project-management/"><u>Argon: Power Up Bootstrap nCreative Tim's Free Open Source Dashboard for Advanced Web Project Management</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/broadcasting-innovations-combining-tv-and-social-media-for-2024/"><u>Broadcasting Innovations Combining TV & Social Media for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/complimentary-argon-reactnodejs-dashboard-template-integration-with-bootstrap-4-and-reactstrap/"><u>Complimentary Argon React/Node.js Dashboard Template - Integration with Bootstrap 4 & Reactstrap</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/create-your-standout-resume-with-our-complimentary-nextjstailwind-template-from-creativetim/"><u>Create Your Standout Resume with Our Complimentary NextJS/Tailwind Template From CreativeTim</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/creative-tims-impactful-design-system-complimentary-bootstrap-4-integrated-framework/"><u>Creative Tim's Impactful Design System – Complimentary, Bootstrap 4 Integrated Framework</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/creative-tims-notus-elite-premium-shopify-design-template/"><u>Creative Tim's Notus: Elite Premium Shopify Design Template</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oppo-a59-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Oppo A59 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-x-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone X</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/seamless-guide-moving-your-pdf-files-onto-an-iphone-without-using-itunes/"><u>Seamless Guide: Moving Your PDF Files Onto an iPhone without Using iTunes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-essential-guide-to-blurring-images-with-your-iphone-for-2024/"><u>The Essential Guide to Blurring Images with Your iPhone for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-top-6-video-downloader-software-on-facebook/"><u>The Ultimate Guide to Top 6 Video Downloader Software on Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725284111198-winxdvd/"><u>デジアーティソフト株式会社(WinXDVD) 使用マニュアル、請求方法：コンビニで支払う方法</u></a></li>
+</ul></div>
+
