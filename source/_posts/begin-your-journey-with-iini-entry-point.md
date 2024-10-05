@@ -1,7 +1,7 @@
 ---
 title: Begin Your Journey with Iini Entry Point
-date: 2024-09-26T09:13:42.707Z
-updated: 2024-09-29T19:57:08.463Z
+date: 2024-10-02T21:23:33.083Z
+updated: 2024-10-05T17:01:45.642Z
 tags:
   - user-guide
 categories:
@@ -114,10 +114,10 @@ Table of Contents
 This interface allows you to visualize or edit properties of an INI entry.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -125,16 +125,10 @@ This interface allows you to visualize or edit properties of an INI entry.
 IIniEntry : IDispatch
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -152,17 +146,17 @@ IIniEntry : IDispatch
 ![Iinientry](https://cdn.advancedinstaller.com/img/powershell-automation/iinientry.png "Iinientry")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,20 +202,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/movavi-free-download/"><u>高性能ビデオ編集ソフトウェア Movavi Free Download – プロ向けに設計</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-face-off-which-leads-chatgpt-versus-microsoft-bing-versus-google-bard/"><u>AI Face-Off: Which Leads? ChatGPT Versus Microsoft Bing versus Google Bard</u></a></li>
-<li><a href="https://fox-access.techidaily.com/capturing-life-in-motion-complete-slomo-app-review-2024/"><u>Capturing Life in Motion Complete SloMo App Review, 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-exclusive-video-content-from-e-patterns-central-hub/"><u>Download Exclusive Video Content From E-Patterns Central Hub</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-video-capture-from-izlesene-convert-and-save-in-mp4avi-for-offline-enjoyment/"><u>Effortless Video Capture From Izlesene: Convert and Save in MP4/AVI for Offline Enjoyment</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/get-your-favorite-cmt-hits-easy-mp3-and-mp4-file-options-for-online-listening/"><u>Get Your Favorite CMT Hits - Easy MP3 & MP4 File Options for Online Listening</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-does-8k-resolution-compare-with-imaxs-stunning-display-features/"><u>How Does 8K Resolution Compare with IMAX's Stunning Display Features?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-get-high-quality-movies-downloaded-from-fandor-as-mp4-avi-mov-mkv-and-wmv-files/"><u>How to Get High-Quality Movies Downloaded From Fandor as MP4, AVI, MOV, MKV & WMV Files!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-itel-s23-by-drfone-android/"><u>How to Show Wi-Fi Password on Itel S23</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-capturing-contentment-top-streaming-techniques/"><u>In 2024, Capturing Contentment Top Streaming Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-streamlining-your-instagram-archive-with-ease/"><u>In 2024, Streamlining Your Instagram Archive with Ease</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-converting-afreecatv-content-into-mp4-format-on-macwindows/"><u>Step-by-Step Guide: Converting AfreecaTV Content Into MP4 Format on Mac/Windows</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-downloading-zumba-exercprise-videos-in-various-formats-for-windowsmac-users/"><u>Step-by-Step Tutorial: Downloading Zumba Exercprise Videos in Various Formats for Windows/Mac Users</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-rated-udemy-app-compatible-with-mac-and-multiple-windows-versions-by-allavsoft/"><u>Top Rated Udemy App Compatible with Mac & Multiple Windows Versions by Allavsoft</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-fight-night-on-nintendo-switch-top-ten-picks/"><u>[New] 2024 Approved Fight Night on Nintendo Switch - Top Ten Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[New] 2024 Approved From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-reducing-the-size-of-your-m4v-videos-without-loser-quality/"><u>Effective Strategies for Reducing the Size of Your M4V Videos without Loser Quality</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/enhancing-ui-with-icomponent-building-interoperable-components-in-net/"><u>Enhancing UI with IComponent - Building Interoperable Components in .NET</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-powershell-understanding-the-command-options-interface/"><u>Exploring PowerShell: Understanding the Command Options Interface</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-windows-file-attributes-panel-tips-and-tricks/"><u>Exploring Windows File Attributes Panel: Tips and Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/finding-missing-memos-on-ios-devices-expert-techniques-for-retrieval/"><u>Finding Missing Memos on iOS Devices: Expert Techniques for Retrieval</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-the-too-many-different-cell-formats-error-in-excel-2013-stellar-by-stellar-guide/"><u>Fix the Too many different cell formats Error in Excel 2013? | Stellar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-update-your-huion-graphics-tablet-drivers-on-windows-computers/"><u>How to Successfully Update Your Huion Graphics Tablet Drivers on Windows Computers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-through-directory-configurations-mastering-settings-for-effective-file-system-control-panel-operations/"><u>Navigating Through Directory Configurations: Mastering Settings for Effective File System Control Panel Operations</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reviewing-the-kobo-forma-a-commitment-to-unmatched-reading-experience/"><u>Reviewing the Kobo Forma: A Commitment to Unmatched Reading Experience</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-future-of-photography-with-stellars-recovery-suite/"><u>The Future of Photography with Stellar's Recovery Suite</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-9-android-app-permissions-you-should-never-grant/"><u>Top 9 Android App Permissions You Should Never Grant</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-file-multimediali-in-formato-wmv-fatto-in-casa-utilizzando-la-piattaforma-di-convertimento-online-gratis-di-movavi/"><u>Trasforma File Multimediali in Formato WMV Fatto in Casa Utilizzando La Piattaforma Di Convertimento Online Gratis Di Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/turning-youtube-shorts-into-a-stream-of-income-for-2024/"><u>Turning YouTube Shorts Into a Stream of Income for 2024</u></a></li>
 </ul></div>
 

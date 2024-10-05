@@ -1,7 +1,7 @@
 ---
 title: Understanding the Package Configuration Pane
-date: 2024-09-28T21:40:32.997Z
-updated: 2024-09-30T11:06:19.083Z
+date: 2024-09-30T16:04:09.465Z
+updated: 2024-10-05T18:22:32.974Z
 tags:
   - user-guide
 categories:
@@ -72,20 +72,13 @@ Table of Contents
 ![Package Definition](https://cdn.advancedinstaller.com/img/dialog/sccm-package-definition.png "Package Definition")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Display
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Name
 
@@ -96,10 +89,10 @@ This field contains the name of the package. This entry is**mandatory**.
 This field contains the information about the publisher of the package. This entry is **mandatory**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Language
@@ -107,15 +100,22 @@ This field contains the information about the publisher of the package. This ent
 This field contains the language version of the package. This entry is **mandatory**.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Version
 
 This field contains the version number of the package. This entry is **optional**.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment
 
@@ -160,20 +160,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-discovering-the-best-10-online-tools-for-vimeo-videos/"><u>[New] 2024 Approved Discovering the Best 10 Online Tools for Vimeo Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-initiating-understanding-of-screen-resolution-and-quality/"><u>[New] Initiating Understanding of Screen Resolution and Quality</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-tailored-techniques-for-dynamic-gifs/"><u>[New] Tailored Techniques for Dynamic GIFs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensible-guide-to-azure-voice-to-text/"><u>2024 Approved Comprehensible Guide to Azure Voice to Text</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approach-breaking-down-videos-into-chapters-for-youtube/"><u>2024 Approved Innovative Approach Breaking Down Videos Into Chapters for YouTube</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1724766322144-dvd/"><u>手早くハンドブレイクをマスター:ダウンロードから設定、字幕追加、DVDリッピングまで全解説</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/access-comprehensive-video-lessons-for-last-gmatgresat-and-previous-act-practice-tests-free-download-today/"><u>Access Comprehensive Video Lessons for LAST, GMAT/GRE/SAT, and Previous ACT Practice Tests Free – Download Today!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/convert-and-save-your-favorite-udacity-lectures-as-mp4-or-avi-files/"><u>Convert and Save Your Favorite Udacity Lectures as MP4 or AVI Files</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722848391437-dciman32dll-couldnt-be-located-heres-how-to-fix-it/"><u>dciman32.dll Couldn't Be Located? Here's How to Fix It</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-mp4s-from-xhamster-directly-the-easy-guide-using-a-reliable-video-downloader/"><u>Download MP4s From XHamster Directly: The Easy Guide Using a Reliable Video Downloader</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-guide-to-downloading-vh1-hits-collection-from-any-computer/"><u>Easy Guide to Downloading VH1 Hits Collection From Any Computer</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-video-capture-from-izlesene-convert-and-save-in-mp4avi-for-offline-enjoyment/"><u>Effortless Video Capture From Izlesene: Convert and Save in MP4/AVI for Offline Enjoyment</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ranking-the-ultimate-10-free-online-subtitle-makers-srt/"><u>In 2024, Ranking the Ultimate 10 Free Online Subtitle Makers (Srt)</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ultimate-tutorial-on-retrieving-abc-iview-content-with-the-best-abc-iview-downloader-tools/"><u>Ultimate Tutorial on Retrieving ABC iView Content with the Best ABC iView Downloader Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-cutting-edge-videographer-software-for-vimeo-expertise-for-2024/"><u>[New] Cutting Edge Videographer Software for Vimeo Expertise for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-optimize-and-streamline-your-podcast-entry/"><u>[New] Optimize and Streamline Your Podcast Entry</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-vintage-video-card-patch/"><u>[Updated] Vintage Video Card Patch</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/creating-lasting-impressions-top-6-creative-hashtags-and-phrases-for-your-picture-perfect-moments/"><u>Creating Lasting Impressions: Top 6 Creative Hashtags & Phrases for Your Picture-Perfect Moments</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/cut-the-pixels-keep-quality-discover-no-cost-solutions-for-reducing-jpeg-file-sizes-to-under-100-kb/"><u>Cut the Pixels, Keep Quality: Discover No-Cost Solutions for Reducing JPEG File Sizes to Under 100 KB</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-leveraging-hibernate-on-windows-8/"><u>Effective Strategies for Leveraging Hibernate on Windows 8</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-image-editing-with-ipatch/"><u>Effortless Image Editing with IPatch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-vibrant-colors-with-the-philips-evonia-49m2c8900-qd-oled-monitor-ultimate-gamers-guide-and-testing/"><u>Experience Vibrant Colors with the Philips Evonia 49M2C8900 QD-OLED Monitor: Ultimate Gamers' Guide and Testing</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/hassle-free-techniques-for-watching-multiple-videos-at-once/"><u>Hassle-Free Techniques for Watching Multiple Videos at Once</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ig-tik-combined-expertise-for-smooth-integration/"><u>IG-Tik Combined Expertise for Smooth Integration</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-poco-m6-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Poco M6 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-advanced-techniques-applying-luts-for-stunning-photos/"><u>In 2024, Mastering Advanced Techniques Applying LUTs for Stunning Photos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-poco-x5-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Poco X5 Device</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/key-elements-and-settings-in-personal-user-accounts/"><u>Key Elements and Settings in Personal User Accounts</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-your-web-services-with-microsofts-iis-a-comprehensive-guide/"><u>Optimizing Your Web Services with Microsoft's IIS - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-tips-for-d3derr-not-available-issue/"><u>Step-by-Step Troubleshooting Tips for 'D3DERR Not Available' Issue</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-list-of-project-types-insights-and-expert-advice-by-i-advise/"><u>Ultimate List of Project Types - Insights and Expert Advice by I Advise</u></a></li>
 </ul></div>
 

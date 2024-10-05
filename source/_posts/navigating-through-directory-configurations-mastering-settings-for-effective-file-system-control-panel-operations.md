@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Directory Configurations: Mastering Settings for Effective File System Control Panel Operations"
-date: 2024-09-24T21:18:35.736Z
-updated: 2024-09-30T08:28:37.621Z
+date: 2024-09-28T21:34:36.520Z
+updated: 2024-10-05T16:01:46.870Z
 tags:
   - user-guide
 categories:
@@ -88,16 +88,16 @@ Table of Contents
 
 ## File Settings in the Files and Folders Page
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding files
 
 ![Add Files](https://cdn.advancedinstaller.com/img/toolbar/files-add.png "Add Files") Use the \[Add Files... \] toolbar button, the “Add Files...” tree/list context menu item or press the + key while the focus is on the files panel. You can add more than one file at a time. If a file with the same name already exists in the target directory, the file to be added is skipped.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)When the add operation encounters a file with the .INI, .XML or .LNK extension, it will present you with the choice of adding it "as regular file" or importing it in Windows Installer format. Selecting the latter will give you the ability to manage and edit the [INI entries](https://tools.techidaily.com/advancedinstaller/products/), [XML elements](https://tools.techidaily.com/advancedinstaller/products/) or [shortcut properties](https://tools.techidaily.com/advancedinstaller/products/), in order to dynamically change the installation behavior.
 
@@ -131,6 +131,13 @@ Use the “Open” context menu item or press theF9 key.
 
 Use the “Rename” context menu item or press theF2 key. The file name is of [PseudoFormatted](https://tools.techidaily.com/advancedinstaller/products/) type.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Locating the attached component for a file, shortcut, INI file or file operation
 
 Use the “Go To Component” list context menu item or press the F8 key. This command will activate the[Organization](https://tools.techidaily.com/advancedinstaller/products/) page with the appropriate component selected in the left tree control.
@@ -143,33 +150,13 @@ Select the items to be moved then drag and drop them to the target folder. If yo
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree/list context menu item, or press the Delete key. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You cannot remove a file which is referenced from another part of the installation package (for example from a custom action).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Hashing Files
@@ -177,10 +164,23 @@ Select the items to be moved then drag and drop them to the target folder. If yo
 ![Hash Non Versioned Files](https://cdn.advancedinstaller.com/img/toolbar/hashfiles.png "Hash Non Versioned Files")Use the\[Hash Files \] toolbar button or the “Hash Files” tree context menu item to turn [File Hashes](https://tools.techidaily.com/advancedinstaller/products/) on and off. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ignore Attributes
@@ -189,23 +189,17 @@ Select the items to be moved then drag and drop them to the target folder. If yo
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * FileName
 * Attributes
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Repackager settings
 
@@ -218,10 +212,10 @@ Specify what files should be disregarded during a repackager scan.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Files from the Application Folder or Application Shortcut Folder cannot be added to the ignore list.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ignore files
@@ -235,10 +229,16 @@ Configure file filters directly from the [Repackager Settings dialog](https://to
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)A new **Duplicate of Default** profile will be created if no current profile is already defined.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -283,18 +283,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-arc-architect-suite/"><u>[New] 2024 Approved Arc Architect Suite</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-complete-action-camera-buying-guide-for-beginners-2023-update/"><u>[New] 2024 Approved Complete Action Camera Buying Guide For Beginners -2023 Update</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-dual-screen-playback-recording/"><u>[New] 2024 Approved Dual-Screen Playback Recording</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/astering-the-art-of-monetization-with-ajey-carryminati/"><u>[New] Mastering the Art of Monetization with Ajey (CarryMinati)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-insiders-guide-adding-borders-in-instagram-footage/"><u>2024 Approved The Insider's Guide Adding Borders in Instagram Footage</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/access-comprehensive-video-lessons-for-last-gmatgresat-and-previous-act-practice-tests-free-download-today/"><u>Access Comprehensive Video Lessons for LAST, GMAT/GRE/SAT, and Previous ACT Practice Tests Free – Download Today!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-your-teams-output-with-chatgpt-powered-workflow-tactics/"><u>Boosting Your Team's Output with ChatGPT-Powered Workflow Tactics</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/convert-and-save-your-favorite-udacity-lectures-as-mp4-or-avi-files/"><u>Convert and Save Your Favorite Udacity Lectures as MP4 or AVI Files</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-mp4s-from-xhamster-directly-the-easy-guide-using-a-reliable-video-downloader/"><u>Download MP4s From XHamster Directly: The Easy Guide Using a Reliable Video Downloader</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-visual-storytelling-the-top-cinematic-secrets/"><u>In 2024, Mastering Visual Storytelling The Top Cinematic Secrets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/portable-power-solutions-how-to-recharge-your-phone-without-standard-equipment/"><u>Portable Power Solutions: How to Recharge Your Phone without Standard Equipment</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ultimate-tutorial-on-retrieving-abc-iview-content-with-the-best-abc-iview-downloader-tools/"><u>Ultimate Tutorial on Retrieving ABC iView Content with the Best ABC iView Downloader Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-empower-your-viewing-experience-with-funimate/"><u>[New] Empower Your Viewing Experience with Funimate</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting/"><u>[Updated] 2024 Approved Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-asmr-excellence-superior-performance-for-less-money/"><u>2024 Approved ASMR Excellence Superior Performance for Less Money</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/dynamic-settings-selector-the-easy-to-use-environment-variables-interface/"><u>Dynamic Settings Selector: The Easy-to-Use Environment Variables Interface</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-the-art-of-video-to-audio-conversion-on-insta-for-2024/"><u>Mastering the Art of Video-to-Audio Conversion on Insta for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-solutions-for-re-enabling-a-disabled-ios-device/"><u>Step-by-Step Solutions for Re-Enabling a Disabled iOS Device</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/streamline-your-app-with-the-imergemodule-seamless-integration-techniques/"><u>Streamline Your App with the IMergeModule - Seamless Integration Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-title-emphasizes-that-amds-epyc-chip-has-shattered-performance-records-and-is-particularly-strong-in-multi-threaded-benchmarks-thanks-to-its-numerous-co77/"><u>The Title Emphasizes that AMD's EPYC Chip Has Shattered Performance Records and Is Particularly Strong in Multi-Threaded Benchmarks, Thanks to Its Numerous Cores</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-guide-on-how-to-fuse-videos-perfectly/"><u>Ultimate Guide on How to Fuse Videos Perfectly</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-data-detective-restore-operations/"><u>Windows Data Detective - Restore Operations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtubes-everlasting-titles-with-millions-of-viewers-for-2024/"><u>YouTube's Everlasting Titles with Millions of Viewers for 2024</u></a></li>
 </ul></div>
 

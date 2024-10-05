@@ -1,7 +1,7 @@
 ---
 title: "Universal Module Merger Component: Easy Integration Made Simple"
-date: 2024-09-25T22:59:39.558Z
-updated: 2024-09-30T02:55:00.426Z
+date: 2024-09-28T19:17:13.490Z
+updated: 2024-10-05T21:16:13.906Z
 tags:
   - user-guide
 categories:
@@ -113,10 +113,10 @@ Table of Contents
 IMergeModulesComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -124,10 +124,10 @@ IMergeModulesComponent : IDispatch
 This interface is meant to add a new merge module, delete or edit the existing ones. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -135,10 +135,10 @@ This interface is meant to add a new merge module, delete or edit the existing o
 **Array<IMergeModule> MergeModules** \- Gets the collection of project merge modules. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -150,10 +150,10 @@ This interface is meant to add a new merge module, delete or edit the existing o
  Removes a specified merge module from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -204,22 +204,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-unleash-your-creative-genius-with-iphone-x-camera/"><u>[New] 2024 Approved Unleash Your Creative Genius with iPhone X Camera</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-mastermind-quiz-series-discovering-trivia-gurus-of-2024/"><u>[New] Mastermind Quiz Series Discovering Trivia Gurus of 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/converting-moments-into-memorable-gifs/"><u>Converting Moments Into Memorable GIFs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/cyberpunk-2077-overcoming-freeze-up-solutions-and-fixes/"><u>Cyberpunk 2077 Overcoming Freeze-Up: Solutions & Fixes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/cing-youtube-videos-for-superior-quality/"><u>Enhancing YouTube Videos for Superior Quality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/gopros-camera-faceoff-master-360-versus-hero-11-pro/"><u>GoPro's Camera Faceoff Master 360 versus Hero 11 Pro</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-to-downloading-rainierland-films-in-mp4avi-formats-successfully/"><u>Guide to Downloading Rainierland Films in MP4/AVI Formats Successfully</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-converting-your-bellator-fights-into-mp4-format-on-pcmac/"><u>Guide: Converting Your Bellator Fights Into MP4 Format on PC/Mac</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-save-ustream-content-on-your-computer-best-practices-for-macos-and-windows-systems/"><u>How to Save Ustream Content on Your Computer: Best Practices for macOS and Windows Systems</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-save-vevo-music-videos-as-mp4-mp3-or-avi-files-on-your-computer/"><u>How to Save Vevo Music Videos as MP4, MP3 or AVI Files on Your Computer</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-revolutionizing-virtual-meetings-hacks-for-effective-zoom-chats/"><u>In 2024, Revolutionizing Virtual Meetings Hacks for Effective Zoom Chats</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-social-sync-combining-ig-and-youtube-videos/"><u>In 2024, Social Sync Combining IG and YouTube Videos</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/solving-the-mystery-of-your-youtube-videos-sudden-whiteout/"><u>Solving the Mystery of Your YouTube Video's Sudden Whiteout</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-converting-musically-videos-into-mp4-avi-and-mov-formats/"><u>Step-by-Step Guide: Converting Musical.ly Videos Into MP4, AVI, and MOV Formats</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-on-downloading-michael-jackson-music-collections-as-high-quality-audio-files/"><u>Step-by-Step Tutorial on Downloading Michael Jackson Music Collections as High-Quality Audio Files</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/streamline-your-viewing-experience-with-the-ultimate-zdf-downloader-for-mac-and-pc/"><u>Streamline Your Viewing Experience with the Ultimate ZDF Downloader for Mac and PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-why-wont-my-mac-recognize-my-secondary-screen/"><u>Troubleshooting: Why Won't My Mac Recognize My Secondary Screen?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-decision-time-choose-your-dream-video-editor-filmora-or-democracy-creator/"><u>[Updated] 2024 Approved Decision Time! Choose Your Dream Video Editor (Filmora or Democracy Creator)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-simple-steps-making-your-channels-subscription-button-stand-out/"><u>2024 Approved Simple Steps Making Your Channel's Subscription Button Stand Out</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disabling-microsofts-sticky-keys-feature-in-windows-a-comprehensive-guide/"><u>Disabling Microsoft's Sticky Keys Feature in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-pre-launch-checklist-for-software-releases/"><u>Essential Pre-Launch Checklist for Software Releases</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-the-various-vm-configuration-settings/"><u>Exploring the Various VM Configuration Settings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-11-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 11 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-knowledge-proven-strategies-for-successful-and-productive-studying/"><u>Mastering Knowledge: Proven Strategies for Successful and Productive Studying</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezing-optimize-your-pc-for-a-smooth-witcher-n-experience/"><u>No More Freezing: Optimize Your PC for a Smooth 'Witcher N Experience</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-on-incorporating-individuals-into-images/"><u>Step-by-Step Guide on Incorporating Individuals Into Images</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-solutions-for-resolving-track-extraction-failures-in-windows-media-player/"><u>Step-by-Step Solutions for Resolving Track Extraction Failures in Windows Media Player</u></a></li>
 </ul></div>
 

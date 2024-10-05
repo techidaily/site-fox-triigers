@@ -1,7 +1,7 @@
 ---
 title: Enhancing UI with IComponent - Building Interoperable Components in .NET
-date: 2024-09-26T03:43:13.940Z
-updated: 2024-09-30T03:40:50.141Z
+date: 2024-09-29T17:28:56.699Z
+updated: 2024-10-05T19:33:57.745Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 ## IComComponent
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,22 +126,15 @@ Table of Contents
 IComComponent: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to create, access, delete COM entities.  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -154,10 +147,10 @@ This interface is meant to create, access, delete COM entities.
 **Array<IComPlus> TypeLibraries** \- Gets the collection of COM+. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -176,6 +169,13 @@ Creates a new COM+ from specified executable file (\*.exe, \*.dll).
 **ImportComPlusFromMsi(String aPathToMsiFile)** \- Imports the COM+ from .msi file from disk.
 
 **DeleteCom(VARIANT aCom)** \- Deletes a COM entity from project. Supported argument types are: IComClass, IComInterface, IComTypeLibrary, IComPlus.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -231,20 +231,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-easily-create-compelling-fb-video-ads-with-no-cost-kit/"><u>[Updated] Easily Create Compelling FB Video Ads with No-Cost Kit</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-speed-up-instagram-videos-on-desktop-effective-techniques-for-2024/"><u>[Updated] Speed Up Instagram Videos on Desktop Effective Techniques for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-windows-11-ultimate-video-recorder-software/"><u>[Updated] Windows 11 Ultimate Video Recorder Software</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-chronicles-of-time-student-approved-historical-yt-content/"><u>2024 Approved Chronicles of Time Student-Approved Historical YT Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-solving-iphone-xs-trust-issues-fixing-facial-detection-glitches/"><u>2024 Approved Solving iPhone X's Trust Issues Fixing Facial Detection Glitches</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-notus-elite-premium-shopify-design-template/"><u>Creative Tim's Notus: Elite Premium Shopify Design Template</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-premium-pro-horizon-ai-template-suite-enhanced-nextjs-and-figma-integration-with-top-tier-stripe-and-supabase-support/"><u>Creative Tim's Premium PRO Horizon AI Template Suite: Enhanced NextJS and Figma Integration with Top-Tier Stripe & Supabase Support</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/digiartys-latest-update-complete-support-for-new-iphone-6splus-ipad-promini-t4-xperia-and-galaxy-devices-dvd-and-video-software-enhanced/"><u>Digiarty's Latest Update: Complete Support for New iPhone 6S/Plus, iPad Pro/Mini T4, Xperia & Galaxy Devices! - DVD & Video Software Enhanced</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-xs-in-3-ways-drfone-by-drfone-virtual-ios/"><u>Edit and Send Fake Location on Telegram For your Apple iPhone XS in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-advanced-vuejs-and-bootstrap-admin-panel-by-creative-tim/"><u>Free Advanced Vue.js & Bootstrap Admin Panel by Creative Tim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/premiere-vue-black-admin-panel-superior-vuejs-and-bootstrap-ebootstrap-4-framework-by-creative-tim/"><u>Premiere Vue Black Admin Panel: Superior Vuejs & Bootstrap Ebootstrap 4 Framework by Creative Tim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/premium-black-dashboard-pro-advanced-bootstrap-4-administrator-template-by-creative-tim/"><u>Premium Black Dashboard PRO: Advanced Bootstrap 4 Administrator Template by Creative Tim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/pro-paper-kit-v2-advanced-bootstrap-4-user-interface-suite-by-creatively-timed-solutions/"><u>Pro Paper Kit v2 Advanced Bootstrap 4 User Interface Suite by Creatively Timed Solutions</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/react-and-aspnet-based-free-material-dashboard-by-creative-tim-streamlined-monitoring-for-web-applications/"><u>React & ASP.NET Based Free Material Dashboard by Creative Tim - Streamlined Monitoring for Web Applications</u></a></li>
-<li><a href="https://win-answers.techidaily.com/reviving-your-clownfish-vocal-effects-unit-when-it-stops-responding/"><u>Reviving Your Clownfish Vocal Effects Unit When It Stops Responding</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-pc-game-screenshots/"><u>[New] In 2024, The Ultimate Guide to PC Game Screenshots</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-principles-of-paradoxical-intervention/"><u>[Updated] In 2024, Principles of Paradoxical Intervention</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-tutorial-activate-or-deactivate-your-network-discovery-setting-in-windows-10/"><u>Complete Tutorial: Activate or Deactivate Your Network Discovery Setting in Windows 10</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comprehensive-techniques-for-secure-packaging-authentication/"><u>Comprehensive Techniques for Secure Packaging Authentication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cyber-savvy-needed-recognize-authenticity-in-tech-titles/"><u>Cyber Savvy Needed: Recognize Authenticity in Tech Titles</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-pre-launch-checklist-for-software-releases/"><u>Essential Pre-Launch Checklist for Software Releases</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-the-essential-attributes-of-interfaces-in-programming/"><u>Exploring the Essential Attributes of Interfaces in Programming</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-the-various-vm-configuration-settings/"><u>Exploring the Various VM Configuration Settings</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/getting-started-with-apowersoft-a-comprehensive-tutorial-on-their-free-sound-recording-tool/"><u>Getting Started with Apowersoft: A Comprehensive Tutorial on Their Free Sound Recording Tool</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-seamlessly-sync-songs-with-your-iphone-by-bypassing-itunes/"><u>How to Seamlessly Sync Songs with Your iPhone by Bypassing iTunes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-motorola-moto-g23-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Motorola Moto G23 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-poco-x5-frp-bypass-by-drfone-android/"><u>In 2024, About Poco X5 FRP Bypass</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-knowledge-proven-strategies-for-successful-and-productive-studying/"><u>Mastering Knowledge: Proven Strategies for Successful and Productive Studying</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-resolution-challenges-with-updated-windows-10/"><u>Resolving Resolution Challenges with Updated Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sonys-pursuit-of-perfection-the-4k-smartphone-experience/"><u>Sony's Pursuit of Perfection The 4K Smartphone Experience</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-on-incorporating-individuals-into-images/"><u>Step-by-Step Guide on Incorporating Individuals Into Images</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rtful-swap-from-cold-scenes-to-cozy-vlogs-for-2024/"><u>The Artful Swap From Cold Scenes to Cozy Vlogs for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-the-package-configuration-pane/"><u>Understanding the Package Configuration Pane</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/which-gopro-is-better-max-360-or-hero-11/"><u>Which GoPro Is Better, Max 360 or Hero 11?</u></a></li>
 </ul></div>
 

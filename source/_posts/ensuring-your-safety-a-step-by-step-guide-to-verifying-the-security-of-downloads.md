@@ -1,7 +1,7 @@
 ---
 title: Ensuring Your Safety - A Step-by-Step Guide to Verifying the Security of Downloads
-date: 2024-09-26T01:03:44.739Z
-updated: 2024-09-30T07:25:24.531Z
+date: 2024-10-04T16:39:58.674Z
+updated: 2024-10-05T18:39:15.389Z
 tags:
   - product
   - antivirus
@@ -60,13 +60,6 @@ A few days after this news broke, a second payload was discovered, said to be a 
 
 Point being, anything can be infected nowadays — even software that you think you are downloading from previously secure sources. The only way to truly stay on the safe side is to be actively vigilant against files and content that you download from the web.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are you downloading?
 
 It is not hard to pick up some clues along the way. For starters, if you are downloading something from a shady source, chances are that your package may come with a virus hidden in the download. Pirated content, in particular, runs a heavy risk.
@@ -76,10 +69,10 @@ The website you are downloading it from is another factor. If you are grabbing s
 [![malware website](https://www.malwarefox.com/wp-content/uploads/2019/06/malware_website.png)](https://www.malwarefox.com/wp-content/uploads/2019/06/malware%5Fwebsite.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Of course, there are always exceptions to the rule. Most software developers are not web designers. But it’s easy to spot a minimalistic site that centers on the content first and foremost, with tall claims and scattered banners that entice you to click the download button.
@@ -89,6 +82,13 @@ These are what you should stay away from.
 Downloading files is not the only way you can end up with malware on your machine, though. Even loading a website sometimes can expose your computer to malicious code. This is called a drive-by attack, as it happens without you doing anything and simply loading the website.
 
 [![infected website](https://www.malwarefox.com/wp-content/uploads/2019/06/infected_website.jpg)](https://www.malwarefox.com/wp-content/uploads/2019/06/infected%5Fwebsite.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That said, there are ways to block the virus at its primary stage. There are certain precautions you can take to insure against malware and reasonably ensure that the file you are downloading is safe.
 
@@ -116,6 +116,19 @@ That said, there may be times when you might be concerned that a file might be m
 
 We’ll take a look at them next.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Online Malware Scanners
 
 Remember those days when almost every antivirus provider had an online component that let you scan your files in a browser? Of course, you do! It was many years ago when free online scanners like these were the norm, made available as addons that needed to be installed and enabled on in the browser.
@@ -136,6 +149,13 @@ There are a handful of such services now available, with the most popular being 
 
 Other excellent options are [MetaDefender](https://metadefender.opswat.com/), [VirSCAN,](http://www.virscan.org/) [Jotti,](https://virusscan.jotti.org/) [NoVirusThanks](https://www.novirusthanks.org/) and [NoDistribute](https://nodistribute.com/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Say Hello to VirusTotal
 
 VirusTotal is one of the foremost multiengine online virus scanners around. It launched all the way back in 2004, but was acquired by Google in 2012\. This means that it has access to the best infrastructure, when compared to its competitors, and the most antivirus engines.
@@ -147,13 +167,6 @@ In terms of its UI, VirusTotal is the cleanest of the bunch. It puts up a handy 
 And not only can you scan files, VirusTotal can also check if a website is safe to visit — very much similar to a good browser or internet security suite that come with browser addon. You can scan and analyze URLs to double check whether you should proceed to visit, or avoid suspicious sites altogether.
 
 It is also possible to scan using the unique file hashes like MD5, SHA1 and SHA256.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using VirusTotal to scan your downloads
 
@@ -169,13 +182,6 @@ If your file gets a clean bill of health from these scans, there is a fair chanc
 
 [![virustotal scan](https://www.malwarefox.com/wp-content/uploads/2019/06/virustotal_scan.png)](https://www.malwarefox.com/wp-content/uploads/2019/06/virustotal%5Fscan.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That is all fine and dandy. But how to use the service to scan the files you want to download before you download them? Glad you asked, because not only are there multiple ways to send files to VirusTotal, there are also a couple different ways you can make sure what you are downloading is safe.
 
 The service takes files from web, email, browser extensions, desktop programs and mobile apps, and even comes with a free public API. This means you can scan remote files just as easily as you can do so local ones.
@@ -185,6 +191,13 @@ Simply go to the URL tab, and enter a direct link to the file you want to downlo
 And for those of you who regularly deal with downloads, you can also integrate VirusTotal into your browser. The service offers browser extensions that allow you to right-click a link on any webpage and start scanning without visiting the VirusTotal website and copying and pasting the link there.
 
 You can find extensions for [Google Chrome](https://chrome.google.com/webstore/detail/efbjojhplkelaegfbieplglfidafgoka), [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/vtzilla/), and [Internet Explorer](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions#internet-explorer).
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Scanning your downloaded file with an antivirus
 
@@ -205,13 +218,6 @@ Case in point, the tale of CCleaner 5.33 above, a perfect example of how even mu
 If you regularly download stuff from the Internet, you most definitely need to be extra cautious on your end and use good sense when clicking on links. It also pays to take necessary precautions by installing capable security programs, and scanning your downloads before and after clicking on the button.
 
 Ultimately, the more you download, the better you will be able to tell suspicious downloads apart from authentic ones. Let security software handle the rest.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -238,22 +244,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-best-5-non-youtube-editing-tools-for-vids/"><u>[New] 2024 Approved Best 5 Non-YouTube Editing Tools for Vids</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decoding-dangerous-subscriber-scams-online/"><u>[Updated] 2024 Approved Decoding Dangerous Subscriber Scams Online</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-premier-list-of-affordable-virtual-meetings-and-live-desktop-sharing/"><u>2024 Approved Premier List of Affordable Virtual Meetings & Live Desktop Sharing</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-p40-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/create-personalized-flipbooks-from-multiple-pdfs-in-one-go-flipbuildercom/"><u>Create Personalized Flipbooks From Multiple PDFs in One Go [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-and-study-top-visual-studio-tutorials-from-devu-using-the-handy-devu-downloader-tool/"><u>Download & Study Top Visual Studio Tutorials From DevU Using the Handy DevU Downloader Tool</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-and-save-your-favorite-rooster-teeth-episodes-as-mp4-or-avi-files/"><u>Download and Save Your Favorite Rooster Teeth Episodes as MP4 or AVI Files</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-steps-set-up-your-site-with-flipbuildercom-to-allow-pdf-downloads-from-your-flipbooks/"><u>Easy Steps: Set Up Your Site with FlipBuilder.com to Allow PDF Downloads From Your Flipbooks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/expert-strategies-for-seamless-clip-composition-for-2024/"><u>Expert Strategies for Seamless Clip Composition for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/fading-curtain-opens/"><u>Fading Curtain Opens</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-to-setting-up-a-secure-online-flipbook-downloads-on-your-site-with-flipbuilder/"><u>Guide to Setting Up a Secure Online Flipbook Downloads on Your Site with FlipBuilder</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/identifying-and-utilizing-specific-keywords-for-personalized-pages-in-flipbuilt-software/"><u>Identifying and Utilizing Specific Keywords for Personalized Pages in FlipBuilt Software</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-14-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 14 Plus Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/integrate-youtube-videos-into-your-interactive-e-books-using-flipbuilder-how-to-guide/"><u>Integrate YouTube Videos Into Your Interactive E-Books Using FlipBuilder - How To Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/pre-conversion-text-proofreading-services-ensure-accurate-spellings-for-your-flipbook-projects-with-flipbuildercom/"><u>Pre-Conversion Text Proofreading Services - Ensure Accurate Spellings for Your FlipBook Projects with [FlipBuilder.com]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-ai-10-techniques-for-job-hunting-success-with-chatgpt-on-linkedin/"><u>Unlocking the Power of AI: 10 Techniques for Job Hunting Success with ChatGPT on LinkedIn</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-road-to-profitable-facebook-marketing-through-engaging-ads/"><u>[New] In 2024, The Road to Profitable Facebook Marketing Through Engaging Ads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-enhancing-snaps-with-zoom-feature/"><u>[Updated] Step-by-Step Guide Enhancing Snaps with Zoom Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-loading-lag-quick-fix-for-lol-on-win/"><u>Avoid Loading Lag: Quick Fix for LOL on Win</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-excel-transforming-data-workflows-and-analysis/"><u>ChatGPT in Excel: Transforming Data Workflows and Analysis</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-methods-to-safeguard-your-samsung-smartphone-files-by-copying-them-to-your-desktop-system/"><u>Easy Methods to Safeguard Your Samsung Smartphone Files by Copying Them to Your Desktop System</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-reducing-the-size-of-your-m4v-videos-without-loser-quality/"><u>Effective Strategies for Reducing the Size of Your M4V Videos without Loser Quality</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effortless-sync-master-the-steps-for-pairing-your-google-pixel-device-with-a-pc-or-laptop/"><u>Effortless Sync: Master the Steps for Pairing Your Google Pixel Device With a PC or Laptop</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-windows-file-attributes-panel-tips-and-tricks/"><u>Exploring Windows File Attributes Panel: Tips and Tricks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/leveraging-huaweis-inbuilt-screen-capture-tech-on-its-phones-for-2024/"><u>Leveraging Huawei's Inbuilt Screen Capture Tech on Its Phones for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/member-profile-enrollment-joining-the-directory/"><u>Member Profile Enrollment: Joining the Directory</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-through-directory-configurations-mastering-settings-for-effective-file-system-control-panel-operations/"><u>Navigating Through Directory Configurations: Mastering Settings for Effective File System Control Panel Operations</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/protect-againn-from-viruses-using-malwarefox-free-malware-defense-and-clean-up-solution/"><u>Protect Againn From Viruses Using MalwareFox: FREE Malware Defense & Clean-Up Solution</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/simple-steps-to-shift-your-android-phones-contact-list-onto-your-new-iphone-ebook-the-ultimate-guide-to-transferring-android-contacts-to-iphone-by-tech-guru3/"><u>Simple Steps to Shift Your Android Phone's Contact List Onto Your New iPhone eBook: The Ultimate Guide to Transferring Android Contacts to iPhone by Tech Guru John Smith (10,000 Words)</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo G2 | Dr.fone</u></a></li>
 </ul></div>
 

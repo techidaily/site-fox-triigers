@@ -1,7 +1,7 @@
 ---
 title: Essential Summary of Project Goals, Progress, and Results
-date: 2024-09-25T22:47:48.489Z
-updated: 2024-09-30T07:17:06.502Z
+date: 2024-10-04T16:06:07.453Z
+updated: 2024-10-05T21:34:14.459Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ This page shows the elements in your project which are included in the build sel
 Type keywords then press Enter in the top-right search box to find elements in the right pane. For each of these elements you can use the "Go to definition" context menu, press the F8 key or double-click to go to the page which contains the element settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Generate Report
@@ -122,22 +122,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-the-power-of-5-editors-beyond-youtubes-boundaries-for-2024/"><u>[Updated] Discover the Power of 5 Editors Beyond Youtube's Boundaries for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-comprehensive-obs-playbook-for-ps4-gamers/"><u>[Updated] The Comprehensive OBS Playbook for PS4 Gamers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-cut-out-facebook-stories-step-by-step-for-pc-and-phones/"><u>2024 Approved Cut Out Facebook Stories Step-By-Step for PC & Phones</u></a></li>
-<li><a href="https://games-able.techidaily.com/apples-macos-sonoma-unveiling-game-mode/"><u>Apple's MacOS Sonoma: Unveiling Game Mode</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-and-study-top-visual-studio-tutorials-from-devu-using-the-handy-devu-downloader-tool/"><u>Download & Study Top Visual Studio Tutorials From DevU Using the Handy DevU Downloader Tool</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-and-save-your-favorite-rooster-teeth-episodes-as-mp4-or-avi-files/"><u>Download and Save Your Favorite Rooster Teeth Episodes as MP4 or AVI Files</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-high-quality-audio-from-spotify-in-flac-format-including-album-artwork-and-enhanced-bitrate/"><u>Download High-Quality Audio From Spotify in FLAC Format, Including Album Artwork & Enhanced Bitrate</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-oracle-e-learning-content-access-video-tutorials-and-online-courses/"><u>Download Oracle E-Learning Content: Access Video Tutorials & Online Courses</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-tutorial-saving-huffpost-videos-as-mp4avi-files-on-windows-and-macos-systems/"><u>Easy Tutorial: Saving HuffPost Videos as MP4/AVI Files on Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-to-use-3sat-downloader-for-hd-videos-download-in-popular-formats-such-as-flv-mov-avi/"><u>Easy-to-Use 3Sat Downloader for HD Videos: Download in Popular Formats Such as FLV, MOV, AVI</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-abc-iview-streaming-securely-download-tv-shows-and-radios-from-abc-australia-online/"><u>Free ABC iView Streaming: Securely Download TV Shows and Radios From ABC Australia Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes/"><u>Intergalactic Visions The Best Sci-Fi Movies in Virtual Universes</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/pre-conversion-text-proofreading-services-ensure-accurate-spellings-for-your-flipbook-projects-with-flipbuildercom/"><u>Pre-Conversion Text Proofreading Services - Ensure Accurate Spellings for Your FlipBook Projects with [FlipBuilder.com]</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-11-pro-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Pro Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/sustainable-use-of-technology-with-facebooks-break-reminder/"><u>Sustainable Use of Technology with Facebook's Break Reminder</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-x-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone X Making It Possible</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-comprehensive-review-of-ios-free-video-editing-apps/"><u>[New] 2024 Approved Comprehensive Review of iOS Free Video Editing Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-phantoms-reverse-video-capabilities/"><u>[New] Navigating Phantom's Reverse Video Capabilities</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-entrepreneurs-playbook-gather-these-vital-products-to-thrive-in-business-for-2024/"><u>[Updated] The Entrepreneur's Playbook Gather These Vital Products to Thrive in Business for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-complete-assessment-of-macos-and-screenflow-v4/"><u>2024 Approved Complete Assessment of macOS and ScreenFlow V4</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-nord-3-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus Nord 3 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-methods-to-safeguard-your-samsung-smartphone-files-by-copying-them-to-your-desktop-system/"><u>Easy Methods to Safeguard Your Samsung Smartphone Files by Copying Them to Your Desktop System</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-reducing-the-size-of-your-m4v-videos-without-loser-quality/"><u>Effective Strategies for Reducing the Size of Your M4V Videos without Loser Quality</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/eliminating-router-threats-comprehensive-guide-on-clearing-malware-and-enhancing-cyber-defenses/"><u>Eliminating Router Threats: Comprehensive Guide on Clearing Malware & Enhancing Cyber Defenses</u></a></li>
+<li><a href="https://article-files.techidaily.com/enlightening-epics-and-epochs-the-leading-storytelling-institutions-top-8-for-2024/"><u>Enlightening Epics and Epochs The Leading Storytelling Institutions (Top 8) for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-windows-file-attributes-panel-tips-and-tricks/"><u>Exploring Windows File Attributes Panel: Tips and Tricks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-best-video-and-sound-capture-apps-for-artistic-visionaries/"><u>In 2024, Best Video & Sound Capture Apps for Artistic Visionaries</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-v30-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo V30 Pro online without jailbreak</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-13-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Pro Passcode without a Computer</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/member-profile-enrollment-joining-the-directory/"><u>Member Profile Enrollment: Joining the Directory</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-through-directory-configurations-mastering-settings-for-effective-file-system-control-panel-operations/"><u>Navigating Through Directory Configurations: Mastering Settings for Effective File System Control Panel Operations</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/protect-againn-from-viruses-using-malwarefox-free-malware-defense-and-clean-up-solution/"><u>Protect Againn From Viruses Using MalwareFox: FREE Malware Defense & Clean-Up Solution</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/safeguard-your-favorite-indian-tiktoks-steps-for-saving-content-after-ban/"><u>Safeguard Your Favorite Indian TikToks: Steps for Saving Content After Ban</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/simple-steps-to-shift-your-android-phones-contact-list-onto-your-new-iphone-ebook-the-ultimate-guide-to-transferring-android-contacts-to-iphone-by-tech-guru3/"><u>Simple Steps to Shift Your Android Phone's Contact List Onto Your New iPhone eBook: The Ultimate Guide to Transferring Android Contacts to iPhone by Tech Guru John Smith (10,000 Words)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-tecno-camon-20-premier-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Tecno Camon 20 Premier 5G Phone</u></a></li>
 </ul></div>
 

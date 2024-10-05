@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques: Maximizing Functionality with Extended Property Features"
-date: 2024-09-25T22:01:25.616Z
-updated: 2024-09-30T08:06:12.276Z
+date: 2024-10-01T18:57:47.644Z
+updated: 2024-10-05T16:03:32.617Z
 tags:
   - user-guide
 categories:
@@ -78,7 +78,27 @@ Table of Contents
 
 ## Extension Properties
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## General
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Command
 
@@ -93,10 +113,16 @@ Defines the content type of the files with the selected extension. This content 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)During installation of a MIME type Windows Installer registers the MIME type under the Internet Explorer MIME Database too ("HKEY\_CLASSES\_ROOT\\MIME\\Database\\Content Type" registry key). Considering the method how [Internet Explorer handles MIME Types](https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/ms775148%28v=vs.85%29?redirectedfrom=MSDN), it is not recommend to register the "application/octet-stream" MIME type with your application extension. This is because after registering the "application/octet-stream" MIME type with your application extension, Internet Explorer could associate all downloaded files of "application/octet-stream" MIME type with your application extension.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
@@ -106,10 +132,10 @@ The feature which controls the extension installation. If this feature is not in
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This combo box shows only features which contains the extension component.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Place extension in a separate feature
@@ -124,25 +150,11 @@ This group allows you to specify when the extension feature is installed:
 * _Not installed by default_ \- the extension feature is not installed by default, but the user can still select it for installation through "SetupTypeDlg" dialog
 * _Install based on custom condition_ \- installs the extension feature only if the specified condition is true
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Show in FileAssociationsDlg dialog
 
 Enabling this option will automatically create for the extension a checkbox on "FileAssociationsDlg" [predefined dialog](https://tools.techidaily.com/advancedinstaller/products/). It will also add the required control events so the checkbox controls the extension feature installation.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Only one extension should be associated with each ProgID.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -177,22 +189,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-viral-visibility-guiding-you-to-100kplus-views-on-youtube/"><u>[New] 2024 Approved Viral Visibility Guiding You to 100K+ Views on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-seamless-manipulation-of-iphone-magnification/"><u>[Updated] Seamless Manipulation of iPhone Magnification</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-oracle-e-learning-content-access-video-tutorials-and-online-courses/"><u>Download Oracle E-Learning Content: Access Video Tutorials & Online Courses</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-fix-outriders-keeps-crashing/"><u>Easy Fix: Outriders Keeps Crashing</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-tutorial-saving-huffpost-videos-as-mp4avi-files-on-windows-and-macos-systems/"><u>Easy Tutorial: Saving HuffPost Videos as MP4/AVI Files on Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-to-use-3sat-downloader-for-hd-videos-download-in-popular-formats-such-as-flv-mov-avi/"><u>Easy-to-Use 3Sat Downloader for HD Videos: Download in Popular Formats Such as FLV, MOV, AVI</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elevating-care-delivery-through-effective-fb-ads/"><u>Elevating Care Delivery Through Effective FB Ads</u></a></li>
-<li><a href="https://win-able.techidaily.com/experience-epic-battles-with-god-of-war-first-person-shooter-for-windows-and-pc-gamers/"><u>Experience Epic Battles with God of War First-Person Shooter for Windows and PC Gamers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-abc-iview-streaming-securely-download-tv-shows-and-radios-from-abc-australia-online/"><u>Free ABC iView Streaming: Securely Download TV Shows and Radios From ABC Australia Online</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-guide-downloading-daily-motion-movies-without-internet-access/"><u>Free Guide: Downloading Daily Motion Movies Without Internet Access</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/gaana-songs-download-in-multiple-formats-mp3-flac-aac-for-pc-and-mac/"><u>Gaana Songs Download in Multiple Formats (MP3, FLAC, AAC) for PC & Mac</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-converting-and-downloading-oreilly-video-lessons-for-offline-viewing-in-mp4-format/"><u>Guide: Converting and Downloading O'Reilly Video Lessons for Offline Viewing in MP4 Format</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-converting-elephant-drive-educational-content-into-mp4-format-for-pc-and-mac/"><u>Guide: Converting Elephant Drive Educational Content Into MP4 Format for PC & MAC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-m54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy M54 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ready-to-go-printer-support-secure-your-epson-perfection-v500-driver-now/"><u>Ready-to-Go Printer Support: Secure Your Epson Perfection V500 Driver Now</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-upgrades-with-windows-11-in-place-protocols/"><u>Streamlining Upgrades with Windows 11 In-Place Protocols</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-art-of-audio-in-a-virtual-world-your-ultimate-zoom-recording-tutorial-for-2024/"><u>The Art of Audio in a Virtual World Your Ultimate Zoom Recording Tutorial for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-mastery-in-youtube-ads-thumbnails-and-banners/"><u>[New] 2024 Approved Mastery in YouTube Ads Thumbnails & Banners</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fix-hidden-suggested-youtube-and-facebook-videos-explained/"><u>[New] In 2024, Fix Hidden Suggested YouTube & Facebook Videos Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-craft-individual-humor-masterpieces-online/"><u>[Updated] Craft Individual Humor Masterpieces Online</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-streamline-report-design-with-the-enhanced-ssrs-resource-management-panel/"><u>1. Streamline Report Design with the Enhanced SSRS Resource Management Panel</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-gigglegraphics-eyecatchermemes/"><u>2024 Approved GiggleGraphics EyeCatcherMemes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-official-epson-gt-s50-drivers-for-windows-os-version-7-8-and-10/"><u>Download and Install Official Epson GT-S50 Drivers for Windows OS (Version 7, 8 & 10)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-now-the-hassle-free-way-to-get-scansnap-working-on-windows/"><u>Download and Update Now: The Hassle-Free Way to Get ScanSnap Working on Windows</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-transformation-guide-convert-pdfs-into-clear-sharp-png-format-with-these-5-simple-steps-on-windows-10/"><u>Effortless Transformation Guide: Convert PDFs Into Clear, Sharp PNG Format with These 5 Simple Steps on Windows 10</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/eradicating-the-google-safety-alert-infection-a-step-by-step-guide-with-malwarefox/"><u>Eradicating the Google Safety Alert Infection: A Step-by-Step Guide with MalwareFox</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/fast-filtration-solutions/"><u>Fast Filtration Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speeding-up-your-streams-the-netflix-efficiency-guide/"><u>In 2024, Speeding Up Your Streams The Netflix Efficiency Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-life-beyond-the-social-media-realm/"><u>Navigating Life Beyond the Social Media Realm</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/revive-missing-images-on-your-galaxy-note-device-with-efficient-data-retrieval-solutions/"><u>Revive Missing Images on Your Galaxy Note Device with Efficient Data Retrieval Solutions</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-selection-of-high-quality-videos-free-from-logo-overlays/"><u>Top Selection of High-Quality Videos Free From Logo Overlays</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-rated-presentation-software-for-ios-devices/"><u>Top-Rated Presentation Software for iOS Devices</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-http3-a-complete-guide-to-the-next-generation-internet-protocol/"><u>Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol</u></a></li>
 </ul></div>
 

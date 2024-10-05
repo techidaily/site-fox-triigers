@@ -1,7 +1,7 @@
 ---
 title: Understanding Various Approaches to Application Deployment
-date: 2024-09-29T02:37:45.190Z
-updated: 2024-09-29T22:36:42.141Z
+date: 2024-10-02T18:00:04.307Z
+updated: 2024-10-05T21:29:36.336Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 ## Installer Project Types
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specialized templates
@@ -102,22 +102,16 @@ Table of Contents
 
 ![Vb6 template](https://cdn.advancedinstaller.com/img/project/vb6-template.png "Vb6 template")This template allows you to configure an installer for a Visual Basic 6.0 application. You don't need any license to build a project of this type.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ASP.NET Application
 
 ![Asp net template](https://cdn.advancedinstaller.com/img/project/asp-net-template.png "Asp net template")This template allows you to create an installation for an ASP.NET application. Note that this project type requires a Professional license.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mixed 32/64-bit Package
 
@@ -127,15 +121,22 @@ Table of Contents
 
 ![Client server template](https://cdn.advancedinstaller.com/img/project/client-server-template.png "Client server template")This template allows you to configure an installer for a client/server application. Note that this project type requires an [Enterprise](https://tools.techidaily.com/advancedinstaller/products/) license.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### XNA Game Installer
 
 ![Xna game template](https://cdn.advancedinstaller.com/img/project/xna-game-template.png "Xna game template")This template allows you to create an installation for an XNA-based game. Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### SharePoint Solution
@@ -143,37 +144,30 @@ Table of Contents
 ![Sharepoint](https://cdn.advancedinstaller.com/img/project/sharepoint.png "Sharepoint")This template allows you to create an installation for a SharePoint solution. Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### MSIX Package
 
 ![Modification](https://cdn.advancedinstaller.com/img/project/modification.png "Modification")This template allows you to create MSIX packages. Note that this project type requires a Professional license.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### RAD Studio Application
 
 ![Rad studio template](https://cdn.advancedinstaller.com/img/project/rad-studio-template.png "Rad studio template")This template allows you to create an installation for a RAD Studio application. You don't need any license to build a project of this type.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Real Studio Application
 
 ![Real template](https://cdn.advancedinstaller.com/img/project/real-template.png "Real template")This template allows you to configure an installer for a Real Studio application. You don't need any license to build a project of this type.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Generic templates
 
@@ -181,32 +175,26 @@ Table of Contents
 
 ![Simple Project](https://cdn.advancedinstaller.com/img/project/simple.png "Simple Project") This type of project has a limited functionality. You can only install files, folders, registry keys and environment variables. You don't need any license to build a project of this type.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Professional
 
 ![Professional Project](https://cdn.advancedinstaller.com/img/project/professional.png "Professional Project") You have access to all the functionality offered in a Simple project and, in addition, you can create file associations, define custom actions, install services, add merge modules, customize your installation package's user interface and more. After the trial period expires, a Professional license is required to build a project of this type.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Enterprise
 
 ![Enterprise Project](https://cdn.advancedinstaller.com/img/project/enterprise.png "Enterprise Project")This type of project gives you access to all the functionality offered by a Professional and Java Application projects. Additionally it offers a dialog editor, driver installation support and IIS configuration. After the trial period expires, an Enterprise license is required to build a project of this type.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Architect
@@ -246,22 +234,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-androids-prime-portable-gba-simulators-ranked/"><u>[Updated] Android's Prime Portable GBA Simulators Ranked</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1-seamless-transition-from-digital-to-print-convert-your-ms-office-files-into-stunning-paper-based-flip-books-enhanced-with-multimedia-features-flipofficepr17/"><u>1. Seamless Transition From Digital to Print: Convert Your MS Office Files Into Stunning Paper-Based Flip Books - Enhanced with Multimedia Features | FlipOfficePro</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-power-players-in-flight-the-drone-heavylifting-leaders/"><u>2024 Approved Power Players in Flight The Drone Heavylifting Leaders</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cod-vanguard-freezing-up-troubleshooting-tips-for-pc/"><u>CoD Vanguard Freezing Up: Troubleshooting Tips for PC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/directly-delivering-tiktok-videos-to-twitters-feed/"><u>Directly Delivering TikTok Videos to Twitter's Feed</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/discover-a-collection-of-more-than-23-elegant-papersite-design-patterns-code-plus-learn-with-creatify/"><u>Discover a Collection of More than 23 Elegant Papersite Design Patterns | Code + Learn with Creatify</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-the-blk-angular-framework-for-free-an-integrated-design-suite-for-bootstrap-and-angular-based-projects-by-creative-tim/"><u>Download the BLK Angular Framework for Free: An Integrated Design Suite for Bootstrap and Angular-Based Projects by Creative Tim</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/effective-strategies-for-boosting-web-page-visibility-and-traffic/"><u>Effective Strategies for Boosting Web Page Visibility and Traffic</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/expert-level-bootstrap-pro-ui-framework-for-vue-developers-ultimate-admin-template-by-creative-tim/"><u>Expert-Level Bootstrap PRO UI Framework for Vue Developers - Ultimate Admin Template by Creative Tim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-blk-design-system-with-angular-a-comprehensive-ui-kit-compatible-with-bootstrap-and-angularjs/"><u>Free BLK Design System with Angular: A Comprehensive UI Kit Compatible with Bootstrap & AngularJS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-time-saving-tips-making-rapid-google-collage-photo-artwork/"><u>In 2024, Time-Saving Tips Making Rapid Google Collage Photo Artwork</u></a></li>
-<li><a href="https://program-issues.techidaily.com/outriders-not-starting-up-on-your-pc-try-these-fixes-now/"><u>Outriders Not Starting Up on Your PC ? Try These Fixes Now!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/premium-professional-mailto-pro-customizable-and-responsive-html-email-designs-by-creative-tim/"><u>Premium Professional Mailto Pro: Customizable & Responsive HTML Email Designs by Creative Tim</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/thorough-examination-of-dji-inspire-1/"><u>Thorough Examination of DJI Inspire 1</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-quality-angular-14-admin-layout-with-free-bootstrap-4-design-by-creative-tim/"><u>Top-Quality Angular 14 Admin Layout with Free Bootstrap 4 Design by Creative Tim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/unleash-your-creativity-with-premium-bootstrap-5-ui-kit-now-ui-pro-edition-by-creative-tim/"><u>Unleash Your Creativity with Premium Bootstrap 5 UI Kit - Now UI Pro Edition by Creative Tim</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-fast-track-to-1000-fans-through-captivating-content/"><u>[New] 2024 Approved Fast-Track To 1,000 Fans Through Captivating Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-transcoding-ttml-and-ssa-into-easy-to-use-srt-format/"><u>[New] 2024 Approved Transcoding TTML & SSA Into Easy-to-Use SRT Format</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-to-soften-sound-tracks-in-logic-pro/"><u>2024 Approved Expert Tips to Soften Sound Tracks in Logic Pro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastering-multimedia-strategies-for-gamers-on-youtube/"><u>2024 Approved Mastering Multimedia Strategies for Gamers on Youtube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/disabling-automated-podcast-suggestions-for-privacy/"><u>Disabling Automated Podcast Suggestions for Privacy</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/expert-guide-advanced-strategies-for-mastering-import-registry-files/"><u>Expert Guide: Advanced Strategies for Mastering Import Registry Files</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/inside-the-world-of-overwatch-a-thrilling-multiplayer-combat-game/"><u>Inside the World of Overwatch: A Thrilling Multiplayer Combat Game</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/merge-mpeg-videos-for-free-top-5-programs/"><u>Merge MPEG Videos for Free Top 5 Programs</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-the-user-experience-with-effective-download-interfaces/"><u>Optimizing the User Experience with Effective Download Interfaces</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-13-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 13 Pro Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/reviving-lost-connections-a-step-by-step-guide-to-reinstating-your-iphone-6-contacts/"><u>Reviving Lost Connections: A Step-by-Step Guide to Reinstating Your iPhone 6 Contacts</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/seamless-slideshows-on-the-go-using-an-android-phone-to-manage-powerpoint/"><u>Seamless Slideshows on the Go: Using an Android Phone to Manage PowerPoint</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ts-to-smoothly-resolving-youtube-short-issues-for-2024/"><u>Secrets to Smoothly Resolving YouTube Short Issues for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/secure-web-hosting-a-guide-to-setting-up-ssl-certificates-on-your-domain/"><u>Secure Web Hosting: A Guide to Setting Up SSL Certificates on Your Domain</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/streamlined-ip-succession-management-software/"><u>Streamlined IP Succession Management Software</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-video-compression-tools-on-windows-10-enhance-performance-and-quality/"><u>Top Video Compression Tools on Windows 10: Enhance Performance and Quality</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-rated-windows-11-audio-transformation-tool/"><u>Top-Rated Windows 11 Audio Transformation Tool</u></a></li>
 </ul></div>
 

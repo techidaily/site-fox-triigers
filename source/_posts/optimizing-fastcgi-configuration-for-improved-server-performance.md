@@ -1,7 +1,7 @@
 ---
 title: Optimizing FastCGI Configuration for Improved Server Performance
-date: 2024-09-29T10:13:30.775Z
-updated: 2024-09-29T20:35:17.165Z
+date: 2024-09-29T17:12:17.794Z
+updated: 2024-10-05T18:19:50.962Z
 tags:
   - user-guide
 categories:
@@ -102,10 +102,16 @@ This view allows advanced configuration for FastCGI application pool definitions
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Only one pool will be added for all application mappings sharing the same **Script Processor**. To see all web sites using the pool, refer to the **Websites** column.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an element
@@ -113,10 +119,10 @@ This view allows advanced configuration for FastCGI application pool definitions
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected. The [FastCGI Properties dialog](https://tools.techidaily.com/advancedinstaller/products/) will be shown allowing you to configure an existing application pool definition along with its environment variables.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -159,16 +165,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-viral-visualization-top-story-filter-guide/"><u>2024 Approved Viral Visualization Top Story Filter Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/a-step-by-step-guide-creating-a-seamless-image-rotator-with-photos-from-your-digital-camera-on-flipbuilder/"><u>A Step-by-Step Guide: Creating a Seamless Image Rotator with Photos From Your Digital Camera on FlipBuilder</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/access-free-top-notch-design-templates-and-seamless-thumbnail-integration-at-flipbuildercom/"><u>Access Free Top-Notch Design Templates and Seamless Thumbnail Integration at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/achieve-perfect-mobile-display-with-your-converters-book-on-flipbuildercom-step-by-step-tips-and-tricks/"><u>Achieve Perfect Mobile Display with Your Converters' Book on FlipBuilder.com - Step-by-Step Tips and Tricks</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/can-professionals-help-you-rotate-photos-sideways-on-flipbuildercom/"><u>Can Professionals Help You Rotate Photos Sideways on FlipBuilder.com?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/immediate-measures-for-repairing-post-windows-upgrade-failures/"><u>Immediate Measures for Repairing Post-Windows Upgrade Failures</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-comprehensive-assessment-of-frozen-treats-on-display/"><u>In 2024, Comprehensive Assessment of Frozen Treats on Display</u></a></li>
-<li><a href="https://extra-support.techidaily.com/melodic-memories-insta-videos-that-sing-to-the-soul-for-2024/"><u>Melodic Memories Insta-Videos That Sing to the Soul for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-asus-rog-phone-7-ultimate-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Asus ROG Phone 7 Ultimate? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-copyright-laws-and-content-capture/"><u>YouTube Copyright Laws and Content Capture</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-gamers-guide-to-elite-streaming-platforms/"><u>[New] In 2024, Gamers' Guide to Elite Streaming Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-videos-shared-directly-from-phones/"><u>[New] In 2024, Twitter Videos Shared Directly From Phones</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-directing-content-flow-uploading-imovie-films-to-youtube/"><u>2024 Approved Directing Content Flow Uploading IMovie Films to YouTube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/advanced-techniques-in-detecting-installed-software-versions/"><u>Advanced Techniques in Detecting Installed Software Versions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/come-download-gratuito-freemaker-percorso-di-installazione-per-mac/"><u>Come Download Gratuito FreeMaker Percorso Di Installazione per Mac</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortlessly-extend-apowersoft-scanning-apps-paid-plans-on-mobile-devices/"><u>Effortlessly Extend Apowersoft Scanning App's Paid Plans on Mobile Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-13-mini-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 13 mini</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/itunes-version-121-common-issues-and-troubleshooting-tips/"><u>ITunes Version 12.1 - Common Issues and Troubleshooting Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987923938-monster-hunter-rise-stuck-on-loading-screen-heres-the-solution/"><u>Monster Hunter Rise Stuck on Loading Screen? Here's the Solution</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-complete-guide-to-editing-movies-with-appropriate-movie-editors-and-tips-for-editing-movies-and-videos-for-2024/"><u>New Complete Guide to Editing Movies with Appropriate Movie Editors and Tips for Editing Movies and Videos for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-x50-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/unraveling-the-dependencies-of-imsixdriver-in-your-system/"><u>Unraveling the Dependencies of IMsixDriver in Your System</u></a></li>
 </ul></div>
 

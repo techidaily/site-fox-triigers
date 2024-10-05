@@ -1,7 +1,7 @@
 ---
 title: "1. Interface Elements: Exploring the Functionality of the Programs Tab"
-date: 2024-09-27T19:09:14.948Z
-updated: 2024-09-30T08:56:42.251Z
+date: 2024-09-28T18:41:05.021Z
+updated: 2024-10-05T20:39:50.613Z
 tags:
   - user-guide
 categories:
@@ -74,13 +74,6 @@ Table of Contents
 
 In this tab you can create programs profiles associated with the current package. At least one program is**required**.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Programs
 
 This list contains all the programs defined for this package. It contains two columns:
@@ -90,6 +83,13 @@ This list contains all the programs defined for this package. It contains two co
 | Name         | The name associated with the program                                     |
 | Command Line | The program will be executed using the parameters declared in this field |
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add a new program
 
 Use the \[New... \] button to add a new program. The [Edit SCCM Program Dialog](https://tools.techidaily.com/advancedinstaller/products/) will appear.
@@ -97,17 +97,23 @@ Use the \[New... \] button to add a new program. The [Edit SCCM Program Dialog](
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can **not** add a new program profile in a predefined configuration profile.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit an existing program
@@ -115,10 +121,10 @@ Use the \[New... \] button to add a new program. The [Edit SCCM Program Dialog](
 Use the \[Edit... \] button to edit the selected program profile. The [Edit SCCM Program Dialog](https://tools.techidaily.com/advancedinstaller/products/) will appear.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove an existing program
@@ -165,15 +171,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-unlock-the-potential-of-close-up-videos-using-videoleap/"><u>[New] Unlock the Potential of Close-Up Videos Using Videoleap</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-grassroots-game-gatherings-the-free-film-guide/"><u>[Updated] Grassroots Game Gatherings - The Free Film Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[Updated] In 2024, From FTP to Feed The Complete Guide to Uploading to YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-road-to-profitable-facebook-marketing-through-engaging-ads-for-2024/"><u>[Updated] The Road to Profitable Facebook Marketing Through Engaging Ads for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-top-10-igtv-channels-you-should-start-following-for-2024/"><u>[Updated] Top 10 IGTV Channels You Should Start Following for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-video-capture-from-izlesene-convert-and-save-in-mp4avi-for-offline-enjoyment/"><u>Effortless Video Capture From Izlesene: Convert and Save in MP4/AVI for Offline Enjoyment</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-get-high-quality-movies-downloaded-from-fandor-as-mp4-avi-mov-mkv-and-wmv-files/"><u>How to Get High-Quality Movies Downloaded From Fandor as MP4, AVI, MOV, MKV & WMV Files!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/make-language-learning-your-easiest-new-years-resolution-with-a-discount-of-95/"><u>Make Language Learning Your Easiest New Year's Resolution With A Discount Of 95%</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-converting-afreecatv-content-into-mp4-format-on-macwindows/"><u>Step-by-Step Guide: Converting AfreecaTV Content Into MP4 Format on Mac/Windows</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-downloading-zumba-exercprise-videos-in-various-formats-for-windowsmac-users/"><u>Step-by-Step Tutorial: Downloading Zumba Exercprise Videos in Various Formats for Windows/Mac Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-excellent-pc-screen-grabbers-the-most-useful-1-5/"><u>[Updated] 2024 Approved Excellent PC Screen Grabbers The Most Useful #1-#5</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-gelato-gadgets-step-by-step-screen-capture-for-frozen-snacks/"><u>[Updated] Gelato Gadgets Step-by-Step Screen Capture for Frozen Snacks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagram-tips-for-picture-perfect-posts-for-2024/"><u>[Updated] Mastering Instagram Tips for Picture-Perfect Posts for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pinnacle-graphics-the-ultimate-4k-game-enhancement/"><u>2024 Approved Pinnacle Graphics The Ultimate 4K Game Enhancement</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-staying-relevant-essential-instagram-hashtags-for-success/"><u>2024 Approved Staying Relevant Essential Instagram Hashtags for Success</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-methods-to-safeguard-your-samsung-smartphone-files-by-copying-them-to-your-desktop-system/"><u>Easy Methods to Safeguard Your Samsung Smartphone Files by Copying Them to Your Desktop System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-update-for-wacom-cintiq-13hd-drivers-download-now/"><u>Effortless Update for Wacom Cintiq 13HD Drivers - Download Now!</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/member-profile-enrollment-joining-the-directory/"><u>Member Profile Enrollment: Joining the Directory</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-through-directory-configurations-mastering-settings-for-effective-file-system-control-panel-operations/"><u>Navigating Through Directory Configurations: Mastering Settings for Effective File System Control Panel Operations</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/protect-againn-from-viruses-using-malwarefox-free-malware-defense-and-clean-up-solution/"><u>Protect Againn From Viruses Using MalwareFox: FREE Malware Defense & Clean-Up Solution</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/simple-steps-to-shift-your-android-phones-contact-list-onto-your-new-iphone-ebook-the-ultimate-guide-to-transferring-android-contacts-to-iphone-by-tech-guru3/"><u>Simple Steps to Shift Your Android Phone's Contact List Onto Your New iPhone eBook: The Ultimate Guide to Transferring Android Contacts to iPhone by Tech Guru John Smith (10,000 Words)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/top-relaxing-country-bops-and-beats-for-dance-parties-on-tiktok-for-2024/"><u>Top Relaxing Country Bops & Beats for Dance Parties on TikTok for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Website Customization & Control Panel Setup
-date: 2024-09-24T07:22:36.239Z
-updated: 2024-09-30T05:05:13.636Z
+date: 2024-10-04T21:11:42.620Z
+updated: 2024-10-05T19:22:43.726Z
 tags:
   - user-guide
 categories:
@@ -99,20 +99,27 @@ This view allows you to properly install and configure a new website on the targ
 
 ![Website settings](https://cdn.advancedinstaller.com/img/ui/website-settings.png "Website settings")  
 
-## General
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## General
 
 ### Name
 
 The _friendly name_ of the website. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using[Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg) If, at install time, the site name is set to "Default Web Site", then the configuration for that site will be skipped. Only the settings configured for its child items (web applications and virtual directories) will be set and installed under "Default Website".
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Physical Folder
 
@@ -123,6 +130,13 @@ You can set the root physical folder for the new website. Use the \[... \] butto
 You can set a condition for the installation of this website. The condition will be evaluated during maintenance as well. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Use the following _recommended condition_ so that web sites can get removed or installed during maintenance depending on how the user sets their feature states:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 (!WebSiteFeature = 3 AND &WebSiteFeature <> 2) OR (&WebSiteFeature = 3)
 
@@ -141,16 +155,10 @@ The website is loaded before the first request for it arrives from the users. Th
 Having all the above already loaded will make improve the UX for the first user accessing the website.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Start website immediately
@@ -162,48 +170,21 @@ If this option is checked, the Advanced Installer IIS configuration tool will at
 Although you can configure a _friendly name_ for your website, this plays absolutely no role in the server' configuration; it's mearly informative. However, if you want to_manually_ configure a website (advanced settings) you must refer to it by its internal **identifier** (also called an_index_). This identifies the website within its server, as well as within a **web form**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Automatic (recommended)
 
 When Advanced Installer IIS configuration tool creates a website on a server, automatically assigns it the _first available index_ on that system, so you don't have to worry about manually managing the conflicts between existing websites.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Manual
 
 However, you may want to manually specify a website identifier (index). This can be a fixed project integer value or you can use a[property reference](https://tools.techidaily.com/advancedinstaller/products/) to dynamically set its value at run time.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In case of an **identity conflict**, you have the option of assigning to the website the **next** available index on that server or to apply the "Error Policy" specified for that Web Site.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Error Policy
 
@@ -217,6 +198,13 @@ Select the IIS configuration tool's desired behavior when a duplicate website is
 * **Prompt user to overwrite item or rollback installation** \- when a duplicate website is found the user will be prompted to choose whether to continue the installation**overwriting** that item or to abort.
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The **overwrite** operation cannot be undone by_uninstall_ or _rollback_ !
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -251,24 +239,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-optimal-handheld-camera-gear-with-smooth-motion/"><u>[New] Optimal Handheld Camera Gear with Smooth Motion</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-essential-5-accessories-for-beneath-waves-shooting/"><u>[Updated] Essential 5 Accessories for Beneath Waves Shooting</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-reels-virality-unlocked-leveraging-tiktok-hacks/"><u>[Updated] In 2024, Instagram Reels Virality Unlocked Leveraging TikTok Hacks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-engagement-ideal-youtube-thumbnail-dimensions/"><u>[Updated] Maximizing Engagement Ideal YouTube Thumbnail Dimensions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screen-saver-games-the-top-9-independent-titles-for-android-no-wi-fi-for-2024/"><u>[Updated] Screen-Saver Games The Top 9 Independent Titles for Android (No Wi-Fi) for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/beyond-imagination-the-real-world-significance-of-snapchat-emojis-for-2024/"><u>Beyond Imagination The Real-World Significance of Snapchat Emojis for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/build-your-own-material-dashboard-for-free-using-vue-laravel-and-json-api-comprehensive-guide-from-creativetim/"><u>Build Your Own Material Dashboard for Free Using Vue, Laravel, and JSON API - Comprehensive Guide From @CreativeTim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/create-your-blogs-best-impressions-with-our-no-cost-nextjstailwind-template-by-creative-tim-get-it-here/"><u>Create Your Blog's Best Impressions with Our No-Cost NextJS/Tailwind Template by Creative Tim – Get It Here!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-bootstrap-5-material-admin-a-complimentary-material-dashboard-experience/"><u>Creative Tim's Bootstrap 5 Material Admin - A Complimentary Material Dashboard Experience</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-mailto-universe-adaptable-html-email-designs-for-seamless-communication/"><u>Creative Tim's Mailto Universe: Adaptable HTML Email Designs for Seamless Communication</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easily-switch-languages-on-windows-e-a-comprehensive-tutorial-for-windows-7-users/"><u>Easily Switch Languages on Windows E: A Comprehensive Tutorial for Windows 7 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/esd-to-iso-converting-esd-files-in-windows/"><u>ESD to ISO: Converting ESD Files in Windows</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-advanced-vuejs-and-bootstrap-admin-panel-by-creative-tim/"><u>Free Advanced Vue.js & Bootstrap Admin Panel by Creative Tim</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-version-download-canon-pixma-ts3322-printer-drivers/"><u>Get the Latest Version: Download Canon PIXMA TS3322 Printer Drivers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-x50-gt-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor X50 GT Phone FRP Lock</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/premiere-vue-black-admin-panel-superior-vuejs-and-bootstrap-ebootstrap-4-framework-by-creative-tim/"><u>Premiere Vue Black Admin Panel: Superior Vuejs & Bootstrap Ebootstrap 4 Framework by Creative Tim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/premium-black-dashboard-pro-advanced-bootstrap-4-administrator-template-by-creative-tim/"><u>Premium Black Dashboard PRO: Advanced Bootstrap 4 Administrator Template by Creative Tim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/pro-paper-kit-v2-advanced-bootstrap-4-user-interface-suite-by-creatively-timed-solutions/"><u>Pro Paper Kit v2 Advanced Bootstrap 4 User Interface Suite by Creatively Timed Solutions</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/react-and-aspnet-based-free-material-dashboard-by-creative-tim-streamlined-monitoring-for-web-applications/"><u>React & ASP.NET Based Free Material Dashboard by Creative Tim - Streamlined Monitoring for Web Applications</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-earning-strategies-with-youtubes-adsense-payout-per-k-viewers/"><u>[New] 2024 Approved Earning Strategies with Youtube's AdSense Payout per K Viewers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-iphones-guide-to-night-photography-excellence/"><u>[New] 2024 Approved IPhone's Guide to Night Photography Excellence</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-interface-elements-exploring-the-functionality-of-the-programs-tab/"><u>1. Interface Elements: Exploring the Functionality of the Programs Tab</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-guide-capturing-bbc-sounds-using-iplayer-app-for-both-pc-and-mac-users/"><u>Easy Guide: Capturing BBC Sounds Using iPlayer App – For Both PC & Mac Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-steps-to-change-your-videos-from-mp4-to-m4v-format-on-windows-and-macos-systems/"><u>Easy Steps to Change Your Videos From MP4 to M4V Format on Windows & macOS Systems</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-ways-to-access-phone-sms-via-pc-complete-tutorial/"><u>Easy Ways to Access Phone SMS via PC - Complete Tutorial</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-strategies-and-software-for-reducing-size-of-ultra-hd-videos/"><u>Effortless Strategies and Software for Reducing Size of Ultra HD Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhancing-your-pcs-appearance-with-rainmeter-step-by-step-tips-for-a-spectacular-display/"><u>Enhancing Your PC's Appearance with Rainmeter: Step-by-Step Tips for a Spectacular Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-to-downloading-canon-ts6220-series-drivers-on-windows-11-8-and-7-pcs/"><u>Essential Guide to Downloading Canon TS6220 Series Drivers on Windows 11, 8 & 7 PCs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-play-7t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor Play 7T Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-restore-lost-images-on-your-iphone-a-comprehensive-guide/"><u>How To Restore Lost Images on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-redmi-note-12r-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi Redmi Note 12R Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/optimizing-images-with-ae-luts-step-by-step-for-2024/"><u>Optimizing Images with AE LUTs Step-by-Step for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sony-ultrafield-x7-ear-shattering-bass-the-ultimate-party-blaster/"><u>Sony UltraField X7 Ear-Shattering Bass - The Ultimate Party Blaster!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/strategic-evasion-the-best-room-escapes-ranked/"><u>Strategic Evasion The Best Room Escapes Ranked</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-5-simple-tricks-to-enhance-smartphone-photography/"><u>Top 5 Simple Tricks to Enhance Smartphone Photography</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-ways-to-install-and-enjoy-super-mario-run-on-your-windows-or-mac-computer/"><u>Top Ways to Install and Enjoy Super Mario Run on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/unveiling-essential-enhancements-in-apples-new-iphone-12-model/"><u>Unveiling Essential Enhancements in Apple's New iPhone 12 Model</u></a></li>
 </ul></div>
 

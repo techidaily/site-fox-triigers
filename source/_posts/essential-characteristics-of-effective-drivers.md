@@ -1,7 +1,7 @@
 ---
 title: Essential Characteristics of Effective Drivers
-date: 2024-09-28T02:01:27.441Z
-updated: 2024-09-29T17:44:09.039Z
+date: 2024-09-29T21:09:46.790Z
+updated: 2024-10-05T18:29:57.756Z
 tags:
   - user-guide
 categories:
@@ -77,37 +77,37 @@ Table of Contents
 
 ![Driver properties](https://cdn.advancedinstaller.com/img/ui/driver-properties.png "Driver properties")  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Driver Name
 
  The name displayed in the available drivers list on the target machine (in ODBC Data Source Administrator). This name must be unique and it will also be displayed in the “Drivers” tree folder. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File
 
  The path to the driver file. This file must be already included in your project. 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Setup File
 
  The DLL file that installs the above driver on the target machine. The setup file may be absent and in this case it is considered that the DLL driver file embeds the functionality of a driver setup file as well. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attributes
@@ -121,10 +121,10 @@ Table of Contents
 In the [Edit Attribute Dialog](https://tools.techidaily.com/advancedinstaller/products/) you can modify the attribute name and value.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -165,24 +165,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-premier-pick-top-10-apps-to-catch-football-and-tennis-in-the-moment/"><u>[New] In 2024, Premier Pick Top 10 Apps to Catch Football and Tennis in the Moment</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-streamlining-screen-captures-on-mi-11-lite/"><u>[New] In 2024, Streamlining Screen Captures on Mi 11 Lite</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-ultimate-choice-of-childhood-flying-fun-toys/"><u>[New] The Ultimate Choice of Childhood Flying Fun Toys</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-explore-engaging-exchange-zones/"><u>[Updated] 2024 Approved Explore Engaging Exchange Zones</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-your-videographer-potential-with-youtube-studio-edition-expertise/"><u>2024 Approved Unlock Your Videographer Potential with YouTube Studio Edition Expertise</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/argon-power-up-bootstrap-ncreative-tims-free-open-source-dashboard-for-advanced-web-project-management/"><u>Argon: Power Up Bootstrap nCreative Tim's Free Open Source Dashboard for Advanced Web Project Management</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/complimentary-argon-reactnodejs-dashboard-template-integration-with-bootstrap-4-and-reactstrap/"><u>Complimentary Argon React/Node.js Dashboard Template - Integration with Bootstrap 4 & Reactstrap</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/create-your-standout-resume-with-our-complimentary-nextjstailwind-template-from-creativetim/"><u>Create Your Standout Resume with Our Complimentary NextJS/Tailwind Template From CreativeTim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-impactful-design-system-complimentary-bootstrap-4-integrated-framework/"><u>Creative Tim's Impactful Design System – Complimentary, Bootstrap 4 Integrated Framework</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-notus-elite-premium-shopify-design-template/"><u>Creative Tim's Notus: Elite Premium Shopify Design Template</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-premium-pro-horizon-ai-template-suite-enhanced-nextjs-and-figma-integration-with-top-tier-stripe-and-supabase-support/"><u>Creative Tim's Premium PRO Horizon AI Template Suite: Enhanced NextJS and Figma Integration with Top-Tier Stripe & Supabase Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cutting-edge-strategies-how-to-integrate-chatgpt-into-your-daily-routine/"><u>Cutting-Edge Strategies: How to Integrate ChatGPT Into Your Daily Routine</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/discover-mirillis-boutique-shop-online-for-unique-inspired-home-decor/"><u>Discover Mirillis Boutique: Shop Online for Unique, Inspired Home Decor</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/download-adult-female-video-content-compatible-with-mac-and-pc/"><u>Download Adult Female Video Content: Compatible with Mac & PC</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-advanced-vuejs-and-bootstrap-admin-panel-by-creative-tim/"><u>Free Advanced Vue.js & Bootstrap Admin Panel by Creative Tim</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-action-sequences-a-comprehensive-guide-to-active-screen-capture-techniques/"><u>Mastering Action Sequences: A Comprehensive Guide to Active Screen Capture Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/pushing-boundaries-exploring-iphone-xs-unique-lens-tech-for-2024/"><u>Pushing Boundaries Exploring iPhone X's Unique Lens Tech for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-error-unable-to-access-windows-installer-issues/"><u>Step-by-Step Solution for Error: Unable to Access Windows Installer Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-12-ultimate-relaxing-pc-titles/"><u>2024 Approved Top 12 Ultimate Relaxing PC Titles</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/custom-action-implementation-in-idotnet-framework/"><u>Custom Action Implementation in IDotNet Framework</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/dynamic-settings-selector-the-easy-to-use-environment-variables-interface/"><u>Dynamic Settings Selector: The Easy-to-Use Environment Variables Interface</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/high-ranking-nintendo-switch-brawlers-index-max-156-for-2024/"><u>High-Ranking Nintendo Switch Brawlers Index (Max 156) for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-5-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 5 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-final-cut-pros-top-effect-enhancers-the-essential-10/"><u>In 2024, Final Cut Pro's Top Effect Enhancers The Essential 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y100-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y100 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/looms-labyrinth-navigating-screen-record-art/"><u>Loom's Labyrinth Navigating Screen Record Art</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-tamper-protection-on-windows-n-tech-tips-and-tricks-by-experts-at-malwarefox/"><u>Mastering Tamper Protection on Windows N-Tech: Tips & Tricks by Experts at MalwareFox</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-website-customization-and-control-panel-setup/"><u>Mastering Website Customization & Control Panel Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/medd-for-windows-107-installation/"><u>MEDD for Windows 10/7 Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resurrect-vanished-desktop-panes-methods-for-retrieving-hidden-windows/"><u>Resurrect Vanished Desktop Panes: Methods for Retrieving Hidden Windows</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/setup-page-software-deployment-options-and-preferences/"><u>Setup Page – Software Deployment Options & Preferences</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-solutions-for-re-enabling-a-disabled-ios-device/"><u>Step-by-Step Solutions for Re-Enabling a Disabled iOS Device</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/streamline-your-app-with-the-imergemodule-seamless-integration-techniques/"><u>Streamline Your App with the IMergeModule - Seamless Integration Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-essential-wearable-for-continuous-health-monitoring-insights-into-the-fitbit-inspire-hr-tracker/"><u>The Essential Wearable for Continuous Health Monitoring: Insights Into the Fitbit Inspire HR Tracker</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-guide-on-how-to-fuse-videos-perfectly/"><u>Ultimate Guide on How to Fuse Videos Perfectly</u></a></li>
 </ul></div>
 

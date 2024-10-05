@@ -1,7 +1,7 @@
 ---
 title: Setup Page – Software Deployment Options & Preferences
-date: 2024-09-25T08:53:05.166Z
-updated: 2024-09-30T03:22:55.146Z
+date: 2024-09-29T18:07:18.393Z
+updated: 2024-10-05T20:44:11.018Z
 tags:
   - user-guide
 categories:
@@ -88,19 +88,6 @@ This button can be used to clear all fields.
 
 ## Signing Tool
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Built-in
 
 Use the built-in signing tool.
@@ -117,6 +104,13 @@ Enter a command line for the above cutom signing tool.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Environment variables can be specified in _Command Line_ field and they can be referenced as %ENV%.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software Publisher Certificate
 
 #### Use from certificate store
@@ -127,13 +121,6 @@ Choose one of the currently installed certificates.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Only certificates from "Current User\\Personal" store are imported in "Use from certificate store".
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Command line examples:
 
 signtool sign /a /d <desc.> /t "http://timestamp.digicert.com" <file_name>
@@ -141,13 +128,6 @@ signtool sign /a /d <desc.> /t "http://timestamp.digicert.com" <file_name>
 Copy
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To view or manage certificates inside the system store, you can use**certmgr.msc** tool (Press Windows Key +R, type "certmgr.msc" and press enter).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **\[Create... \]** \- Creates a certificate with which you can sign your package for testing. Make sure you install it as a trusted certificate and use it only for testing purposes.
 
@@ -161,6 +141,13 @@ When this option is selected the certificate used to sign the files is loaded fr
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)PFX certificates are recommended, you can use either pvkimprt or pvk2pfx to create a PFX certificate from the SPC and PVK files. If the PFX file is protected with a password, the “Selected certificate requires password. Select how to transmit it to signing tool:” section will be visible.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **pvkimprt** can be downloaded
 * **pvk2pfx** is available as part of the Platform SDK
 
@@ -169,6 +156,13 @@ When this option is selected the certificate used to sign the files is loaded fr
 **Enter password each time project is built** \- You will be prompted to enter the password when the MSI is built. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Advanced Installer caches the password for PFX files; thus you will be prompted for the password only once.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Store encrypted password in project file** \- The encrypted password will be stored in the project and used at build time to sign the installation files. This option is useful for unattended builds.
 
@@ -212,13 +206,6 @@ To better understand this feature see this article: [Azure Key Vault basic conce
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Signing using a certificate from Azure Key Vault only works on Windows 10 and above.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Tenant ID
 
 The Azure active directory where Key Vault resides. This field is mandatory!
@@ -256,19 +243,20 @@ For increased security, the _Client secret_ can be stored in an Environment vari
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For security reasons, environment variables can be used in all the above fields instead of the actual values. Environment variables can be easily securitized in Azure Pipelines. For example the actual Tenant Id can be stored in%TenantId% Environment variable. In this case, just enter the the%TenantId% reference in the _Tenant Id_ field. At build time the value stored in this environment variable will resolved and used for the Tenant ID.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Azure Key Vault certificate subject can be synchronized with the MSIX Publisher ID. To achieve this you must press the _Synchronize_ button from _Publisher Section_ of [Package Information](https://tools.techidaily.com/advancedinstaller/products/) page. At build time the subject - publisher ID mismatch is detected automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Use Device Guard for signing
 
@@ -295,14 +283,14 @@ Copy
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If the account is not properly configured for Device Guard signing, signing a file could trigger an error that can imply that the timestamp can't be applied.
 
-## Signature Properties
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Signature Properties
 
 ### Description
 
@@ -311,6 +299,13 @@ This field contains the signed content's description. It will be shown by the Wi
 ### Description URL
 
 This field contains a URL for a complete description of the signed content. The URL will be used when the package is launched from an untrusted location (for example from the network) in the "Open File - Security Warning" dialog, where the "Name" field will become a link to the URL you specified.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Timestamp service URL
 
@@ -322,31 +317,24 @@ The “Timestamp service URL” specifies the URL of the timestamp server. An ex
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Signature properties are required to display the exact MSI name on the UAC prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Timestamp delay (ms)
 
 In this field you can configure how many milliseconds Advanced Installer will wait between two consecutive signing operations
 
 ## Patching
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Enable installing of patches for this product without elevation
 
 By enabling this option, you don't need elevated privileges when applying the patch if both patch and target MSI are signed using the same certificate.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)An administrator can disable least-privilege patching on the computer by setting the DisableLUAPatching policy to 1\. You can set the MSIDISABLELUAPATCHING property to 1 during the initial installation of an application to prevent least-privilege patching for that application only.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option is not available for [Patch Project](https://tools.techidaily.com/advancedinstaller/products/).
 
@@ -383,20 +371,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-evaluating-freenocam-for-professional-webcam-use-for-2024/"><u>[New] Evaluating FreenoCam for Professional Webcam Use for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-affordable-methods-for-video-and-text-synergy/"><u>[New] In 2024, Affordable Methods for Video and Text Synergy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-personalizing-who-can-see-your-youtube-content/"><u>[Updated] Personalizing Who Can See Your YouTube Content</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/a-step-by-step-guide-creating-a-seamless-image-rotator-with-photos-from-your-digital-camera-on-flipbuilder/"><u>A Step-by-Step Guide: Creating a Seamless Image Rotator with Photos From Your Digital Camera on FlipBuilder</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/access-free-top-notch-design-templates-and-seamless-thumbnail-integration-at-flipbuildercom/"><u>Access Free Top-Notch Design Templates and Seamless Thumbnail Integration at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/achieve-perfect-mobile-display-with-your-converters-book-on-flipbuildercom-step-by-step-tips-and-tricks/"><u>Achieve Perfect Mobile Display with Your Converters' Book on FlipBuilder.com - Step-by-Step Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discord-not-working-heres-the-easy-solution/"><u>Discord Not Working? Here's the Easy Solution!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719371847315-fixing-faulty-windows-keys-in-a-minute/"><u>Fixing Faulty Windows Keys in a Minute</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-f04mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy F04Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-11-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 11 in the Best Ways</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-pacing-perfection-controlling-frame-rates-on-snapchat/"><u>In 2024, Pacing Perfection Controlling Frame Rates on Snapchat</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/transform-your-content-into-engaging-ebooks-a-complete-tutorial-for-creating-realistic-flipbooks-using-flipbuildercom/"><u>Transform Your Content Into Engaging eBooks: A Complete Tutorial for Creating Realistic Flipbooks Using FlipBuilder.com</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/transform-your-sales-brochures-into-interactive-ebooks-with-pdf-to-digital-flipbooks-elevate-your-marketing-game/"><u>Transform Your Sales Brochures Into Interactive eBooks with PDF to Digital Flipbooks - Elevate Your Marketing Game!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-flipbuilder-unveiling-the-purpose-of-folder-files-page-and-large-file-handling/"><u>Understanding FlipBuilder: Unveiling the Purpose of 'Folder', 'Files Page' & 'Large File Handling'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-electric-cars-are-superior-to-traditional-gasoline-vehicles/"><u>Why Electric Cars Are Superior to Traditional Gasoline Vehicles</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-super-camcorders-ranking-15-best-on-the-market/"><u>[New] In 2024, Super Camcorders Ranking #15 Best on the Market</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-full-potential-saving-and-playing-gifs-on-iphones/"><u>[New] Unlocking Full Potential Saving & Playing GIFs on iPhones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-effective-affordable-youtube-intros-with-templates-for-2024/"><u>[Updated] Crafting Effective, Affordable YouTube Intros with Templates for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-essentials-of-film-production-for-youtube-originals-for-2024/"><u>[Updated] The Essentials of Film Production for YouTube Originals for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-se-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone SE to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-desktop-icon-chaos-in-windows/"><u>Avoid Desktop Icon Chaos in Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/complete-guide-to-fixing-the-persistent-pauses-addressing-deathloops-crash-issues-on-ps5-and-pc/"><u>Complete Guide to Fixing the Persistent Pauses: Addressing Deathloop's Crash Issues on PS5 & PC</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-the-best-no-cost-mp3-download-platforms-for-avid-listeners/"><u>Discover the Best No-Cost MP3 Download Platforms for Avid Listeners</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-leveraging-hibernate-on-windows-8/"><u>Effective Strategies for Leveraging Hibernate on Windows 8</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-image-editing-with-ipatch/"><u>Effortless Image Editing with IPatch</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-pc-management-from-anywhere-learn-how-to-use-your-android-phone-for-direct-computing-controls/"><u>Effortless PC Management From Anywhere: Learn How to Use Your Android Phone for Direct Computing Controls</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/hassle-free-techniques-for-watching-multiple-videos-at-once/"><u>Hassle-Free Techniques for Watching Multiple Videos at Once</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-smart-8-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Smart 8 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-instructions-how-to-enjoy-survivorio-gaming-on-your-mac-computer/"><u>Step-by-Step Instructions: How to Enjoy Survivor.io Gaming on Your Mac Computer</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-guide-crafting-the-perfect-facebook-profile-picture/"><u>Ultimate Guide: Crafting the Perfect Facebook Profile Picture</u></a></li>
 </ul></div>
 

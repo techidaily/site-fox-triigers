@@ -1,7 +1,7 @@
 ---
 title: Top 9 Android App Permissions You Should Never Grant
-date: 2024-09-24T07:19:31.598Z
-updated: 2024-09-29T19:28:32.204Z
+date: 2024-10-04T20:02:52.789Z
+updated: 2024-10-05T16:52:57.316Z
 tags:
   - product
   - antivirus
@@ -54,6 +54,13 @@ The applications tell you what they require, and you have the option to take the
 
 [How to Check if an Android App is Safe to Install](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The problem with Permissions
 
 Most applications request entry without ill intent. After all, an application may need access to the GPS on your phone to find your location or the video you recorded earlier in order to edit it. However, a growing number of malicious applications have been using these permissions in lethal concerts.
@@ -67,10 +74,16 @@ Fact is, the more unnecessary permissions an app requires, the more it might end
 It’s the very nature of the beast.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Setting the Permissions
@@ -101,13 +114,6 @@ What’s telling us is that the apps that ask for this permission legitimately c
 
 [Session Hijacking Controls your Account without Password: How to](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Read Sensitive log data
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/log.png)
@@ -118,15 +124,22 @@ There have been cases where these malware-infested apps secretly mailed the log 
 
 [What is Cached Data on Android Phone](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Read contacts
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/contacts.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As it says on the tin, this permission gives an application access to your contact, letting it read all the details of these entries. This is the first thing that malware apps will ask for. If you allow them, they will take advantage of these details in a variety of ways, including sending malicious files to your contacts via spoofed emails.
@@ -136,33 +149,19 @@ As it says on the tin, this permission gives an application access to your conta
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/calendar.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now, this permission is something that will be of moderate importance to most users. Calendar information is usually slightly less important than your contact list, even as calendar events often contain contact information. But if you know that an app is legitimately asking for access here, then there is little harm in giving it. 
 
 Save for cases where you absolutely know that an application has got nothing to do with this.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Read Browser History and Bookmarks
 
 This one explains itself. Browsing habits can be tracked using this permission. While there are legitimate uses of this permission like social apps, or applications that sync or backup your data, still take caution when enabling it.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Write Secure Settings
 
@@ -186,35 +185,22 @@ Nevertheless, you should still use caution in granting apps access to send SMS o
 
 [How to Block Unwanted SMS text Messages on Android](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Read Social Stream
 
 The boom in social media shows no signs of slowing down, and neither are the privacy concerns that these networks entail. For this reason, Google incorporated permission that allows applications the ability to read information gleaned from your social feeds.
 
 This is, again, something that you should be very careful of, and only hand over to apps that you trust. Most people have a vast amount of personal information in their profiles on social networks, and you really don’t want to invite a rogue app to take advantage of this.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 App permissions may be one of the best things to ever happen to the Android platform. They are great in theory. But it still pays to know exactly what terms and conditions you are agreeing to, and what the applications are doing with your private data.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 thoughts on “9 App Permissions to Avoid on Android”
 
@@ -225,6 +211,14 @@ How do I stop all of the the blocks,put on anything that has to do with me/or my
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 2. ![](https://secure.gravatar.com/avatar/f11f4161b0c96d94489229ff513b368b?s=50&d=mm&r=g)  
 Jubal Spencer  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [September 9, 2021 at 2:15 am](https://tools.techidaily.com/malwarefox/products/)  
 I have 6 apps that have an secondary app “Clone” of the same app. 12 apps total. These apps I am concerned about have a file icon in the avatar. they have permission to my contacts, storage, phone, call logs, calendar so on and so forth. Each “cloned” app has the same permissions as the other app. Dual apps Duel permission.  
 Is this normal. The “cloned” apps are as follows call screener, contacts, gallery, secure folder, galaxy store, calendar.  
@@ -235,6 +229,13 @@ Jubal Spencer
 [September 9, 2021 at 2:16 am](https://tools.techidaily.com/malwarefox/products/)  
 I forgot I have an android  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -261,21 +262,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastery-of-storing-snaps-on-devices-post-snapchat-use/"><u>2024 Approved Mastery of Storing Snaps on Devices Post-Snapchat Use</u></a></li>
-<li><a href="https://extra-information.techidaily.com/apex-workplace-data-sphere-for-2024/"><u>Apex Workplace Data Sphere for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/build-your-own-material-dashboard-for-free-using-vue-laravel-and-json-api-comprehensive-guide-from-creativetim/"><u>Build Your Own Material Dashboard for Free Using Vue, Laravel, and JSON API - Comprehensive Guide From @CreativeTim</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-14-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 14 Pro Max</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/create-your-blogs-best-impressions-with-our-no-cost-nextjstailwind-template-by-creative-tim-get-it-here/"><u>Create Your Blog's Best Impressions with Our No-Cost NextJS/Tailwind Template by Creative Tim – Get It Here!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-bootstrap-5-material-admin-a-complimentary-material-dashboard-experience/"><u>Creative Tim's Bootstrap 5 Material Admin - A Complimentary Material Dashboard Experience</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-mailto-universe-adaptable-html-email-designs-for-seamless-communication/"><u>Creative Tim's Mailto Universe: Adaptable HTML Email Designs for Seamless Communication</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-premium-zero-cost-bootstrap-and-materialize-css-framework-collection-for-web-developers/"><u>Creative Tim's Premium, Zero-Cost Bootstrap & Materialize CSS Framework Collection for Web Developers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/discover-a-collection-of-more-than-23-elegant-papersite-design-patterns-code-plus-learn-with-creatify/"><u>Discover a Collection of More than 23 Elegant Papersite Design Patterns | Code + Learn with Creatify</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-the-blk-angular-framework-for-free-an-integrated-design-suite-for-bootstrap-and-angular-based-projects-by-creative-tim/"><u>Download the BLK Angular Framework for Free: An Integrated Design Suite for Bootstrap and Angular-Based Projects by Creative Tim</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-xr-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone XR and iPad</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-mastering-fades-in-adobe-audition-basics/"><u>In 2024, Mastering Fades in Adobe Audition Basics</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-gold-standard-10-ways-to-elevate-home-recordings-for-2024/"><u>Sonic Gold Standard 10 Ways to Elevate Home Recordings for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/vmix-os-transcendence-software-for-2024/"><u>VMix OS Transcendence Software for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-mastery-elevate-your-content-with-smart-tag-techniques-for-2024/"><u>YouTube Mastery Elevate Your Content with Smart Tag Techniques for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-essential-remedies-for-stalled-airdrop-functionality-in-apple-ecosystem/"><u>[New] Essential Remedies for Stalled Airdrop Functionality in Apple Ecosystem</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-discover-the-full-screen-fusion-potential-with-sierras-multimedia-capabilities/"><u>[Updated] 2024 Approved Discover the Full-Screen Fusion Potential with Sierra's Multimedia Capabilities</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-optimize-your-content-creation-for-vimeo-with-best-edits-for-2024/"><u>[Updated] Optimize Your Content Creation for Vimeo with Best Edits for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-mastering-the-art-of-extraction-engaging-conversations-in-archiving/"><u>1. Mastering the Art of Extraction: Engaging Conversations in Archiving</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-top-choice-gpus-ultra-hd-gameplay-delight/"><u>2024 Approved Top Choice GPUs Ultra HD Gameplay Delight</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005916670-fix-your-world-of-tanks-blitz-app-stability-issues-end-the-constant-crashes-now/"><u>Fix Your World of Tanks Blitz App Stability Issues - End the Constant Crashes Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-blue-discoloration-on-your-screen-8-effective-techniques/"><u>Fixing the Blue Discoloration on Your Screen: 8 Effective Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-make-memories-count-learn-to-share-photos-right-now/"><u>In 2024, Make Memories Count Learn to Share Photos Right Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s4-the-ultimate-portable-android-device/"><u>In-Depth Analysis of the Samsung Galaxy Tab S4 - The Ultimate Portable Android Device</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-through-the-xml-settings-section-a-comprehensive-guide/"><u>Navigating Through the XML Settings Section: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-service-configuration-with-iservicesetup/"><u>Optimizing Service Configuration with IServiceSetup</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/photoflex-max-best-windowsmac-picture-editors-for-2024/"><u>PhotoFlex Max Best Windows/Mac Picture Editors for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/resolve-aw-snap-glitch-in-chrome-when-pages-load-protect-with-malwarefox/"><u>Resolve 'Aw Snap!' Glitch in Chrome When Pages Load – Protect with MalwareFox</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-how-to-insert-an-attachment-in-your-iphones-mail-app/"><u>Step-by-Step Tutorial: How to Insert an Attachment in Your iPhone's Mail App</u></a></li>
 </ul></div>
 

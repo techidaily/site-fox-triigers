@@ -1,7 +1,7 @@
 ---
 title: "Exploring PowerShell: Understanding the Command Options Interface"
-date: 2024-09-28T17:21:06.498Z
-updated: 2024-09-29T23:37:48.240Z
+date: 2024-10-02T19:52:12.278Z
+updated: 2024-10-05T19:09:14.271Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ This dialog allows you to specify Powershell Script Options like used platform, 
 ![Powershell Script Options Dialog](https://cdn.advancedinstaller.com/img/dialog/powershell-script-options-dialog.png "Powershell Script Options Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Execution options
@@ -97,10 +97,10 @@ This dialog allows you to specify Powershell Script Options like used platform, 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Execution of 64-bit scripts on x86 Operating Systems will cause a crash.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Preferred launch folder
@@ -110,10 +110,10 @@ Specify a folder from which the PowerShell script will be launched, [formatted](
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)_Temporary Folder_ will be used by default if at install time the above folder cannot be used.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Digitally sign the script
@@ -123,16 +123,10 @@ Use this option to digitally sign the PowerShell script.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When there exists a GPO (Group Policy Object) restricting the execution of scripts, the digital certificate must be present in the Trusted Publishers in order for the script execution to succeed.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -168,18 +162,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-peering-into-the-future-lg-tv-bp550-2023-review/"><u>[New] In 2024, Peering Into the Future LG TV BP550 2023 Review</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-harness-the-power-of-your-mobile-content-on-youtube-starting-now/"><u>[Updated] Harness the Power of Your Mobile Content on YouTube, Starting Now</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-iron-out-glitches-restore-missing-facebook-watch-icons/"><u>2024 Approved Iron Out Glitches - Restore Missing Facebook Watch Icons</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/argon-power-up-bootstrap-ncreative-tims-free-open-source-dashboard-for-advanced-web-project-management/"><u>Argon: Power Up Bootstrap nCreative Tim's Free Open Source Dashboard for Advanced Web Project Management</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/complimentary-argon-reactnodejs-dashboard-template-integration-with-bootstrap-4-and-reactstrap/"><u>Complimentary Argon React/Node.js Dashboard Template - Integration with Bootstrap 4 & Reactstrap</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/create-your-standout-resume-with-our-complimentary-nextjstailwind-template-from-creativetim/"><u>Create Your Standout Resume with Our Complimentary NextJS/Tailwind Template From CreativeTim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-impactful-design-system-complimentary-bootstrap-4-integrated-framework/"><u>Creative Tim's Impactful Design System – Complimentary, Bootstrap 4 Integrated Framework</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/exploring-the-best-iphone-selfie-tools-ranked-8-for-2024/"><u>Exploring the Best iPhone Selfie Tools, Ranked #8 for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-novice-to-notable-launching-a-trending-solo-show/"><u>From Novice to Notable Launching a Trending Solo Show</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-crackling-sound-problems-in-speakers-when-using-microsofts-windows-os-fixes/"><u>How to Stop Crackling Sound Problems in Speakers when Using Microsoft's Windows OS (Fixes)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-secure-and-slim-storage-cloud-cost-insights/"><u>In 2024, Secure & Slim Storage Cloud Cost Insights</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/premium-online-platforms-for-video-intro-creation/"><u>Premium Online Platforms for Video Intro Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/voice-activated-mastery-top-5-methods-to-command-chatgpt/"><u>Voice-Activated Mastery: Top 5 Methods to Command ChatGPT</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-decoding-social-medias-new-wave-10-realities-about-reels/"><u>[New] Decoding Social Media's New Wave 10 Realities About Reels</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience/"><u>[Updated] Ultimate Monitor Match-Up Recommendations for Top-Tier Xbox SX Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chrome/"><u>Chromeブラウザで簡単にダウンロード可能な動画の方法一覧</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/core-components-for-transformative-facebook-advertisements-for-2024/"><u>Core Components for Transformative Facebook Advertisements for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/expert-guide-advanced-strategies-for-mastering-import-registry-files/"><u>Expert Guide: Advanced Strategies for Mastering Import Registry Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-common-windows-rainmeter-glitches-with-ease/"><u>Fixing Common Window's Rainmeter Glitches with Ease</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6s-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6s to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-steadicam-choices-for-drone-cinematography-pros/"><u>In 2024, Top 10 Steadicam Choices for Drone Cinematography Pros</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-ai-image-generation-with-dall-e-and-chatgpt-4-synergy/"><u>Master the Art of AI Image Generation with DALL-E and ChatGPT-4 Synergy</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-the-user-experience-with-effective-download-interfaces/"><u>Optimizing the User Experience with Effective Download Interfaces</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/reviving-lost-connections-a-step-by-step-guide-to-reinstating-your-iphone-6-contacts/"><u>Reviving Lost Connections: A Step-by-Step Guide to Reinstating Your iPhone 6 Contacts</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/seamless-slideshows-on-the-go-using-an-android-phone-to-manage-powerpoint/"><u>Seamless Slideshows on the Go: Using an Android Phone to Manage PowerPoint</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/secure-web-hosting-a-guide-to-setting-up-ssl-certificates-on-your-domain/"><u>Secure Web Hosting: A Guide to Setting Up SSL Certificates on Your Domain</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/streamlined-ip-succession-management-software/"><u>Streamlined IP Succession Management Software</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-video-compression-tools-on-windows-10-enhance-performance-and-quality/"><u>Top Video Compression Tools on Windows 10: Enhance Performance and Quality</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-rated-windows-11-audio-transformation-tool/"><u>Top-Rated Windows 11 Audio Transformation Tool</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-inkjet-print-latency/"><u>Troubleshooting Inkjet Print Latency</u></a></li>
 </ul></div>
 

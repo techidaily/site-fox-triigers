@@ -1,7 +1,7 @@
 ---
 title: Guide to Uninstalling Certifications From Your Device or System
-date: 2024-09-27T03:47:36.133Z
-updated: 2024-09-30T07:53:53.163Z
+date: 2024-10-03T19:47:42.989Z
+updated: 2024-10-05T20:28:19.694Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IUninstallCertificate
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IUninstallCertificate : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +148,10 @@ IUninstallCertificate : ICustomAction
 This interface facilitates editing custom action that uninstalls a certificate. It requires administrative privileges to run, so make sure you set "RunAsAdministrator" property to “true” from InstallParameters.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +163,10 @@ This interface facilitates editing custom action that uninstalls a certificate. 
 **String StoreName** \- Gets or sets the name of the certificate store.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,18 +208,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-androidios-the-ultimate-free-image-editing-tool-guide-top-10/"><u>[New] Android/iOS The Ultimate Free Image Editing Tool Guide (Top 10)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-embarking-on-an-avatars-adventure-to-internet-fame/"><u>[New] In 2024, Embarking on an Avatar's Adventure to Internet Fame</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-educators-elite-selecting-the-ultimate-classroom-recorders-of-teaching-for-2024/"><u>[Updated] Educators’ Elite Selecting the Ultimate Classroom Recorders of Teaching for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-6s-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 6s</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/achieving-synchronized-page-turning-sound-effects-in-flipbook-projects-using-flipbuilder-tools/"><u>Achieving Synchronized Page-Turning Sound Effects in FlipBook Projects Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/adjusting-the-backdrop-of-your-flipbuilder-thumbnails-for-optimal-seo-performance/"><u>Adjusting the Backdrop of Your FlipBuilder Thumbnails for Optimal SEO Performance</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/automatic-playback-setup-for-diy-flipbooks-on-flipbuilder-tips-and-tricks/"><u>Automatic Playback Setup for DIY Flipbooks on FlipBuilder: Tips and Tricks</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/combining-languages-crafting-buttons-with-english-and-portuguese-descriptions-on-flipbuilder/"><u>Combining Languages: Crafting Buttons with English and Portuguese Descriptions on FlipBuilder</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creating-unique-titles-for-your-online-flash-novels-using-flipbuilder-a-step-by-step-guide/"><u>Creating Unique Titles for Your Online Flash Novels Using FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-nokia-g22mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nokia G22Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-xcover-7-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy XCover 7? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oppo-reno-8t-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo Reno 8T 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-optimal-voice-capture-systems-reviewed-top-7-2023/"><u>[New] 2024 Approved Optimal Voice Capture Systems Reviewed Top 7 2023</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-scaling-success-the-tactics-for-increasing-youtube-audiences/"><u>[New] In 2024, Scaling Success The Tactics for Increasing YouTube Audiences</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-path-to-precision-audio-a-no-mic-approach-for-2024/"><u>[Updated] The Path to Precision Audio A No-Mic Approach for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unleashing-creativity-the-ultimate-guide-to-crafting-compelling-tiktok-captions/"><u>[Updated] Unleashing Creativity The Ultimate Guide to Crafting Compelling TikTok Captions</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/achieve-better-engagement-with-websites-optimized-using-the-cookiebot-platform/"><u>Achieve Better Engagement with Websites Optimized Using the Cookiebot Platform</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/advanced-xpath-querying-techniques-and-ixmlsearch-strategies/"><u>Advanced XPath Querying Techniques and IXMLSearch Strategies</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elite-tech-navigators-for-the-automotive-world-2024/"><u>Elite Tech Navigators for the Automotive World 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-unrecognized-devices-in-windows-11-8-or-7-easy-guide/"><u>How To Fix Unrecognized Devices in Windows 11, 8 or 7 - Easy Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/identify-and-eliminate-o97mdplinka-trojan-infections-expert-tips-from-malwarefox/"><u>Identify & Eliminate O97M/DPLink.A Trojan Infections - Expert Tips From MalwareFox</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12rfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12RFRP Lock</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimize-and-implement-iidriver-solutions-effectively/"><u>Optimize and Implement IIDriver Solutions Effectively</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/seamless-transition-moving-your-blackberry-contacts-to-an-iphone-6-or-iphone-5s/"><u>Seamless Transition: Moving Your BlackBerry Contacts to an iPhone 6 or iPhone 5S</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-and-resolving-the-issue-of-missing-shorts-thumbnails-for-2024/"><u>Understanding & Resolving the Issue of Missing Shorts Thumbnails for 2024</u></a></li>
 </ul></div>
 

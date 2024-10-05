@@ -1,7 +1,7 @@
 ---
 title: How to Customize Control Events Within the Application Settings Window
-date: 2024-09-26T10:34:50.140Z
-updated: 2024-09-29T18:34:14.545Z
+date: 2024-10-02T20:32:47.990Z
+updated: 2024-10-05T18:07:02.407Z
 tags:
   - user-guide
 categories:
@@ -87,10 +87,10 @@ This dialog allows you to edit a control event. A control event is an action tha
 ![Edit Control Event Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-control-event.png "Edit Control Event Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Control Event
@@ -100,32 +100,32 @@ Select the desired control event from the list.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This list contains only the events supported by the selected control.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Event Options
 
 This section allows you to set the selected event's options.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Argument
 
  Specify an argument for the control event. For some events, there is a list of arguments from which you can choose, for others this field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the\[... \] button to display the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to insert a reference to a property. Also, some events may not need arguments.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -188,20 +188,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-individual-songs-to-a-cohesive-collection-building-your-youtube-playlist-for-2024/"><u>[New] From Individual Songs to a Cohesive Collection Building Your YouTube Playlist for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-elevating-your-iphone-with-custom-ringtones/"><u>[New] In 2024, Elevating Your iPhone with Custom Ringtones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-uncovering-the-most-recent-facebook-changes-for-2024/"><u>[New] Uncovering the Most Recent Facebook Changes for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-top-15-trending-hashtags-in-tiktok/"><u>[Updated] In 2024, The Top 15 Trending Hashtags in TikTok</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/complimentary-argon-reactnodejs-dashboard-template-integration-with-bootstrap-4-and-reactstrap/"><u>Complimentary Argon React/Node.js Dashboard Template - Integration with Bootstrap 4 & Reactstrap</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-review-of-the-samsung-galaxy-tab-s7plus-the-ultimate-high-end-android-device/"><u>Comprehensive Review of the Samsung Galaxy Tab S7+: The Ultimate High-End Android Device</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/create-your-standout-resume-with-our-complimentary-nextjstailwind-template-from-creativetim/"><u>Create Your Standout Resume with Our Complimentary NextJS/Tailwind Template From CreativeTim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-impactful-design-system-complimentary-bootstrap-4-integrated-framework/"><u>Creative Tim's Impactful Design System – Complimentary, Bootstrap 4 Integrated Framework</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-notus-elite-premium-shopify-design-template/"><u>Creative Tim's Notus: Elite Premium Shopify Design Template</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-premium-pro-horizon-ai-template-suite-enhanced-nextjs-and-figma-integration-with-top-tier-stripe-and-supabase-support/"><u>Creative Tim's Premium PRO Horizon AI Template Suite: Enhanced NextJS and Figma Integration with Top-Tier Stripe & Supabase Support</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-advanced-vuejs-and-bootstrap-admin-panel-by-creative-tim/"><u>Free Advanced Vue.js & Bootstrap Admin Panel by Creative Tim</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy S23?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-cleaning-your-mechanical-keyboard-a-comprehensive-how-to/"><u>Mastering the Art of Cleaning Your Mechanical Keyboard - A Comprehensive How-To</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-telnet-activation-on-modern-windows/"><u>Quick Guide to Telnet Activation on Modern Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-ranking-guide-transform-mov-files-to-flv-format-seamlessly-on-your-mac-using-leading-software-tools/"><u>Top-Ranking Guide: Transform MOV Files to FLV Format Seamlessly on Your Mac Using Leading Software Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-inside-the-videography-realm-xstudio-study-for-2024/"><u>[New] Inside the Videography Realm XStudio Study for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-your-content-with-the-ultimate-guide-to-instagram-cover-photos-for-2024/"><u>[Updated] Elevate Your Content with the Ultimate Guide to Instagram Cover Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2023-discover-the-best-no-cost-fb-visual-creation-platforms/"><u>2023 Discover the Best, No-Cost FB Visual Creation Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-successful-youtubing-master-end-credits-and-makers-sources/"><u>2024 Approved Successful YouTubing Master End Credits and Makers' Sources</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/android-techniques-old-to-new-video-format/"><u>Android Techniques Old to New Video Format</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comprehensive-walkthrough-on-creating-accessible-video-synopses/"><u>Comprehensive Walkthrough on Creating Accessible Video Synopses</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-configuration-options-for-successful-software-installs/"><u>Essential Configuration Options for Successful Software Installs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-c51-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme C51 Phone?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-2600-printer-drivers-fresh-download-options-for-windows-operating-systems/"><u>HP Deskjet 2600 Printer Drivers: Fresh Download Options for Windows Operating Systems</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/identify-and-eliminate-o97mdplinka-trojan-infections-expert-tips-from-malwarefox/"><u>Identify & Eliminate O97M/DPLink.A Trojan Infections - Expert Tips From MalwareFox</u></a></li>
+<li><a href="https://win-dash.techidaily.com/netgear-a6210-drivers-free-download-and-updates-compatible-with-windows-87/"><u>Netgear A6210 Drivers: Free Download & Updates Compatible with Windows 8/7</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimize-and-implement-iidriver-solutions-effectively/"><u>Optimize and Implement IIDriver Solutions Effectively</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/the-best-5-functional-mouse-recording-devices-you-need-to-try/"><u>The Best 5 Functional Mouse Recording Devices You Need to Try!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-your-bluetooth-mouse-problems-after-the-windows-10-creators-update-on-arch-linux/"><u>The Ultimate Fix for Your Bluetooth Mouse Problems After the Windows 10 Creator's Update on Arch Linux</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-sound-upload-tools-for-tiktok-users-in-2020/"><u>Top Sound Upload Tools for TikTok Users in 2020</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamline Your App with the IMergeModule - Seamless Integration Techniques
-date: 2024-09-23T08:55:36.996Z
-updated: 2024-09-30T00:50:37.820Z
+date: 2024-09-30T16:03:52.600Z
+updated: 2024-10-05T17:16:55.765Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,16 @@ Table of Contents
 ## IMergeModule
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -120,10 +126,10 @@ Table of Contents
 IMergeModule : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -131,10 +137,10 @@ IMergeModule : IDispatch
 This interface is meant to view information about an added merge module. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -160,10 +166,10 @@ This interface is meant to view information about an added merge module.
 **Uint Oder** \- Gets the order of the merge module.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -205,22 +211,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-playful-pioneers-the-kids-game-bazaar-for-2024/"><u>[New] Playful Pioneers The Kids' Game Bazaar for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-premium-zero-cost-bootstrap-and-materialize-css-framework-collection-for-web-developers/"><u>Creative Tim's Premium, Zero-Cost Bootstrap & Materialize CSS Framework Collection for Web Developers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/discover-a-collection-of-more-than-23-elegant-papersite-design-patterns-code-plus-learn-with-creatify/"><u>Discover a Collection of More than 23 Elegant Papersite Design Patterns | Code + Learn with Creatify</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-the-blk-angular-framework-for-free-an-integrated-design-suite-for-bootstrap-and-angular-based-projects-by-creative-tim/"><u>Download the BLK Angular Framework for Free: An Integrated Design Suite for Bootstrap and Angular-Based Projects by Creative Tim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/expert-level-bootstrap-pro-ui-framework-for-vue-developers-ultimate-admin-template-by-creative-tim/"><u>Expert-Level Bootstrap PRO UI Framework for Vue Developers - Ultimate Admin Template by Creative Tim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-blk-design-system-with-angular-a-comprehensive-ui-kit-compatible-with-bootstrap-and-angularjs/"><u>Free BLK Design System with Angular: A Comprehensive UI Kit Compatible with Bootstrap & AngularJS</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oppo-a78-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Oppo A78 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>In 2024, Ultimate List of Accessibility 8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-unlock-visual-storytelling-potential-with-snapchat-edits/"><u>In 2024, Unlock Visual Storytelling Potential with Snapchat Edits</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-fcp-effect-10-movies-that-benefited-from-this-powerful-editing-software/"><u>New The FCP Effect 10 Movies That Benefited From This Powerful Editing Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pioneering-14-text-movements-in-artwork-for-2024/"><u>Pioneering 14 Text Movements in Artwork for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/premium-professional-mailto-pro-customizable-and-responsive-html-email-designs-by-creative-tim/"><u>Premium Professional Mailto Pro: Customizable & Responsive HTML Email Designs by Creative Tim</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/past-a-thousand-views-in-minimal-time-for-2024/"><u>Push Past a Thousand Views in Minimal Time for 2024</u></a></li>
-<li><a href="https://solve-help.techidaily.com/the-ultimate-guide-resolving-eac3-not-supported-on-mx-player-top-3-methods/"><u>The Ultimate Guide: Resolving 'EAC3 Not Supported' On MX Player – Top 3 Methods</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-quality-angular-14-admin-layout-with-free-bootstrap-4-design-by-creative-tim/"><u>Top-Quality Angular 14 Admin Layout with Free Bootstrap 4 Design by Creative Tim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/unleash-your-creativity-with-premium-bootstrap-5-ui-kit-now-ui-pro-edition-by-creative-tim/"><u>Unleash Your Creativity with Premium Bootstrap 5 UI Kit - Now UI Pro Edition by Creative Tim</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-10-best-luts-for-adobe-lightroom/"><u>[New] 10 Best LUTs for Adobe LightRoom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-radiant-tone-refactoring-pro/"><u>[Updated] Radiant Tone Refactoring Pro</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-tailor-made-youtube-url-strategies-an-easier-approach-for-2024/"><u>[Updated] Tailor-Made YouTube URL Strategies An Easier Approach for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-instagram-looping-videos-for-2024/"><u>[Updated] The Ultimate Guide to Instagram Looping Videos for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-xr-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone XR? Find the Best Solution Here</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/dissecting-the-true-essence-of-bose-quietcontrol-30/"><u>Dissecting the True Essence of Bose QuietControl 30</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-characteristics-of-effective-drivers/"><u>Essential Characteristics of Effective Drivers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-group-theory-in-mathematics-key-concepts-and-applications/"><u>Exploring Group Theory in Mathematics: Key Concepts and Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-your-computers-fm2dll-error-quickly-and-easily/"><u>Fix Your Computer's Fm2#.dll Error Quickly and Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-130-music-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia 130 Music Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-a34-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy A34 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-retrieve-the-vid-and-pid-numbers-for-any-computer-or-peripheral/"><u>How to Retrieve the VID and PID Numbers for Any Computer or Peripheral</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/personalized-user-designed-action-panel/"><u>Personalized User-Designed Action Panel</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-strategies-for-efficiently-transforming-keynote-presentations-into-powerpoint-format/"><u>Top Strategies for Efficiently Transforming Keynote Presentations Into PowerPoint Format</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-various-approaches-to-application-deployment/"><u>Understanding Various Approaches to Application Deployment</u></a></li>
 </ul></div>
 

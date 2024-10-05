@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Features: Mastering the Operations Tab Within Windows Registry"
-date: 2024-09-24T03:25:17.089Z
-updated: 2024-09-30T10:07:20.311Z
+date: 2024-09-30T21:15:59.641Z
+updated: 2024-10-05T20:55:25.692Z
 tags:
   - user-guide
 categories:
@@ -88,25 +88,25 @@ Table of Contents
 
 ![Registry Key Removal Dialog](https://cdn.advancedinstaller.com/img/dialog/registry-operations.png "Registry Key Removal Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Remove
 
  Keys for removal will be marked visually with ![Key Removal](https://cdn.advancedinstaller.com/img/gfx/removal.png "Key Removal") icon.
 
+![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default Windows Installer will remove only the resources that were installed by the MSI package. This removal operation is intended to be used for external resources created by custom behaviour.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default Windows Installer will remove only the resources that were installed by the MSI package. This removal operation is intended to be used for external resources created by custom behaviour.
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Component
 
@@ -120,6 +120,13 @@ The time when the removal will be executed. There are three available moments:
 * component uninstall
 * both
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Condition
 
 Specify a removal condition.
@@ -128,29 +135,22 @@ You can specify registry values to be removed upon install from the [Registry Va
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The removal operation is extremely useful when the installed resources are modified post install and would not be removed otherwise.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Persistence
 
 Save and restore original registry key content.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Condition
 
 Condition when the key content is preserved.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To find out how to use this option in an upgrade scenario, you can follow the [Prevent Repair or Uninstall](https://tools.techidaily.com/advancedinstaller/products/) article.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Search key
 
@@ -193,17 +193,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-ultimate-technique-for-scrapping-multi-video-tiktok-archives/"><u>[New] 2024 Approved The Ultimate Technique for Scrapping Multi-Video TikTok Archives</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-professional-secrets-to-flawless-photo-cropping-online-for-2024/"><u>[Updated] Professional Secrets to Flawless Photo Cropping Online for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-leading-edge-top-15-on-the-go-video-gear/"><u>2024 Approved Leading Edge Top 15 On-the-Go Video Gear</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-oracle-e-learning-content-access-video-tutorials-and-online-courses/"><u>Download Oracle E-Learning Content: Access Video Tutorials & Online Courses</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-tutorial-saving-huffpost-videos-as-mp4avi-files-on-windows-and-macos-systems/"><u>Easy Tutorial: Saving HuffPost Videos as MP4/AVI Files on Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-to-use-3sat-downloader-for-hd-videos-download-in-popular-formats-such-as-flv-mov-avi/"><u>Easy-to-Use 3Sat Downloader for HD Videos: Download in Popular Formats Such as FLV, MOV, AVI</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-speech-recognition-in-windows-pc/"><u>Enhance Speech Recognition in Windows PC</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-abc-iview-streaming-securely-download-tv-shows-and-radios-from-abc-australia-online/"><u>Free ABC iView Streaming: Securely Download TV Shows and Radios From ABC Australia Online</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-guide-downloading-daily-motion-movies-without-internet-access/"><u>Free Guide: Downloading Daily Motion Movies Without Internet Access</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-how-to-create-time-travel-teleportation-effects/"><u>In 2024, How to Create Time Travel Teleportation Effects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safe-stepping-stones-on-windows-11-top-8-to-skip/"><u>Safe Stepping Stones on Windows 11: Top 8 To Skip</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-your-cs-go-user-not-signed-in-difficulty-with-these-5-fixes/"><u>Troubleshoot Your CS: GO 'User Not Signed In' Difficulty with These 5 Fixes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-essential-techniques-for-making-and-tweaking-multi-snap-chats-for-2024/"><u>[New] Essential Techniques for Making & Tweaking Multi-Snap Chats for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-radiant-reality-tiles-photographic-collages-that-sparkle/"><u>[Updated] Radiant Reality Tiles Photographic Collages That Sparkle</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-configuration-options-for-successful-software-installs/"><u>Essential Configuration Options for Successful Software Installs</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/identify-and-eliminate-o97mdplinka-trojan-infections-expert-tips-from-malwarefox/"><u>Identify & Eliminate O97M/DPLink.A Trojan Infections - Expert Tips From MalwareFox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/secrets-revealed-achieving-immortal-wealth-with-infinity-cave-on-pc/"><u>Secrets Revealed: Achieving Immortal Wealth with 'Infinity Cave' On PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamline-your-content-posting-twitter-videos-on-snapchat/"><u>Streamline Your Content Posting Twitter Videos on Snapchat</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/the-best-5-functional-mouse-recording-devices-you-need-to-try/"><u>The Best 5 Functional Mouse Recording Devices You Need to Try!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/the-complete-walkthrough-on-downloading-content-from-teaching-channel-for-learning-enhancement/"><u>The Complete Walkthrough on Downloading Content From Teaching Channel for Learning Enhancement</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-sound-upload-tools-for-tiktok-users-in-2020/"><u>Top Sound Upload Tools for TikTok Users in 2020</u></a></li>
 </ul></div>
 

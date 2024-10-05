@@ -1,7 +1,7 @@
 ---
 title: Efficient Coding with IShortcutsComponent - Streamline Your Development Process
-date: 2024-09-27T00:35:41.259Z
-updated: 2024-09-30T09:27:47.207Z
+date: 2024-09-30T18:03:21.305Z
+updated: 2024-10-05T17:22:13.790Z
 tags:
   - user-guide
 categories:
@@ -115,16 +115,10 @@ Table of Contents
 This interface creates new shortcuts and gets all the existing shortcuts from the project.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -132,10 +126,10 @@ This interface creates new shortcuts and gets all the existing shortcuts from th
 IShortcutsComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -143,10 +137,10 @@ IShortcutsComponent : IDispatch
 **Array<IShorcut> Shortcuts** \- Gets all the shortcuts from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -161,10 +155,10 @@ CreateFolderShorcut(IFolder **Folder**, IFolder**TargetFolder**) - returns IFold
 \- Creates a new shortcut for the specified **TargetFolder**, in the desired**Folder**.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,24 +202,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-z2-play-exploration-unlocking-smartphone-genius/"><u>[New] Z2 Play Exploration Unlocking Smartphone Genius</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-perfect-video-quality-in-zoom-sessions/"><u>[Updated] The Art of Perfect Video Quality in Zoom Sessions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-assessing-auroraayers-image-processing-strengths/"><u>2024 Approved Assessing Aurora'ayer's Image Processing Strengths</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-level-3d-watching-ultimate-guide-to-blu-ray-players/"><u>2024 Approved Next-Level 3D Watching Ultimate Guide to Blu-Ray Players</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/argon-power-up-bootstrap-ncreative-tims-free-open-source-dashboard-for-advanced-web-project-management/"><u>Argon: Power Up Bootstrap nCreative Tim's Free Open Source Dashboard for Advanced Web Project Management</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/breaking-news-discover-the-newest-mirillis-announcements-from-their-media-hub/"><u>Breaking News: Discover the Newest Mirillis Announcements From Their Media Hub</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/discover-mirillis-boutique-shop-online-for-unique-inspired-home-decor/"><u>Discover Mirillis Boutique: Shop Online for Unique, Inspired Home Decor</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-exclusive-video-content-from-e-patterns-central-hub/"><u>Download Exclusive Video Content From E-Patterns Central Hub</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/get-your-favorite-cmt-hits-easy-mp3-and-mp4-file-options-for-online-listening/"><u>Get Your Favorite CMT Hits - Easy MP3 & MP4 File Options for Online Listening</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-8-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 8 Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-action-sequences-a-comprehensive-guide-to-active-screen-capture-techniques/"><u>Mastering Action Sequences: A Comprehensive Guide to Active Screen Capture Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-chatgpt-tweaks-youll-love/"><u>Revolutionary ChatGPT Tweaks You'll Love!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/shortcut-to-engagement-analyzing-facebooks-video-trends/"><u>Shortcut to Engagement Analyzing Facebook's Video Trends</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/sonic-social-media-merging-melodies-and-memes-on-instagram/"><u>Sonic Social Media Merging Melodies and Memes on Instagram</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-instructions-on-how-to-save-docmeded-lectures-as-various-video-and-audio-files/"><u>Step-by-Step Instructions on How to Save DocmedED Lectures as Various Video and Audio Files</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-for-saving-streamango-content-in-mp4avi-format-directly-from-the-site/"><u>Step-by-Step Tutorial for Saving Streamango Content in MP4/AVI Format Directly From the Site</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-method-for-discovering-hidden-vids/"><u>The Ultimate Method for Discovering Hidden Vids</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-rated-freecorder-clones-get-them-for-free-on-your-pc-or-mac/"><u>Top-Rated Freecorder Clones: Get Them for Free on Your PC or MAC</u></a></li>
-<li><a href="https://facebook.techidaily.com/you-can-now-hide-your-like-counts-on-facebook-and-instagram/"><u>You Can Now Hide Your Like Counts on Facebook and Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-crafting-viral-stories-the-top-15-tips-for-snapchat-posts-for-2024/"><u>[New] Crafting Viral Stories The Top 15 Tips for Snapchat Posts for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-radiant-reels-elevate-your-visuals-with-3-insta-tactics/"><u>[New] In 2024, Radiant Reels Elevate Your Visuals with 3 Insta Tactics</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1-ultimate-guide-resolving-netflix-issues-and-overcoming-streaming-obstacles/"><u>1. Ultimate Guide: Resolving Netflix Issues and Overcoming Streaming Obstacles</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/advanced-xpath-querying-techniques-and-ixmlsearch-strategies/"><u>Advanced XPath Querying Techniques and IXMLSearch Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-a58-4g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo A58 4G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-s17-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo S17 Pro Device SIM</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-steps-to-incorporate-tunes-into-your-instagram-stories/"><u>Easy Steps to Incorporate Tunes Into Your Instagram Stories</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-the-features-mastering-the-operations-tab-within-windows-registry/"><u>Exploring the Features: Mastering the Operations Tab Within Windows Registry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-tool-transforming-wma-files-into-3gp-format-with-ease/"><u>Free Online Tool: Transforming WMA Files Into 3GP Format with Ease</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/seamless-transition-moving-your-blackberry-contacts-to-an-iphone-6-or-iphone-5s/"><u>Seamless Transition: Moving Your BlackBerry Contacts to an iPhone 6 or iPhone 5S</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/en-entrepreneurial-youtube-outlets-and-tips/"><u>Top Ten Entrepreneurial YouTube Outlets & Tips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-of-2024s-best-handheld-consoles-for-gamers-on-the-go/"><u>Ultimate List of 2024'S Best Handheld Consoles for Gamers On-the-Go</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-tips-for-cleaning-up-pictures-by-eliminating-smileys/"><u>Ultimate Tips for Cleaning Up Pictures by Eliminating Smileys</u></a></li>
 </ul></div>
 

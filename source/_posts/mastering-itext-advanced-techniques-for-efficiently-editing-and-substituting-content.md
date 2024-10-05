@@ -1,7 +1,7 @@
 ---
 title: "Mastering Itext: Advanced Techniques for Efficiently Editing and Substituting Content"
-date: 2024-09-28T08:52:35.483Z
-updated: 2024-09-30T07:10:27.389Z
+date: 2024-09-29T20:12:22.330Z
+updated: 2024-10-05T20:11:44.742Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,10 @@ Table of Contents
 ## ITextUpdateReplace
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -120,10 +120,10 @@ Table of Contents
 ITextUpdateReplace : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -131,10 +131,10 @@ ITextUpdateReplace : IDispatch
 This interface is meant to configure text replace operation.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -158,16 +158,10 @@ Gets or sets the property to treat "Find" property value as a word. Only words t
 Gets or sets the property to end when the first match is found while the rest possible matches will be ignored
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -209,24 +203,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-digital-diary-keepers-securely-download-tweets-videos-for-2024/"><u>[New] Digital Diary Keepers Securely Download Tweets' Videos for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-frozen-yum-screening-device-deep-review/"><u>[Updated] Frozen Yum Screening Device Deep Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-lights-pioneering-video-and-sound-makers/"><u>2024 Approved Leading Lights Pioneering Video & Sound Makers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-must-have-devices-for-exploration-videos/"><u>2024 Approved Must-Have Devices for Exploration Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tips-and-tricks-for-creating-engaging-collab-videos-on-youtube/"><u>2024 Approved Tips and Tricks for Creating Engaging Collab Videos on YouTube</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/a-step-by-step-guide-creating-a-seamless-image-rotator-with-photos-from-your-digital-camera-on-flipbuilder/"><u>A Step-by-Step Guide: Creating a Seamless Image Rotator with Photos From Your Digital Camera on FlipBuilder</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/access-free-top-notch-design-templates-and-seamless-thumbnail-integration-at-flipbuildercom/"><u>Access Free Top-Notch Design Templates and Seamless Thumbnail Integration at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/achieve-perfect-mobile-display-with-your-converters-book-on-flipbuildercom-step-by-step-tips-and-tricks/"><u>Achieve Perfect Mobile Display with Your Converters' Book on FlipBuilder.com - Step-by-Step Tips and Tricks</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/can-professionals-help-you-rotate-photos-sideways-on-flipbuildercom/"><u>Can Professionals Help You Rotate Photos Sideways on FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/create-personalized-flipbooks-from-multiple-pdfs-in-one-go-flipbuildercom/"><u>Create Personalized Flipbooks From Multiple PDFs in One Go [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-steps-set-up-your-site-with-flipbuildercom-to-allow-pdf-downloads-from-your-flipbooks/"><u>Easy Steps: Set Up Your Site with FlipBuilder.com to Allow PDF Downloads From Your Flipbooks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-guide-updating-your-asus-maximus-x-hero-graphics-driver/"><u>Effortless Guide: Updating Your ASUS Maximus X Hero Graphics Driver</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125260405-the-ultimate-guide-to-educational-robots-for-children-start-coding-today/"><u>The Ultimate Guide to Educational Robots for Children - Start Coding Today</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/transform-your-content-into-engaging-ebooks-a-complete-tutorial-for-creating-realistic-flipbooks-using-flipbuildercom/"><u>Transform Your Content Into Engaging eBooks: A Complete Tutorial for Creating Realistic Flipbooks Using FlipBuilder.com</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/transform-your-sales-brochures-into-interactive-ebooks-with-pdf-to-digital-flipbooks-elevate-your-marketing-game/"><u>Transform Your Sales Brochures Into Interactive eBooks with PDF to Digital Flipbooks - Elevate Your Marketing Game!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-flipbuilder-unveiling-the-purpose-of-folder-files-page-and-large-file-handling/"><u>Understanding FlipBuilder: Unveiling the Purpose of 'Folder', 'Files Page' & 'Large File Handling'</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/where-to-catch-live-sports-action-for-zero-cost-top-picks/"><u>Where to Catch Live Sports Action for Zero Cost: Top Picks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-first-home-frontier-top-6-beginner-friendly-mc-abodes/"><u>[Updated] First Home Frontier Top 6 Beginner-Friendly MC Abodes</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/2018s-top-4-must-know-avi-editors-for-stunning-video-creations/"><u>2018'S Top 4 Must-Know AVI Editors for Stunning Video Creations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-stream-audio-from-airpods-to-the-nintendo-switch-game-system/"><u>Can You Stream Audio From AirPods to the Nintendo Switch Game System?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-the-ultimate-list-of-free-pdf-software-for-windows-users-ranked-in-2020/"><u>Discover the Ultimate List of Free PDF Software for Windows Users, Ranked in 2020</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-insights-on-the-lenovo-thinkpad-x1-titanium-yoga-why-its-perfect-for-avid-thinkpad-aficionados/"><u>Expert Insights on the Lenovo ThinkPad X1 Titanium Yoga - Why It's Perfect for Avid ThinkPad Aficionados</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/extraction-et-telechargement-gratuit-de-films-dvd-palregion-2-dans-les-formats-videos-populaires/"><u>Extraction Et Téléchargement Gratuit De Films DVD PAL/Region 2 Dans Les Formats Vidéos Populaires</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-x-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone X System Issues? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-strategies-to-skyrocket-your-fb-video-ad-impact/"><u>In 2024, Strategies to Skyrocket Your FB Video Ad Impact</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/safe-android-system-reboot-protect-your-files/"><u>Safe Android System Reboot: Protect Your Files</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/simple-steps-recording-videos-with-your-chromebook-made-simple/"><u>Simple Steps: Recording Videos with Your Chromebook Made Simple</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-master-video-editing-in-final-cut-pro-for-windows-users/"><u>Step-by-Step Tutorial: Master Video Editing in Final Cut Pro for Windows Users</u></a></li>
 </ul></div>
 

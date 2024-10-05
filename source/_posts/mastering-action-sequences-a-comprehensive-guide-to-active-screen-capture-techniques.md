@@ -1,7 +1,7 @@
 ---
 title: "Mastering Action Sequences: A Comprehensive Guide to Active Screen Capture Techniques"
-date: 2024-09-24T01:48:25.963Z
-updated: 2024-09-30T00:18:19.660Z
+date: 2024-10-01T19:45:12.572Z
+updated: 2024-10-05T19:44:22.135Z
 tags:
   - product
 categories:
@@ -46,13 +46,6 @@ Action Tutorials
   
  Share this tutorial:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Introduction 
 
  Welcome to basic introduction to Mirillis Action! Active screen recording mode. Active screen recording mode is dedicated to capture fullscreen desktop videos of Windows Vista, Windows 7, Windows 8.1, Windows 10, and Windows 11\. With the world's best screen recording performance Action! records perfectly everything on your PC screen: applications, websites, videos, music videos, games and more! 
@@ -68,13 +61,6 @@ Action Tutorials
 
  Follow this tutorial to learn basics about fullscreen Windows desktop recording.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Active screen recording mode
 
  Switch Action! recording mode to **"Active screen"**.
@@ -85,6 +71,13 @@ Action Tutorials
 
 ![Mirillis Action! - HUD in active desktop recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Active screen recording
 
  Press **"Start/stop recording"** button or **F9** hotkey to start Windows desktop recording. HUD status changes showing that Windows desktop recording is in progress.
@@ -92,15 +85,22 @@ Action Tutorials
 ![Mirillis Action! - HUD showing desktop recording in progress](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_video_recording_status.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Press "Start/stop recording" button or F9 hotkey again to stop desktop recording. HUD status changes showing that Windows desktop recording has finished.
 
 ![Mirillis Action! - HUD showing finished desktop recording](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Screen recordings playback
 
@@ -112,6 +112,13 @@ Action Tutorials
 
 ![Mirillis Action! - desktop recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_recording_playback.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To playback raw Action! video recordings you can also use **Splash** media player. Splash provides additional features like SmartSeek, Audio boost, Screen capture and more. Splash is available for download at Mirillis website:   
 [https://mirillis.com/downloads](https://tools.techidaily.com/mirillis/products/) 
 
@@ -120,13 +127,6 @@ Action Tutorials
  Please note that with default settings Action! HUD will not be included with all Windows desktop recordings. If you want to include HUD in recorded desktop video you must change HUD settings (available in Action! settings).
 
 ![Mirillis Action! - HUD settings - Hide HUD during desktop recording](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_settings_hide_during_desktop_recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,22 +143,24 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-draw-eyes-to-your-subject-iphone-photo-tips-with-leading-lines/"><u>[New] In 2024, Draw Eyes to Your Subject IPhone Photo Tips with Leading Lines</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-picks-hd-recording-with-nintendo-switch/"><u>[New] In 2024, Top Picks HD Recording with Nintendo Switch</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unleash-vibrant-canvas-cropping-adding-and-editing-sound-effectively/"><u>[Updated] Unleash Vibrant Canvas Cropping, Adding, & Editing Sound Effectively</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-strategic-evasion-the-best-room-escapes-ranked/"><u>2024 Approved Strategic Evasion The Best Room Escapes Ranked</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bing-ai-chat-and-android-enhancing-text-input-experience/"><u>Bing AI Chat and Android: Enhancing Text Input Experience</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/conversione-video-libera-e-gratuita-online-per-mp3-con-movavi-risorse-utili/"><u>Conversione Video Libera E Gratuita Online per MP3 Con Movavi - Risorse Utili!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/convert-and-save-your-favorite-udacity-lectures-as-mp4-or-avi-files/"><u>Convert and Save Your Favorite Udacity Lectures as MP4 or AVI Files</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-mp4s-from-xhamster-directly-the-easy-guide-using-a-reliable-video-downloader/"><u>Download MP4s From XHamster Directly: The Easy Guide Using a Reliable Video Downloader</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-guide-to-downloading-vh1-hits-collection-from-any-computer/"><u>Easy Guide to Downloading VH1 Hits Collection From Any Computer</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-video-capture-from-izlesene-convert-and-save-in-mp4avi-for-offline-enjoyment/"><u>Effortless Video Capture From Izlesene: Convert and Save in MP4/AVI for Offline Enjoyment</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-11-pro-max-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-get-high-quality-movies-downloaded-from-fandor-as-mp4-avi-mov-mkv-and-wmv-files/"><u>How to Get High-Quality Movies Downloaded From Fandor as MP4, AVI, MOV, MKV & WMV Files!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-converting-afreecatv-content-into-mp4-format-on-macwindows/"><u>Step-by-Step Guide: Converting AfreecaTV Content Into MP4 Format on Mac/Windows</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-downloading-zumba-exercprise-videos-in-various-formats-for-windowsmac-users/"><u>Step-by-Step Tutorial: Downloading Zumba Exercprise Videos in Various Formats for Windows/Mac Users</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-rated-udemy-app-compatible-with-mac-and-multiple-windows-versions-by-allavsoft/"><u>Top Rated Udemy App Compatible with Mac & Multiple Windows Versions by Allavsoft</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-d3dx-library-how-to-address-d3dx925dll-errors/"><u>Troubleshooting the D3DX Library: How to Address d3dx9_25.dll Errors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamline-your-playback-the-ultimate-guide-to-roblox-replays-on-a-mac/"><u>[New] 2024 Approved Streamline Your Playback The Ultimate Guide to Roblox Replays on a Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-the-best-iphone-and-ipad-videos-top-10/"><u>[New] 2024 Approved The Ultimate Guide to the Best iPhone & iPad Videos (Top 10)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-10plus-top-tips-for-accessing-the-best-of-international-cricket-online/"><u>[New] In 2024, 10+ Top Tips for Accessing the Best of International Cricket Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-high-definition-recordings-picking-the-best-frame-rate-wisely/"><u>[New] In 2024, High-Definition Recordings Picking the Best Frame Rate Wisely</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-leveraging-finalcut-pro-for-high-quality-youtube-production/"><u>[New] Leveraging FinalCut Pro for High-Quality YouTube Production</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unleashing-potential-in-screen-recording-expertise-in-adobe-captivate/"><u>[New] Unleashing Potential in Screen Recording Expertise in Adobe Captivate</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-emulators-pc-edition-ps1-games-for-2024/"><u>[Updated] Best Emulators PC Edition - PS1 Games for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-rely-on-chatgpt-for-precise-mathematics-problem-solving-assistance/"><u>Can You Rely on ChatGPT for Precise Mathematics Problem-Solving Assistance?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-ways-to-access-phone-sms-via-pc-complete-tutorial/"><u>Easy Ways to Access Phone SMS via PC - Complete Tutorial</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-characteristics-of-effective-drivers/"><u>Essential Characteristics of Effective Drivers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-group-theory-in-mathematics-key-concepts-and-applications/"><u>Exploring Group Theory in Mathematics: Key Concepts and Applications</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/googles-pixel-5-examined-striking-balance-between-humble-performance/"><u>Google's Pixel 5 Examined: Striking Balance Between Humble Performance</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-retrieve-the-vid-and-pid-numbers-for-any-computer-or-peripheral/"><u>How to Retrieve the VID and PID Numbers for Any Computer or Peripheral</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-videos-best-collage-makers-for-ios-devices/"><u>In 2024, Create Stunning Videos Best Collage Makers for iOS Devices</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/personalized-user-designed-action-panel/"><u>Personalized User-Designed Action Panel</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/retrieve-lost-android-messages-effective-techniques-using-sms-recovery-apps/"><u>Retrieve Lost Android Messages: Effective Techniques Using SMS Recovery Apps</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-transferring-data-from-your-oppo-reno-5-smartphone-to-your-computer/"><u>Step-by-Step Guide: Transferring Data From Your Oppo Reno 5 Smartphone to Your Computer</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-strategies-for-efficiently-transforming-keynote-presentations-into-powerpoint-format/"><u>Top Strategies for Efficiently Transforming Keynote Presentations Into PowerPoint Format</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-various-approaches-to-application-deployment/"><u>Understanding Various Approaches to Application Deployment</u></a></li>
 </ul></div>
 

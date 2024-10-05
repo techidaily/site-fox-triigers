@@ -1,7 +1,7 @@
 ---
 title: Key Elements and Settings in Personal User Accounts
-date: 2024-09-27T08:23:40.847Z
-updated: 2024-09-29T19:26:15.139Z
+date: 2024-10-02T21:22:01.371Z
+updated: 2024-10-05T20:06:30.182Z
 tags:
   - user-guide
 categories:
@@ -80,50 +80,24 @@ In this page you can view and set the user account properties.
 
 ![User account properties](https://cdn.advancedinstaller.com/img/ui/user-account-properties.png "User account properties")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Description
 
 Remarks associated with the user account.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Password
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Password
 
 User account password.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This password is ignored if you set a password property.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Confirm Password
 
@@ -135,13 +109,20 @@ Property used if you want that password to be set at install time by the user.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you set password property you must also create a new dialog where the user will enter the password. You can do that using the [Dialog Editor](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Attributes
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### User cannot change password
@@ -163,10 +144,10 @@ The user profile folder will be deleted along with the (interactive) user accoun
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The user profile folder gets created at first user logon and is located under under C:\\Document and Settings\\<username> on XP or underC:\\Users\\<username> on Vista or above.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Member Of
@@ -174,10 +155,10 @@ The user profile folder will be deleted along with the (interactive) user accoun
 You can make user member of a group.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Make user member of a group
@@ -190,6 +171,13 @@ Use the \[Remove \] button, the “Remove” list context menu item or press the
 
 ## Error Policy
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fail if the user already exists
 
 The installation process is terminated if the defined user already exists on the target machine.
@@ -198,16 +186,16 @@ The installation process is terminated if the defined user already exists on the
 
 If the defined user is already present on the target machine, selecting this options ensures the user creation operation is skipped and the installation process will continue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install Condition
 
 A Windows Installer condition which is evaluated and the result determines the user's installation. If the condition is empty, has a syntax error or is evaluated to true, the user is installed. If the condition evaluated to false, the user is not installed. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -247,18 +235,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/chieving-financial-freedom-joshis-youtube-tactics-for-2024/"><u>[New] Achieving Financial Freedom Joshi’s YouTube Tactics for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafty-laughter-your-adobe-guide-for-2024/"><u>Crafty Laughter Your Adobe Guide for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-exclusive-video-content-from-e-patterns-central-hub/"><u>Download Exclusive Video Content From E-Patterns Central Hub</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-repairing-nonfunctional-pc-mic-on-sony-wh-1000xm-headphones-wh-1000xm34/"><u>Expert Guide: Repairing Nonfunctional PC Mic on Sony WH-1000XM Headphones (WH-1000XM3/4)</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/get-your-favorite-cmt-hits-easy-mp3-and-mp4-file-options-for-online-listening/"><u>Get Your Favorite CMT Hits - Easy MP3 & MP4 File Options for Online Listening</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-reinstates-problem-overcome/"><u>GPU Reinstates, Problem Overcome</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-refinement-of-screen-focus-how-to-zoom-on-microsoft-teams/"><u>In 2024, Refinement of Screen Focus How to Zoom on Microsoft Teams</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/quick-steps-for-saving-your-macs-desktop/"><u>Quick Steps for Saving Your Mac's Desktop</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-instructions-on-how-to-save-docmeded-lectures-as-various-video-and-audio-files/"><u>Step-by-Step Instructions on How to Save DocmedED Lectures as Various Video and Audio Files</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-for-saving-streamango-content-in-mp4avi-format-directly-from-the-site/"><u>Step-by-Step Tutorial for Saving Streamango Content in MP4/AVI Format Directly From the Site</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unique-gifting-made-simple-discover-top-10-custom-box-sellers-for-2024/"><u>Unique Gifting Made Simple Discover Top 10 Custom Box Sellers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-from-monochrome-to-motion-the-ultimate-guide-to-making-videos-with-pixiz/"><u>[New] From Monochrome to Motion The Ultimate Guide to Making Videos with Pixiz</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hope-on-the-big-screen-top-10-cinematic-power-ups/"><u>[New] Hope on the Big Screen Top 10 Cinematic Power-Ups</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-blitzing-through-images-on-win11/"><u>[Updated] Blitzing Through Images on Win11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-10-social-media-tag-analyzers-fb-twt-and-insta/"><u>[Updated] Top 10 Social Media Tag Analyzers FB, Twt & Insta</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/best-7-airdroid-substitutes-enhance-your-mobile-experience/"><u>Best 7 AirDroid Substitutes: Enhance Your Mobile Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-productivity-in-distance-collaborations-utilizing-chatgpt-for-remote-team-gatherings/"><u>Boosting Productivity in Distance Collaborations: Utilizing ChatGPT for Remote Team Gatherings</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/diy-image-editing-vanish-subjects-from-photos-effortlessly-without-adobe/"><u>DIY Image Editing: Vanish Subjects From Photos Effortlessly without Adobe</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-htc-u23-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from HTC U23 to Another | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-project-specifications-the-importance-of-the-requirements-tab/"><u>Navigating Project Specifications: The Importance of the Requirements Tab</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-on-acquiring-and-setting-up-a-streaming-sound-recording-tool/"><u>Step-by-Step Tutorial on Acquiring & Setting Up a Streaming Sound Recording Tool</u></a></li>
 </ul></div>
 

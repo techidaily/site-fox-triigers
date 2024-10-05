@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Working with JSON Files on the Web"
-date: 2024-09-29T01:14:45.492Z
-updated: 2024-09-30T01:08:33.014Z
+date: 2024-10-01T16:39:09.104Z
+updated: 2024-10-05T17:07:24.567Z
 tags:
   - user-guide
 categories:
@@ -100,16 +100,22 @@ The JSON File functionality allows you to achieve the following installation tas
 
 The JSON file support can be used for configuring JSON files that are part of the installation package or that are already present on the target system. This feature is very useful if you are deploying an application which requires user specific information, like username or password. The information must be collected during install and must be store in the same JSON file installed by the package. Another case scenario is when an application is upgraded and one or more JSON files must be updated as well, without the need to delete and copy their newer version.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Update files that are part of the installation package
 
 In this case you have an JSON file that you want to install and then update it, all done in the same install package. This is possible because a _regular_ JSON file is installed on the target machine before the JSON changes are applied. In order to achieve this behaviour, first add the JSON file as a _"regular file"._ Then, simply add the same JSON file in the _Windows Installer_ format and by using the [JSON Editor](https://tools.techidaily.com/advancedinstaller/products/) modify the content (an Object, Array, Null, Boolean, Number or String) that you want to create, update or remove.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Update files that are present on the target machine
 
@@ -117,42 +123,36 @@ In this case the JSON file is present on the target machine. Simply add the JSON
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When the JSON Files are used to configure a file from the installation package, use the "New JSON File" option to create a new JSON update with the same name and installation directory.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating new JSON Files
 
 ![New JSON File](https://cdn.advancedinstaller.com/img/toolbar/json-new.png "New JSON File")Use the \[New JSON File \] toolbar button or the “New JSON File” tree/list context menu item.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an existing JSON File
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button, the “Properties...” list context menu item, press theEnter key while a JSON file is selected in the “Files” panel or double click on a JSON file.
 
+![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)JSON files can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)JSON files can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -192,21 +192,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-infinite-artistic-possibilities-with-top-10-apps/"><u>[New] Explore Infinite Artistic Possibilities with Top 10 Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-you-have-been-disconnected-from-blizzard-services/"><u>[SOLVED] You Have Been Disconnected From Blizzard Services</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-auditory-enhancements-adding-sound-effectively-powerpoint-for-2024/"><u>[Updated] Auditory Enhancements Adding Sound Effectively (PowerPoint) for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-hardware-with-tom-comprehensive-guides-and-insights/"><u>Exploring Computer Hardware with Tom - Comprehensive Guides & Insights</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/inputting-symbols-as-you-type-with-flipbuilder-best-practices-and-tips/"><u>Inputting Symbols as You Type with FlipBuilder – Best Practices and Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-gaming-top-console-contenders-to-watch/"><u>Mastering Gaming: Top Console Contenders to Watch</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/no-cost-conversion-service-transform-your-pdfs-into-engaging-flash-ebooks-en-masse/"><u>No Cost Conversion Service - Transform Your PDFs Into Engaging Flash eBooks En Masse</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/sion-conversion-hub-top-10-online-audio-devices-for-2024/"><u>Precision Conversion Hub Top 10 Online Audio Devices for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/quick-printing-guide-extract-and-print-specific-pages-from-e-books-with-flipbuilders-tools/"><u>Quick Printing Guide: Extract & Print Specific Pages From E-Books with FlipBuilder's Tools</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/read-effortlessly-discover-the-power-of-flip-reader-for-fbr-and-zip-format-ebooks-crafted-by-professionals-at-flipbuilder/"><u>Read Effortlessly: Discover the Power of Flip Reader for .fbr & .zip Format eBooks Crafted by Professionals at FlipBuilder</u></a></li>
-<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-free-software-for-turning-videos-into-files-for-2024/"><u>Top Free Software for Turning Videos Into Files for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/transform-your-content-into-engaging-ebooks-a-complete-tutorial-for-creating-realistic-flipbooks-using-flipbuildercom/"><u>Transform Your Content Into Engaging eBooks: A Complete Tutorial for Creating Realistic Flipbooks Using FlipBuilder.com</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/transform-your-sales-brochures-into-interactive-ebooks-with-pdf-to-digital-flipbooks-elevate-your-marketing-game/"><u>Transform Your Sales Brochures Into Interactive eBooks with PDF to Digital Flipbooks - Elevate Your Marketing Game!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-flipbuilder-unveiling-the-purpose-of-folder-files-page-and-large-file-handling/"><u>Understanding FlipBuilder: Unveiling the Purpose of 'Folder', 'Files Page' & 'Large File Handling'</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ideal-high-res-displays-the-best-5-for-ps5-for-2024/"><u>[Updated] Ideal High-Res Displays The Best 5 For PS5 for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-project-configuration-navigating-the-pathway-parameters-section/"><u>1. Project Configuration: Navigating the Pathway Parameters Section</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-comparing-micro-video-formats-the-battle-of-tiktok-and-youtube-shorts/"><u>2024 Approved Comparing Micro-Video Formats The Battle of TikTok and YouTube Shorts</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-15-plusipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 15 Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/boosting-chromes-velocity-a-guide-to-accelerating-your-web-browser-in-5-steps/"><u>Boosting Chrome's Velocity: A Guide to Accelerating Your Web Browser in 5 Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-captivating-unboxing-reels-top-tips-for-success-on-instagram/"><u>Crafting Captivating Unboxing Reels Top Tips for Success on Instagram</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/custom-scripted-conversations-enhancing-user-experience-with-preprogrammed-responses/"><u>Custom Scripted Conversations: Enhancing User Experience with Preprogrammed Responses</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-both-cost-free-and-subscription-based-methods-for-modifying-mts-video-format/"><u>Discover Both Cost-Free and Subscription-Based Methods for Modifying MTS Video Format</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/efficient-coding-with-ishortcutscomponent-streamline-your-development-process/"><u>Efficient Coding with IShortcutsComponent - Streamline Your Development Process</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-11-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 11 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-customize-control-events-within-the-application-settings-window/"><u>How to Customize Control Events Within the Application Settings Window</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-proven-techniques-for-identifying-professional-video-artists/"><u>In 2024, Proven Techniques for Identifying Professional Video Artists</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-stop-snippet-playback-on-youtube/"><u>In 2024, The Ultimate Guide Stop Snippet Playback on YouTube</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-techniques-for-converting-pdfs-into-tiff-format-a-comprehensive-guide/"><u>Top Techniques for Converting PDFs Into TIFF Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-the-characteristics-and-settings-of-plain-text-files/"><u>Understanding the Characteristics and Settings of Plain-Text Files</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/youtube-ad-blocking-mastery-using-malwarefox-a-comprehensive-tutorial-to-enjoy-uninterrupted-videos/"><u>YouTube Ad-Blocking Mastery Using MalwareFox: A Comprehensive Tutorial to Enjoy Uninterrupted Videos</u></a></li>
 </ul></div>
 

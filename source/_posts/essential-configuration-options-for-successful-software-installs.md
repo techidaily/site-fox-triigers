@@ -1,7 +1,7 @@
 ---
 title: Essential Configuration Options for Successful Software Installs
-date: 2024-09-28T08:03:38.877Z
-updated: 2024-09-29T21:47:09.097Z
+date: 2024-09-28T21:10:52.864Z
+updated: 2024-10-05T18:48:10.879Z
 tags:
   - user-guide
 categories:
@@ -85,6 +85,13 @@ Windows Installer properties are used during the installation process.
 
 These values are directly editable, with a suggested set of defaults available in the drop-down lists. Click the \[Edit... \] button to change them through the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Installation Options
 
 ### Package Type
@@ -94,6 +101,13 @@ These values are directly editable, with a suggested set of defaults available i
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the package runs on an x64 processor, the "64-bit package for x64 processors(AMD64, EM64T)" must be selected.
 
 You can read more about the difference between those types in the [Package Types](https://tools.techidaily.com/advancedinstaller/products/) page.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Installation Type
 
@@ -111,14 +125,14 @@ You can read more about the difference between those types in the [Package Types
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The "Per-machine if the user is an administrator, per-user otherwise" option requires "InstallTypeDlg" dialog to be present in [Dialogs page](https://tools.techidaily.com/advancedinstaller/products/)
 
-![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)A per-user installation cannot upgrade a per-machine installation, and a per-machine installation cannot upgrade a per-user installation. However, you can try using a [Preserve Install Type of the old version](https://tools.techidaily.com/advancedinstaller/products/) predefined UI custom action.
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)A per-user installation cannot upgrade a per-machine installation, and a per-machine installation cannot upgrade a per-user installation. However, you can try using a [Preserve Install Type of the old version](https://tools.techidaily.com/advancedinstaller/products/) predefined UI custom action.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)On Windows Vista or above, it is strongly recommended that you do not alter the value of the ALLUSERS property during install.
 
@@ -141,13 +155,6 @@ You can change this default behavior by specifying one of the options below to a
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)A reboot request will discontinue a [chained installation](https://tools.techidaily.com/advancedinstaller/products/). If one of the chained packages requires a reboot, you should suppress it by setting the REBOOT property to ReallySuppress. For the main package, you can set the REBOOT property to Force. This way a reboot will be performed when the chained installation is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Perform the reboot if required without showing any prompts
 
 This option makes the installer perform any required reboots automatically, without prompting the user.
@@ -159,17 +166,10 @@ This option makes the installer perform any required reboots automatically, with
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you select this option, the “Disable Modify” option from “Programs and Features (Control Panel)” will also be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enable Verbose Logging
@@ -183,20 +183,13 @@ Where \* is a random set of letters and numbers.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The **MsiLogFileLocation** is a **Read-only** property and cannot be changed by the package author or by the user. Its value is automatically set**during** the runtime of the installation package.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)This option requires Windows Installer 5.0 on Windows Server 2008 R2 or Windows 7\. Windows Installer 4.0 or Windows Installer 4.5 on Windows Server 2008 or Windows Vista, Windows Installer 4.5 on Windows Server 2003 or Windows XP to work properly.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Execution Level
@@ -208,6 +201,13 @@ Where \* is a random set of letters and numbers.
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Run as administrator does not work for MSI packages launched in maintenance mode.
 
 **Execution level...** \- this link displays the EXE bootstrapper's [Execution Level Settings](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Minimize Installation Time
 
@@ -230,13 +230,32 @@ Requirements:
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)On Windows 7 and above when _Fast Installation_ option is used, the standard users access to installed files will be restricted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The three following options can be used together but are ignored on machines with Windows Installer 4.0 or older. The installation time can be decreased with these options only when **Windows Installer 4.5** or higher is found on the target machine.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Don't save system restore points for installation
 
@@ -249,13 +268,6 @@ If this option is set, Windows Installer will perform only file costing, ignorin
 ### Reduce the frequency of progress messages
 
 If this option is set, the installation progress is updated less frequently.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -295,22 +307,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-stepwise-process-of-animated-image-crafting-gif/"><u>[New] Stepwise Process of Animated Image Crafting (GIF)</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/build-your-own-material-dashboard-for-free-using-vue-laravel-and-json-api-comprehensive-guide-from-creativetim/"><u>Build Your Own Material Dashboard for Free Using Vue, Laravel, and JSON API - Comprehensive Guide From @CreativeTim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/create-your-blogs-best-impressions-with-our-no-cost-nextjstailwind-template-by-creative-tim-get-it-here/"><u>Create Your Blog's Best Impressions with Our No-Cost NextJS/Tailwind Template by Creative Tim – Get It Here!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-bootstrap-5-material-admin-a-complimentary-material-dashboard-experience/"><u>Creative Tim's Bootstrap 5 Material Admin - A Complimentary Material Dashboard Experience</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-mailto-universe-adaptable-html-email-designs-for-seamless-communication/"><u>Creative Tim's Mailto Universe: Adaptable HTML Email Designs for Seamless Communication</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-premium-zero-cost-bootstrap-and-materialize-css-framework-collection-for-web-developers/"><u>Creative Tim's Premium, Zero-Cost Bootstrap & Materialize CSS Framework Collection for Web Developers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/discover-a-collection-of-more-than-23-elegant-papersite-design-patterns-code-plus-learn-with-creatify/"><u>Discover a Collection of More than 23 Elegant Papersite Design Patterns | Code + Learn with Creatify</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-the-blk-angular-framework-for-free-an-integrated-design-suite-for-bootstrap-and-angular-based-projects-by-creative-tim/"><u>Download the BLK Angular Framework for Free: An Integrated Design Suite for Bootstrap and Angular-Based Projects by Creative Tim</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/expert-level-bootstrap-pro-ui-framework-for-vue-developers-ultimate-admin-template-by-creative-tim/"><u>Expert-Level Bootstrap PRO UI Framework for Vue Developers - Ultimate Admin Template by Creative Tim</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c12-plus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C12 Plus</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-c12-plus-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nokia C12 Plus Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seeking-excellence-prime-free-srt-online-translators-guide/"><u>In 2024, Seeking Excellence Prime Free SRT Online Translators Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-pova-5-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Pova 5 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-8-3d-websites-with-stunning-gold-text-visuals-for-2024/"><u>Top 8 3D Websites with Stunning Gold Text Visuals for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/transitioning-between-nintendo-switch-territories/"><u>Transitioning Between Nintendo Switch Territories</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ng-beauty-blogging-into-cash-for-2024/"><u>Turning Beauty Blogging Into Cash for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-asus-rog-phone-8-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Asus ROG Phone 8? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-streamline-overload-efficiently-editing-oversized-tiktok-drafts/"><u>[New] In 2024, Streamline Overload Efficiently Editing Oversized TikTok Drafts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-reactivate-and-enhance-photo-viewing-with-ease-win-11/"><u>2024 Approved Reactivate and Enhance Photo Viewing with Ease (Win 11)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-chatbot-limitations-in-generating-genuine-product-keys-for-windows-11-what-you-need-to-know/"><u>AI Chatbot Limitations in Generating Genuine Product Keys for Windows 11: What You Need to Know</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comprehensive-guide-working-with-json-files-on-the-web/"><u>Comprehensive Guide: Working with JSON Files on the Web</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-summary-of-project-goals-progress-and-results/"><u>Essential Summary of Project Goals, Progress, and Results</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-ini-settings-within-windows-file-management-interface/"><u>Exploring INI Settings Within Windows File Management Interface</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guide-how-to-effortlessly-watch-wmv-files-on-your-iphone/"><u>Guide: How to Effortlessly Watch WMV Files on Your iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-xiaomi-14-ultra-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Xiaomi 14 Ultra Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-maximizing-video-reach-sharing-twitters-content-on-facebooks/"><u>In 2024, Maximizing Video Reach Sharing Twitters' Content on Facebooks</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/itunes-version-121-common-issues-and-troubleshooting-tips/"><u>ITunes Version 12.1 - Common Issues and Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nier-automata-pc-troubleshooting-steps-to-avoid-in-game-crashes/"><u>Nier Automata PC Troubleshooting: Steps to Avoid In-Game Crashes</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-fastcgi-configuration-for-improved-server-performance/"><u>Optimizing FastCGI Configuration for Improved Server Performance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/solve-your-non-playable-udf-dvd-issue-effortlessly-with-winx-dvd-ripper-techniques/"><u>Solve Your Non-Playable UDF DVD Issue Effortlessly with WinX DVD Ripper Techniques</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transforming-rmvb-files-to-avi-format-a-step-by-step-guide-for-quick-and-cost-free-conversion-online/"><u>Transforming RMVB Files to AVI Format: A Step-by-Step Guide for Quick & Cost-Free Conversion Online</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/unraveling-the-dependencies-of-imsixdriver-in-your-system/"><u>Unraveling the Dependencies of IMsixDriver in Your System</u></a></li>
 </ul></div>
 

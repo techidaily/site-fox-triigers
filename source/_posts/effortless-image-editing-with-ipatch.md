@@ -1,7 +1,7 @@
 ---
 title: Effortless Image Editing with IPatch
-date: 2024-09-24T10:29:45.204Z
-updated: 2024-09-30T09:11:52.895Z
+date: 2024-10-04T19:24:49.434Z
+updated: 2024-10-05T19:18:15.763Z
 tags:
   - user-guide
 categories:
@@ -122,10 +122,10 @@ Table of Contents
 IPatchImages : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -133,10 +133,10 @@ IPatchImages : IDispatch
 This interface is meant for managing upgraded images.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -144,10 +144,10 @@ This interface is meant for managing upgraded images.
 **Array<IPatchUpgradeImage> UpgradedImages** \- Gets the collection of the patch upgraded images.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -158,10 +158,10 @@ This interface is meant for managing upgraded images.
 **DeleteImage(IPatchUpgradeImage aImage)** Deletes the upgraded image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -203,24 +203,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/professional-fixes-enhance-dull-iphone-hdri-expert-tips-for-premiere-pro-users/"><u>[Professional Fixes] Enhance Dull iPhone HDRI Expert Tips for Premiere Pro Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-a-curated-list-of-happiness-crying-combo-on-instagram-pages/"><u>[Updated] 2024 Approved A Curated List of Happiness-Crying Combo on Instagram Pages</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-marketers-best-friend-20-words-that-work-wonders/"><u>[Updated] The Marketer's Best Friend - 20 Words That Work Wonders</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/a-step-by-step-guide-creating-a-seamless-image-rotator-with-photos-from-your-digital-camera-on-flipbuilder/"><u>A Step-by-Step Guide: Creating a Seamless Image Rotator with Photos From Your Digital Camera on FlipBuilder</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/access-free-top-notch-design-templates-and-seamless-thumbnail-integration-at-flipbuildercom/"><u>Access Free Top-Notch Design Templates and Seamless Thumbnail Integration at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/achieve-perfect-mobile-display-with-your-converters-book-on-flipbuildercom-step-by-step-tips-and-tricks/"><u>Achieve Perfect Mobile Display with Your Converters' Book on FlipBuilder.com - Step-by-Step Tips and Tricks</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/can-professionals-help-you-rotate-photos-sideways-on-flipbuildercom/"><u>Can Professionals Help You Rotate Photos Sideways on FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/create-personalized-flipbooks-from-multiple-pdfs-in-one-go-flipbuildercom/"><u>Create Personalized Flipbooks From Multiple PDFs in One Go [FlipBuilder.com]</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/decoding-how-to-effectively-swap-photo-genders-online-a-comprehensive-approach/"><u>Decoding How to Effectively Swap Photo Genders Online A Comprehensive Approach</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722971636933-di-enables-higher-compression-ratios-for-better-thermal-efficiency-due-to-its-ability-to-cool-the-air-charge-and-reduce-knock-risk/"><u>DI Enables Higher Compression Ratios for Better Thermal Efficiency Due to Its Ability to Cool the Air Charge and Reduce Knock Risk</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-steps-set-up-your-site-with-flipbuildercom-to-allow-pdf-downloads-from-your-flipbooks/"><u>Easy Steps: Set Up Your Site with FlipBuilder.com to Allow PDF Downloads From Your Flipbooks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/re-the-best-free-youtube-video-editor-apps-for-android-for-2024/"><u>Explore the Best Free YouTube Video Editor Apps for Android for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-to-setting-up-a-secure-online-flipbook-downloads-on-your-site-with-flipbuilder/"><u>Guide to Setting Up a Secure Online Flipbook Downloads on Your Site with FlipBuilder</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-105-classic-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia 105 Classic Phones with/without a PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-vivo-v30-lite-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo V30 Lite 5G Phone?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/identifying-and-utilizing-specific-keywords-for-personalized-pages-in-flipbuilt-software/"><u>Identifying and Utilizing Specific Keywords for Personalized Pages in FlipBuilt Software</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-unlock-6-figure-videos-top-hashtag-trends/"><u>In 2024, Unlock 6-Figure Videos Top Hashtag Trends</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/savvy-savers-for-your-instagram-treasures-for-2024/"><u>Savvy Savers for Your Instagram Treasures for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-flipbuilder-unveiling-the-purpose-of-folder-files-page-and-large-file-handling/"><u>Understanding FlipBuilder: Unveiling the Purpose of 'Folder', 'Files Page' & 'Large File Handling'</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-compiling-the-top-windows-11-video-capture-tools/"><u>[New] 2024 Approved Compiling the Top Windows 11 Video Capture Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-nextgen-videotron-app-evaluation/"><u>[New] In 2024, NextGen Videotron App Evaluation</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/begin-your-journey-with-iini-entry-point/"><u>Begin Your Journey with Iini Entry Point</u></a></li>
+<li><a href="https://network-issues.techidaily.com/calm-the-currents-resolve-dells-flicker/"><u>Calm the Currents: Resolve Dell's Flicker</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-se-2022-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone SE (2022)? Learn All 4 Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/ipados-masterpieces-best-pencil-programs-for-2024/"><u>IPadOS Masterpieces Best Pencil Programs for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-screen-captures-a-step-by-step-guide-to-taking-screenshots-in-windows-10/"><u>Mastering Screen Captures: A Step-by-Step Guide to Taking Screenshots in Windows 10</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/merge-several-pdf-documents-on-pc-or-mac-with-simple-methods/"><u>Merge Several PDF Documents on PC or Mac with Simple Methods</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-the-configuration-options-section-a-guide-to-environmental-parameters/"><u>Navigating the Configuration Options Section: A Guide to Environmental Parameters</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/straightforward-guide-how-to-easily-retrieve-and-store-veehd-content/"><u>Straightforward Guide: How to Easily Retrieve and Store VeeHD Content</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-7-leading-computer-diagnostic-tools-preferred-by-it-professionals/"><u>Top 7 Leading Computer Diagnostic Tools Preferred by IT Professionals</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-pinnacle-studio-replacements-for-mac/"><u>Updated In 2024, Top Pinnacle Studio Replacements for Mac</u></a></li>
 </ul></div>
 
