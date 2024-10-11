@@ -1,7 +1,7 @@
 ---
 title: Custom Action Implementation in IDotNet Framework
-date: 2024-10-03T19:55:01.980Z
-updated: 2024-10-05T20:47:31.099Z
+date: 2024-10-08T04:23:32.465Z
+updated: 2024-10-11T01:47:54.005Z
 tags:
   - user-guide
 categories:
@@ -129,9 +129,23 @@ Table of Contents
 
 IDotNetCustomAction : ICustomAction
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Overview
 
 This is a custom action that launches a .NET Assembly. The assembly must have a class that inherits the Installer class with the RunInstaller attribute set to true.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -142,10 +156,10 @@ This is a custom action that launches a .NET Assembly. The assembly must have a 
 **Array<INetParameter> Parameters** \- Gets the collection or parameters to pass information to your custom action.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -155,16 +169,10 @@ This is a custom action that launches a .NET Assembly. The assembly must have a 
 **RemoveParameter(INetParameter aParameter)** \- Removes and destroys the specified parameter.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Examples
@@ -174,13 +182,6 @@ $project = $advinst.CreateProjectS(“architect”)
 $dllFile = $project.FilesComponent.AddFileS("appdir", "D:\DotNetCustomAction.dll")
 $custActs = $project.CustomActionsComponent.NewLaunchInstalledFile($dllFile)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## There are 2 custom actions because “DotNetCustomAction.dll” is build for “Any CPU” platform
 $custActs[0].ConfigFilePath = "[TempFolder]DotNetCustomAction.dll_Config.xml"
 $custActs[0].AddParameter("new parameter", "parameter value")
@@ -188,13 +189,6 @@ $custActs[1].ConfigFilePath = "[TempFolder]DotNetCustomAction.dll_Config.xml"
 $custActs[1].AddParameter("new parameter", "parameter value")
 
 Copy
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -235,18 +229,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-android-facetime-a-step-by-step-guide/"><u>[New] Mastering Android FaceTime A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfect-guide-iosipad-podcast-recording-tips-for-engaging-interviews/"><u>[Updated] 2024 Approved Perfect Guide IOS/iPad Podcast Recording Tips for Engaging Interviews</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-how-to-enable-or-disable-pip-in-youtube-for-mobile-phones/"><u>[Updated] How to Enable or Disable PIP in YouTube for Mobile Phones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-the-best-4-ringtone-providers/"><u>2024 Approved Exclusive Guide The Best 4 Ringtone Providers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/comprehensive-language-translation-hub/"><u>Comprehensive Language Translation Hub</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-dormancy-defeated-by-stellar-recovery-pros/"><u>Data Dormancy Defeated by Stellar Recovery Pros</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-techniques-for-expertly-shortening-your-videos-a-beginners-guide/"><u>Effortless Techniques for Expertly Shortening Your Videos - A Beginner's Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ensuring-your-safety-a-step-by-step-guide-to-verifying-the-security-of-downloads/"><u>Ensuring Your Safety - A Step-by-Step Guide to Verifying the Security of Downloads</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-redmi-12-5g-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Redmi 12 5G with Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/pros-and-cons-of-using-two-different-antivirus-applications-together-as-analyzed-by-malwarefox/"><u>Pros and Cons of Using Two Different Antivirus Applications Together as Analyzed by MalwareFox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-find-functionality-a-step-by-step-guide-for-win11-users/"><u>Quick Find Functionality – A Step-by-Step Guide for Win11 Users</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/seamless-steps-for-free-transforming-your-favorite-youtube-content-into-a-playable-dvd/"><u>Seamless Steps for FREE: Transforming Your Favorite YouTube Content Into a Playable DVD</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-rogue-companys-pc-performance-problems-a-comprehensive-guide/"><u>Solving Rogue Company's PC Performance Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-4-effective-ways-to-captivate-ig-audiences-with-loop-videos/"><u>[New] 4 Effective Ways to Captivate IG Audiences with Loop Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-from-frame-by-frame-filmmaking-to-financial-flourishing/"><u>[New] In 2024, From Frame-by-Frame Filmmaking to Financial Flourishing</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comprehensive-techniques-for-secure-packaging-authentication/"><u>Comprehensive Techniques for Secure Packaging Authentication</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensuring-optimal-performance-downloading-display-drivers-for-toshiba-satellite-notebooks-in-windows-environment/"><u>Ensuring Optimal Performance: Downloading Display Drivers for Toshiba Satellite Notebooks in Windows Environment</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-pre-launch-checklist-for-software-releases/"><u>Essential Pre-Launch Checklist for Software Releases</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-effective-techniques-to-rectify-sound-issues-in-your-powerpoint-slideshows/"><u>Expert Advice: Effective Techniques to Rectify Sound Issues in Your PowerPoint Slideshows</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-the-essential-attributes-of-interfaces-in-programming/"><u>Exploring the Essential Attributes of Interfaces in Programming</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-the-various-vm-configuration-settings/"><u>Exploring the Various VM Configuration Settings</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/getting-started-with-apowersoft-a-comprehensive-tutorial-on-their-free-sound-recording-tool/"><u>Getting Started with Apowersoft: A Comprehensive Tutorial on Their Free Sound Recording Tool</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sportswomens-scorecard-poker-analysis/"><u>In 2024, SPORTSWOMEN'S SCORECARD Poker Analysis</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-knowledge-proven-strategies-for-successful-and-productive-studying/"><u>Mastering Knowledge: Proven Strategies for Successful and Productive Studying</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oppo-a38-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Oppo A38</u></a></li>
+<li><a href="https://extra-support.techidaily.com/screen-spectacular-sj6-vs-yi-4k-edition-for-2024/"><u>Screen Spectacular SJ6 Vs. Yi 4K Edition for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-on-incorporating-individuals-into-images/"><u>Step-by-Step Guide on Incorporating Individuals Into Images</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-extended-size-mousepads-a-comprehensive-guide/"><u>Top Rated Extended-Size Mousepads : A Comprehensive Guide</u></a></li>
 </ul></div>
 

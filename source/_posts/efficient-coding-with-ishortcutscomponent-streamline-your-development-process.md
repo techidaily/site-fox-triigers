@@ -1,7 +1,7 @@
 ---
 title: Efficient Coding with IShortcutsComponent - Streamline Your Development Process
-date: 2024-09-30T18:03:21.305Z
-updated: 2024-10-05T17:22:13.790Z
+date: 2024-10-04T00:17:42.783Z
+updated: 2024-10-10T23:48:11.650Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 This interface creates new shortcuts and gets all the existing shortcuts from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ This interface creates new shortcuts and gets all the existing shortcuts from th
 IShortcutsComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -137,10 +137,10 @@ IShortcutsComponent : IDispatch
 **Array<IShorcut> Shortcuts** \- Gets all the shortcuts from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -155,10 +155,16 @@ CreateFolderShorcut(IFolder **Folder**, IFolder**TargetFolder**) - returns IFold
 \- Creates a new shortcut for the specified **TargetFolder**, in the desired**Folder**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -202,19 +208,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-crafting-viral-stories-the-top-15-tips-for-snapchat-posts-for-2024/"><u>[New] Crafting Viral Stories The Top 15 Tips for Snapchat Posts for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-radiant-reels-elevate-your-visuals-with-3-insta-tactics/"><u>[New] In 2024, Radiant Reels Elevate Your Visuals with 3 Insta Tactics</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1-ultimate-guide-resolving-netflix-issues-and-overcoming-streaming-obstacles/"><u>1. Ultimate Guide: Resolving Netflix Issues and Overcoming Streaming Obstacles</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/advanced-xpath-querying-techniques-and-ixmlsearch-strategies/"><u>Advanced XPath Querying Techniques and IXMLSearch Strategies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-a58-4g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo A58 4G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-s17-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo S17 Pro Device SIM</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-steps-to-incorporate-tunes-into-your-instagram-stories/"><u>Easy Steps to Incorporate Tunes Into Your Instagram Stories</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-the-features-mastering-the-operations-tab-within-windows-registry/"><u>Exploring the Features: Mastering the Operations Tab Within Windows Registry</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-tool-transforming-wma-files-into-3gp-format-with-ease/"><u>Free Online Tool: Transforming WMA Files Into 3GP Format with Ease</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/seamless-transition-moving-your-blackberry-contacts-to-an-iphone-6-or-iphone-5s/"><u>Seamless Transition: Moving Your BlackBerry Contacts to an iPhone 6 or iPhone 5S</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/en-entrepreneurial-youtube-outlets-and-tips/"><u>Top Ten Entrepreneurial YouTube Outlets & Tips</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-of-2024s-best-handheld-consoles-for-gamers-on-the-go/"><u>Ultimate List of 2024'S Best Handheld Consoles for Gamers On-the-Go</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ultimate-tips-for-cleaning-up-pictures-by-eliminating-smileys/"><u>Ultimate Tips for Cleaning Up Pictures by Eliminating Smileys</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-innovation-in-motion-youtube-angle-changes/"><u>[New] 2024 Approved Innovation in Motion Youtube Angle Changes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-audio-adventurers-guide-navigating-between-podcasts-and-youtube-for-2024/"><u>[New] Audio Adventurer’s Guide Navigating Between Podcasts & YouTube for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-mastering-the-art-of-extraction-engaging-conversations-in-archiving/"><u>1. Mastering the Art of Extraction: Engaging Conversations in Archiving</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-movie-saving-on-az-movies-download-from-azmto-today/"><u>Easy Movie Saving on AZ Movies: Download From AZM.to Today!</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-pre-launch-checklist-for-software-releases/"><u>Essential Pre-Launch Checklist for Software Releases</u></a></li>
+<li><a href="https://extra-information.techidaily.com/experts-picks-top-5-free-screen-recorders-for-pc-users/"><u>Expert's Picks Top 5 Free Screen Recorders For PC Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-seamlessly-sync-songs-with-your-iphone-by-bypassing-itunes/"><u>How to Seamlessly Sync Songs with Your iPhone by Bypassing iTunes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boosting-videos-the-best-5-tech-aids/"><u>In 2024, Boosting Videos The Best 5 Tech Aids</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-note-30-vip-racing-edition-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Note 30 VIP Racing Edition Device</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-knowledge-proven-strategies-for-successful-and-productive-studying/"><u>Mastering Knowledge: Proven Strategies for Successful and Productive Studying</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-through-the-xml-settings-section-a-comprehensive-guide/"><u>Navigating Through the XML Settings Section: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-through-virtual-realms-with-headgear-for-2024/"><u>Navigating Through Virtual Realms with Headgear for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-service-configuration-with-iservicesetup/"><u>Optimizing Service Configuration with IServiceSetup</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-on-incorporating-individuals-into-images/"><u>Step-by-Step Guide on Incorporating Individuals Into Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-persistent-usb-connection-issues/"><u>Ultimate Guide: Resolving Persistent USB Connection Issues</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
 </ul></div>
 

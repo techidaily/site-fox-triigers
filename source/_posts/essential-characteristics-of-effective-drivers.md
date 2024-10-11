@@ -1,7 +1,7 @@
 ---
 title: Essential Characteristics of Effective Drivers
-date: 2024-09-29T21:09:46.790Z
-updated: 2024-10-05T18:29:57.756Z
+date: 2024-10-06T05:39:58.145Z
+updated: 2024-10-10T17:09:53.248Z
 tags:
   - user-guide
 categories:
@@ -77,15 +77,28 @@ Table of Contents
 
 ![Driver properties](https://cdn.advancedinstaller.com/img/ui/driver-properties.png "Driver properties")  
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Driver Name
 
  The name displayed in the available drivers list on the target machine (in ODBC Data Source Administrator). This name must be unique and it will also be displayed in the “Drivers” tree folder. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File
@@ -93,10 +106,10 @@ Table of Contents
  The path to the driver file. This file must be already included in your project. 
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setup File
@@ -104,10 +117,16 @@ Table of Contents
  The DLL file that installs the above driver on the target machine. The setup file may be absent and in this case it is considered that the DLL driver file embeds the functionality of a driver setup file as well. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attributes
@@ -119,13 +138,6 @@ Table of Contents
 * Press the \[Remove \] button, use the “Remove” context menu item or press theDelete key to remove the attribute selected in the list.
 
 In the [Edit Attribute Dialog](https://tools.techidaily.com/advancedinstaller/products/) you can modify the attribute name and value.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -165,22 +177,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-12-ultimate-relaxing-pc-titles/"><u>2024 Approved Top 12 Ultimate Relaxing PC Titles</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/custom-action-implementation-in-idotnet-framework/"><u>Custom Action Implementation in IDotNet Framework</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/dynamic-settings-selector-the-easy-to-use-environment-variables-interface/"><u>Dynamic Settings Selector: The Easy-to-Use Environment Variables Interface</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/high-ranking-nintendo-switch-brawlers-index-max-156-for-2024/"><u>High-Ranking Nintendo Switch Brawlers Index (Max 156) for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-5-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 5 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-final-cut-pros-top-effect-enhancers-the-essential-10/"><u>In 2024, Final Cut Pro's Top Effect Enhancers The Essential 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y100-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y100 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/looms-labyrinth-navigating-screen-record-art/"><u>Loom's Labyrinth Navigating Screen Record Art</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-tamper-protection-on-windows-n-tech-tips-and-tricks-by-experts-at-malwarefox/"><u>Mastering Tamper Protection on Windows N-Tech: Tips & Tricks by Experts at MalwareFox</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-website-customization-and-control-panel-setup/"><u>Mastering Website Customization & Control Panel Setup</u></a></li>
-<li><a href="https://driver-install.techidaily.com/medd-for-windows-107-installation/"><u>MEDD for Windows 10/7 Installation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resurrect-vanished-desktop-panes-methods-for-retrieving-hidden-windows/"><u>Resurrect Vanished Desktop Panes: Methods for Retrieving Hidden Windows</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/setup-page-software-deployment-options-and-preferences/"><u>Setup Page – Software Deployment Options & Preferences</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-solutions-for-re-enabling-a-disabled-ios-device/"><u>Step-by-Step Solutions for Re-Enabling a Disabled iOS Device</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/streamline-your-app-with-the-imergemodule-seamless-integration-techniques/"><u>Streamline Your App with the IMergeModule - Seamless Integration Techniques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-essential-wearable-for-continuous-health-monitoring-insights-into-the-fitbit-inspire-hr-tracker/"><u>The Essential Wearable for Continuous Health Monitoring: Insights Into the Fitbit Inspire HR Tracker</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ultimate-guide-on-how-to-fuse-videos-perfectly/"><u>Ultimate Guide on How to Fuse Videos Perfectly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-money-mastery-from-clicks-to-checkbook-balance/"><u>[New] 2024 Approved YouTube Money Mastery From Clicks to Checkbook Balance</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-seamless-integration-of-snapchat-on-apples-laptops/"><u>[New] In 2024, Seamless Integration of Snapchat on Apple's Laptops</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-comprehensive-guide-to-previewing-facebooks-hidden-activities-for-2024/"><u>[Updated] A Comprehensive Guide to Previewing Facebook's Hidden Activities for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-freeze-entire-browser-sheet/"><u>[Updated] Freeze Entire Browser Sheet</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/custom-scripted-conversations-enhancing-user-experience-with-preprogrammed-responses/"><u>Custom Scripted Conversations: Enhancing User Experience with Preprogrammed Responses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-15-no-fee-bootable-security-solutions-revealed/"><u>Expert Picks: 15 No-Fee Bootable Security Solutions Revealed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-your-fpv-flight-with-optimal-blades/"><u>In 2024, Revolutionizing Your FPV Flight with Optimal Blades</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-6-plus-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-project-specifications-the-importance-of-the-requirements-tab/"><u>Navigating Project Specifications: The Importance of the Requirements Tab</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-on-acquiring-and-setting-up-a-streaming-sound-recording-tool/"><u>Step-by-Step Tutorial on Acquiring & Setting Up a Streaming Sound Recording Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-no-sync-option-on-steam-library-error/"><u>Tackling the No Sync Option on Steam Library Error</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-techniques-for-converting-pdfs-into-tiff-format-a-comprehensive-guide/"><u>Top Techniques for Converting PDFs Into TIFF Format: A Comprehensive Guide</u></a></li>
 </ul></div>
 

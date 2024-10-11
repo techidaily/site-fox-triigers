@@ -1,7 +1,7 @@
 ---
 title: "Member Profile Enrollment: Joining the Directory"
-date: 2024-09-29T17:14:01.418Z
-updated: 2024-10-05T16:31:41.722Z
+date: 2024-10-05T03:36:20.031Z
+updated: 2024-10-10T18:02:30.377Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 This interface allows to edit base information about a directory member.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +122,10 @@ This interface allows to edit base information about a directory member.
 IDirectoryMember : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -139,10 +139,10 @@ IDirectoryMember : IDispatch
 **String Type** \- Gets the type of the directory member as a string.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -152,10 +152,10 @@ IDirectoryMember : IDispatch
 * **DeleteFile()** \- This method deletes the directory member from the project. The object on which this method is called is no longer available for editing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -201,21 +201,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-tips-for-youtube-shorts-success/"><u>[New] In 2024, Essential Tips for YouTube Shorts Success</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-legality-taking-content-offline/"><u>[Updated] 2024 Approved YouTube Legality Taking Content Offline</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/comprehensive-language-translation-hub/"><u>Comprehensive Language Translation Hub</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-google-hangouts-origin-features-and-evolution-over-time/"><u>Demystifying Google Hangouts: Origin, Features, and Evolution Over Time</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-techniques-for-expertly-shortening-your-videos-a-beginners-guide/"><u>Effortless Techniques for Expertly Shortening Your Videos - A Beginner's Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ensuring-your-safety-a-step-by-step-guide-to-verifying-the-security-of-downloads/"><u>Ensuring Your Safety - A Step-by-Step Guide to Verifying the Security of Downloads</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/eradicating-the-google-safety-alert-infection-a-step-by-step-guide-with-malwarefox/"><u>Eradicating the Google Safety Alert Infection: A Step-by-Step Guide with MalwareFox</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/fast-filtration-solutions/"><u>Fast Filtration Solutions</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 11/iPad | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-z-fold-5-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy Z Fold 5 without App | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/mission-complete-when-will-e2ee-roll-out-in-fb-messenger/"><u>Mission Complete? When Will E2EE Roll Out in FB Messenger?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/revive-missing-images-on-your-galaxy-note-device-with-efficient-data-retrieval-solutions/"><u>Revive Missing Images on Your Galaxy Note Device with Efficient Data Retrieval Solutions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-device-managers-vanishing-bluetooth/"><u>Reviving: Device Manager's Vanishing Bluetooth</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-quickstart-to-srt-to-txt-file-alteration-for-2024/"><u>The Essential Quickstart to SRT to TXT File Alteration for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-rated-presentation-software-for-ios-devices/"><u>Top-Rated Presentation Software for iOS Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-digital-diversions-games-like-grand-theft-auto-v/"><u>[Updated] Digital Diversions Games Like Grand Theft Auto V</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-exitingmycam-entry-to-exceptionalcameras-for-2024/"><u>[Updated] ExitingMyCam Entry to ExceptionalCameras for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-innovate-your-screenshots-unveiling-ezvides-screen-casting-features-for-2024/"><u>[Updated] Innovate Your Screenshots Unveiling EZvide's Screen Casting Features for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pictolaugh-design-humor-graphics-for-2024/"><u>[Updated] PictoLaugh Design Humor Graphics for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/6-users/"><u>6 Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/best-7-airdroid-substitutes-enhance-your-mobile-experience/"><u>Best 7 AirDroid Substitutes: Enhance Your Mobile Experience</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/diy-image-editing-vanish-subjects-from-photos-effortlessly-without-adobe/"><u>DIY Image Editing: Vanish Subjects From Photos Effortlessly without Adobe</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/fastupdateutility-efficient-and-rapid-application-patching-solution/"><u>FastUpdateUtility - Efficient and Rapid Application Patching Solution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-redmi-k70e-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi Redmi K70E Lock Screen Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-swiftly-transform-ogg-audio-to-webm-on-the-internet-no-cost-movavis-guide/"><u>How to Swiftly Transform OGG Audio to WebM on the Internet, No Cost - Movavi's Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-value-360-cameras-delivering-cost-effective-coverage/"><u>In 2024, Top Value 360° Cameras Delivering Cost-Effective Coverage</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/key-session-configurations-boosting-website-engagement-through-effective-management/"><u>Key Session Configurations: Boosting Website Engagement Through Effective Management</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-methods-for-effortlessly-transferring-songs-onto-your-lg-mobile-device/"><u>Top Methods for Effortlessly Transferring Songs Onto Your LG Mobile Device</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/universal-module-merger-component-easy-integration-made-simple/"><u>Universal Module Merger Component: Easy Integration Made Simple</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-mp4-metadata-editors-for-video-enthusiasts/"><u>Updated In 2024, Top MP4 Metadata Editors for Video Enthusiasts</u></a></li>
 </ul></div>
 

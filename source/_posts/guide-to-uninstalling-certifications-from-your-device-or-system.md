@@ -1,7 +1,7 @@
 ---
 title: Guide to Uninstalling Certifications From Your Device or System
-date: 2024-10-03T19:47:42.989Z
-updated: 2024-10-05T20:28:19.694Z
+date: 2024-10-08T19:06:34.083Z
+updated: 2024-10-10T19:23:37.362Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IUninstallCertificate
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IUninstallCertificate : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +148,16 @@ IUninstallCertificate : ICustomAction
 This interface facilitates editing custom action that uninstalls a certificate. It requires administrative privileges to run, so make sure you set "RunAsAdministrator" property to “true” from InstallParameters.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +169,10 @@ This interface facilitates editing custom action that uninstalls a certificate. 
 **String StoreName** \- Gets or sets the name of the certificate store.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,18 +214,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-optimal-voice-capture-systems-reviewed-top-7-2023/"><u>[New] 2024 Approved Optimal Voice Capture Systems Reviewed Top 7 2023</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-scaling-success-the-tactics-for-increasing-youtube-audiences/"><u>[New] In 2024, Scaling Success The Tactics for Increasing YouTube Audiences</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-path-to-precision-audio-a-no-mic-approach-for-2024/"><u>[Updated] The Path to Precision Audio A No-Mic Approach for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unleashing-creativity-the-ultimate-guide-to-crafting-compelling-tiktok-captions/"><u>[Updated] Unleashing Creativity The Ultimate Guide to Crafting Compelling TikTok Captions</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/achieve-better-engagement-with-websites-optimized-using-the-cookiebot-platform/"><u>Achieve Better Engagement with Websites Optimized Using the Cookiebot Platform</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/advanced-xpath-querying-techniques-and-ixmlsearch-strategies/"><u>Advanced XPath Querying Techniques and IXMLSearch Strategies</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elite-tech-navigators-for-the-automotive-world-2024/"><u>Elite Tech Navigators for the Automotive World 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-unrecognized-devices-in-windows-11-8-or-7-easy-guide/"><u>How To Fix Unrecognized Devices in Windows 11, 8 or 7 - Easy Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/identify-and-eliminate-o97mdplinka-trojan-infections-expert-tips-from-malwarefox/"><u>Identify & Eliminate O97M/DPLink.A Trojan Infections - Expert Tips From MalwareFox</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12rfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12RFRP Lock</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimize-and-implement-iidriver-solutions-effectively/"><u>Optimize and Implement IIDriver Solutions Effectively</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/seamless-transition-moving-your-blackberry-contacts-to-an-iphone-6-or-iphone-5s/"><u>Seamless Transition: Moving Your BlackBerry Contacts to an iPhone 6 or iPhone 5S</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/understanding-and-resolving-the-issue-of-missing-shorts-thumbnails-for-2024/"><u>Understanding & Resolving the Issue of Missing Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-evolution-of-video-from-sdr-to-the-era-of-high-dynamic-range/"><u>[New] In 2024, The Evolution of Video From SDR to the Era of High Dynamic Range</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-pick-a-preferred-screen-recorder-app/"><u>[Updated] In 2024, How to Pick a Preferred Screen Recorder App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-today-in-virtual-reality-hardware/"><u>[Updated] In 2024, Today in Virtual Reality Hardware</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-insights-for-accelerating-editing-tasks-efficiently/"><u>2024 Approved Quick Insights for Accelerating Editing Tasks Efficiently</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/evaluating-apowersofts-tech-against-other-screen-recorders-for-2024/"><u>Evaluating Apowersoft's Tech Against Other Screen Recorders for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-the-essential-attributes-of-interfaces-in-programming/"><u>Exploring the Essential Attributes of Interfaces in Programming</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/getting-started-with-apowersoft-a-comprehensive-tutorial-on-their-free-sound-recording-tool/"><u>Getting Started with Apowersoft: A Comprehensive Tutorial on Their Free Sound Recording Tool</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-the-user-experience-with-effective-download-interfaces/"><u>Optimizing the User Experience with Effective Download Interfaces</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-high-pitch-noise-interruptions-in-windows-system-sounds/"><u>Resolve High Pitch Noise Interruptions in Windows System Sounds</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/seamless-slideshows-on-the-go-using-an-android-phone-to-manage-powerpoint/"><u>Seamless Slideshows on the Go: Using an Android Phone to Manage PowerPoint</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/secure-web-hosting-a-guide-to-setting-up-ssl-certificates-on-your-domain/"><u>Secure Web Hosting: A Guide to Setting Up SSL Certificates on Your Domain</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/streamlined-ip-succession-management-software/"><u>Streamlined IP Succession Management Software</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-rated-windows-11-audio-transformation-tool/"><u>Top-Rated Windows 11 Audio Transformation Tool</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-the-package-configuration-pane/"><u>Understanding the Package Configuration Pane</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-magic-of-motion-in-video-text-elements-for-2024/"><u>Unlock the Magic of Motion in Video Text Elements for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-5-free-ai-utilities-for-creating-advanced-email-drafts-and-inbox-summaries-using-chatgpt-technology/"><u>Unlock the Power of 5 FREE AI Utilities for Creating Advanced Email Drafts and Inbox Summaries Using ChatGPT Technology</u></a></li>
 </ul></div>
 

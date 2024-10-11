@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through the XML Settings Section: A Comprehensive Guide"
-date: 2024-09-30T21:19:35.623Z
-updated: 2024-10-05T17:45:50.479Z
+date: 2024-10-03T19:14:48.378Z
+updated: 2024-10-10T16:17:16.750Z
 tags:
   - user-guide
 categories:
@@ -97,13 +97,6 @@ Table of Contents
 
 ![File Settings](https://cdn.advancedinstaller.com/img/dialog/xml-file-settings.png "File Settings")  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## XML Declaration
 
 ### Version
@@ -122,23 +115,10 @@ Select the XML file encoding. The following options are available:
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The specified encoding will be used both in the XML declaration and when encoding the output file. When an XML file already exists and is being updated, the changes are made using the detected encoding from the target file, and not the one specified here.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Standalone
@@ -150,10 +130,17 @@ When enabled the Standalone xml flag will be set to “Yes”, otherwise it will
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These settings are used only when the XML file is created from scratch.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Indent
@@ -161,6 +148,13 @@ When enabled the Standalone xml flag will be set to “Yes”, otherwise it will
 Specify what type of characters should be used to indent the XML file and their number.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Note that the indent settings are used both when creating a file from scratch and when updating an existing file.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -195,18 +189,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-enhancing-engagement-essential-video-formats-for-youtube-viewers-for-2024/"><u>[New] Enhancing Engagement Essential Video Formats for YouTube Viewers for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-beat-making-brilliance-music-for-your-instareals/"><u>2024 Approved Beat-Making Brilliance Music for Your InstaReals</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-the-dell-d3100-printer-driver-with-simple-steps/"><u>Download and Update the DELL D3100 Printer Driver with Simple Steps</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-group-theory-in-mathematics-key-concepts-and-applications/"><u>Exploring Group Theory in Mathematics: Key Concepts and Applications</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-the-features-mastering-the-operations-tab-within-windows-registry/"><u>Exploring the Features: Mastering the Operations Tab Within Windows Registry</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-word-2010-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Create a Digital Signature Online for Word 2010 document</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-a14-4g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy A14 4G Phone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/retrieve-lost-android-messages-effective-techniques-using-sms-recovery-apps/"><u>Retrieve Lost Android Messages: Effective Techniques Using SMS Recovery Apps</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-transferring-data-from-your-oppo-reno-5-smartphone-to-your-computer/"><u>Step-by-Step Guide: Transferring Data From Your Oppo Reno 5 Smartphone to Your Computer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-next-step-after-vlc-top-media-players-reviewed/"><u>The Next Step After VLC - Top Media Players Reviewed</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-strategies-for-efficiently-transforming-keynote-presentations-into-powerpoint-format/"><u>Top Strategies for Efficiently Transforming Keynote Presentations Into PowerPoint Format</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ultimate-tips-for-cleaning-up-pictures-by-eliminating-smileys/"><u>Ultimate Tips for Cleaning Up Pictures by Eliminating Smileys</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-capture-to-creation-easy-video-editing-with-gopro-quik-on-macbook/"><u>Updated 2024 Approved From Capture to Creation Easy Video Editing with GoPro Quik on MacBook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-upgraded-multitasking-with-microsofts-multi-display-feature-in-edge/"><u>[New] Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-swap-periscopes-lens-innovative-video-platforms-for-smartphones/"><u>[Updated] Swap Periscope's Lens Innovative Video Platforms for Smartphones</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-mastering-the-art-of-extraction-engaging-conversations-in-archiving/"><u>1. Mastering the Art of Extraction: Engaging Conversations in Archiving</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/2018s-top-4-must-know-avi-editors-for-stunning-video-creations/"><u>2018'S Top 4 Must-Know AVI Editors for Stunning Video Creations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-enhance-live-stream-performance-with-these-5-pro-tips/"><u>2024 Approved Enhance Live Stream Performance with These 5 Pro Tips</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-the-ultimate-list-of-free-pdf-software-for-windows-users-ranked-in-2020/"><u>Discover the Ultimate List of Free PDF Software for Windows Users, Ranked in 2020</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/resolve-aw-snap-glitch-in-chrome-when-pages-load-protect-with-malwarefox/"><u>Resolve 'Aw Snap!' Glitch in Chrome When Pages Load – Protect with MalwareFox</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/resolving-sony-ps4s-avi-file-playback-problem-using-a-superior-video-transcoder/"><u>Resolving Sony PS4's AVI File Playback Problem Using a Superior Video Transcoder</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/safe-android-system-reboot-protect-your-files/"><u>Safe Android System Reboot: Protect Your Files</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/simple-steps-recording-videos-with-your-chromebook-made-simple/"><u>Simple Steps: Recording Videos with Your Chromebook Made Simple</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sparks-endgame-dji-mavic-air-challenges-its-successor-for-2024/"><u>Spark's Endgame DJI Mavic Air Challenges Its Successor for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-how-to-insert-an-attachment-in-your-iphones-mail-app/"><u>Step-by-Step Tutorial: How to Insert an Attachment in Your iPhone's Mail App</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723200794078-troubleshooting-tips-for-windows-10-issues-with-the-duo-approach-system-file-checker-sfc-and-deployment-image-servicing-dism/"><u>Troubleshooting Tips for Windows 10 Issues with The Duo Approach: System File Checker (SFC) and Deployment Image Servicing (DISM)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-software-guide-to-gamers-broadcast-for-2024/"><u>Ultimate Software Guide to Gamers' Broadcast for 2024</u></a></li>
 </ul></div>
 

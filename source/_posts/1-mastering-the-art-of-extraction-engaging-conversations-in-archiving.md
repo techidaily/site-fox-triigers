@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering the Art of Extraction: Engaging Conversations in Archiving"
-date: 2024-10-04T18:17:27.265Z
-updated: 2024-10-05T18:20:38.271Z
+date: 2024-10-07T18:06:07.466Z
+updated: 2024-10-10T18:21:21.630Z
 tags:
   - user-guide
 categories:
@@ -96,13 +96,20 @@ In this dialog you can customize an Extract Archive operation. The archive will 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The supported archive file types are: **ZIP**,**JAR**, **WAR** and **EAR**.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Source Path
@@ -114,10 +121,10 @@ Adding an Extract Archive operation while a file with any of the above supported
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)To download an archive file and extract its contents at install time, you can configure a [File Download](https://tools.techidaily.com/advancedinstaller/products/) operation then add an Extract Archive operation.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -125,22 +132,15 @@ Adding an Extract Archive operation while a file with any of the above supported
 Specify a condition for the extract archive operation. Use the\[... \] button on the right to show the [Edit Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove archive after extraction
 
 Remove the archive file after its contents have been successfully extracted.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Remove extracted files on uninstall
 
@@ -188,20 +188,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-dynamic-color-grading-using-ae-luts-for-2024/"><u>[New] Dynamic Color Grading Using AE LUTs for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-comprehensive-guide-to-mobile-video-sharing-on-youtube/"><u>[New] In 2024, Comprehensive Guide to Mobile Video Sharing on YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-instagram-featured-posts-with-video/"><u>[New] Instagram Featured Posts with Video</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-8-cam-enhancers-for-clear-broadcasting/"><u>[Updated] Premium 8 Cam Enhancers for Clear Broadcasting</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unlocking-chromebook-zoom-capabilities-for-2024/"><u>[Updated] Unlocking Chromebook Zoom Capabilities for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-elevating-video-previews-a-compreayer-approach-for-youtube/"><u>2024 Approved Elevating Video Previews A Compreayer Approach for YouTube</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/advanced-xpath-querying-techniques-and-ixmlsearch-strategies/"><u>Advanced XPath Querying Techniques and IXMLSearch Strategies</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-steps-to-incorporate-tunes-into-your-instagram-stories/"><u>Easy Steps to Incorporate Tunes Into Your Instagram Stories</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/identify-and-eliminate-o97mdplinka-trojan-infections-expert-tips-from-malwarefox/"><u>Identify & Eliminate O97M/DPLink.A Trojan Infections - Expert Tips From MalwareFox</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-network-settings-in-windows-11-learn-how-to-control-your-computers-visibility-online/"><u>Mastering Network Settings in Windows 11: Learn How to Control Your Computer's Visibility Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-avi-to-mp3-omzetting-vrije-online-luchtige-korting-eenvoudig-en-gratuit/"><u>Movavi AVI-to-MP3-Omzetting Vrije Online Luchtige Korting - Eenvoudig en Gratuit</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimize-and-implement-iidriver-solutions-effectively/"><u>Optimize and Implement IIDriver Solutions Effectively</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/seamless-transition-moving-your-blackberry-contacts-to-an-iphone-6-or-iphone-5s/"><u>Seamless Transition: Moving Your BlackBerry Contacts to an iPhone 6 or iPhone 5S</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/the-best-5-functional-mouse-recording-devices-you-need-to-try/"><u>The Best 5 Functional Mouse Recording Devices You Need to Try!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-next-gen-patient-rehabilitation-tools/"><u>[New] 2024 Approved Next-Gen Patient Rehabilitation Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-creative-freedom-in-videos-the-art-of-audio-integration/"><u>[New] Unlock Creative Freedom in Videos The Art of Audio Integration</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-ingenious-strategies-for-selecting-trailer-soundtracks/"><u>2024 Approved Ingenious Strategies for Selecting Trailer Soundtracks</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/6-users/"><u>6 Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/best-7-airdroid-substitutes-enhance-your-mobile-experience/"><u>Best 7 AirDroid Substitutes: Enhance Your Mobile Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-settings-audience-focused-screen-shots/"><u>Best Settings Audience-Focused Screen Shots</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/essential-tips-to-avoid-obs-framing-errors/"><u>Essential Tips to Avoid OBS Framing Errors</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/fastupdateutility-efficient-and-rapid-application-patching-solution/"><u>FastUpdateUtility - Efficient and Rapid Application Patching Solution</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-extract-images-from-videos-on-pcs-windows-and-macs/"><u>How to Extract Images From Videos on PCs (Windows) & Macs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-nokia-c300-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Nokia C300? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-13-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 13 Pro? How to Fix it?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-captivating-content-the-essential-six-video-formats/"><u>In 2024, Captivating Content The Essential Six Video Formats</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/key-session-configurations-boosting-website-engagement-through-effective-management/"><u>Key Session Configurations: Boosting Website Engagement Through Effective Management</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-reels-incorporating-music-and-voiceovers/"><u>Mastering Instagram Reels Incorporating Music & Voiceovers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/snapping-photos-in-a-flash-learn-how-to-use-ios/"><u>Snapping Photos in a Flash: Learn How to Use iOS</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-master-video-editing-in-final-cut-pro-for-windows-users/"><u>Step-by-Step Tutorial: Master Video Editing in Final Cut Pro for Windows Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-methods-for-effortlessly-transferring-songs-onto-your-lg-mobile-device/"><u>Top Methods for Effortlessly Transferring Songs Onto Your LG Mobile Device</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/universal-module-merger-component-easy-integration-made-simple/"><u>Universal Module Merger Component: Easy Integration Made Simple</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-technology-secrets-at-toms-computer-and-hardware-blog/"><u>Unraveling Technology Secrets at Tom's Computer & Hardware Blog</u></a></li>
 </ul></div>
 

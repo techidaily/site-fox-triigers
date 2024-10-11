@@ -1,7 +1,7 @@
 ---
 title: Enhancing UI with IComponent - Building Interoperable Components in .NET
-date: 2024-09-29T17:28:56.699Z
-updated: 2024-10-05T19:33:57.745Z
+date: 2024-10-05T00:28:00.843Z
+updated: 2024-10-11T03:36:34.504Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,16 @@ Table of Contents
 ## IComComponent
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,15 +132,22 @@ Table of Contents
 IComComponent: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to create, access, delete COM entities.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -147,10 +160,10 @@ This interface is meant to create, access, delete COM entities.
 **Array<IComPlus> TypeLibraries** \- Gets the collection of COM+. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -169,13 +182,6 @@ Creates a new COM+ from specified executable file (\*.exe, \*.dll).
 **ImportComPlusFromMsi(String aPathToMsiFile)** \- Imports the COM+ from .msi file from disk.
 
 **DeleteCom(VARIANT aCom)** \- Deletes a COM entity from project. Supported argument types are: IComClass, IComInterface, IComTypeLibrary, IComPlus.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -231,24 +237,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-pc-game-screenshots/"><u>[New] In 2024, The Ultimate Guide to PC Game Screenshots</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-principles-of-paradoxical-intervention/"><u>[Updated] In 2024, Principles of Paradoxical Intervention</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-tutorial-activate-or-deactivate-your-network-discovery-setting-in-windows-10/"><u>Complete Tutorial: Activate or Deactivate Your Network Discovery Setting in Windows 10</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/comprehensive-techniques-for-secure-packaging-authentication/"><u>Comprehensive Techniques for Secure Packaging Authentication</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cyber-savvy-needed-recognize-authenticity-in-tech-titles/"><u>Cyber Savvy Needed: Recognize Authenticity in Tech Titles</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/essential-pre-launch-checklist-for-software-releases/"><u>Essential Pre-Launch Checklist for Software Releases</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-the-essential-attributes-of-interfaces-in-programming/"><u>Exploring the Essential Attributes of Interfaces in Programming</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-the-various-vm-configuration-settings/"><u>Exploring the Various VM Configuration Settings</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/getting-started-with-apowersoft-a-comprehensive-tutorial-on-their-free-sound-recording-tool/"><u>Getting Started with Apowersoft: A Comprehensive Tutorial on Their Free Sound Recording Tool</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-seamlessly-sync-songs-with-your-iphone-by-bypassing-itunes/"><u>How to Seamlessly Sync Songs with Your iPhone by Bypassing iTunes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-motorola-moto-g23-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Motorola Moto G23 for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-poco-x5-frp-bypass-by-drfone-android/"><u>In 2024, About Poco X5 FRP Bypass</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-knowledge-proven-strategies-for-successful-and-productive-studying/"><u>Mastering Knowledge: Proven Strategies for Successful and Productive Studying</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-resolution-challenges-with-updated-windows-10/"><u>Resolving Resolution Challenges with Updated Windows 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sonys-pursuit-of-perfection-the-4k-smartphone-experience/"><u>Sony's Pursuit of Perfection The 4K Smartphone Experience</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-on-incorporating-individuals-into-images/"><u>Step-by-Step Guide on Incorporating Individuals Into Images</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rtful-swap-from-cold-scenes-to-cozy-vlogs-for-2024/"><u>The Artful Swap From Cold Scenes to Cozy Vlogs for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-the-package-configuration-pane/"><u>Understanding the Package Configuration Pane</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/which-gopro-is-better-max-360-or-hero-11/"><u>Which GoPro Is Better, Max 360 or Hero 11?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-finest-selection-of-5-sd-cards-for-hero-gopros/"><u>[New] 2024 Approved The Finest Selection of 5 SD Cards for Hero GoPros</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unveiling-the-process-of-batched-tiktok-content-extraction/"><u>[Updated] 2024 Approved Unveiling the Process of Batched TikTok Content Extraction</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-lenovo-ideapad-100-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update Lenovo IdeaPad 100 Drivers for Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-characteristics-of-effective-drivers/"><u>Essential Characteristics of Effective Drivers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-group-theory-in-mathematics-key-concepts-and-applications/"><u>Exploring Group Theory in Mathematics: Key Concepts and Applications</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-the-features-mastering-the-operations-tab-within-windows-registry/"><u>Exploring the Features: Mastering the Operations Tab Within Windows Registry</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-x-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone X and iPad Without Apple ID | Stellar</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-retrieve-the-vid-and-pid-numbers-for-any-computer-or-peripheral/"><u>How to Retrieve the VID and PID Numbers for Any Computer or Peripheral</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-10-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 10 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-the-reasons-behind-non-functioning-car-audio-a-guide/"><u>Identifying the Reasons Behind Non-Functioning Car Audio: A Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/retrieve-lost-android-messages-effective-techniques-using-sms-recovery-apps/"><u>Retrieve Lost Android Messages: Effective Techniques Using SMS Recovery Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722895185949-review-alert-blueears-fashion-forward-bluetooth-beanie-hat-offers-solid-acoustic-experience/"><u>Review Alert: Blueear's Fashion-Forward Bluetooth Beanie Hat Offers Solid Acoustic Experience</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-transferring-data-from-your-oppo-reno-5-smartphone-to-your-computer/"><u>Step-by-Step Guide: Transferring Data From Your Oppo Reno 5 Smartphone to Your Computer</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-note-12t-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi Note 12T Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-10-online-sources-for-accessible-ding-tone-audio-files/"><u>Top 10 Online Sources for Accessible Ding Tone Audio Files</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-strategies-for-efficiently-transforming-keynote-presentations-into-powerpoint-format/"><u>Top Strategies for Efficiently Transforming Keynote Presentations Into PowerPoint Format</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-tips-for-cleaning-up-pictures-by-eliminating-smileys/"><u>Ultimate Tips for Cleaning Up Pictures by Eliminating Smileys</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-various-approaches-to-application-deployment/"><u>Understanding Various Approaches to Application Deployment</u></a></li>
 </ul></div>
 

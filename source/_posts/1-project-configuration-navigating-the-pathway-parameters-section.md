@@ -1,7 +1,7 @@
 ---
 title: "1. Project Configuration: Navigating the Pathway Parameters Section"
-date: 2024-10-04T16:56:58.991Z
-updated: 2024-10-05T21:20:38.609Z
+date: 2024-10-06T06:26:10.898Z
+updated: 2024-10-11T01:00:55.072Z
 tags:
   - user-guide
 categories:
@@ -76,10 +76,10 @@ In this page you can modify the path variables settings for the project.
 ![Pathvar project settings](https://cdn.advancedinstaller.com/img/dialog/pathvar-project-settings.png "Pathvar project settings")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Don't use path variables
@@ -87,10 +87,10 @@ In this page you can modify the path variables settings for the project.
 By default the project will not use path variables.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Automatically convert using existing path variables.
@@ -98,10 +98,10 @@ By default the project will not use path variables.
 When a file is added it is automatically converted to a path variable without any user prompts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Prompt for each file that can use path variables.
@@ -141,24 +141,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-navigating-past-moments-using-android-videos/"><u>[Updated] In 2024, Navigating Past Moments Using Android Videos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-key-points-on-selling-damaged-mobile-devices/"><u>A Comprehensive Guide: Key Points on Selling Damaged Mobile Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/alternative-methods-for-a-quick-ps5-startup/"><u>Alternative Methods for a Quick PS5 Startup</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/analyzing-the-new-google-nest-hub-gen-2-wish-it-came-with-a-camera-option/"><u>Analyzing the New Google Nest Hub Gen 2 - Wish It Came with a Camera Option</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-boot-velocity-on-windows-10-top-tips-and-tricks/"><u>Boosting Boot Velocity on Windows 10 - Top Tips and Tricks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/connectivity-and-convenience-integrating-zoom-into-your-xbox-experience-for-2024/"><u>Connectivity & Convenience Integrating Zoom Into Your Xbox Experience for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-ways-to-access-phone-sms-via-pc-complete-tutorial/"><u>Easy Ways to Access Phone SMS via PC - Complete Tutorial</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/essential-characteristics-of-effective-drivers/"><u>Essential Characteristics of Effective Drivers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-group-theory-in-mathematics-key-concepts-and-applications/"><u>Exploring Group Theory in Mathematics: Key Concepts and Applications</u></a></li>
-<li><a href="https://win-forum.techidaily.com/harnessing-social-power-strategies-for-mastery-on-facebook-twitter-instagram-and-youtube/"><u>Harnessing Social Power: Strategies for Mastery on Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-retrieve-the-vid-and-pid-numbers-for-any-computer-or-peripheral/"><u>How to Retrieve the VID and PID Numbers for Any Computer or Peripheral</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-20-mindfulness-tracks-legal-and-copyright-free-downloads/"><u>In 2024, 20 Mindfulness Tracks Legal and Copyright-Free Downloads</u></a></li>
-<li><a href="https://facebook.techidaily.com/inside-look-facebooks-backbone-organizational-model/"><u>Inside Look: Facebook's Backbone Organizational Model</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/personalized-user-designed-action-panel/"><u>Personalized User-Designed Action Panel</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/retrieve-lost-android-messages-effective-techniques-using-sms-recovery-apps/"><u>Retrieve Lost Android Messages: Effective Techniques Using SMS Recovery Apps</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-transferring-data-from-your-oppo-reno-5-smartphone-to-your-computer/"><u>Step-by-Step Guide: Transferring Data From Your Oppo Reno 5 Smartphone to Your Computer</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-strategies-for-efficiently-transforming-keynote-presentations-into-powerpoint-format/"><u>Top Strategies for Efficiently Transforming Keynote Presentations Into PowerPoint Format</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-various-approaches-to-application-deployment/"><u>Understanding Various Approaches to Application Deployment</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-key-steps-to-enhance-real-time-sports-viewership/"><u>[Updated] In 2024, Key Steps to Enhance Real-Time Sports Viewership</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-x-record-pc-suite-release/"><u>[Updated] In 2024, X-Record PC Suite Release</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-tutorial-for-lut-use-in-after-effects/"><u>[Updated] The Ultimate Tutorial for LUT Use in After Effects</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comprehensive-techniques-for-secure-packaging-authentication/"><u>Comprehensive Techniques for Secure Packaging Authentication</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-skagen-falster-3-the-ultimate-blend-of-modern-technology-and-timeless-elegance/"><u>Expert Analysis: Skagen Falster 3 - The Ultimate Blend of Modern Technology and Timeless Elegance</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-the-essential-attributes-of-interfaces-in-programming/"><u>Exploring the Essential Attributes of Interfaces in Programming</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-the-various-vm-configuration-settings/"><u>Exploring the Various VM Configuration Settings</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/getting-started-with-apowersoft-a-comprehensive-tutorial-on-their-free-sound-recording-tool/"><u>Getting Started with Apowersoft: A Comprehensive Tutorial on Their Free Sound Recording Tool</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-motorola-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Motorola</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-honor-magic-5-lite-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Honor Magic 5 Lite Phone Hassle-Free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/solutions-inedites-evitez-lechec-de-lecture-du-dvd-avec-nos-10-techniques-dexperts/"><u>Solutions Inédites: Évitez L’Échec De Lecture Du DVD Avec Nos 10 Techniques D'Experts!</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-the-package-configuration-pane/"><u>Understanding the Package Configuration Pane</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/winning-tools-the-top-five-windows-screen-cutters/"><u>Winning Tools The Top Five Windows Screen Cutters</u></a></li>
 </ul></div>
 

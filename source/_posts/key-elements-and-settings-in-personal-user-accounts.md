@@ -1,7 +1,7 @@
 ---
 title: Key Elements and Settings in Personal User Accounts
-date: 2024-10-02T21:22:01.371Z
-updated: 2024-10-05T20:06:30.182Z
+date: 2024-10-07T22:21:16.104Z
+updated: 2024-10-10T20:11:18.346Z
 tags:
   - user-guide
 categories:
@@ -80,13 +80,6 @@ In this page you can view and set the user account properties.
 
 ![User account properties](https://cdn.advancedinstaller.com/img/ui/user-account-properties.png "User account properties")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Description
 
 Remarks associated with the user account.
@@ -103,6 +96,13 @@ User account password.
 
 Confirm user account password.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Property
 
 Property used if you want that password to be set at install time by the user.
@@ -110,20 +110,13 @@ Property used if you want that password to be set at install time by the user.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you set password property you must also create a new dialog where the user will enter the password. You can do that using the [Dialog Editor](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Attributes
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### User cannot change password
 
@@ -137,6 +130,13 @@ The password should never expire on the account.
 
 The user's account is disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Delete user profile folder when user account is deleted
 
 The user profile folder will be deleted along with the (interactive) user account.
@@ -144,10 +144,10 @@ The user profile folder will be deleted along with the (interactive) user accoun
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The user profile folder gets created at first user logon and is located under under C:\\Document and Settings\\<username> on XP or underC:\\Users\\<username> on Vista or above.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Member Of
@@ -155,10 +155,16 @@ The user profile folder will be deleted along with the (interactive) user accoun
 You can make user member of a group.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Make user member of a group
@@ -172,10 +178,10 @@ Use the \[Remove \] button, the “Remove” list context menu item or press the
 ## Error Policy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fail if the user already exists
@@ -187,10 +193,10 @@ The installation process is terminated if the defined user already exists on the
 If the defined user is already present on the target machine, selecting this options ensures the user creation operation is skipped and the installation process will continue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install Condition
@@ -235,16 +241,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-from-monochrome-to-motion-the-ultimate-guide-to-making-videos-with-pixiz/"><u>[New] From Monochrome to Motion The Ultimate Guide to Making Videos with Pixiz</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-hope-on-the-big-screen-top-10-cinematic-power-ups/"><u>[New] Hope on the Big Screen Top 10 Cinematic Power-Ups</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-blitzing-through-images-on-win11/"><u>[Updated] Blitzing Through Images on Win11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-top-10-social-media-tag-analyzers-fb-twt-and-insta/"><u>[Updated] Top 10 Social Media Tag Analyzers FB, Twt & Insta</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/best-7-airdroid-substitutes-enhance-your-mobile-experience/"><u>Best 7 AirDroid Substitutes: Enhance Your Mobile Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-productivity-in-distance-collaborations-utilizing-chatgpt-for-remote-team-gatherings/"><u>Boosting Productivity in Distance Collaborations: Utilizing ChatGPT for Remote Team Gatherings</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/diy-image-editing-vanish-subjects-from-photos-effortlessly-without-adobe/"><u>DIY Image Editing: Vanish Subjects From Photos Effortlessly without Adobe</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-htc-u23-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from HTC U23 to Another | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/navigating-project-specifications-the-importance-of-the-requirements-tab/"><u>Navigating Project Specifications: The Importance of the Requirements Tab</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-on-acquiring-and-setting-up-a-streaming-sound-recording-tool/"><u>Step-by-Step Tutorial on Acquiring & Setting Up a Streaming Sound Recording Tool</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-taking-twitter-videos-from-regular-to-high-definition-for-2024/"><u>[New] Taking Twitter Videos From Regular to High-Definition for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-venturing-beyond-reality-understanding-vr-basics/"><u>[Updated] 2024 Approved Venturing Beyond Reality Understanding VR Basics</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-interface-elements-exploring-the-functionality-of-the-programs-tab/"><u>1. Interface Elements: Exploring the Functionality of the Programs Tab</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-tga/"><u>免費在線變更器：Movavi 將TGA格式自由轉換�</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-guide-capturing-bbc-sounds-using-iplayer-app-for-both-pc-and-mac-users/"><u>Easy Guide: Capturing BBC Sounds Using iPlayer App – For Both PC & Mac Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-steps-to-change-your-videos-from-mp4-to-m4v-format-on-windows-and-macos-systems/"><u>Easy Steps to Change Your Videos From MP4 to M4V Format on Windows & macOS Systems</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-strategies-and-software-for-reducing-size-of-ultra-hd-videos/"><u>Effortless Strategies and Software for Reducing Size of Ultra HD Videos</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-restore-lost-images-on-your-iphone-a-comprehensive-guide/"><u>How To Restore Lost Images on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-tecno-pova-5-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Tecno Pova 5 Phone Pattern Lock</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-10-best-montage-songs-for-your-montage-video/"><u>New 10 Best Montage Songs for Your Montage Video</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971040111-resolving-windows-11s-troublesome-bluetooth-connectivity-woes-fixed/"><u>Resolving Windows 11'S Troublesome Bluetooth Connectivity Woes - Fixed</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-5-simple-tricks-to-enhance-smartphone-photography/"><u>Top 5 Simple Tricks to Enhance Smartphone Photography</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ambient-ws-1002-weather-station-with-wifi-elite-quality-justified-by-its-price-range/"><u>Top Ambient WS-1002 Weather Station with WiFi - Elite Quality, Justified by Its Price Range</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-ways-to-install-and-enjoy-super-mario-run-on-your-windows-or-mac-computer/"><u>Top Ways to Install and Enjoy Super Mario Run on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-ranked-wireless-charger-reviews-industry-experts-weigh-in-techradar/"><u>Top-Ranked Wireless Charger Reviews - Industry Experts Weigh In | TechRadar</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/unveiling-essential-enhancements-in-apples-new-iphone-12-model/"><u>Unveiling Essential Enhancements in Apple's New iPhone 12 Model</u></a></li>
 </ul></div>
 

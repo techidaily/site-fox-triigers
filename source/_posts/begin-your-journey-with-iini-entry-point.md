@@ -1,7 +1,7 @@
 ---
 title: Begin Your Journey with Iini Entry Point
-date: 2024-10-02T21:23:33.083Z
-updated: 2024-10-05T17:01:45.642Z
+date: 2024-10-04T01:17:16.571Z
+updated: 2024-10-11T06:14:01.873Z
 tags:
   - user-guide
 categories:
@@ -114,10 +114,10 @@ Table of Contents
 This interface allows you to visualize or edit properties of an INI entry.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -125,10 +125,10 @@ This interface allows you to visualize or edit properties of an INI entry.
 IIniEntry : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -146,17 +146,17 @@ IIniEntry : IDispatch
 ![Iinientry](https://cdn.advancedinstaller.com/img/powershell-automation/iinientry.png "Iinientry")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -202,20 +202,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-fight-night-on-nintendo-switch-top-ten-picks/"><u>[New] 2024 Approved Fight Night on Nintendo Switch - Top Ten Picks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[New] 2024 Approved From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-reducing-the-size-of-your-m4v-videos-without-loser-quality/"><u>Effective Strategies for Reducing the Size of Your M4V Videos without Loser Quality</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/enhancing-ui-with-icomponent-building-interoperable-components-in-net/"><u>Enhancing UI with IComponent - Building Interoperable Components in .NET</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-powershell-understanding-the-command-options-interface/"><u>Exploring PowerShell: Understanding the Command Options Interface</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-windows-file-attributes-panel-tips-and-tricks/"><u>Exploring Windows File Attributes Panel: Tips and Tricks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/finding-missing-memos-on-ios-devices-expert-techniques-for-retrieval/"><u>Finding Missing Memos on iOS Devices: Expert Techniques for Retrieval</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fix-the-too-many-different-cell-formats-error-in-excel-2013-stellar-by-stellar-guide/"><u>Fix the Too many different cell formats Error in Excel 2013? | Stellar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-update-your-huion-graphics-tablet-drivers-on-windows-computers/"><u>How to Successfully Update Your Huion Graphics Tablet Drivers on Windows Computers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/navigating-through-directory-configurations-mastering-settings-for-effective-file-system-control-panel-operations/"><u>Navigating Through Directory Configurations: Mastering Settings for Effective File System Control Panel Operations</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/reviewing-the-kobo-forma-a-commitment-to-unmatched-reading-experience/"><u>Reviewing the Kobo Forma: A Commitment to Unmatched Reading Experience</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-future-of-photography-with-stellars-recovery-suite/"><u>The Future of Photography with Stellar's Recovery Suite</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-9-android-app-permissions-you-should-never-grant/"><u>Top 9 Android App Permissions You Should Never Grant</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-file-multimediali-in-formato-wmv-fatto-in-casa-utilizzando-la-piattaforma-di-convertimento-online-gratis-di-movavi/"><u>Trasforma File Multimediali in Formato WMV Fatto in Casa Utilizzando La Piattaforma Di Convertimento Online Gratis Di Movavi</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/turning-youtube-shorts-into-a-stream-of-income-for-2024/"><u>Turning YouTube Shorts Into a Stream of Income for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-exclusive-tools-to-elevate-your-horizontal-and-vertical-igtv-posts/"><u>[New] Exclusive Tools to Elevate Your Horizontal and Vertical IGTV Posts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716062739667-new-in-2024-vrecorder-how-to-download-and-install/"><u>[New] In 2024, VRecorder How to Download and Install</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-inexpensive-mirrorless-and-dslr-options/"><u>[New] Inexpensive Mirrorless & DSLR Options</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-free-and-paid-tools-for-vimeo-video-downloads/"><u>[New] Mastering Free & Paid Tools for Vimeo Video Downloads</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comprehensive-walkthrough-on-creating-accessible-video-synopses/"><u>Comprehensive Walkthrough on Creating Accessible Video Synopses</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/conquer-video-lengths-your-ultimate-guide-to-auto-resizing-on-mac-for-2024/"><u>Conquer Video Lengths Your Ultimate Guide to Auto-Resizing on Mac for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/creating-lasting-impressions-top-6-creative-hashtags-and-phrases-for-your-picture-perfect-moments/"><u>Creating Lasting Impressions: Top 6 Creative Hashtags & Phrases for Your Picture-Perfect Moments</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/cut-the-pixels-keep-quality-discover-no-cost-solutions-for-reducing-jpeg-file-sizes-to-under-100-kb/"><u>Cut the Pixels, Keep Quality: Discover No-Cost Solutions for Reducing JPEG File Sizes to Under 100 KB</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-leveraging-hibernate-on-windows-8/"><u>Effective Strategies for Leveraging Hibernate on Windows 8</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulator-exploration-with-linux-terminal-commands/"><u>Emulator Exploration with Linux Terminal Commands</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-to-success-brother-hl-3170cdw-printer-driver-download/"><u>Fast Track to Success: Brother HL-3170CDW Printer Driver Download</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/hassle-free-techniques-for-watching-multiple-videos-at-once/"><u>Hassle-Free Techniques for Watching Multiple Videos at Once</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/key-elements-and-settings-in-personal-user-accounts/"><u>Key Elements and Settings in Personal User Accounts</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-your-web-services-with-microsofts-iis-a-comprehensive-guide/"><u>Optimizing Your Web Services with Microsoft's IIS - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/personalize-vr-gear-with-homemade-google-headgear/"><u>Personalize VR Gear with Homemade Google Headgear</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-list-of-project-types-insights-and-expert-advice-by-i-advise/"><u>Ultimate List of Project Types - Insights and Expert Advice by I Advise</u></a></li>
 </ul></div>
 

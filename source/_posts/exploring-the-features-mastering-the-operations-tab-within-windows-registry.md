@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Features: Mastering the Operations Tab Within Windows Registry"
-date: 2024-09-30T21:15:59.641Z
-updated: 2024-10-05T20:55:25.692Z
+date: 2024-10-04T19:53:16.305Z
+updated: 2024-10-10T17:51:29.974Z
 tags:
   - user-guide
 categories:
@@ -94,20 +94,6 @@ Table of Contents
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default Windows Installer will remove only the resources that were installed by the MSI package. This removal operation is intended to be used for external resources created by custom behaviour.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Component
 
  The component whose install will trigger the key removal operation. 
@@ -120,13 +106,6 @@ The time when the removal will be executed. There are three available moments:
 * component uninstall
 * both
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Condition
 
 Specify a removal condition.
@@ -135,15 +114,22 @@ You can specify registry values to be removed upon install from the [Registry Va
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The removal operation is extremely useful when the installed resources are modified post install and would not be removed otherwise.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Persistence
 
 Save and restore original registry key content.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -151,6 +137,20 @@ Save and restore original registry key content.
 Condition when the key content is preserved.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To find out how to use this option in an upgrade scenario, you can follow the [Prevent Repair or Uninstall](https://tools.techidaily.com/advancedinstaller/products/) article.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Search key
 
@@ -193,15 +193,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-essential-techniques-for-making-and-tweaking-multi-snap-chats-for-2024/"><u>[New] Essential Techniques for Making & Tweaking Multi-Snap Chats for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-radiant-reality-tiles-photographic-collages-that-sparkle/"><u>[Updated] Radiant Reality Tiles Photographic Collages That Sparkle</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/essential-configuration-options-for-successful-software-installs/"><u>Essential Configuration Options for Successful Software Installs</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/identify-and-eliminate-o97mdplinka-trojan-infections-expert-tips-from-malwarefox/"><u>Identify & Eliminate O97M/DPLink.A Trojan Infections - Expert Tips From MalwareFox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/secrets-revealed-achieving-immortal-wealth-with-infinity-cave-on-pc/"><u>Secrets Revealed: Achieving Immortal Wealth with 'Infinity Cave' On PC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/streamline-your-content-posting-twitter-videos-on-snapchat/"><u>Streamline Your Content Posting Twitter Videos on Snapchat</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/the-best-5-functional-mouse-recording-devices-you-need-to-try/"><u>The Best 5 Functional Mouse Recording Devices You Need to Try!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-complete-walkthrough-on-downloading-content-from-teaching-channel-for-learning-enhancement/"><u>The Complete Walkthrough on Downloading Content From Teaching Channel for Learning Enhancement</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-sound-upload-tools-for-tiktok-users-in-2020/"><u>Top Sound Upload Tools for TikTok Users in 2020</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-novice-film-capture-scrutiny-report/"><u>[New] 2024 Approved Novice Film Capture Scrutiny Report</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-driving-impact-with-data-informed-spotify-ads/"><u>[Updated] 2024 Approved Driving Impact with Data-Informed Spotify Ads</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-picsart-guide-adding-motion-blur-to-facial-shots-for-dynamic-images/"><u>[Updated] 2024 Approved Picsart Guide Adding Motion Blur to Facial Shots for Dynamic Images</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-webcasts-without-payment-fees/"><u>[Updated] Capturing Webcasts Without Payment Fees</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-guide-to-huawei-p10-performance-metrics-for-2024/"><u>[Updated] The Ultimate Guide to Huawei P10 Performance Metrics for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-edit-videos-professionally-using-inshot/"><u>2024 Approved Learn to Edit Videos Professionally Using Inshot</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ancient-text-contemporary-speech-words-of-william/"><u>Ancient Text, Contemporary Speech: Words of William</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/begin-your-journey-with-iini-entry-point/"><u>Begin Your Journey with Iini Entry Point</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-motorola-edge-40-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Motorola Edge 40?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/expert-guide-advanced-strategies-for-mastering-import-registry-files/"><u>Expert Guide: Advanced Strategies for Mastering Import Registry Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-10-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 10</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-itext-advanced-techniques-for-efficiently-editing-and-substituting-content/"><u>Mastering Itext: Advanced Techniques for Efficiently Editing and Substituting Content</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-screen-captures-a-step-by-step-guide-to-taking-screenshots-in-windows-10/"><u>Mastering Screen Captures: A Step-by-Step Guide to Taking Screenshots in Windows 10</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-the-configuration-options-section-a-guide-to-environmental-parameters/"><u>Navigating the Configuration Options Section: A Guide to Environmental Parameters</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-repackaging-workflows-using-advanced-installers-tailoring-capabilities/"><u>Optimizing Repackaging Workflows Using Advanced Installer's Tailoring Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-steam-download-routines-for-windows-pcs/"><u>Speedy Steam Download Routines for Windows PCs</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/straightforward-guide-how-to-easily-retrieve-and-store-veehd-content/"><u>Straightforward Guide: How to Easily Retrieve and Store VeeHD Content</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-7-leading-computer-diagnostic-tools-preferred-by-it-professionals/"><u>Top 7 Leading Computer Diagnostic Tools Preferred by IT Professionals</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-video-compression-tools-on-windows-10-enhance-performance-and-quality/"><u>Top Video Compression Tools on Windows 10: Enhance Performance and Quality</u></a></li>
 </ul></div>
 

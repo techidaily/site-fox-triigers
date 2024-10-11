@@ -1,7 +1,7 @@
 ---
 title: Streamline Your App with the IMergeModule - Seamless Integration Techniques
-date: 2024-09-30T16:03:52.600Z
-updated: 2024-10-05T17:16:55.765Z
+date: 2024-10-09T21:49:54.440Z
+updated: 2024-10-10T20:55:38.038Z
 tags:
   - user-guide
 categories:
@@ -109,16 +109,10 @@ Table of Contents
 ## IMergeModule
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +120,16 @@ Table of Contents
 IMergeModule : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -137,10 +137,10 @@ IMergeModule : IDispatch
 This interface is meant to view information about an added merge module. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -166,10 +166,10 @@ This interface is meant to view information about an added merge module.
 **Uint Oder** \- Gets the order of the merge module.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -211,20 +211,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-10-best-luts-for-adobe-lightroom/"><u>[New] 10 Best LUTs for Adobe LightRoom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-radiant-tone-refactoring-pro/"><u>[Updated] Radiant Tone Refactoring Pro</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-tailor-made-youtube-url-strategies-an-easier-approach-for-2024/"><u>[Updated] Tailor-Made YouTube URL Strategies An Easier Approach for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-instagram-looping-videos-for-2024/"><u>[Updated] The Ultimate Guide to Instagram Looping Videos for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-xr-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone XR? Find the Best Solution Here</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/dissecting-the-true-essence-of-bose-quietcontrol-30/"><u>Dissecting the True Essence of Bose QuietControl 30</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/essential-characteristics-of-effective-drivers/"><u>Essential Characteristics of Effective Drivers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-group-theory-in-mathematics-key-concepts-and-applications/"><u>Exploring Group Theory in Mathematics: Key Concepts and Applications</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-your-computers-fm2dll-error-quickly-and-easily/"><u>Fix Your Computer's Fm2#.dll Error Quickly and Easily</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-130-music-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia 130 Music Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-a34-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy A34 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-retrieve-the-vid-and-pid-numbers-for-any-computer-or-peripheral/"><u>How to Retrieve the VID and PID Numbers for Any Computer or Peripheral</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/personalized-user-designed-action-panel/"><u>Personalized User-Designed Action Panel</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-strategies-for-efficiently-transforming-keynote-presentations-into-powerpoint-format/"><u>Top Strategies for Efficiently Transforming Keynote Presentations Into PowerPoint Format</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-various-approaches-to-application-deployment/"><u>Understanding Various Approaches to Application Deployment</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-visual-storytelling-on-social-media-crafting-an-effective-plan/"><u>[New] Visual Storytelling on Social Media Crafting an Effective Plan</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-in-depth-tutorial-effective-screenshot-practices-on-lenovo/"><u>[Updated] In 2024, In-Depth Tutorial Effective Screenshot Practices on Lenovo</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/advanced-techniques-maximizing-functionality-with-extended-property-features/"><u>Advanced Techniques: Maximizing Functionality with Extended Property Features</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/custom-action-implementation-in-idotnet-framework/"><u>Custom Action Implementation in IDotNet Framework</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-the-leading-optical-character-recognition-ocr-apps-for-windows-11-comparison-of-free-and-paid-solutions/"><u>Discover the Leading Optical Character Recognition (OCR) Apps for Windows 11 - Comparison of FREE and PAID Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-ai-interaction-navigating-quoras-pathways-to-advanced-chatbots-and-llms/"><u>Explore AI Interaction: Navigating Quora's Pathways to Advanced Chatbots and LLMs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-commercial-cloud-vaulting-services/"><u>Premium Commercial Cloud Vaulting Services</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-install-free-how-to-guide-for-targus-universal-docking-station-setup/"><u>Quick Install: [FREE] How-To Guide for Targus Universal Docking Station Setup</u></a></li>
+<li><a href="https://facebook.techidaily.com/sheryls-visionary-leadership-in-the-tech-sphere/"><u>Sheryl's Visionary Leadership in the Tech Sphere</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-selection-of-high-quality-videos-free-from-logo-overlays/"><u>Top Selection of High-Quality Videos Free From Logo Overlays</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/uncover-your-screen-movements-mastering-visibility-of-mouse-pointers-while-recording-on-windows/"><u>Uncover Your Screen Movements: Mastering Visibility of Mouse Pointers While Recording on Windows</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-http3-a-complete-guide-to-the-next-generation-internet-protocol/"><u>Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000075997-unlock-seamless-gaming-tackle-and-correct-apex-legends-startup-glitches-swiftly/"><u>Unlock Seamless Gaming - Tackle and Correct Apex Legends' Startup Glitches Swiftly!</u></a></li>
 </ul></div>
 

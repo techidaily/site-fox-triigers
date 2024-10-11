@@ -1,7 +1,7 @@
 ---
 title: Understanding the Characteristics and Settings of Plain-Text Files
-date: 2024-10-02T16:46:59.230Z
-updated: 2024-10-05T18:31:01.363Z
+date: 2024-10-06T04:41:37.277Z
+updated: 2024-10-11T05:57:50.774Z
 tags:
   - user-guide
 categories:
@@ -94,6 +94,13 @@ The options set here will influence the behaviour of all [Replace](https://tools
 
 ![Text File Updates Global Properties](https://cdn.advancedinstaller.com/img/dialog/txt-update-global.png "Text File Updates Global Properties")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Files
 
 ### Include
@@ -103,10 +110,10 @@ This field will contain the name of the file that will be created or modified. I
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If wildcards are being defined the "Create" operation **can not be used**. The "Append" operation can be used when using wildcards.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The name in this field will be shared with the "Text File Properties" node. For example, if the filename in this field is_MyFile.txt_, the corresponding "Text File Properties" node from the tree located on the left of this dialog will have the same name.
@@ -116,10 +123,10 @@ This field will contain the name of the file that will be created or modified. I
 This field will contain the name of the file which won't be modified. It is possible to define wildcards.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Search sub-folders
@@ -129,31 +136,23 @@ The file(s) specified in the "Include" and "Exclude" fields will be searched in 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg) The _Exclude_ field and _Search sub-folders_ option are not taken into consideration for "Create" operations.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Component
 
 You can use this combobox to select the component that will trigger the "Replace" or "Append/Create" operations.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run on
 
@@ -171,6 +170,13 @@ This combobox sets the behaviour in case the "Replace" or "Append/Create" operat
 
 * abort installation and rollback
 * skip the file and restore original state
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Backup file before performing update
 
@@ -215,20 +221,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-insight-into-lgs-360-camera-updates-and-features-for-todays-photographers/"><u>[New] 2024 Approved Insight Into LG's 360 Camera Updates and Features for Today's Photographers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-finest-10-youtube-personalities-revolutionizing-cosmetics-for-2024/"><u>[New] The Finest 10 YouTube Personalities Revolutionizing Cosmetics for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creating-lasting-impressions-top-6-creative-hashtags-and-phrases-for-your-picture-perfect-moments/"><u>Creating Lasting Impressions: Top 6 Creative Hashtags & Phrases for Your Picture-Perfect Moments</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/cut-the-pixels-keep-quality-discover-no-cost-solutions-for-reducing-jpeg-file-sizes-to-under-100-kb/"><u>Cut the Pixels, Keep Quality: Discover No-Cost Solutions for Reducing JPEG File Sizes to Under 100 KB</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-leveraging-hibernate-on-windows-8/"><u>Effective Strategies for Leveraging Hibernate on Windows 8</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/effortless-drive-cleanup-with-bitraser-available-now-for-immediate-purchase/"><u>Effortless Drive Cleanup with BitRaser – Available Now for Immediate Purchase</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/hassle-free-techniques-for-watching-multiple-videos-at-once/"><u>Hassle-Free Techniques for Watching Multiple Videos at Once</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-14-pro-max-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 14 Pro Max online without SIM Card?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-magic-5-lite-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor Magic 5 Lite Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/key-elements-and-settings-in-personal-user-accounts/"><u>Key Elements and Settings in Personal User Accounts</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimizing-your-web-services-with-microsofts-iis-a-comprehensive-guide/"><u>Optimizing Your Web Services with Microsoft's IIS - A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ultimate-list-of-project-types-insights-and-expert-advice-by-i-advise/"><u>Ultimate List of Project Types - Insights and Expert Advice by I Advise</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-tunefab-vs-competitors-screen-recorder-showdown/"><u>[New] Tunefab vs Competitors Screen Recorder Showdown</u></a></li>
+<li><a href="https://blog-min.techidaily.com/apple-tv-mac-macx/"><u>Apple TVへ変換 特化型Macアプリ: 簡単操作で高品位ビデオ保存機能付き - MacXの解決方法</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-video-screen-grabbers-for-2024/"><u>Best Video Screen Grabbers for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-extract-images-from-videos-on-pcs-windows-and-macs/"><u>How to Extract Images From Videos on PCs (Windows) & Macs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-xiaomi-redmi-note-12-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Xiaomi Redmi Note 12 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/melhore-seus-trabalhos-fotograficos-com-estes-10-utilitarios-web-livres-e-eficientes/"><u>Melhore Seus Trabalhos Fotográficos Com Estes 10 Utilitários Web Livres E Eficientes!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-updating-and-downloading-surface-book-2-driver-software/"><u>Quick Guide: Updating & Downloading Surface Book 2 Driver Software</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/simple-steps-recording-videos-with-your-chromebook-made-simple/"><u>Simple Steps: Recording Videos with Your Chromebook Made Simple</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/snapping-photos-in-a-flash-learn-how-to-use-ios/"><u>Snapping Photos in a Flash: Learn How to Use iOS</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-master-video-editing-in-final-cut-pro-for-windows-users/"><u>Step-by-Step Tutorial: Master Video Editing in Final Cut Pro for Windows Users</u></a></li>
 </ul></div>
 

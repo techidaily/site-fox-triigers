@@ -1,7 +1,7 @@
 ---
 title: "Mastering Itext: Advanced Techniques for Efficiently Editing and Substituting Content"
-date: 2024-09-29T20:12:22.330Z
-updated: 2024-10-05T20:11:44.742Z
+date: 2024-10-09T17:56:15.772Z
+updated: 2024-10-10T23:09:52.594Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,10 @@ Table of Contents
 ## ITextUpdateReplace
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -120,10 +120,10 @@ Table of Contents
 ITextUpdateReplace : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -131,10 +131,10 @@ ITextUpdateReplace : IDispatch
 This interface is meant to configure text replace operation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -158,10 +158,10 @@ Gets or sets the property to treat "Find" property value as a word. Only words t
 Gets or sets the property to end when the first match is found while the rest possible matches will be ignored
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -203,17 +203,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-first-home-frontier-top-6-beginner-friendly-mc-abodes/"><u>[Updated] First Home Frontier Top 6 Beginner-Friendly MC Abodes</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/2018s-top-4-must-know-avi-editors-for-stunning-video-creations/"><u>2018'S Top 4 Must-Know AVI Editors for Stunning Video Creations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/can-you-stream-audio-from-airpods-to-the-nintendo-switch-game-system/"><u>Can You Stream Audio From AirPods to the Nintendo Switch Game System?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/discover-the-ultimate-list-of-free-pdf-software-for-windows-users-ranked-in-2020/"><u>Discover the Ultimate List of Free PDF Software for Windows Users, Ranked in 2020</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-insights-on-the-lenovo-thinkpad-x1-titanium-yoga-why-its-perfect-for-avid-thinkpad-aficionados/"><u>Expert Insights on the Lenovo ThinkPad X1 Titanium Yoga - Why It's Perfect for Avid ThinkPad Aficionados</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/extraction-et-telechargement-gratuit-de-films-dvd-palregion-2-dans-les-formats-videos-populaires/"><u>Extraction Et Téléchargement Gratuit De Films DVD PAL/Region 2 Dans Les Formats Vidéos Populaires</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-x-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone X System Issues? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-strategies-to-skyrocket-your-fb-video-ad-impact/"><u>In 2024, Strategies to Skyrocket Your FB Video Ad Impact</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/safe-android-system-reboot-protect-your-files/"><u>Safe Android System Reboot: Protect Your Files</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/simple-steps-recording-videos-with-your-chromebook-made-simple/"><u>Simple Steps: Recording Videos with Your Chromebook Made Simple</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-master-video-editing-in-final-cut-pro-for-windows-users/"><u>Step-by-Step Tutorial: Master Video Editing in Final Cut Pro for Windows Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-game-changer-or-gamble-a-2021-review-of-vegas-pros-evolution/"><u>[New] Game Changer or Gamble? A 2021 Review of Vegas Pro's Evolution</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-comprehensive-guide-to-screen-capturing-in-windows-8/"><u>[New] In 2024, Comprehensive Guide to Screen Capturing in Windows 8</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-interface-elements-exploring-the-functionality-of-the-programs-tab/"><u>1. Interface Elements: Exploring the Functionality of the Programs Tab</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-guide-capturing-bbc-sounds-using-iplayer-app-for-both-pc-and-mac-users/"><u>Easy Guide: Capturing BBC Sounds Using iPlayer App – For Both PC & Mac Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-strategies-and-software-for-reducing-size-of-ultra-hd-videos/"><u>Effortless Strategies and Software for Reducing Size of Ultra HD Videos</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-restore-lost-images-on-your-iphone-a-comprehensive-guide/"><u>How To Restore Lost Images on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to others devices? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/il-guidone-segreto-alle-8-lame-magiche-per-convertire-videoclip-in-gif-rapidi-e-ottimizzati/"><u>Il Guidone Segreto Alle 8 Lame Magiche per Convertire Videoclip in GIF Rapidi E Ottimizzati</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-altering-your-handheld-gps-trackers-coordinates-safely-and-effectively/"><u>The Ultimate Guide to Altering Your Handheld GPS Tracker’s Coordinates Safely and Effectively</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-5-simple-tricks-to-enhance-smartphone-photography/"><u>Top 5 Simple Tricks to Enhance Smartphone Photography</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-ways-to-install-and-enjoy-super-mario-run-on-your-windows-or-mac-computer/"><u>Top Ways to Install and Enjoy Super Mario Run on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-the-edit-actions-settings-panel-a-comprehensive-guide/"><u>Understanding the Edit Actions Settings Panel: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Setup Page – Software Deployment Options & Preferences
-date: 2024-09-29T18:07:18.393Z
-updated: 2024-10-05T20:44:11.018Z
+date: 2024-10-07T21:01:44.871Z
+updated: 2024-10-10T17:20:37.070Z
 tags:
   - user-guide
 categories:
@@ -78,9 +78,29 @@ In this tab you can configure the digital signature of your package.
 
 ![Digital signature settings tab](https://cdn.advancedinstaller.com/img/ui/digital-signature-settings-tab.png "Digital signature settings tab")  
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Enable signing
 
 Checking this checkbox will enable the actual signing of the package. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reset All
 
@@ -91,6 +111,13 @@ This button can be used to clear all fields.
 ### Built-in
 
 Use the built-in signing tool.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Custom
 
@@ -103,13 +130,6 @@ Select a custom signing tool.
 Enter a command line for the above cutom signing tool.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Environment variables can be specified in _Command Line_ field and they can be referenced as %ENV%.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Software Publisher Certificate
 
@@ -137,16 +157,22 @@ When this option is selected the certificate used to sign the files is loaded fr
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Advanced Installer supports both _Personal Information Exchange PKCS #12 (.pfx)_ and _X509 (.cer)_ certificates.The _.pfx_ certificates contain both the public and private keys. The _.cer_ certificates contain only the public key, the private key being stored onto an USB eToken (protected by password).
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Certificate** \- This field contains the path on disk to the certificate. You can use the \[... \] button in this field to select one from your hard-drive.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)PFX certificates are recommended, you can use either pvkimprt or pvk2pfx to create a PFX certificate from the SPC and PVK files. If the PFX file is protected with a password, the “Selected certificate requires password. Select how to transmit it to signing tool:” section will be visible.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **pvkimprt** can be downloaded
 * **pvk2pfx** is available as part of the Platform SDK
@@ -156,13 +182,6 @@ When this option is selected the certificate used to sign the files is loaded fr
 **Enter password each time project is built** \- You will be prompted to enter the password when the MSI is built. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Advanced Installer caches the password for PFX files; thus you will be prompted for the password only once.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Store encrypted password in project file** \- The encrypted password will be stored in the project and used at build time to sign the installation files. This option is useful for unattended builds.
 
@@ -243,20 +262,13 @@ For increased security, the _Client secret_ can be stored in an Environment vari
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For security reasons, environment variables can be used in all the above fields instead of the actual values. Environment variables can be easily securitized in Azure Pipelines. For example the actual Tenant Id can be stored in%TenantId% Environment variable. In this case, just enter the the%TenantId% reference in the _Tenant Id_ field. At build time the value stored in this environment variable will resolved and used for the Tenant ID.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Azure Key Vault certificate subject can be synchronized with the MSIX Publisher ID. To achieve this you must press the _Synchronize_ button from _Publisher Section_ of [Package Information](https://tools.techidaily.com/advancedinstaller/products/) page. At build time the subject - publisher ID mismatch is detected automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Use Device Guard for signing
 
@@ -284,10 +296,10 @@ Copy
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If the account is not properly configured for Device Guard signing, signing a file could trigger an error that can imply that the timestamp can't be applied.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Signature Properties
@@ -301,10 +313,10 @@ This field contains the signed content's description. It will be shown by the Wi
 This field contains a URL for a complete description of the signed content. The URL will be used when the package is launched from an untrusted location (for example from the network) in the "Open File - Security Warning" dialog, where the "Name" field will become a link to the URL you specified.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Timestamp service URL
@@ -330,10 +342,10 @@ By enabling this option, you don't need elevated privileges when applying the pa
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)An administrator can disable least-privilege patching on the computer by setting the DisableLUAPatching policy to 1\. You can set the MSIDISABLELUAPATCHING property to 1 during the initial installation of an application to prevent least-privilege patching for that application only.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option is not available for [Patch Project](https://tools.techidaily.com/advancedinstaller/products/).
@@ -371,21 +383,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-super-camcorders-ranking-15-best-on-the-market/"><u>[New] In 2024, Super Camcorders Ranking #15 Best on the Market</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-full-potential-saving-and-playing-gifs-on-iphones/"><u>[New] Unlocking Full Potential Saving & Playing GIFs on iPhones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-effective-affordable-youtube-intros-with-templates-for-2024/"><u>[Updated] Crafting Effective, Affordable YouTube Intros with Templates for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-essentials-of-film-production-for-youtube-originals-for-2024/"><u>[Updated] The Essentials of Film Production for YouTube Originals for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-se-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone SE to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-desktop-icon-chaos-in-windows/"><u>Avoid Desktop Icon Chaos in Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/complete-guide-to-fixing-the-persistent-pauses-addressing-deathloops-crash-issues-on-ps5-and-pc/"><u>Complete Guide to Fixing the Persistent Pauses: Addressing Deathloop's Crash Issues on PS5 & PC</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/discover-the-best-no-cost-mp3-download-platforms-for-avid-listeners/"><u>Discover the Best No-Cost MP3 Download Platforms for Avid Listeners</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-leveraging-hibernate-on-windows-8/"><u>Effective Strategies for Leveraging Hibernate on Windows 8</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-image-editing-with-ipatch/"><u>Effortless Image Editing with IPatch</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-pc-management-from-anywhere-learn-how-to-use-your-android-phone-for-direct-computing-controls/"><u>Effortless PC Management From Anywhere: Learn How to Use Your Android Phone for Direct Computing Controls</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/hassle-free-techniques-for-watching-multiple-videos-at-once/"><u>Hassle-Free Techniques for Watching Multiple Videos at Once</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-smart-8-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Smart 8 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-instructions-how-to-enjoy-survivorio-gaming-on-your-mac-computer/"><u>Step-by-Step Instructions: How to Enjoy Survivor.io Gaming on Your Mac Computer</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ultimate-guide-crafting-the-perfect-facebook-profile-picture/"><u>Ultimate Guide: Crafting the Perfect Facebook Profile Picture</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-step-by-step-guide-mastering-zoom-on-a-windows-10-device-for-2024/"><u>[New] Step-by-Step Guide Mastering Zoom on a Windows 10 Device for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-voice-clarity-overcoming-skype-noise-issues-for-2024/"><u>[Updated] Voice Clarity Overcoming Skype Noise Issues for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-seamless-blending-android-tips-for-multi-video-editing/"><u>2024 Approved Seamless Blending Android Tips for Multi-Video Editing</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-repair-steps-solving-the-failed-user-profile-logon-issue/"><u>Complete Repair Steps: Solving the Failed User Profile Logon Issue</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/expert-guide-advanced-strategies-for-mastering-import-registry-files/"><u>Expert Guide: Advanced Strategies for Mastering Import Registry Files</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-screenshot-expert-evaluator/"><u>In 2024, ScreenShot Expert Evaluator</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-sony-xperia-10-v-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Sony Xperia 10 V? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-repackaging-workflows-using-advanced-installers-tailoring-capabilities/"><u>Optimizing Repackaging Workflows Using Advanced Installer's Tailoring Capabilities</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/reviving-lost-connections-a-step-by-step-guide-to-reinstating-your-iphone-6-contacts/"><u>Reviving Lost Connections: A Step-by-Step Guide to Reinstating Your iPhone 6 Contacts</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/secure-web-hosting-a-guide-to-setting-up-ssl-certificates-on-your-domain/"><u>Secure Web Hosting: A Guide to Setting Up SSL Certificates on Your Domain</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-finest-12-tycoons-your-pathway-to-gaming-enthusiasm-for-2024/"><u>The Finest 12 Tycoons Your Pathway to Gaming Enthusiasm for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-video-compression-tools-on-windows-10-enhance-performance-and-quality/"><u>Top Video Compression Tools on Windows 10: Enhance Performance and Quality</u></a></li>
 </ul></div>
 

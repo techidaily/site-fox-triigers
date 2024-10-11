@@ -1,7 +1,7 @@
 ---
 title: Fast Filtration Solutions
-date: 2024-10-04T21:12:33.333Z
-updated: 2024-10-05T18:49:05.809Z
+date: 2024-10-09T16:44:03.505Z
+updated: 2024-10-10T18:52:54.797Z
 tags:
   - user-guide
 categories:
@@ -65,10 +65,10 @@ Table of Contents
 ## Quick Filter
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Browse for pages in Left Pane
@@ -78,10 +78,10 @@ You can find the Quick Filter box in the upper side of the left pane. The search
 ![Left Pane](https://cdn.advancedinstaller.com/img/ui/quick-filter.png "Left Pane")  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As an example, when searching for "script" with the Quick Filter, the result will return both [SQL Databases Page](https://tools.techidaily.com/advancedinstaller/products/) and [Custom Actions Page](https://tools.techidaily.com/advancedinstaller/products/).
@@ -124,24 +124,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-amplify-views-and-engagement-through-google-analytics-expertise/"><u>[New] 2024 Approved Amplify Views & Engagement Through Google Analytics Expertise</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-listenlogic-evaluating-alternatives-to-dacast/"><u>[New] ListenLogic Evaluating Alternatives to DaCast</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-bridging-the-gap-between-human-perception-and-photographic-capture/"><u>[Updated] Bridging the Gap Between Human Perception and Photographic Capture</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-essential-audio-techniques-capturing-clear-sound/"><u>[Updated] Essential Audio Techniques Capturing Clear Sound</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-choosing-a-font-for-impactful-youtube-credits/"><u>[Updated] In 2024, Choosing a Font for Impactful YouTube Credits</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/6-users/"><u>6 Users</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/best-7-airdroid-substitutes-enhance-your-mobile-experience/"><u>Best 7 AirDroid Substitutes: Enhance Your Mobile Experience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/capturing-images-easily-on-windows-11-showing-the-mouse-pointer/"><u>Capturing Images Easily on Windows 11: Showing the Mouse Pointer</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/dvd-to-digital-how-to-convert-dvd-to-digital-video-file-formats-in-2024/"><u>DVD to Digital How to Convert DVD to Digital Video File Formats, In 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/fastupdateutility-efficient-and-rapid-application-patching-solution/"><u>FastUpdateUtility - Efficient and Rapid Application Patching Solution</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-extract-images-from-videos-on-pcs-windows-and-macs/"><u>How to Extract Images From Videos on PCs (Windows) & Macs</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/key-session-configurations-boosting-website-engagement-through-effective-management/"><u>Key Session Configurations: Boosting Website Engagement Through Effective Management</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/snapping-photos-in-a-flash-learn-how-to-use-ios/"><u>Snapping Photos in a Flash: Learn How to Use iOS</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-master-video-editing-in-final-cut-pro-for-windows-users/"><u>Step-by-Step Tutorial: Master Video Editing in Final Cut Pro for Windows Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-setting-up-your-personalized-email-signature-with-godaddy-mail/"><u>Step-by-Step Tutorial: Setting Up Your Personalized Email Signature with GoDaddy Mail</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-end-of-an-era-at-openai-as-ceo-sam-altman-steps-down-how-will-it-affect-chatgpt/"><u>The End of an Era at OpenAI as CEO Sam Altman Steps Down - How Will It Affect ChatGPT?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-methods-for-effortlessly-transferring-songs-onto-your-lg-mobile-device/"><u>Top Methods for Effortlessly Transferring Songs Onto Your LG Mobile Device</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/universal-module-merger-component-easy-integration-made-simple/"><u>Universal Module Merger Component: Easy Integration Made Simple</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/44oa44kk44ok44oi44oz44oi44ot44oh44kq44ks5oiq5yqf6kop44gr44oa44km44oz44ot44o844oj44gz44kl44gf44kb44gu6kej5rg65rov/"><u>ダイヤモントビデオを成功裏にダウンロードするための解決法</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gif-magic-transformations-without-extra-files-downloaded/"><u>[Updated] GIF Magic Transformations Without Extra Files Downloaded</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-interface-elements-exploring-the-functionality-of-the-programs-tab/"><u>1. Interface Elements: Exploring the Functionality of the Programs Tab</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-memorable-anime-opens/"><u>2024 Approved The Ultimate Guide to Memorable Anime Opens</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-strategies-and-software-for-reducing-size-of-ultra-hd-videos/"><u>Effortless Strategies and Software for Reducing Size of Ultra HD Videos</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-restore-lost-images-on-your-iphone-a-comprehensive-guide/"><u>How To Restore Lost Images on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-s23-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy S23</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-5-simple-tricks-to-enhance-smartphone-photography/"><u>Top 5 Simple Tricks to Enhance Smartphone Photography</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ultimate-precision-machines-best-of-the-series-for-2024/"><u>Ultimate Precision Machines - Best of the Series for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unbeatable-free-mp4-video-editors-top-10-list-for-2024/"><u>Unbeatable Free MP4 Video Editors Top 10 List for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-the-edit-actions-settings-panel-a-comprehensive-guide/"><u>Understanding the Edit Actions Settings Panel: A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-weve-done-some-extensive-research-on-what-some-consider-to-be-the-best-professional-video-editing-software-that-is-currently-free-down/"><u>Updated 2024 Approved Weve Done some Extensive Research on What some Consider to Be the Best Professional Video Editing Software that Is Currently Free Downloading on the Market, and Were Here to Present What Weve Manag</u></a></li>
 </ul></div>
 

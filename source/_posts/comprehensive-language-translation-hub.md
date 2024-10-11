@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Language Translation Hub
-date: 2024-10-03T21:15:59.614Z
-updated: 2024-10-05T19:58:02.778Z
+date: 2024-10-05T17:52:09.404Z
+updated: 2024-10-11T01:50:46.457Z
 tags:
   - user-guide
 categories:
@@ -83,13 +83,6 @@ Translate project strings, specify project segments for translation and generate
 
 Change or update default strings translation, save and manage dictionaries in the repository from the [Default Strings Tab](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Testing the installation User Interface
 
 ![Test Installation UI](https://cdn.advancedinstaller.com/img/toolbar/test-ui.png "Test Installation UI")Use the \[Test Installation UI \] toolbar button in the "Translations" page. This will create a temporary package in the Temp folder and run it without performing an actual installation. Since the package is not installed on your machine, only the installation UI sequence can be tested.
@@ -97,30 +90,43 @@ Change or update default strings translation, save and manage dictionaries in th
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option requires at least an [Enterprise](https://tools.techidaily.com/advancedinstaller/products/) or Architect project type.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Testing the maintenance User Interface
 
 ![Test Maintenance UI](https://cdn.advancedinstaller.com/img/toolbar/test-maintenance-ui.png "Test Maintenance UI")Use the \[Test Maintenance UI \] toolbar button in the "Translations" page. This will create a temporary package in the Temp folder and run it without performing an actual installation. Your product is temporarily registered with Windows Installer so the maintenance UI sequence can be tested..
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option requires at least an Enterprise or Architect project type.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -167,24 +173,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-explore-top-ios-emulators-for-playing-psp-games/"><u>[New] 2024 Approved Explore Top iOS Emulators for Playing PSP Games</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-beginners-blueprint-progressive-sound-intensity-rise/"><u>[Updated] In 2024, Beginner’s Blueprint Progressive Sound Intensity Rise</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726030196383-ogg/"><u>軽いコツで OGG 音楽ファイルを作り始める - 初心者向けガイド</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ace-your-linux-workflow-the-ultimate-guide-to-effortless-file-cloning-and-permission-management/"><u>Ace Your Linux Workflow: The Ultimate Guide to Effortless File Cloning and Permission Management!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/eliminating-router-threats-comprehensive-guide-on-clearing-malware-and-enhancing-cyber-defenses/"><u>Eliminating Router Threats: Comprehensive Guide on Clearing Malware & Enhancing Cyber Defenses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-an-insider-look-at-the-quirky-ultra-comfy-199-case-for-apple-vision-pro-a-surprising-find/"><u>Get an Insider Look at the Quirky, Ultra-Comfy $199 Case for Apple Vision Pro - A Surprising Find !</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-to-uninstalling-certifications-from-your-device-or-system/"><u>Guide to Uninstalling Certifications From Your Device or System</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ingenious-ways-to-screenshot-or-record-your-iphones-interface/"><u>Ingenious Ways to Screenshot or Record Your iPhone's Interface</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/introducing-the-revolutionary-apowermirror-enhanced-television-experience-now-available/"><u>Introducing the Revolutionary ApowerMirror – Enhanced Television Experience Now Available</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/revamp-your-inventory-mastering-the-edit-product-sku-interface/"><u>Revamp Your Inventory: Mastering the Edit Product SKU Interface</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/safeguard-your-favorite-indian-tiktoks-steps-for-saving-content-after-ban/"><u>Safeguard Your Favorite Indian TikToks: Steps for Saving Content After Ban</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/simplifying-the-process-how-to-guide-for-booking-meets-for-2024/"><u>Simplifying the Process How-To Guide for Booking Meets for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-modifying-system-parameters-via-the-advanced-settings-window/"><u>Step-by-Step Guide: Modifying System Parameters via the Advanced Settings Window</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-art-of-video-filming-across-various-computing-platforms-for-2024/"><u>The Art of Video Filming Across Various Computing Platforms for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/the-ultimate-tutorial-snapping-the-perfect-career-portrait-for-your-cvresume/"><u>The Ultimate Tutorial: Snapping the Perfect Career Portrait for Your CV/Résumé</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-the-edit-actions-settings-panel-a-comprehensive-guide/"><u>Understanding the Edit Actions Settings Panel: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/unlocking-advanced-features-a-guide-to-mastery-of-powertoys-fancyzones-on-windows-learn-and-optimize/"><u>Unlocking Advanced Features: A Guide to Mastery of PowerToys FancyZones on Windows - Learn & Optimize!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upgrade-your-smartphone-experience-the-accessory-that-makes-it-feel-like-a-superior-nintendo-switch/"><u>Upgrade Your Smartphone Experience: The Accessory That Makes It Feel Like a Superior Nintendo Switch</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/viral-video-conversion-turning-tweets-into-free-gifs-for-2024/"><u>Viral Video Conversion Turning Tweets Into Free GIFs for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-prowess-rankings-10-best-free-video-calls-with-screen-sharing/"><u>[Updated] 2024 Approved Prowess Rankings 10 Best Free Video Calls with Screen Sharing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebook-video-vanishing-act-heres-how-to-perform-the-counter-with-12-steps/"><u>2024 Approved Facebook Video Vanishing Act? Here's How to Perform the Counter with 12 Steps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-the-art-of-design-selecting-ideal-dimensions-for-yt-branding/"><u>2024 Approved Mastering the Art of Design Selecting Ideal Dimensions for YT Branding</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725285985056-iso-mp4/"><u>最適なISO からMP4への高効率変換 - 利用者評価トップサイト</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/creating-lasting-impressions-top-6-creative-hashtags-and-phrases-for-your-picture-perfect-moments/"><u>Creating Lasting Impressions: Top 6 Creative Hashtags & Phrases for Your Picture-Perfect Moments</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/hassle-free-techniques-for-watching-multiple-videos-at-once/"><u>Hassle-Free Techniques for Watching Multiple Videos at Once</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmmaking-revolution-15-essential-gopro-luts-revealed/"><u>In 2024, Filmmaking Revolution 15 Essential GoPro LUTs Revealed</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/key-elements-and-settings-in-personal-user-accounts/"><u>Key Elements and Settings in Personal User Accounts</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-your-web-services-with-microsofts-iis-a-comprehensive-guide/"><u>Optimizing Your Web Services with Microsoft's IIS - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-your-amd-radeon-drivers-wont-launch/"><u>Troubleshooting Steps for When Your AMD Radeon Drivers Won't Launch</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-list-of-project-types-insights-and-expert-advice-by-i-advise/"><u>Ultimate List of Project Types - Insights and Expert Advice by I Advise</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-lava-blaze-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Lava Blaze Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

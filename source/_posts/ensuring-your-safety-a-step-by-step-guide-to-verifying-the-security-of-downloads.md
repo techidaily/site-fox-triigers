@@ -1,7 +1,7 @@
 ---
 title: Ensuring Your Safety - A Step-by-Step Guide to Verifying the Security of Downloads
-date: 2024-10-04T16:39:58.674Z
-updated: 2024-10-05T18:39:15.389Z
+date: 2024-10-08T20:56:05.264Z
+updated: 2024-10-11T06:20:01.592Z
 tags:
   - product
   - antivirus
@@ -68,13 +68,6 @@ The website you are downloading it from is another factor. If you are grabbing s
 
 [![malware website](https://www.malwarefox.com/wp-content/uploads/2019/06/malware_website.png)](https://www.malwarefox.com/wp-content/uploads/2019/06/malware%5Fwebsite.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Of course, there are always exceptions to the rule. Most software developers are not web designers. But it’s easy to spot a minimalistic site that centers on the content first and foremost, with tall claims and scattered banners that entice you to click the download button.
 
 These are what you should stay away from.
@@ -84,13 +77,20 @@ Downloading files is not the only way you can end up with malware on your machin
 [![infected website](https://www.malwarefox.com/wp-content/uploads/2019/06/infected_website.jpg)](https://www.malwarefox.com/wp-content/uploads/2019/06/infected%5Fwebsite.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 That said, there are ways to block the virus at its primary stage. There are certain precautions you can take to insure against malware and reasonably ensure that the file you are downloading is safe.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Before you download
 
@@ -116,19 +116,6 @@ That said, there may be times when you might be concerned that a file might be m
 
 We’ll take a look at them next.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Online Malware Scanners
 
 Remember those days when almost every antivirus provider had an online component that let you scan your files in a browser? Of course, you do! It was many years ago when free online scanners like these were the norm, made available as addons that needed to be installed and enabled on in the browser.
@@ -150,10 +137,10 @@ There are a handful of such services now available, with the most popular being 
 Other excellent options are [MetaDefender](https://metadefender.opswat.com/), [VirSCAN,](http://www.virscan.org/) [Jotti,](https://virusscan.jotti.org/) [NoVirusThanks](https://www.novirusthanks.org/) and [NoDistribute](https://nodistribute.com/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Say Hello to VirusTotal
@@ -176,11 +163,31 @@ After the scans are completed, you are presented with a summary page that contai
 
 [![virustotal website](https://www.malwarefox.com/wp-content/uploads/2019/06/virustotal_website.png)](https://www.malwarefox.com/wp-content/uploads/2019/06/virustotal%5Fwebsite.png)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can use VirusTotal to not just scan program installers, executables and firmware files, but the service can be used to detect malware in any file — from Word documents and PDFs to images, sounds and videos. For common files, you will probably see a popup that notifies you that your file has already been analyzed recently. You can either view the analysis, or if the date was months ago, reanalyze it.
 
 If your file gets a clean bill of health from these scans, there is a fair chance that it does not come packing malware. In case of a false positive, you can also perform a web search on the file name and often find people discussing whether it is a virus or not.
 
 [![virustotal scan](https://www.malwarefox.com/wp-content/uploads/2019/06/virustotal_scan.png)](https://www.malwarefox.com/wp-content/uploads/2019/06/virustotal%5Fscan.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That is all fine and dandy. But how to use the service to scan the files you want to download before you download them? Glad you asked, because not only are there multiple ways to send files to VirusTotal, there are also a couple different ways you can make sure what you are downloading is safe.
 
@@ -191,13 +198,6 @@ Simply go to the URL tab, and enter a direct link to the file you want to downlo
 And for those of you who regularly deal with downloads, you can also integrate VirusTotal into your browser. The service offers browser extensions that allow you to right-click a link on any webpage and start scanning without visiting the VirusTotal website and copying and pasting the link there.
 
 You can find extensions for [Google Chrome](https://chrome.google.com/webstore/detail/efbjojhplkelaegfbieplglfidafgoka), [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/vtzilla/), and [Internet Explorer](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions#internet-explorer).
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Scanning your downloaded file with an antivirus
 
@@ -244,20 +244,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-road-to-profitable-facebook-marketing-through-engaging-ads/"><u>[New] In 2024, The Road to Profitable Facebook Marketing Through Engaging Ads</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-enhancing-snaps-with-zoom-feature/"><u>[Updated] Step-by-Step Guide Enhancing Snaps with Zoom Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-loading-lag-quick-fix-for-lol-on-win/"><u>Avoid Loading Lag: Quick Fix for LOL on Win</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-excel-transforming-data-workflows-and-analysis/"><u>ChatGPT in Excel: Transforming Data Workflows and Analysis</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-methods-to-safeguard-your-samsung-smartphone-files-by-copying-them-to-your-desktop-system/"><u>Easy Methods to Safeguard Your Samsung Smartphone Files by Copying Them to Your Desktop System</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-reducing-the-size-of-your-m4v-videos-without-loser-quality/"><u>Effective Strategies for Reducing the Size of Your M4V Videos without Loser Quality</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/effortless-sync-master-the-steps-for-pairing-your-google-pixel-device-with-a-pc-or-laptop/"><u>Effortless Sync: Master the Steps for Pairing Your Google Pixel Device With a PC or Laptop</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-windows-file-attributes-panel-tips-and-tricks/"><u>Exploring Windows File Attributes Panel: Tips and Tricks</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/leveraging-huaweis-inbuilt-screen-capture-tech-on-its-phones-for-2024/"><u>Leveraging Huawei's Inbuilt Screen Capture Tech on Its Phones for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/member-profile-enrollment-joining-the-directory/"><u>Member Profile Enrollment: Joining the Directory</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/navigating-through-directory-configurations-mastering-settings-for-effective-file-system-control-panel-operations/"><u>Navigating Through Directory Configurations: Mastering Settings for Effective File System Control Panel Operations</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/protect-againn-from-viruses-using-malwarefox-free-malware-defense-and-clean-up-solution/"><u>Protect Againn From Viruses Using MalwareFox: FREE Malware Defense & Clean-Up Solution</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/simple-steps-to-shift-your-android-phones-contact-list-onto-your-new-iphone-ebook-the-ultimate-guide-to-transferring-android-contacts-to-iphone-by-tech-guru3/"><u>Simple Steps to Shift Your Android Phone's Contact List Onto Your New iPhone eBook: The Ultimate Guide to Transferring Android Contacts to iPhone by Tech Guru John Smith (10,000 Words)</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-innovative-discussion-themes-for-vloggers/"><u>[New] In 2024, Innovative Discussion Themes for Vloggers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-engaging-viewers-on-youtube-gaming-livestreams/"><u>[Updated] 2024 Approved Engaging Viewers on YouTube Gaming Livestreams</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-premier-gif-application-selection-for-iphone-users/"><u>[Updated] 2024 Approved Premier GIF Application Selection for iPhone Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comprehensive-walkthrough-on-creating-accessible-video-synopses/"><u>Comprehensive Walkthrough on Creating Accessible Video Synopses</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/cut-the-pixels-keep-quality-discover-no-cost-solutions-for-reducing-jpeg-file-sizes-to-under-100-kb/"><u>Cut the Pixels, Keep Quality: Discover No-Cost Solutions for Reducing JPEG File Sizes to Under 100 KB</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-configuration-options-for-successful-software-installs/"><u>Essential Configuration Options for Successful Software Installs</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/identify-and-eliminate-o97mdplinka-trojan-infections-expert-tips-from-malwarefox/"><u>Identify & Eliminate O97M/DPLink.A Trojan Infections - Expert Tips From MalwareFox</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-android-vocal-mixer-app/"><u>In 2024, Premier Android Vocal Mixer App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-scaling-video-size-without-quality-loss-on-youtube/"><u>In 2024, Scaling Video Size Without Quality Loss on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/leveraging-time-stamps-for-enhanced-video-clarity-on-youtube/"><u>Leveraging Time Stamps for Enhanced Video Clarity on YouTube</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimize-and-implement-iidriver-solutions-effectively/"><u>Optimize and Implement IIDriver Solutions Effectively</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-web-resources-curated-alarm-tones/"><u>Premium Web Resources Curated Alarm Tones</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/the-best-5-functional-mouse-recording-devices-you-need-to-try/"><u>The Best 5 Functional Mouse Recording Devices You Need to Try!</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-sound-upload-tools-for-tiktok-users-in-2020/"><u>Top Sound Upload Tools for TikTok Users in 2020</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-installing-logitech-g29-race-wheel-on-windows-operating-systems-win-7810/"><u>Ultimate Guide to Installing Logitech G29 Race Wheel on Windows Operating Systems: Win 7/8/10</u></a></li>
 </ul></div>
 

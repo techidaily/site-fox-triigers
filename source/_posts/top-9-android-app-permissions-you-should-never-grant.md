@@ -1,7 +1,7 @@
 ---
 title: Top 9 Android App Permissions You Should Never Grant
-date: 2024-10-04T20:02:52.789Z
-updated: 2024-10-05T16:52:57.316Z
+date: 2024-10-10T02:06:13.726Z
+updated: 2024-10-10T17:21:07.061Z
 tags:
   - product
   - antivirus
@@ -55,10 +55,10 @@ The applications tell you what they require, and you have the option to take the
 [How to Check if an Android App is Safe to Install](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The problem with Permissions
@@ -73,19 +73,6 @@ Fact is, the more unnecessary permissions an app requires, the more it might end
 
 It’s the very nature of the beast.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Setting the Permissions
 
 Whenever you install an app, Android will ask you all of the permissions it needs to function. It will also ask for your confirmation when you start that app for the first time. It is important to read them carefully before allowing specific permission.
@@ -98,11 +85,25 @@ It gives that application the ability to phish your password through trickery or
 
 That’s the last thing you want, this privacy and security nightmare.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## App Permissions to avoid on Android
 
 We take a look at the most common permissions apps asks for on Android below. Each one is detailed with what it does, so you know what it does and how it impacts your privacy and the security of your device. Additionally, it should also give you an idea of what permissions to avoid.
 
 Let’s get to it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Authenticate accounts
 
@@ -124,36 +125,15 @@ There have been cases where these malware-infested apps secretly mailed the log 
 
 [What is Cached Data on Android Phone](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Read contacts
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/contacts.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 As it says on the tin, this permission gives an application access to your contact, letting it read all the details of these entries. This is the first thing that malware apps will ask for. If you allow them, they will take advantage of these details in a variety of ways, including sending malicious files to your contacts via spoofed emails.
 
 ## Read or Write Calendar data
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/calendar.png)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now, this permission is something that will be of moderate importance to most users. Calendar information is usually slightly less important than your contact list, even as calendar events often contain contact information. But if you know that an app is legitimately asking for access here, then there is little harm in giving it. 
 
@@ -169,13 +149,40 @@ This permission allows an app to read and write system settings. No doubt this i
 
 Those of you who are using rooted phones should be extra careful when giving this permission. In most cases, you want to look the other way when an app wants in with this, for this is akin to giving the keys of your house to a burglar.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Process Outgoing Calls
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/call.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This one is straightforward. Once granted this permission, an app will get the ability to monitor the details of outgoing calls. And you can bet the farmhouse that it will examine everything — from the phone numbers to the personal details of your contacts.
 
 This is another powerful permission that you should not be handing out like candies on a Halloween night. As a matter of pure fact, it should belong exclusively to VoIP apps, those that you use to make voice and video calls with your friends and family. An app that wants this access without having anything to do with incoming or outgoing calls will simply be over-permissioned.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Send SMS
 
@@ -184,13 +191,6 @@ Back in the wild days, when Android was very new, apps really misused this abili
 Nevertheless, you should still use caution in granting apps access to send SMS or MMS. While the number of companies that can tack on charges to individual SMS is low nowadays, you would still receive the bill for using services like these. Unless you are absolutely sure that your chosen app requires access to your SMS, this permission should not be permitted.
 
 [How to Block Unwanted SMS text Messages on Android](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Read Social Stream
 
@@ -202,6 +202,13 @@ This is, again, something that you should be very careful of, and only hand over
 
 App permissions may be one of the best things to ever happen to the Android platform. They are great in theory. But it still pays to know exactly what terms and conditions you are agreeing to, and what the applications are doing with your private data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 thoughts on “9 App Permissions to Avoid on Android”
 
 1. ![](https://secure.gravatar.com/avatar/594d2b32dd23344d963d854a4d5ea8f0?s=50&d=mm&r=g)  
@@ -211,13 +218,6 @@ How do I stop all of the the blocks,put on anything that has to do with me/or my
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 2. ![](https://secure.gravatar.com/avatar/f11f4161b0c96d94489229ff513b368b?s=50&d=mm&r=g)  
 Jubal Spencer  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [September 9, 2021 at 2:15 am](https://tools.techidaily.com/malwarefox/products/)  
 I have 6 apps that have an secondary app “Clone” of the same app. 12 apps total. These apps I am concerned about have a file icon in the avatar. they have permission to my contacts, storage, phone, call logs, calendar so on and so forth. Each “cloned” app has the same permissions as the other app. Dual apps Duel permission.  
@@ -231,10 +231,10 @@ I forgot I have an android
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -262,19 +262,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-essential-remedies-for-stalled-airdrop-functionality-in-apple-ecosystem/"><u>[New] Essential Remedies for Stalled Airdrop Functionality in Apple Ecosystem</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-discover-the-full-screen-fusion-potential-with-sierras-multimedia-capabilities/"><u>[Updated] 2024 Approved Discover the Full-Screen Fusion Potential with Sierra's Multimedia Capabilities</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-optimize-your-content-creation-for-vimeo-with-best-edits-for-2024/"><u>[Updated] Optimize Your Content Creation for Vimeo with Best Edits for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1-mastering-the-art-of-extraction-engaging-conversations-in-archiving/"><u>1. Mastering the Art of Extraction: Engaging Conversations in Archiving</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-top-choice-gpus-ultra-hd-gameplay-delight/"><u>2024 Approved Top Choice GPUs Ultra HD Gameplay Delight</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005916670-fix-your-world-of-tanks-blitz-app-stability-issues-end-the-constant-crashes-now/"><u>Fix Your World of Tanks Blitz App Stability Issues - End the Constant Crashes Now!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-blue-discoloration-on-your-screen-8-effective-techniques/"><u>Fixing the Blue Discoloration on Your Screen: 8 Effective Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-make-memories-count-learn-to-share-photos-right-now/"><u>In 2024, Make Memories Count Learn to Share Photos Right Now</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s4-the-ultimate-portable-android-device/"><u>In-Depth Analysis of the Samsung Galaxy Tab S4 - The Ultimate Portable Android Device</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/navigating-through-the-xml-settings-section-a-comprehensive-guide/"><u>Navigating Through the XML Settings Section: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimizing-service-configuration-with-iservicesetup/"><u>Optimizing Service Configuration with IServiceSetup</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/photoflex-max-best-windowsmac-picture-editors-for-2024/"><u>PhotoFlex Max Best Windows/Mac Picture Editors for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/resolve-aw-snap-glitch-in-chrome-when-pages-load-protect-with-malwarefox/"><u>Resolve 'Aw Snap!' Glitch in Chrome When Pages Load – Protect with MalwareFox</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-how-to-insert-an-attachment-in-your-iphones-mail-app/"><u>Step-by-Step Tutorial: How to Insert an Attachment in Your iPhone's Mail App</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/53554758-new-2024-approved-watch-9-free-full-length-christmas-movies-on-youtube/"><u>[New] 2024 Approved Watch 9 Free Full Length Christmas Movies On YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mememolding-cutter/"><u>[Updated] 2024 Approved MemeMolding Cutter</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-beam-into-collaborative-spaces-within-tiktok-for-2024/"><u>[Updated] Beam Into Collaborative Spaces Within TikTok for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-exploring-freeweb-cam-studios-capabilities-for-2024/"><u>[Updated] Exploring FreeWeb Cam Studio's Capabilities for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/advanced-xpath-querying-techniques-and-ixmlsearch-strategies/"><u>Advanced XPath Querying Techniques and IXMLSearch Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/behind-the-shoot-spots-seeking-budget-friendly-stunning-tiktok-backdrops-for-2024/"><u>Behind-the-Shoot Spots Seeking Budget-Friendly, Stunning TikTok Backdrops for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/chatgpt-plus-review-essential-reasons-to-make-the-upgrade/"><u>ChatGPT Plus Review: Essential Reasons to Make The Upgrade</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-steps-to-incorporate-tunes-into-your-instagram-stories/"><u>Easy Steps to Incorporate Tunes Into Your Instagram Stories</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-configuration-options-for-successful-software-installs/"><u>Essential Configuration Options for Successful Software Installs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/hot-iphones-or-ipads-uncover-causes-and-fixes-for-device-overheating-problems/"><u>Hot iPhones or iPads? Uncover Causes and Fixes for Device Overheating Problems</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/identify-and-eliminate-o97mdplinka-trojan-infections-expert-tips-from-malwarefox/"><u>Identify & Eliminate O97M/DPLink.A Trojan Infections - Expert Tips From MalwareFox</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/have-talker-alteration-tech-for-content-makers/"><u>Must-Have Talker Alteration Tech for Content Makers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimize-and-implement-iidriver-solutions-effectively/"><u>Optimize and Implement IIDriver Solutions Effectively</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/seamless-transition-moving-your-blackberry-contacts-to-an-iphone-6-or-iphone-5s/"><u>Seamless Transition: Moving Your BlackBerry Contacts to an iPhone 6 or iPhone 5S</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/the-best-5-functional-mouse-recording-devices-you-need-to-try/"><u>The Best 5 Functional Mouse Recording Devices You Need to Try!</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-sound-upload-tools-for-tiktok-users-in-2020/"><u>Top Sound Upload Tools for TikTok Users in 2020</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-xiaomi-civi-3-disney-100th-anniversary-edition-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi Civi 3 Disney 100th Anniversary Edition? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

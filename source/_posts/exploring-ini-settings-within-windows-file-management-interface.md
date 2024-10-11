@@ -1,7 +1,7 @@
 ---
 title: Exploring INI Settings Within Windows File Management Interface
-date: 2024-10-02T17:23:28.804Z
-updated: 2024-10-05T17:25:59.579Z
+date: 2024-10-04T01:03:11.608Z
+updated: 2024-10-11T02:36:29.067Z
 tags:
   - user-guide
 categories:
@@ -95,10 +95,10 @@ When adding an INI file to your package you have two options:
 An INI file will always use the **encoding of an MSI**, set in [Configuration Settings Tab](https://tools.techidaily.com/advancedinstaller/products/) under _Database Code Page_ section. From this tab it can be changed to**UTF-8** if needed and thus, making both the MSI and INI files to use this encoding.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating new INI files
@@ -106,10 +106,10 @@ An INI file will always use the **encoding of an MSI**, set in [Configuration Se
 ![New INI File](https://cdn.advancedinstaller.com/img/toolbar/ini-new.png "New INI File")Use the \[New INI File \] toolbar button or the “New INI File” tree/list context menu item. The filenames should have valid filename specific ASCII characters only. The [INI File Editor - Edit INI File Dialog](https://tools.techidaily.com/advancedinstaller/products/) allows you to add, remove and change INI sections and keys. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an existing INI file
@@ -119,26 +119,26 @@ An INI file will always use the **encoding of an MSI**, set in [Configuration Se
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)INI files can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Name
 * Key
 * Value
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -180,14 +180,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-insta-followers-footprints-trail-blazing-techniques/"><u>[Updated] In 2024, Insta Followers Footprints Trail-Blazing Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-complete-guide-to-crafting-perfect-instagram-stories/"><u>[Updated] In 2024, The Complete Guide to Crafting Perfect Instagram Stories</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/best-7-airdroid-substitutes-enhance-your-mobile-experience/"><u>Best 7 AirDroid Substitutes: Enhance Your Mobile Experience</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/diy-image-editing-vanish-subjects-from-photos-effortlessly-without-adobe/"><u>DIY Image Editing: Vanish Subjects From Photos Effortlessly without Adobe</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/navigating-project-specifications-the-importance-of-the-requirements-tab/"><u>Navigating Project Specifications: The Importance of the Requirements Tab</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-on-acquiring-and-setting-up-a-streaming-sound-recording-tool/"><u>Step-by-Step Tutorial on Acquiring & Setting Up a Streaming Sound Recording Tool</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-behind-the-scenes-crafting-a-movie-blueprint/"><u>[New] Behind the Scenes Crafting a Movie Blueprint</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-podcast-logo-basics-key-principles-for-striking-art/"><u>[New] Podcast Logo Basics Key Principles for Striking Art</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cost-effective-video-capture-for-less-expensive-systems-for-2024/"><u>[Updated] Cost-Effective Video Capture for Less Expensive Systems for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-the-art-of-laptop-video-capturing/"><u>2024 Approved Mastering the Art of Laptop Video Capturing</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/complete-tutorial-on-converting-wmv-videos-to-avi-for-optimal-playback/"><u>Complete Tutorial on Converting WMV Videos to AVI for Optimal Playback</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-pc-management-from-anywhere-learn-how-to-use-your-android-phone-for-direct-computing-controls/"><u>Effortless PC Management From Anywhere: Learn How to Use Your Android Phone for Direct Computing Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-video-processing-on-windows-embrace-distributed-power-via-tdarr/"><u>Elevate Video Processing on Windows: Embrace Distributed Power via Tdarr</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-connect-your-airpods-to-windows-pcs-seamlessly-updated-solutions/"><u>Expert Advice: Connect Your AirPods to Windows PCs Seamlessly - Updated Solutions</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-effortlessly-change-your-mp3s-into-crystal-clear-aac-audio-top-5-methods-explained/"><u>How To Effortlessly Change Your MP3s Into Crystal Clear AAC Audio - Top 5 Methods Explained</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simple-storytelling-fundamentals/"><u>In 2024, Simple Storytelling Fundamentals</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-chatgpt-barriers-to-entry-effortlessly/"><u>Overcoming ChatGPT Barriers to Entry Effortlessly</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/pros-and-cons-of-using-two-different-antivirus-applications-together-as-analyzed-by-malwarefox/"><u>Pros and Cons of Using Two Different Antivirus Applications Together as Analyzed by MalwareFox</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/seamless-video-playback-on-sony-tvs-how-to-transform-your-mkv-files-with-ease/"><u>Seamless Video Playback on Sony TVs: How to Transform Your MKV Files with Ease</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/the-ultimate-walkthrough-install-and-enjoy-disney-mirrorverse-on-windowsmac-pcs/"><u>The Ultimate Walkthrough: Install & Enjoy Disney Mirrorverse on Windows/Mac PCs</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-rated-background-editing-applications-for-impeccable-white-canvas-pictures/"><u>Top Rated Background Editing Applications for Impeccable White Canvas Pictures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-fix-issues-when-cortana-is-unresponsive/"><u>Troubleshooting: How to Fix Issues When Cortana Is Unresponsive</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-guide-crafting-the-perfect-facebook-profile-picture/"><u>Ultimate Guide: Crafting the Perfect Facebook Profile Picture</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-technique-tutorial-transforming-white-backdrops-into-perfect-photo-edits/"><u>Ultimate Technique Tutorial: Transforming White Backdrops Into Perfect Photo Edits</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secure Web Hosting: A Guide to Setting Up SSL Certificates on Your Domain"
-date: 2024-10-04T17:07:16.923Z
-updated: 2024-10-05T21:11:29.543Z
+date: 2024-10-06T03:22:56.951Z
+updated: 2024-10-11T04:29:05.680Z
 tags:
   - user-guide
 categories:
@@ -103,10 +103,10 @@ This view allows you to properly configure HTTP and HTTPS bindings, along with t
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)**SSL** configuration options are available only when you have configured at least one HTTPS binding.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bindings
@@ -130,10 +130,10 @@ Use the \[Remove \] button, the “Remove” context menu item or press theDelet
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)This triplet setting (IP Address, Port No, Host Name) defines the Web Site [binding](https://tools.techidaily.com/advancedinstaller/products/) and therefore must be unique. If you add a _duplicate_ binding to the Web server, only one site with that binding can run at a time. Additionally, any changes that are made to the SSL certificate on one binding will affect the certificate on the other bindings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## SSL Certificate
@@ -142,6 +142,13 @@ Select the digital certificate to be used for SSL by your web site. The Advanced
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can use the _same_ digital certificate for multiple Web Sites in your project/server.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For server _testing_ and_troubleshooting_ you can use a **Self-Signed Certificate**, that you can easily create from the IIS/Certificates MMC Snap-in.
 
 ### System Store Name
@@ -149,10 +156,10 @@ Select the digital certificate to be used for SSL by your web site. The Advanced
 Specify the system store name for the used digital certificate. Usually, the **'Personal'** store (MY) is used.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using existing server certificate
@@ -160,10 +167,10 @@ Specify the system store name for the used digital certificate. Usually, the **'
 Select this option if you want to associate an_existing_ certificate (from the server) with your new Web Site.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ThumbPrint (Hash)
@@ -174,35 +181,22 @@ You can use the helper “...” button to select a PFX certificate file from wh
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/) by inserting Windows Installer property references, which will be resolved at install time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Install PFX certificate from the package
 
 Select this option if you want to install on the server a digital certificate for your Web Site. The digital certificate will reside as a binary resource within the package, with the password you provide **securely encrypted**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Install PFX certificate chosen at run time
 
 If you don't want to store the digital certificate and password in your package, you have the option of letting the installing user provide them through the installation UI, by means of [Windows Installer Properties](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For details on how to choose a digital certificate file from the installation package UI please read the [Browse for file](https://tools.techidaily.com/advancedinstaller/products/) how-to article.
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Remove this bindings's certificate at Unistall
 
@@ -220,13 +214,6 @@ Select this option to enable a 40–bit data encryption method that you can use 
 
 Select this option to provide stronger encryption than the 40–bit version. You can use 128–bit SSL to help secure transmissions between your server and clients in either an Intranet or Internet environment.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Client certificates
 
 Configure how the server should handle the _client identity_ when connecting securely to the Web Site. The following options are available:
@@ -236,6 +223,13 @@ Configure how the server should handle the _client identity_ when connecting sec
 * **Require** \- server requires that certificates verify client identity before allowing the client to gain access to content
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The **Ignore** option does not require clients to verify their identity before gaining access to your content. Therefore, this is the least secure of these settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Always negotiate client certificate
 
@@ -279,18 +273,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-effectively-reduce-your-youtube-video-lengths/"><u>[Updated] 2024 Approved How To Effectively Reduce Your YouTube Video Lengths</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-prime-screen-snaps-on-apple-devices-max-length-156-for-2024/"><u>[Updated] Prime Screen Snaps on Apple Devices (Max Length 156) for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-gaming-experience-with-latest-nvidia-graphics-driver-update-on-windows-10/"><u>Boost Gaming Experience with Latest NVIDIA Graphics Driver Update on Windows 10</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/boost-user-conversations-strategies-for-adding-dynamic-dialogue-features/"><u>Boost User Conversations: Strategies for Adding Dynamic Dialogue Features</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-module-cannot-be-located-issue-effective-strategies-for-developers/"><u>Fix the ‘Module Cannot Be Located’ Issue - Effective Strategies for Developers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-device-application-conflicts-affecting-hdmi-functionality/"><u>Fixing Device-Application Conflicts Affecting HDMI Functionality</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-baldurs-gate-3-full-game-on-mac-via-crossover/"><u>Mastering Baldur's Gate 3: Full Game on Mac via Crossover</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-website-customization-and-control-panel-setup/"><u>Mastering Website Customization & Control Panel Setup</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/merge-several-pdf-documents-on-pc-or-mac-with-simple-methods/"><u>Merge Several PDF Documents on PC or Mac with Simple Methods</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-the-power-of-animated-photos-top-10-tools-and-techniques/"><u>New In 2024, Unleash the Power of Animated Photos Top 10 Tools and Techniques</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/streamline-your-app-with-the-imergemodule-seamless-integration-techniques/"><u>Streamline Your App with the IMergeModule - Seamless Integration Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-advanced-5-internet-screen-grabbers/"><u>[New] 2024 Approved Advanced 5 Internet Screen Grabbers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-carve-a-unique-meme-with-precision-today/"><u>[New] Carve a Unique Meme with Precision Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cosmic-realms-unveiled-metaverse-vs-multiverse/"><u>[Updated] Cosmic Realms Unveiled Metaverse vs Multiverse</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/boosting-chromes-velocity-a-guide-to-accelerating-your-web-browser-in-5-steps/"><u>Boosting Chrome's Velocity: A Guide to Accelerating Your Web Browser in 5 Steps</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/custom-scripted-conversations-enhancing-user-experience-with-preprogrammed-responses/"><u>Custom Scripted Conversations: Enhancing User Experience with Preprogrammed Responses</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-both-cost-free-and-subscription-based-methods-for-modifying-mts-video-format/"><u>Discover Both Cost-Free and Subscription-Based Methods for Modifying MTS Video Format</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-customize-control-events-within-the-application-settings-window/"><u>How to Customize Control Events Within the Application Settings Window</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-hot-30i-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Hot 30i to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensively-understanding-and-mastering-win10s-zoom-use/"><u>In 2024, Comprehensively Understanding and Mastering Win10's Zoom Use</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagrams-edge-the-best-practices-for-video-creation/"><u>In 2024, Instagram's Edge The Best Practices for Video Creation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-t2x-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo T2x 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-project-specifications-the-importance-of-the-requirements-tab/"><u>Navigating Project Specifications: The Importance of the Requirements Tab</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-techniques-for-converting-pdfs-into-tiff-format-a-comprehensive-guide/"><u>Top Techniques for Converting PDFs Into TIFF Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-issues-with-immortals-fenyx-rising-freezes-and-crashes/"><u>Troubleshooting Continuous Issues with Immortals: Fenyx Rising Freezes and Crashes</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-the-characteristics-and-settings-of-plain-text-files/"><u>Understanding the Characteristics and Settings of Plain-Text Files</u></a></li>
 </ul></div>
 

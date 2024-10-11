@@ -1,7 +1,7 @@
 ---
 title: Optimizing FastCGI Configuration for Improved Server Performance
-date: 2024-09-29T17:12:17.794Z
-updated: 2024-10-05T18:19:50.962Z
+date: 2024-10-06T17:16:28.113Z
+updated: 2024-10-11T05:24:32.114Z
 tags:
   - user-guide
 categories:
@@ -102,16 +102,10 @@ This view allows advanced configuration for FastCGI application pool definitions
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Only one pool will be added for all application mappings sharing the same **Script Processor**. To see all web sites using the pool, refer to the **Websites** column.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an element
@@ -119,10 +113,16 @@ This view allows advanced configuration for FastCGI application pool definitions
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected. The [FastCGI Properties dialog](https://tools.techidaily.com/advancedinstaller/products/) will be shown allowing you to configure an existing application pool definition along with its environment variables.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -165,18 +165,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-gamers-guide-to-elite-streaming-platforms/"><u>[New] In 2024, Gamers' Guide to Elite Streaming Platforms</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-videos-shared-directly-from-phones/"><u>[New] In 2024, Twitter Videos Shared Directly From Phones</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-directing-content-flow-uploading-imovie-films-to-youtube/"><u>2024 Approved Directing Content Flow Uploading IMovie Films to YouTube</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/advanced-techniques-in-detecting-installed-software-versions/"><u>Advanced Techniques in Detecting Installed Software Versions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/come-download-gratuito-freemaker-percorso-di-installazione-per-mac/"><u>Come Download Gratuito FreeMaker Percorso Di Installazione per Mac</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortlessly-extend-apowersoft-scanning-apps-paid-plans-on-mobile-devices/"><u>Effortlessly Extend Apowersoft Scanning App's Paid Plans on Mobile Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-13-mini-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 13 mini</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/itunes-version-121-common-issues-and-troubleshooting-tips/"><u>ITunes Version 12.1 - Common Issues and Troubleshooting Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987923938-monster-hunter-rise-stuck-on-loading-screen-heres-the-solution/"><u>Monster Hunter Rise Stuck on Loading Screen? Here's the Solution</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-complete-guide-to-editing-movies-with-appropriate-movie-editors-and-tips-for-editing-movies-and-videos-for-2024/"><u>New Complete Guide to Editing Movies with Appropriate Movie Editors and Tips for Editing Movies and Videos for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-x50-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/unraveling-the-dependencies-of-imsixdriver-in-your-system/"><u>Unraveling the Dependencies of IMsixDriver in Your System</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-best-practices-for-high-impact-customer-endorsements/"><u>[Updated] 2024 Approved Best Practices for High-Impact Customer Endorsements</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-streamline-report-design-with-the-enhanced-ssrs-resource-management-panel/"><u>1. Streamline Report Design with the Enhanced SSRS Resource Management Panel</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/banishing-stickers-from-social-media-short-clips/"><u>Banishing Stickers From Social Media Short Clips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-for-opening-the-command-prompt-in-multiple-windows-versions-a-guide-to-quick-navigation/"><u>Comprehensive Instructions for Opening the Command Prompt in Multiple Windows Versions: A Guide to Quick Navigation</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-the-leading-optical-character-recognition-ocr-apps-for-windows-11-comparison-of-free-and-paid-solutions/"><u>Discover the Leading Optical Character Recognition (OCR) Apps for Windows 11 - Comparison of FREE and PAID Solutions</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-transformation-guide-convert-pdfs-into-clear-sharp-png-format-with-these-5-simple-steps-on-windows-10/"><u>Effortless Transformation Guide: Convert PDFs Into Clear, Sharp PNG Format with These 5 Simple Steps on Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-definition-showdown-ultimate-legendary-sj6-vs-yi-4k-innovation-for-2024/"><u>High Definition Showdown Ultimate Legendary SJ6 Vs. Yi 4K Innovation for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/metaverse-metaphors-discovering-6-detailed-instances/"><u>Metaverse Metaphors Discovering 6 Detailed Instances</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/revive-missing-images-on-your-galaxy-note-device-with-efficient-data-retrieval-solutions/"><u>Revive Missing Images on Your Galaxy Note Device with Efficient Data Retrieval Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-turn-onoff-picture-in-picture-mode-in-youtube-app/"><u>Step by Step Guide Turn On/Off Picture In Picture Mode in YouTube App</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-selection-of-high-quality-videos-free-from-logo-overlays/"><u>Top Selection of High-Quality Videos Free From Logo Overlays</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/uncover-your-screen-movements-mastering-visibility-of-mouse-pointers-while-recording-on-windows/"><u>Uncover Your Screen Movements: Mastering Visibility of Mouse Pointers While Recording on Windows</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-http3-a-complete-guide-to-the-next-generation-internet-protocol/"><u>Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol</u></a></li>
 </ul></div>
 

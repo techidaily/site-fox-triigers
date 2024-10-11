@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Edit Actions Settings Panel: A Comprehensive Guide"
-date: 2024-10-02T17:37:49.989Z
-updated: 2024-10-05T20:09:12.184Z
+date: 2024-10-07T18:32:21.478Z
+updated: 2024-10-10T19:31:49.952Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ This dialog allows you to specify a status message that will be displayed in the
 ![Edit Action Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-action-properties.png "Edit Action Properties Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -90,10 +90,10 @@ This dialog allows you to specify a status message that will be displayed in the
 Edit the text which is displayed in the progress dialog box, or written in the log file when the action is executing. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Template
@@ -105,10 +105,10 @@ These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstal
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Action text is displayed only for custom actions that are sequenced as **deferred** between the_InstallInitialize_ (Preparing action group) and_InstallFinalize actions_ (Finish Execution action group).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -144,18 +144,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-best-bike-racing-games-that-you-should-play-for-2024/"><u>[New] Best Bike Racing Games That You Should Play for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bright-ideas-effective-lighting-in-vlogging/"><u>[Updated] 2024 Approved Bright Ideas Effective Lighting in Vlogging</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-substitutes-to-moviemaker-in-the-windows-realm/"><u>2024 Approved Substitutes to MovieMaker in the Windows Realm</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/eliminating-router-threats-comprehensive-guide-on-clearing-malware-and-enhancing-cyber-defenses/"><u>Eliminating Router Threats: Comprehensive Guide on Clearing Malware & Enhancing Cyber Defenses</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-k11x-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo K11x to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-xs-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone XS Max? Heres the Best Fixes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-free-mp4-conversion-tutorial-from-facebooks-high-definition-videos/"><u>In 2024, Free MP4 Conversion Tutorial From Facebook's High-Definition Videos</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/revamp-your-inventory-mastering-the-edit-product-sku-interface/"><u>Revamp Your Inventory: Mastering the Edit Product SKU Interface</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/safeguard-your-favorite-indian-tiktoks-steps-for-saving-content-after-ban/"><u>Safeguard Your Favorite Indian TikToks: Steps for Saving Content After Ban</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-modifying-system-parameters-via-the-advanced-settings-window/"><u>Step-by-Step Guide: Modifying System Parameters via the Advanced Settings Window</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-raspberry-pi-protection-enclosures-the-ultimate-guide/"><u>Top-Rated Raspberry Pi Protection Enclosures: The Ultimate Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-churning-up-channels-top-gear-list/"><u>[New] 2024 Approved Churning Up Channels Top Gear List</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-streamline-report-design-with-the-enhanced-ssrs-resource-management-panel/"><u>1. Streamline Report Design with the Enhanced SSRS Resource Management Panel</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-transformation-guide-convert-pdfs-into-clear-sharp-png-format-with-these-5-simple-steps-on-windows-10/"><u>Effortless Transformation Guide: Convert PDFs Into Clear, Sharp PNG Format with These 5 Simple Steps on Windows 10</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/eradicating-the-google-safety-alert-infection-a-step-by-step-guide-with-malwarefox/"><u>Eradicating the Google Safety Alert Infection: A Step-by-Step Guide with MalwareFox</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/fast-filtration-solutions/"><u>Fast Filtration Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-zte-blade-a73-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your ZTE Blade A73 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-approach-to-3d-text-in-photoediting-for-2024/"><u>Innovative Approach to 3D Text in PhotoEditing for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-teams-up-with-pearson-schooling-corp/"><u>Mondly Teams Up with Pearson Schooling Corp</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-photo-narrative-directors-set/"><u>Pinnacle Photo Narrative Director's Set</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-concepts-to-transform-vhs-imagery-on-computers/"><u>Prime Concepts to Transform VHS Imagery on Computers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/revive-missing-images-on-your-galaxy-note-device-with-efficient-data-retrieval-solutions/"><u>Revive Missing Images on Your Galaxy Note Device with Efficient Data Retrieval Solutions</u></a></li>
 </ul></div>
 

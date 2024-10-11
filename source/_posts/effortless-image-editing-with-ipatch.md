@@ -1,7 +1,7 @@
 ---
 title: Effortless Image Editing with IPatch
-date: 2024-10-04T19:24:49.434Z
-updated: 2024-10-05T19:18:15.763Z
+date: 2024-10-05T02:02:38.015Z
+updated: 2024-10-10T21:44:54.936Z
 tags:
   - user-guide
 categories:
@@ -117,37 +117,43 @@ Table of Contents
 
 ## IPatchImages
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IPatchImages : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant for managing upgraded images.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Properties
 
 **Array<IPatchUpgradeImage> UpgradedImages** \- Gets the collection of the patch upgraded images.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -158,10 +164,10 @@ This interface is meant for managing upgraded images.
 **DeleteImage(IPatchUpgradeImage aImage)** Deletes the upgraded image.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -203,18 +209,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-compiling-the-top-windows-11-video-capture-tools/"><u>[New] 2024 Approved Compiling the Top Windows 11 Video Capture Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-nextgen-videotron-app-evaluation/"><u>[New] In 2024, NextGen Videotron App Evaluation</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/begin-your-journey-with-iini-entry-point/"><u>Begin Your Journey with Iini Entry Point</u></a></li>
-<li><a href="https://network-issues.techidaily.com/calm-the-currents-resolve-dells-flicker/"><u>Calm the Currents: Resolve Dell's Flicker</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-se-2022-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone SE (2022)? Learn All 4 Methods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/ipados-masterpieces-best-pencil-programs-for-2024/"><u>IPadOS Masterpieces Best Pencil Programs for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-screen-captures-a-step-by-step-guide-to-taking-screenshots-in-windows-10/"><u>Mastering Screen Captures: A Step-by-Step Guide to Taking Screenshots in Windows 10</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/merge-several-pdf-documents-on-pc-or-mac-with-simple-methods/"><u>Merge Several PDF Documents on PC or Mac with Simple Methods</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/navigating-the-configuration-options-section-a-guide-to-environmental-parameters/"><u>Navigating the Configuration Options Section: A Guide to Environmental Parameters</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/straightforward-guide-how-to-easily-retrieve-and-store-veehd-content/"><u>Straightforward Guide: How to Easily Retrieve and Store VeeHD Content</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-7-leading-computer-diagnostic-tools-preferred-by-it-professionals/"><u>Top 7 Leading Computer Diagnostic Tools Preferred by IT Professionals</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-pinnacle-studio-replacements-for-mac/"><u>Updated In 2024, Top Pinnacle Studio Replacements for Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-top-20-inspiring-ideas-for-instagram-photos-for-2024/"><u>[New] Top 20 Inspiring Ideas for Instagram Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-videography-7-free-sound-effects-collection/"><u>[Updated] 2024 Approved Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-djis-edge-shifted-the-ultimate-mavic-air-vs-spark-showdown/"><u>[Updated] DJI's Edge Shifted The Ultimate Mavic Air Vs. Spark Showdown</u></a></li>
+<li><a href="https://win-able.techidaily.com/androidioswav/"><u>Android/iOSを使用してスマートフォンでWAV音楽ファイル再生に関する解決策</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/boosting-chromes-velocity-a-guide-to-accelerating-your-web-browser-in-5-steps/"><u>Boosting Chrome's Velocity: A Guide to Accelerating Your Web Browser in 5 Steps</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/custom-scripted-conversations-enhancing-user-experience-with-preprogrammed-responses/"><u>Custom Scripted Conversations: Enhancing User Experience with Preprogrammed Responses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/customize-chatgpts-prose-tips-for-making-it-reflect-your-voice/"><u>Customize ChatGPT's Prose: Tips for Making It Reflect Your Voice</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-both-cost-free-and-subscription-based-methods-for-modifying-mts-video-format/"><u>Discover Both Cost-Free and Subscription-Based Methods for Modifying MTS Video Format</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/diy-image-editing-vanish-subjects-from-photos-effortlessly-without-adobe/"><u>DIY Image Editing: Vanish Subjects From Photos Effortlessly without Adobe</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-customize-control-events-within-the-application-settings-window/"><u>How to Customize Control Events Within the Application Settings Window</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-master-the-art-of-text-sculpting-for-an-astonishing-photos-effect/"><u>In 2024, Master the Art of Text Sculpting for an Astonishing PHOTOS Effect</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-project-specifications-the-importance-of-the-requirements-tab/"><u>Navigating Project Specifications: The Importance of the Requirements Tab</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/premiere-proavi/"><u>Premiere ProでAviファイルが開けない理由：解決策ガイド</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-on-acquiring-and-setting-up-a-streaming-sound-recording-tool/"><u>Step-by-Step Tutorial on Acquiring & Setting Up a Streaming Sound Recording Tool</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-note-30-vip-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Note 30 VIP Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-premier-photography-frame-selection-24-for-2024/"><u>The Premier Photography Frame Selection '24 for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-techniques-for-converting-pdfs-into-tiff-format-a-comprehensive-guide/"><u>Top Techniques for Converting PDFs Into TIFF Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-the-characteristics-and-settings-of-plain-text-files/"><u>Understanding the Characteristics and Settings of Plain-Text Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-glitch-video-editing-software-for-windows-and-mac-free-and-paid-options/"><u>Updated In 2024, Top Glitch Video Editing Software for Windows and Mac Free and Paid Options</u></a></li>
 </ul></div>
 

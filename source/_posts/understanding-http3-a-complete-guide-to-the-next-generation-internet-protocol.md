@@ -1,7 +1,7 @@
 ---
 title: "Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol"
-date: 2024-09-30T18:21:53.140Z
-updated: 2024-10-05T19:41:55.015Z
+date: 2024-10-08T01:14:47.878Z
+updated: 2024-10-11T05:36:39.991Z
 tags:
   - product
   - antivirus
@@ -72,19 +72,6 @@ This reliability, however, makes this this less than an ideal solution when send
 
 And this is exactly where UDP comes in.
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Out with the old, in with the new
 
 Getting back to QUIC, these bottlenecks are what this new technology solves. Think of this as sort of a next generation TCP, offering the same level of reliability and usage, but doing away with most of the slowdowns of that aging technology.
@@ -96,13 +83,6 @@ All these numbers sound fast, but in computing and networking terms, these are l
 In contrast, QUIC can perform both these actions simultaneously.
 
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
 
@@ -116,6 +96,13 @@ This independent organization was founded by the US government in 1986, and is m
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
 As of this writing, just 1.3% of the 10 million [most popular websites](https://w3techs.com/technologies/history%5Foverview/site%5Felement/all) in the world use HTTP/3, compared to 31% using the older, HTTP/2 technology. That’s about 130,000 sites that are transmitting data over this new standard right now.
@@ -123,10 +110,10 @@ As of this writing, just 1.3% of the 10 million [most popular websites](https://
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Brower support for HTTP/3
@@ -153,10 +140,10 @@ And while it changes how users and devices access the Internet a lot, HTTP/3 is 
 Gwyneth Llewelyn  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -164,6 +151,13 @@ While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a 
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
 QUIC (technically, QUIC over IP), by contrast, is a technology developed initially by Google, built on top of UDP/IP, providing a simple mechanism of establishing reliable, encrypted connections, but without the massive overhead required by TCP/IP.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -190,22 +184,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-iphone-picture-perfection-mastering-resolution-shifts/"><u>[New] IPhone Picture Perfection Mastering Resolution Shifts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-screensnipers-digest-the-ultimate-2023-software-roundup/"><u>[Updated] In 2024, ScreenSniper's Digest The Ultimate 2023 Software Roundup</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-initial-trial-ideal-accessories-to-boost-your-gopro-footage/"><u>2024 Approved Initial Trial Ideal Accessories to Boost Your GoPro Footage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-and-the-art-of-prompt-engineering-job-stability-outlook/"><u>AI and the Art of Prompt Engineering: Job Stability Outlook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhanced-anydvd-update-now-successfully-decrypts-all-css-encryption-on-your-dvds/"><u>Enhanced AnyDVD Update Now Successfully Decrypts All CSS Encryption On Your DVDs</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/expert-guide-advanced-strategies-for-mastering-import-registry-files/"><u>Expert Guide: Advanced Strategies for Mastering Import Registry Files</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s18e-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-itext-advanced-techniques-for-efficiently-editing-and-substituting-content/"><u>Mastering Itext: Advanced Techniques for Efficiently Editing and Substituting Content</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimizing-repackaging-workflows-using-advanced-installers-tailoring-capabilities/"><u>Optimizing Repackaging Workflows Using Advanced Installer's Tailoring Capabilities</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimizing-the-user-experience-with-effective-download-interfaces/"><u>Optimizing the User Experience with Effective Download Interfaces</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-security-basics-in-windows-11-setup/"><u>Restoring Security Basics in Windows 11 Setup</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/reviving-lost-connections-a-step-by-step-guide-to-reinstating-your-iphone-6-contacts/"><u>Reviving Lost Connections: A Step-by-Step Guide to Reinstating Your iPhone 6 Contacts</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/secure-web-hosting-a-guide-to-setting-up-ssl-certificates-on-your-domain/"><u>Secure Web Hosting: A Guide to Setting Up SSL Certificates on Your Domain</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-video-compression-tools-on-windows-10-enhance-performance-and-quality/"><u>Top Video Compression Tools on Windows 10: Enhance Performance and Quality</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-rated-windows-11-audio-transformation-tool/"><u>Top-Rated Windows 11 Audio Transformation Tool</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-from-audio-to-articulation-the-top-10-software-choices-for-efficiently-transcribing-your-podcasts/"><u>Updated From Audio to Articulation The Top 10 Software Choices for Efficiently Transcribing Your Podcasts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/vrij-nieuw-mediaconverter-mp2-naar-flac-online-gratis-demo-versie-movavi/"><u>Vrij Nieuw Mediaconverter MP2 Naar FLAC Online - Gratis Demo Versie Movavi</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-breakthrough-14-text-animation-samples/"><u>[Updated] Breakthrough 14 Text Animation Samples</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-project-configuration-navigating-the-pathway-parameters-section/"><u>1. Project Configuration: Navigating the Pathway Parameters Section</u></a></li>
+<li><a href="https://win11.techidaily.com/10-early-symptoms-of-windows-needing-a-fresh-start/"><u>10 Early Symptoms of Windows Needing a Fresh Start</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/advanced-techniques-in-detecting-installed-software-versions/"><u>Advanced Techniques in Detecting Installed Software Versions</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/efficient-coding-with-ishortcutscomponent-streamline-your-development-process/"><u>Efficient Coding with IShortcutsComponent - Streamline Your Development Process</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortlessly-extend-apowersoft-scanning-apps-paid-plans-on-mobile-devices/"><u>Effortlessly Extend Apowersoft Scanning App's Paid Plans on Mobile Devices</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-summary-of-project-goals-progress-and-results/"><u>Essential Summary of Project Goals, Progress, and Results</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flavorful-filmmaking-top-7-strategies-for-culinary-videos-for-2024/"><u>Flavorful Filmmaking Top 7 Strategies for Culinary Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-defy-2-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Defy 2 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-customize-control-events-within-the-application-settings-window/"><u>How to Customize Control Events Within the Application Settings Window</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Phones with/without a PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proven-marketing-spells-20-must-use-terms-for-2024/"><u>Proven Marketing Spells 20 Must-Use Terms for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-deepening-danger-how-generative-ais-safeguards-are-set-to-wane/"><u>The Deepening Danger: How Generative AI's Safeguards Are Set to Wane</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-x50-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor X50</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-25-capture-apps-for-your-windows-10-device/"><u>Top 25 Capture Apps for Your Windows 10 Device</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-the-characteristics-and-settings-of-plain-text-files/"><u>Understanding the Characteristics and Settings of Plain-Text Files</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/unraveling-the-dependencies-of-imsixdriver-in-your-system/"><u>Unraveling the Dependencies of IMsixDriver in Your System</u></a></li>
 </ul></div>
 

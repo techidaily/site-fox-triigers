@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Techniques for Secure Packaging Authentication
-date: 2024-10-01T20:29:41.933Z
-updated: 2024-10-05T17:13:17.470Z
+date: 2024-10-04T00:24:04.398Z
+updated: 2024-10-11T00:38:11.125Z
 tags:
   - user-guide
 categories:
@@ -78,20 +78,13 @@ The validation tool checks your project for compliance with each of the internal
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To benefit from the newly internal consistency evaluators it is recommended to have installed the newest MsiVal2.msi tool.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Build Settings
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Enable ICE validation for Msi packages
 
@@ -101,16 +94,16 @@ Run selected ICE evaluation file at the MSI package build time. If no predefined
 
 Run selected ICE evaluation file at the Merge Module package build time. If no predefined evaluation files are detected use the \[Browse \] button to locate the evaluation file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Enable Advanced Installer best practice rules
 
 Run the [Advanced Installer Best Practice](https://tools.techidaily.com/advancedinstaller/products/) evaluators at build time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Enable App-V 5 resource compatibility check
 
@@ -131,13 +124,20 @@ Uses appcert.exe from the [Windows App Certification Kit](https://learn.microsof
 To run these validation tests requires you to install Windows SDK.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Define Rules
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Suppress Warning messages.
 
@@ -182,19 +182,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unlock-content-potential-with-the-right-vimeo-membership-choice/"><u>[Updated] 2024 Approved Unlock Content Potential with the Right Vimeo Membership Choice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-approach-to-youtube-community-dialogue/"><u>2024 Approved Streamlining Your Approach to YouTube Community Dialogue</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/begin-your-journey-with-iini-entry-point/"><u>Begin Your Journey with Iini Entry Point</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/boost-user-conversations-strategies-for-adding-dynamic-dialogue-features/"><u>Boost User Conversations: Strategies for Adding Dynamic Dialogue Features</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-se-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone SE</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-techniques-for-saving-mobile-gameplay/"><u>In 2024, Essential Techniques for Saving Mobile Gameplay</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/instantaneous-strategies-for-silencing-auditory-ground-hum/"><u>Instantaneous Strategies for Silencing Auditory Ground Hum</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-screen-captures-a-step-by-step-guide-to-taking-screenshots-in-windows-10/"><u>Mastering Screen Captures: A Step-by-Step Guide to Taking Screenshots in Windows 10</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/merge-several-pdf-documents-on-pc-or-mac-with-simple-methods/"><u>Merge Several PDF Documents on PC or Mac with Simple Methods</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/next-gen-thrills-with-intova-x-action-tech-for-2024/"><u>Next-Gen Thrills with Intova X Action Tech for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-blaze-pro-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Blaze Pro 5G.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-8-most-popular-book-apps-to-enhance-your-reading-experience/"><u>The 8 Most Popular Book Apps to Enhance Your Reading Experience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-macos-experience-with-screenflow-reviewed/"><u>The Ultimate MacOS Experience with ScreenFlow Reviewed</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-7-leading-computer-diagnostic-tools-preferred-by-it-professionals/"><u>Top 7 Leading Computer Diagnostic Tools Preferred by IT Professionals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-craftsmanship-incorporating-descriptive-texts-for-2024/"><u>[New] Instagram Craftsmanship Incorporating Descriptive Texts for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-instantly-share-selfies-the-step-by-step-walkthrough/"><u>[New] Instantly Share Selfies The Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-audible-allure-choosing-background-beats-for-videos-for-2024/"><u>[Updated] Audible Allure Choosing Background Beats for Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-social-exploration-pinpointing-popular-videos-on-the-worlds-biggest-network/"><u>[Updated] Social Exploration Pinpointing Popular Videos on the World's Biggest Network</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-guide-capturing-bbc-sounds-using-iplayer-app-for-both-pc-and-mac-users/"><u>Easy Guide: Capturing BBC Sounds Using iPlayer App – For Both PC & Mac Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-steps-to-change-your-videos-from-mp4-to-m4v-format-on-windows-and-macos-systems/"><u>Easy Steps to Change Your Videos From MP4 to M4V Format on Windows & macOS Systems</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-strategies-and-software-for-reducing-size-of-ultra-hd-videos/"><u>Effortless Strategies and Software for Reducing Size of Ultra HD Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-ways-to-uninstall-preinstalled-software-bloatware-from-your-windows-computer/"><u>Effortless Ways to Uninstall Preinstalled Software (Bloatware) From Your Windows Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/high-def-gaming-gpu-recommendations/"><u>High-Def Gaming GPU Recommendations</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-a38-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo A38 Phone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-restore-lost-images-on-your-iphone-a-comprehensive-guide/"><u>How To Restore Lost Images on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/renewable-energy-cant-replace-fossil-fuels-overnight/"><u>Renewable Energy Can't Replace Fossil Fuels Overnight</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-exciting-new-iphone-16-pro-attributes-that-tech-lovers-cant-wait-to-try-a-closer-look-by-zdnet/"><u>Top 5 Exciting New iPhone 16 Pro Attributes That Tech Lovers Can't Wait To Try - A Closer Look By ZDNET</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-5-simple-tricks-to-enhance-smartphone-photography/"><u>Top 5 Simple Tricks to Enhance Smartphone Photography</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-ways-to-install-and-enjoy-super-mario-run-on-your-windows-or-mac-computer/"><u>Top Ways to Install and Enjoy Super Mario Run on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/unveiling-essential-enhancements-in-apples-new-iphone-12-model/"><u>Unveiling Essential Enhancements in Apple's New iPhone 12 Model</u></a></li>
 </ul></div>
 

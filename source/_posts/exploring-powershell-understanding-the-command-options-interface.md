@@ -1,7 +1,7 @@
 ---
 title: "Exploring PowerShell: Understanding the Command Options Interface"
-date: 2024-10-02T19:52:12.278Z
-updated: 2024-10-05T19:09:14.271Z
+date: 2024-10-07T02:35:21.302Z
+updated: 2024-10-10T17:02:38.296Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,16 @@ This dialog allows you to specify Powershell Script Options like used platform, 
 ![Powershell Script Options Dialog](https://cdn.advancedinstaller.com/img/dialog/powershell-script-options-dialog.png "Powershell Script Options Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Execution options
@@ -97,10 +103,10 @@ This dialog allows you to specify Powershell Script Options like used platform, 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Execution of 64-bit scripts on x86 Operating Systems will cause a crash.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Preferred launch folder
@@ -110,10 +116,16 @@ Specify a folder from which the PowerShell script will be launched, [formatted](
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)_Temporary Folder_ will be used by default if at install time the above folder cannot be used.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Digitally sign the script
@@ -123,10 +135,10 @@ Use this option to digitally sign the PowerShell script.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When there exists a GPO (Group Policy Object) restricting the execution of scripts, the digital certificate must be present in the Trusted Publishers in order for the script execution to succeed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -162,22 +174,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-decoding-social-medias-new-wave-10-realities-about-reels/"><u>[New] Decoding Social Media's New Wave 10 Realities About Reels</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience/"><u>[Updated] Ultimate Monitor Match-Up Recommendations for Top-Tier Xbox SX Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chrome/"><u>Chromeブラウザで簡単にダウンロード可能な動画の方法一覧</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/core-components-for-transformative-facebook-advertisements-for-2024/"><u>Core Components for Transformative Facebook Advertisements for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/expert-guide-advanced-strategies-for-mastering-import-registry-files/"><u>Expert Guide: Advanced Strategies for Mastering Import Registry Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-common-windows-rainmeter-glitches-with-ease/"><u>Fixing Common Window's Rainmeter Glitches with Ease</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6s-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6s to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-steadicam-choices-for-drone-cinematography-pros/"><u>In 2024, Top 10 Steadicam Choices for Drone Cinematography Pros</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-ai-image-generation-with-dall-e-and-chatgpt-4-synergy/"><u>Master the Art of AI Image Generation with DALL-E and ChatGPT-4 Synergy</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimizing-the-user-experience-with-effective-download-interfaces/"><u>Optimizing the User Experience with Effective Download Interfaces</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/reviving-lost-connections-a-step-by-step-guide-to-reinstating-your-iphone-6-contacts/"><u>Reviving Lost Connections: A Step-by-Step Guide to Reinstating Your iPhone 6 Contacts</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/seamless-slideshows-on-the-go-using-an-android-phone-to-manage-powerpoint/"><u>Seamless Slideshows on the Go: Using an Android Phone to Manage PowerPoint</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/secure-web-hosting-a-guide-to-setting-up-ssl-certificates-on-your-domain/"><u>Secure Web Hosting: A Guide to Setting Up SSL Certificates on Your Domain</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/streamlined-ip-succession-management-software/"><u>Streamlined IP Succession Management Software</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-video-compression-tools-on-windows-10-enhance-performance-and-quality/"><u>Top Video Compression Tools on Windows 10: Enhance Performance and Quality</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-rated-windows-11-audio-transformation-tool/"><u>Top-Rated Windows 11 Audio Transformation Tool</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-inkjet-print-latency/"><u>Troubleshooting Inkjet Print Latency</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-digital-frame-snatchers-top-video-tools/"><u>[Updated] Digital Frame Snatchers Top Video Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-set-up-grid-layout-for-google-meet-participants-viewing/"><u>[Updated] In 2024, Set Up Grid Layout for Google Meet Participants' Viewing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-civic-challenge-champions-premier-elections-videogames/"><u>2024 Approved Civic Challenge Champions Premier Elections Videogames</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-deciphering-ffmpegs-audio-conversion-quirks/"><u>2024 Approved Deciphering FFmpeg's Audio Conversion Quirks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unveiling-the-secrets-of-instagrams-musical-emoji-usage/"><u>2024 Approved Unveiling the Secrets of Instagram's Musical Emoji Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-apples-new-titans-is-the-leap-from-iphone-14-to-iphone-16-pro-justified-techradar/"><u>Comparing Apple's New Titans: Is the Leap From iPhone 14 to iPhone 16 Pro Justified? | TechRadar</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-guide-capturing-bbc-sounds-using-iplayer-app-for-both-pc-and-mac-users/"><u>Easy Guide: Capturing BBC Sounds Using iPlayer App – For Both PC & Mac Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-steps-to-change-your-videos-from-mp4-to-m4v-format-on-windows-and-macos-systems/"><u>Easy Steps to Change Your Videos From MP4 to M4V Format on Windows & macOS Systems</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-ways-to-access-phone-sms-via-pc-complete-tutorial/"><u>Easy Ways to Access Phone SMS via PC - Complete Tutorial</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-strategies-and-software-for-reducing-size-of-ultra-hd-videos/"><u>Effortless Strategies and Software for Reducing Size of Ultra HD Videos</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-restore-lost-images-on-your-iphone-a-comprehensive-guide/"><u>How To Restore Lost Images on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-visual-journey-mastering-the-art-of-incorporating-text-into-images-on-pcmacos/"><u>In 2024, A Visual Journey Mastering the Art of Incorporating Text Into Images on PC/MacOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cant-see-cursor-only-sony-a6400-glitch/"><u>In 2024, Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/personalized-user-designed-action-panel/"><u>Personalized User-Designed Action Panel</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-5-simple-tricks-to-enhance-smartphone-photography/"><u>Top 5 Simple Tricks to Enhance Smartphone Photography</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-ways-to-install-and-enjoy-super-mario-run-on-your-windows-or-mac-computer/"><u>Top Ways to Install and Enjoy Super Mario Run on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/unveiling-essential-enhancements-in-apples-new-iphone-12-model/"><u>Unveiling Essential Enhancements in Apple's New iPhone 12 Model</u></a></li>
 </ul></div>
 

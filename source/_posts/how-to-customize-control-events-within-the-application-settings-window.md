@@ -1,7 +1,7 @@
 ---
 title: How to Customize Control Events Within the Application Settings Window
-date: 2024-10-02T20:32:47.990Z
-updated: 2024-10-05T18:07:02.407Z
+date: 2024-10-06T23:38:21.296Z
+updated: 2024-10-11T02:20:26.107Z
 tags:
   - user-guide
 categories:
@@ -87,10 +87,10 @@ This dialog allows you to edit a control event. A control event is an action tha
 ![Edit Control Event Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-control-event.png "Edit Control Event Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Control Event
@@ -100,10 +100,10 @@ Select the desired control event from the list.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This list contains only the events supported by the selected control.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Event Options
@@ -111,10 +111,10 @@ Select the desired control event from the list.
 This section allows you to set the selected event's options.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Argument
@@ -122,10 +122,10 @@ This section allows you to set the selected event's options.
  Specify an argument for the control event. For some events, there is a list of arguments from which you can choose, for others this field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the\[... \] button to display the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to insert a reference to a property. Also, some events may not need arguments.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -188,20 +188,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-inside-the-videography-realm-xstudio-study-for-2024/"><u>[New] Inside the Videography Realm XStudio Study for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-your-content-with-the-ultimate-guide-to-instagram-cover-photos-for-2024/"><u>[Updated] Elevate Your Content with the Ultimate Guide to Instagram Cover Photos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2023-discover-the-best-no-cost-fb-visual-creation-platforms/"><u>2023 Discover the Best, No-Cost FB Visual Creation Platforms</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-successful-youtubing-master-end-credits-and-makers-sources/"><u>2024 Approved Successful YouTubing Master End Credits and Makers' Sources</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/android-techniques-old-to-new-video-format/"><u>Android Techniques Old to New Video Format</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/comprehensive-walkthrough-on-creating-accessible-video-synopses/"><u>Comprehensive Walkthrough on Creating Accessible Video Synopses</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/essential-configuration-options-for-successful-software-installs/"><u>Essential Configuration Options for Successful Software Installs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-c51-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme C51 Phone?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-deskjet-2600-printer-drivers-fresh-download-options-for-windows-operating-systems/"><u>HP Deskjet 2600 Printer Drivers: Fresh Download Options for Windows Operating Systems</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/identify-and-eliminate-o97mdplinka-trojan-infections-expert-tips-from-malwarefox/"><u>Identify & Eliminate O97M/DPLink.A Trojan Infections - Expert Tips From MalwareFox</u></a></li>
-<li><a href="https://win-dash.techidaily.com/netgear-a6210-drivers-free-download-and-updates-compatible-with-windows-87/"><u>Netgear A6210 Drivers: Free Download & Updates Compatible with Windows 8/7</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimize-and-implement-iidriver-solutions-effectively/"><u>Optimize and Implement IIDriver Solutions Effectively</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/the-best-5-functional-mouse-recording-devices-you-need-to-try/"><u>The Best 5 Functional Mouse Recording Devices You Need to Try!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-your-bluetooth-mouse-problems-after-the-windows-10-creators-update-on-arch-linux/"><u>The Ultimate Fix for Your Bluetooth Mouse Problems After the Windows 10 Creator's Update on Arch Linux</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-sound-upload-tools-for-tiktok-users-in-2020/"><u>Top Sound Upload Tools for TikTok Users in 2020</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-tap-into-tagging-techniques-for-6kplus-youtube-vistas/"><u>[New] 2024 Approved Tap Into #Tagging Techniques for $6K+ YouTube Vistas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-superb-phone-video-and-photo-capturing-with-best-apps-list/"><u>[New] Superb Phone Video & Photo Capturing with Best Apps List</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-11-free-youtube-playlist-downloaders-onlinepcandroidios-for-2024/"><u>[Updated] 11 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS] for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/2018s-top-4-must-know-avi-editors-for-stunning-video-creations/"><u>2018'S Top 4 Must-Know AVI Editors for Stunning Video Creations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/affordable-video-grabbing-tools-tested-on-pcs/"><u>Affordable Video Grabbing Tools Tested on PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-the-ultimate-list-of-free-pdf-software-for-windows-users-ranked-in-2020/"><u>Discover the Ultimate List of Free PDF Software for Windows Users, Ranked in 2020</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-your-frozen-pc-overcoming-windows-11-safe-mode-challenges-with-non-responsive-f8-solutions/"><u>Fix Your Frozen PC: Overcoming Windows 11 Safe Mode Challenges with Non-Responsive F8 Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/resolve-aw-snap-glitch-in-chrome-when-pages-load-protect-with-malwarefox/"><u>Resolve 'Aw Snap!' Glitch in Chrome When Pages Load – Protect with MalwareFox</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/safe-android-system-reboot-protect-your-files/"><u>Safe Android System Reboot: Protect Your Files</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-how-to-insert-an-attachment-in-your-iphones-mail-app/"><u>Step-by-Step Tutorial: How to Insert an Attachment in Your iPhone's Mail App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-metaverse-simplified-avatar-designs-for-2024/"><u>Unlocking the Metaverse Simplified Avatar Designs for 2024</u></a></li>
 </ul></div>
 

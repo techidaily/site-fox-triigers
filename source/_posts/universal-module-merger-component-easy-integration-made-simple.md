@@ -1,7 +1,7 @@
 ---
 title: "Universal Module Merger Component: Easy Integration Made Simple"
-date: 2024-09-28T19:17:13.490Z
-updated: 2024-10-05T21:16:13.906Z
+date: 2024-10-06T22:42:19.604Z
+updated: 2024-10-10T18:12:41.371Z
 tags:
   - user-guide
 categories:
@@ -113,10 +113,16 @@ Table of Contents
 IMergeModulesComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -124,10 +130,10 @@ IMergeModulesComponent : IDispatch
 This interface is meant to add a new merge module, delete or edit the existing ones. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -135,10 +141,16 @@ This interface is meant to add a new merge module, delete or edit the existing o
 **Array<IMergeModule> MergeModules** \- Gets the collection of project merge modules. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -149,13 +161,6 @@ This interface is meant to add a new merge module, delete or edit the existing o
  **RemoveMergeModule(IMergeModule aMergeModule)**  
  Removes a specified merge module from the project.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Example
 
 $advinst = new-object -com AdvancedInstaller
@@ -164,6 +169,13 @@ $newMsm = $prj.MergeModulesComponent.AddMergeModule("C:\Program Files (x86)\Comm
 Modules\Microsoft_VC140_DebugMFC_x64.msm")
     
 Copy
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -204,15 +216,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-decision-time-choose-your-dream-video-editor-filmora-or-democracy-creator/"><u>[Updated] 2024 Approved Decision Time! Choose Your Dream Video Editor (Filmora or Democracy Creator)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-simple-steps-making-your-channels-subscription-button-stand-out/"><u>2024 Approved Simple Steps Making Your Channel's Subscription Button Stand Out</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/disabling-microsofts-sticky-keys-feature-in-windows-a-comprehensive-guide/"><u>Disabling Microsoft's Sticky Keys Feature in Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/essential-pre-launch-checklist-for-software-releases/"><u>Essential Pre-Launch Checklist for Software Releases</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-the-various-vm-configuration-settings/"><u>Exploring the Various VM Configuration Settings</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-11-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 11 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-knowledge-proven-strategies-for-successful-and-productive-studying/"><u>Mastering Knowledge: Proven Strategies for Successful and Productive Studying</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezing-optimize-your-pc-for-a-smooth-witcher-n-experience/"><u>No More Freezing: Optimize Your PC for a Smooth 'Witcher N Experience</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-on-incorporating-individuals-into-images/"><u>Step-by-Step Guide on Incorporating Individuals Into Images</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-solutions-for-resolving-track-extraction-failures-in-windows-media-player/"><u>Step-by-Step Solutions for Resolving Track Extraction Failures in Windows Media Player</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-perfecting-your-video-game-broadcast-the-obs-way/"><u>2024 Approved Perfecting Your Video Game Broadcast The OBS Way</u></a></li>
+<li><a href="https://techtrends.techidaily.com/do-battery-powered-cars-match-up-to-combustion-engines-when-it-comes-to-endurance-and-reliability/"><u>Do Battery-Powered Cars Match Up to Combustion Engines When It Comes to Endurance and Reliability?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-the-features-mastering-the-operations-tab-within-windows-registry/"><u>Exploring the Features: Mastering the Operations Tab Within Windows Registry</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-microsoft-flight-simulator-2020-update-issues-resolved/"><u>Fixing the Microsoft Flight Simulator 2020: Update Issues Resolved</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 15 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-comprehensive-tips-from-toms-hardware-insiders/"><u>Navigating the World of Tech: Comprehensive Tips From Tom's Hardware Insiders</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/retrieve-lost-android-messages-effective-techniques-using-sms-recovery-apps/"><u>Retrieve Lost Android Messages: Effective Techniques Using SMS Recovery Apps</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-transferring-data-from-your-oppo-reno-5-smartphone-to-your-computer/"><u>Step-by-Step Guide: Transferring Data From Your Oppo Reno 5 Smartphone to Your Computer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-viral-power-couple-tiktok-and-twitter-trends-for-2024/"><u>The Viral Power Couple TikTok & Twitter Trends for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-tips-for-cleaning-up-pictures-by-eliminating-smileys/"><u>Ultimate Tips for Cleaning Up Pictures by Eliminating Smileys</u></a></li>
 </ul></div>
 
