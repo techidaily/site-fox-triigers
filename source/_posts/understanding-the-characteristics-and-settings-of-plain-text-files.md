@@ -1,7 +1,7 @@
 ---
 title: Understanding the Characteristics and Settings of Plain-Text Files
-date: 2024-10-06T04:41:37.277Z
-updated: 2024-10-11T05:57:50.774Z
+date: 2024-10-10T20:39:30.813Z
+updated: 2024-10-17T04:38:23.019Z
 tags:
   - user-guide
 categories:
@@ -94,13 +94,6 @@ The options set here will influence the behaviour of all [Replace](https://tools
 
 ![Text File Updates Global Properties](https://cdn.advancedinstaller.com/img/dialog/txt-update-global.png "Text File Updates Global Properties")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Files
 
 ### Include
@@ -109,25 +102,18 @@ This field will contain the name of the file that will be created or modified. I
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If wildcards are being defined the "Create" operation **can not be used**. The "Append" operation can be used when using wildcards.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The name in this field will be shared with the "Text File Properties" node. For example, if the filename in this field is_MyFile.txt_, the corresponding "Text File Properties" node from the tree located on the left of this dialog will have the same name.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Exclude
 
 This field will contain the name of the file which won't be modified. It is possible to define wildcards.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Search sub-folders
 
@@ -135,24 +121,31 @@ The file(s) specified in the "Include" and "Exclude" fields will be searched in 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg) The _Exclude_ field and _Search sub-folders_ option are not taken into consideration for "Create" operations.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Install
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Component
 
 You can use this combobox to select the component that will trigger the "Replace" or "Append/Create" operations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Run on
 
@@ -161,6 +154,13 @@ The operations will be executed on:
 * Component Install
 * Component Uninstall
 * Component Install and Uninstall
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Error
 
@@ -172,10 +172,10 @@ This combobox sets the behaviour in case the "Replace" or "Append/Create" operat
 * skip the file and restore original state
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Backup file before performing update
@@ -221,16 +221,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-tunefab-vs-competitors-screen-recorder-showdown/"><u>[New] Tunefab vs Competitors Screen Recorder Showdown</u></a></li>
-<li><a href="https://blog-min.techidaily.com/apple-tv-mac-macx/"><u>Apple TVへ変換 特化型Macアプリ: 簡単操作で高品位ビデオ保存機能付き - MacXの解決方法</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/best-video-screen-grabbers-for-2024/"><u>Best Video Screen Grabbers for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-extract-images-from-videos-on-pcs-windows-and-macs/"><u>How to Extract Images From Videos on PCs (Windows) & Macs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-xiaomi-redmi-note-12-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Xiaomi Redmi Note 12 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/melhore-seus-trabalhos-fotograficos-com-estes-10-utilitarios-web-livres-e-eficientes/"><u>Melhore Seus Trabalhos Fotográficos Com Estes 10 Utilitários Web Livres E Eficientes!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-guide-updating-and-downloading-surface-book-2-driver-software/"><u>Quick Guide: Updating & Downloading Surface Book 2 Driver Software</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/simple-steps-recording-videos-with-your-chromebook-made-simple/"><u>Simple Steps: Recording Videos with Your Chromebook Made Simple</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/snapping-photos-in-a-flash-learn-how-to-use-ios/"><u>Snapping Photos in a Flash: Learn How to Use iOS</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-master-video-editing-in-final-cut-pro-for-windows-users/"><u>Step-by-Step Tutorial: Master Video Editing in Final Cut Pro for Windows Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-be-a-beauty-guru-on-youtube-beauty-vlogger-set-up/"><u>[New] 2024 Approved How To Be A Beauty Guru on YouTube Beauty Vlogger Set Up</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-revolutionary-guide-to-iphone-x-animoji-mastery-for-2024/"><u>[New] Revolutionary Guide to iPhone X Animoji Mastery for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-classic-cinema-in-paperback-examining-the-goofy-story/"><u>[Updated] In 2024, Classic Cinema in Paperback Examining 'The Goofy Story'</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-15-no-cost-web-image-editors-review-for-2024/"><u>[Updated] Top 15 No-Cost Web Image Editors Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-quick-setup-for-smartphones-as-personalized-vr-headsets/"><u>2024 Approved The Quick Setup for Smartphones as Personalized VR Headsets</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/fixing-chkdsk-issues-discover-the-top-4-simple-methods-and-a-proven-additional-hack/"><u>Fixing CHKDSK Issues: Discover the Top 4 Simple Methods & a Proven Additional Hack!</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guida-rapida-alla-risoluzione-dei-problemi-di-partizionamento-del-wd-my-passport/"><u>Guida Rapida Alla Risoluzione Dei Problemi Di Partizionamento Del WD My Passport</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/permanent-silence-of-the-quick-content-platform-for-2024/"><u>Permanent Silence of the Quick Content Platform for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-your-pc-navigating-through-windows-8-options/"><u>Revive Your PC: Navigating Through Windows' 8 Options</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/sauvegardez-votre-nas-en-un-clic-comment-se-connecter-et-transferer-vers-la-nube-de-la-plus-simple-a-lutiliser/"><u>Sauvegardez Votre NAS en Un Clic: Comment Se Connecter Et Transférer Vers La Nube De La Plus Simple À L'Utiliser !</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/simple-guide-seamlessly-transferring-your-nas-data-to-the-cloud-with-services-similar-to-onedrive/"><u>Simple Guide: Seamlessly Transferring Your NAS Data to the Cloud with Services Similar to OneDrive</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/the-ultimate-guide-top-two-methods-for-uploading-data-onto-your-raspberry-pis-sd-card/"><u>The Ultimate Guide: Top Two Methods for Uploading Data Onto Your Raspberry Pi's SD Card</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/usbsd/"><u>USBメモリまたはSDカードからコマンドラインで削除されたファイルの回復手順</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/your-ultimate-list-for-mp4-players-for-2024/"><u>Your Ultimate List for MP4 Players for 2024</u></a></li>
 </ul></div>
 

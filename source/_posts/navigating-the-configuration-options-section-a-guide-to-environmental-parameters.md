@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Configuration Options Section: A Guide to Environmental Parameters"
-date: 2024-10-07T17:04:11.465Z
-updated: 2024-10-10T19:18:56.188Z
+date: 2024-10-09T22:55:58.270Z
+updated: 2024-10-17T09:03:37.671Z
 tags:
   - user-guide
 categories:
@@ -102,10 +102,10 @@ This tab can be used to configure FastCGI environment variables.
 ![Environment Variables](https://cdn.advancedinstaller.com/img/dialog/fastcgi-env-vars.png "Environment Variables")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new environment variable
@@ -113,10 +113,10 @@ This tab can be used to configure FastCGI environment variables.
 Use the \[New... \] button, the “New...” context menu item or press theInsert key while the list control is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an environment variable
@@ -124,10 +124,10 @@ Use the \[New... \] button, the “New...” context menu item or press theInser
 Use the \[Edit... \] button, the “Edit...” context menu item, double click or press the Space key while an element from the list control is selected. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing an environment variable
@@ -167,19 +167,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-enhancing-twitters-visual-capacity-to-fhd-level/"><u>[New] 2024 Approved Enhancing Twitter's Visual Capacity to FHD Level</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fast-track-your-visuals-the-best-pinterest-downloaders-listed/"><u>[New] Fast-Track Your Visuals The Best Pinterest Downloaders Listed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-gopro-vs-yi-updated-battle-for-ultimate-action-recording/"><u>[New] GoPro Vs. YI Updated Battle for Ultimate Action Recording</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-quick-and-easy-twitter-to-snapchat-video-sharing-tips/"><u>[New] In 2024, Quick & Easy Twitter to Snapchat Video Sharing Tips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-invisible-observers-the-ultimate-list-of-apps/"><u>[Updated] In 2024, Invisible Observers The Ultimate List of Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unfolding-the-tapestry-of-mixed-reality-experiences/"><u>[Updated] In 2024, Unfolding the Tapestry of Mixed Reality Experiences</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-innovative-ways-to-capture-authenticity-in-customer-reviews/"><u>2024 Approved Innovative Ways to Capture Authenticity in Customer Reviews</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-steps-to-change-your-videos-from-mp4-to-m4v-format-on-windows-and-macos-systems/"><u>Easy Steps to Change Your Videos From MP4 to M4V Format on Windows & macOS Systems</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-ways-to-access-phone-sms-via-pc-complete-tutorial/"><u>Easy Ways to Access Phone SMS via PC - Complete Tutorial</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-infinix-hot-40-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Infinix Hot 40 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-use-of-windows-11-desktop-widgets/"><u>Mastering the Use of Windows 11 Desktop Widgets</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/personalized-user-designed-action-panel/"><u>Personalized User-Designed Action Panel</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-various-approaches-to-application-deployment/"><u>Understanding Various Approaches to Application Deployment</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/unveiling-essential-enhancements-in-apples-new-iphone-12-model/"><u>Unveiling Essential Enhancements in Apple's New iPhone 12 Model</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unveiling-the-secrets-of-combining-obs-with-zoom/"><u>[New] 2024 Approved Unveiling the Secrets of Combining OBS with Zoom</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-crystalvision-pro-screen-capturing-101-for-2024/"><u>[New] CrystalVision Pro Screen Capturing 101 for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-journey-into-the-metaverse-constructing-an-authentic-avatar-for-2024/"><u>[New] Journey Into the Metaverse Constructing an Authentic Avatar for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-influencers-blueprint-rapidly-amass-a-million-fans-with-our-top-15-instagram-tips/"><u>[New] The Influencer's Blueprint Rapidly Amass a Million Fans with Our Top 15 Instagram Tips</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-casual-entrants-handbook-for-tiktok-lives/"><u>[Updated] 2024 Approved The Casual Entrant's Handbook for TikTok Lives</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-understanding-and-controlling-safaris-pip-feature-for-2024/"><u>[Updated] Understanding and Controlling Safari's PIP Feature for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/44cm44oj44op44kk44ow44ov44kh44kk44or5bgl5q2044gm6kqn6k2y44gv44km44gq44ge5lplusu5q2j5oyh56s677ya5zcm44gy5osp5zgz44cn/"><u>「ドライブファイル履歴が認識されない修正指示：同じ意味」</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/fast-recovery-techniques-for-restoring-accidentally-deleted-word-files-on-your-pc/"><u>Fast Recovery Techniques for Restoring Accidentally Deleted Word Files on Your PC</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guia-paso-a-paso-para-generar-una-imagen-de-instancia-del-servidor-windows-server-versiones-2012-2022-r2-en-un-disco-duro-fresco/"><u>Guía Paso a Paso Para Generar Una Imagen De Instancia Del Servidor Windows Server Versiones 2012-2022 R2 en Un Disco Duro Fresco</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-xltx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to .xltx files</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-xr21-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/is-it-possible-to-operate-dual-pcs-with-a-single-windows-11-user-profile/"><u>Is It Possible to Operate Dual PCs with a Single Windows 11 User Profile?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/problemlos-verarbeiten-einer-samsung-ssd-kopie-3-erfolgreiche-methoden-zum-ausfuhren-der-bootenutzung/"><u>Problemlos Verarbeiten Einer Samsung SSD-Kopie - 3 Erfolgreiche Methoden Zum Ausführen Der Bootenutzung</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/strategie-di-risoluzione-dei-problemi-recupero-della-cartella-mancante-su-sistemi-operativi-windows-1110/"><u>Strategie Di Risoluzione Dei Problemi: Recupero Della Cartella Mancante Su Sistemi Operativi Windows 11/10</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-guide-efficient-file-recovery-with-new-hiren-boot-cd-techniques/"><u>Ultimate Guide: Efficient File Recovery with New Hiren Boot CD Techniques</u></a></li>
 </ul></div>
 

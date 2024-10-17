@@ -1,7 +1,7 @@
 ---
 title: "1. Interface Elements: Exploring the Functionality of the Programs Tab"
-date: 2024-10-03T16:45:07.705Z
-updated: 2024-10-11T02:48:19.365Z
+date: 2024-10-15T08:03:24.288Z
+updated: 2024-10-17T08:32:09.492Z
 tags:
   - user-guide
 categories:
@@ -75,10 +75,10 @@ Table of Contents
 In this tab you can create programs profiles associated with the current package. At least one program is**required**.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Programs
@@ -90,29 +90,22 @@ This list contains all the programs defined for this package. It contains two co
 | Name         | The name associated with the program                                     |
 | Command Line | The program will be executed using the parameters declared in this field |
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add a new program
 
 Use the \[New... \] button to add a new program. The [Edit SCCM Program Dialog](https://tools.techidaily.com/advancedinstaller/products/) will appear.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can **not** add a new program profile in a predefined configuration profile.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Edit an existing program
 
 Use the \[Edit... \] button to edit the selected program profile. The [Edit SCCM Program Dialog](https://tools.techidaily.com/advancedinstaller/products/) will appear.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Remove an existing program
 
@@ -121,10 +114,17 @@ Use the \[Remove \] button to delete the selected program profile.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can **not** delete an existing program profile from a predefined configuration profile.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -165,24 +165,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-security-first-legitimate-tiktok-fan-buys/"><u>[New] 2024 Approved Security First Legitimate TikTok Fan Buys</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-transforming-ordinary-to-extraordinary-with-engaging-tiktok-unboxings/"><u>[New] Transforming Ordinary to Extraordinary with Engaging TikTok Unboxings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-webinar-session-screening-for-2024/"><u>[New] Webinar Session Screening for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-complete-manual-for-expert-use-of-screen-recorder-by-zd-soft/"><u>[Updated] 2024 Approved Complete Manual for Expert Use of Screen Recorder by ZD Soft</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-building-a-vivid-world-with-animated-clips-in-movie-maker/"><u>[Updated] Building a Vivid World with Animated Clips in Movie Maker</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-vsco-editors-handbook/"><u>[Updated] The Ultimate VSCO Editor's Handbook</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/complete-tutorial-on-converting-wmv-videos-to-avi-for-optimal-playback/"><u>Complete Tutorial on Converting WMV Videos to AVI for Optimal Playback</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/comprehensive-language-translation-hub/"><u>Comprehensive Language Translation Hub</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974916363-easy-setup-get-your-hp-officejet-5740-software-now/"><u>Easy Setup: Get Your HP OfficeJet #5740 Software Now</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-techniques-for-expertly-shortening-your-videos-a-beginners-guide/"><u>Effortless Techniques for Expertly Shortening Your Videos - A Beginner's Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/elevate-your-edits-creating-stellar-tiktok-react-videos-in-filmoras-pro-features-for-2024/"><u>Elevate Your Edits Creating Stellar TikTok React Videos in Filmora's Pro Features for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ensuring-your-safety-a-step-by-step-guide-to-verifying-the-security-of-downloads/"><u>Ensuring Your Safety - A Step-by-Step Guide to Verifying the Security of Downloads</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/pros-and-cons-of-using-two-different-antivirus-applications-together-as-analyzed-by-malwarefox/"><u>Pros and Cons of Using Two Different Antivirus Applications Together as Analyzed by MalwareFox</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/seamless-video-playback-on-sony-tvs-how-to-transform-your-mkv-files-with-ease/"><u>Seamless Video Playback on Sony TVs: How to Transform Your MKV Files with Ease</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-rated-background-editing-applications-for-impeccable-white-canvas-pictures/"><u>Top Rated Background Editing Applications for Impeccable White Canvas Pictures</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-rated-presentation-software-for-ios-devices/"><u>Top-Rated Presentation Software for iOS Devices</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ultimate-technique-tutorial-transforming-white-backdrops-into-perfect-photo-edits/"><u>Ultimate Technique Tutorial: Transforming White Backdrops Into Perfect Photo Edits</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>Updated In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-guide-forcibly-remove-printers/"><u>Win11 Guide: Forcibly Remove Printers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-old-tweet-discovery-mining-twitters-history-for-2024/"><u>[New] Old Tweet Discovery Mining Twitter's History for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlocking-facebook-freedom-the-ultimate-avoidance-blueprint/"><u>[Updated] In 2024, Unlocking Facebook Freedom The Ultimate Avoidance Blueprint</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-mastering-the-art-of-capturing-live-cricket-action-for-2024/"><u>[Updated] Mastering the Art of Capturing Live Cricket Action for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-chronology-of-success-best-release-schedule/"><u>2024 Approved Chronology of Success Best Release Schedule</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quick-guide-to-optimized-and-streamlined-mac-screenshots-via-keyboard-shortcuts/"><u>2024 Approved Quick Guide to Optimized and Streamlined Mac Screenshots via Keyboard Shortcuts</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728466263850-windows/"><u>回魂資料：Windows 系統下如何重新建立已經消失的檔案</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728509198584-6/"><u>最省力解決表格中未可删除问题 - 6种策略</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-envy-5055-drivers-in-a-flash-secure-and-swift-methods/"><u>Download HP Envy 5055 Drivers in a Flash: Secure & Swift Methods</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/expert-insights-top-it-professionals-weigh-in-on-aomei-backupper-features/"><u>Expert Insights: Top IT Professionals Weigh In on AOMEI Backupper Features</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-nokia-c12-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Nokia C12 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-samsung-galaxy-m14-4g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Samsung Galaxy M14 4G Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/human-like-or-gender-neutral-names-charlie-alex-sam-jordan-taylor-riley/"><u>Human-Like or Gender-Neutral Names: Charlie, Alex, Sam, Jordan, Taylor, Riley</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-premier-screen-grabber-chromebook-edition-leader/"><u>In 2024, Premier Screen Grabber Chromebook Edition Leader</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/microsoft-outlookpst/"><u>Microsoft Outlook全文書PSTへの完全な移行ガイド</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cropping-and-resizing-images-in-final-cut-pro-x-made-easy/"><u>New In 2024, Cropping and Resizing Images in Final Cut Pro X Made Easy</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/passos-simples-para-recuperacao-de-dados-excluidos-do-cartao-sd/"><u>Passos Simples Para Recuperação De Dados Excluídos Do Cartão SD</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/quick-and-simple-guide-fixing-windows-7-issues-without-using-a-cd/"><u>Quick and Simple Guide: Fixing Windows 7 Issues Without Using a CD</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/reviving-your-failing-hard-disk-top-3-strategies-for-repair/"><u>Reviving Your Failing Hard Disk: Top 3 Strategies for Repair</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-expanding-your-storage-with-a-new-ssd-or-hdd-in-windows-11/"><u>Step-by-Step Guide: Expanding Your Storage with a New SSD or HDD in Windows 11</u></a></li>
 </ul></div>
 

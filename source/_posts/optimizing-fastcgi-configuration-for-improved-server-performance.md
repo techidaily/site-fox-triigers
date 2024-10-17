@@ -1,7 +1,7 @@
 ---
 title: Optimizing FastCGI Configuration for Improved Server Performance
-date: 2024-10-06T17:16:28.113Z
-updated: 2024-10-11T05:24:32.114Z
+date: 2024-10-13T08:30:23.267Z
+updated: 2024-10-16T22:00:28.299Z
 tags:
   - user-guide
 categories:
@@ -102,10 +102,10 @@ This view allows advanced configuration for FastCGI application pool definitions
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Only one pool will be added for all application mappings sharing the same **Script Processor**. To see all web sites using the pool, refer to the **Websites** column.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an element
@@ -113,16 +113,10 @@ This view allows advanced configuration for FastCGI application pool definitions
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected. The [FastCGI Properties dialog](https://tools.techidaily.com/advancedinstaller/products/) will be shown allowing you to configure an existing application pool definition along with its environment variables.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -165,21 +159,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-best-practices-for-high-impact-customer-endorsements/"><u>[Updated] 2024 Approved Best Practices for High-Impact Customer Endorsements</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1-streamline-report-design-with-the-enhanced-ssrs-resource-management-panel/"><u>1. Streamline Report Design with the Enhanced SSRS Resource Management Panel</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/banishing-stickers-from-social-media-short-clips/"><u>Banishing Stickers From Social Media Short Clips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-for-opening-the-command-prompt-in-multiple-windows-versions-a-guide-to-quick-navigation/"><u>Comprehensive Instructions for Opening the Command Prompt in Multiple Windows Versions: A Guide to Quick Navigation</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/discover-the-leading-optical-character-recognition-ocr-apps-for-windows-11-comparison-of-free-and-paid-solutions/"><u>Discover the Leading Optical Character Recognition (OCR) Apps for Windows 11 - Comparison of FREE and PAID Solutions</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-transformation-guide-convert-pdfs-into-clear-sharp-png-format-with-these-5-simple-steps-on-windows-10/"><u>Effortless Transformation Guide: Convert PDFs Into Clear, Sharp PNG Format with These 5 Simple Steps on Windows 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-definition-showdown-ultimate-legendary-sj6-vs-yi-4k-innovation-for-2024/"><u>High Definition Showdown Ultimate Legendary SJ6 Vs. Yi 4K Innovation for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/metaverse-metaphors-discovering-6-detailed-instances/"><u>Metaverse Metaphors Discovering 6 Detailed Instances</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/revive-missing-images-on-your-galaxy-note-device-with-efficient-data-retrieval-solutions/"><u>Revive Missing Images on Your Galaxy Note Device with Efficient Data Retrieval Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-turn-onoff-picture-in-picture-mode-in-youtube-app/"><u>Step by Step Guide Turn On/Off Picture In Picture Mode in YouTube App</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-selection-of-high-quality-videos-free-from-logo-overlays/"><u>Top Selection of High-Quality Videos Free From Logo Overlays</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/uncover-your-screen-movements-mastering-visibility-of-mouse-pointers-while-recording-on-windows/"><u>Uncover Your Screen Movements: Mastering Visibility of Mouse Pointers While Recording on Windows</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-http3-a-complete-guide-to-the-next-generation-internet-protocol/"><u>Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-essential-skype-call-recording-tactics-for-pcsmacs/"><u>[New] Essential Skype Call Recording Tactics for PCs/Macs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-visualcapture-pro-x-windows-enthusiasts/"><u>[Updated] 2024 Approved VisualCapture Pro X - Windows Enthusiasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-methodical-decrescendo-techniques-for-logic-pro-mixers/"><u>[Updated] Methodical Decrescendo Techniques for Logic Pro Mixers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-scenes-into-memorable-moments-your-comprehensive-guide-to-gopro-timelapses/"><u>[Updated] Transform Scenes Into Memorable Moments Your Comprehensive Guide to GoPro Timelapses</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728485242497-d/"><u>如何對付D區段讀取錯誤？完整教程分享解決技巧</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/cloning-process-for-copying-data-from-your-sandisk-ssd-to-a-new-ssd-in-windows-systems/"><u>Cloning Process for Copying Data From Your SanDisk SSD to a New SSD in Windows Systems</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/einfach-einrichten-vss-backup-prozesse-erklart-und-implementiert/"><u>Einfach Einrichten: VSS-Backup-Prozesse Erklärt Und Implementiert</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guide-complet-pour-enregistrer-les-donnees-de-windows-11-sur-un-serveur-nas/"><u>Guide Complet Pour Enregistrer Les Données De Windows 11 Sur Un Serveur NAS</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/hdd-to-ssdwindows-11/"><u>HDD to SSD変換：Windows 11で最も簡単な方法とその利点</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-advanced-live-broadcast-setup-from-obs-to-fb-enthusiasts/"><u>In 2024, Advanced Live Broadcast Setup From OBS to FB Enthusiasts</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/macpciphone3/"><u>MacとPCを使わずにiPhoneに音楽移し込み方法：3コツ探究</u></a></li>
 </ul></div>
 

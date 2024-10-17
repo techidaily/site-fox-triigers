@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques: Maximizing Functionality with Extended Property Features"
-date: 2024-10-05T21:09:52.324Z
-updated: 2024-10-11T00:22:02.512Z
+date: 2024-10-10T05:41:14.045Z
+updated: 2024-10-16T16:03:50.085Z
 tags:
   - user-guide
 categories:
@@ -78,25 +78,11 @@ Table of Contents
 
 ## Extension Properties
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## General
 
 ### Command
 
 Points the path of the program associated with the extension. You can change the program by using the \[Browse... \] button to select another one from the project. 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### MIME type
 
@@ -105,19 +91,19 @@ Defines the content type of the files with the selected extension. This content 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Consult the IANA registry online for a list of assigned MIME Media Types.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)During installation of a MIME type Windows Installer registers the MIME type under the Internet Explorer MIME Database too ("HKEY\_CLASSES\_ROOT\\MIME\\Database\\Content Type" registry key). Considering the method how [Internet Explorer handles MIME Types](https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/ms775148%28v=vs.85%29?redirectedfrom=MSDN), it is not recommend to register the "application/octet-stream" MIME type with your application extension. This is because after registering the "application/octet-stream" MIME type with your application extension, Internet Explorer could associate all downloaded files of "application/octet-stream" MIME type with your application extension.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
@@ -125,6 +111,13 @@ Defines the content type of the files with the selected extension. This content 
 The feature which controls the extension installation. If this feature is not installed, the file associations is not made.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This combo box shows only features which contains the extension component.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Place extension in a separate feature
 
@@ -137,6 +130,13 @@ This group allows you to specify when the extension feature is installed:
 * _Installed by default_ \- installs the extension feature by default
 * _Not installed by default_ \- the extension feature is not installed by default, but the user can still select it for installation through "SetupTypeDlg" dialog
 * _Install based on custom condition_ \- installs the extension feature only if the specified condition is true
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Show in FileAssociationsDlg dialog
 
@@ -177,20 +177,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-no-more-youtube-the-best-5-alternative-editors-await/"><u>[New] 2024 Approved No More Youtube? The Best 5 Alternative Editors Await</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-top-5-captivating-visual-journeys-on-fb/"><u>[New] 2024 Approved Top 5 Captivating Visual Journeys on FB</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-youtubes-virality-secrets-effective-hashtag-strategies/"><u>[New] In 2024, YouTube's Virality Secrets Effective Hashtag Strategies</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1-mastering-the-art-of-extraction-engaging-conversations-in-archiving/"><u>1. Mastering the Art of Extraction: Engaging Conversations in Archiving</u></a></li>
-<li><a href="https://win11.techidaily.com/alleviating-excessive-cpu-usage-by-tiworkerexe-software/"><u>Alleviating Excessive CPU Usage by TiWorker.exe Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-y200-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo Y200</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-for-faulty-usb-ports-optimizing-connectivity-on-your-windows-n-11-system/"><u>Easy Fixes for Faulty USB Ports: Optimizing Connectivity on Your Windows N 11 System</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-seamlessly-sync-songs-with-your-iphone-by-bypassing-itunes/"><u>How to Seamlessly Sync Songs with Your iPhone by Bypassing iTunes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-chucklecanvas-funny-images-for-social-media-sharing/"><u>In 2024, ChuckleCanvas Funny Images for Social Media Sharing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mastering-tempo-adjustments-aligning-audio-and-visuals-in-fcpx-for-2024/"><u>Mastering Tempo Adjustments Aligning Audio and Visuals in FCPX for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-world-of-digital-art-comprehensive-xp-pen-artist-16-pro-tablet-assessment/"><u>Navigating the World of Digital Art: Comprehensive XP-Pen Artist 16 Pro Tablet Assessment</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/navigating-through-the-xml-settings-section-a-comprehensive-guide/"><u>Navigating Through the XML Settings Section: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimizing-service-configuration-with-iservicesetup/"><u>Optimizing Service Configuration with IServiceSetup</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/resolve-aw-snap-glitch-in-chrome-when-pages-load-protect-with-malwarefox/"><u>Resolve 'Aw Snap!' Glitch in Chrome When Pages Load – Protect with MalwareFox</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-how-to-insert-an-attachment-in-your-iphones-mail-app/"><u>Step-by-Step Tutorial: How to Insert an Attachment in Your iPhone's Mail App</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-discover-7-best-free-macos-compatible-tiktok-tools-for-2024/"><u>[New] Discover 7 Best Free, MacOS Compatible TikTok Tools for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-erfassen-sie-verlorene-pdfs-schritt-fur-schritt-anleitung-zur-wiederherstellung-geloschter-dateien-unter-windows/"><u>1. Erfassen Sie Verlorene PDFs: Schritt-Für-Schritt-Anleitung Zur Wiederherstellung Gelöschter Dateien Unter Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/3-exclusive-excel-tricks-not-in-the-realm-of-ai-assistants-like-chatgpt/"><u>3 Exclusive Excel Tricks Not in the Realm of AI Assistants Like ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-watch-series-10-how-these-3-key-upgrades-convinced-me-to-make-the-switch-tech-insights-by-zdnet/"><u>Apple Watch Series 10: How These 3 Key Upgrades Convinced Me to Make the Switch | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/fixing-chkdsk-issues-discover-the-top-4-simple-methods-and-a-proven-additional-hack/"><u>Fixing CHKDSK Issues: Discover the Top 4 Simple Methods & a Proven Additional Hack!</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guida-rapida-alla-risoluzione-dei-problemi-di-partizionamento-del-wd-my-passport/"><u>Guida Rapida Alla Risoluzione Dei Problemi Di Partizionamento Del WD My Passport</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-pro-max-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 11 Pro Max Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-with-innovative-vsco-techniques/"><u>In 2024, Pushing Boundaries with Innovative VSCO Techniques</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/sauvegardez-votre-nas-en-un-clic-comment-se-connecter-et-transferer-vers-la-nube-de-la-plus-simple-a-lutiliser/"><u>Sauvegardez Votre NAS en Un Clic: Comment Se Connecter Et Transférer Vers La Nube De La Plus Simple À L'Utiliser !</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/simple-guide-seamlessly-transferring-your-nas-data-to-the-cloud-with-services-similar-to-onedrive/"><u>Simple Guide: Seamlessly Transferring Your NAS Data to the Cloud with Services Similar to OneDrive</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/the-ultimate-guide-top-two-methods-for-uploading-data-onto-your-raspberry-pis-sd-card/"><u>The Ultimate Guide: Top Two Methods for Uploading Data Onto Your Raspberry Pi's SD Card</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-platform-showdown-twitch-meets-youtube/"><u>The Ultimate Platform Showdown Twitch Meets YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-y17s-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y17s</u></a></li>
+<li><a href="https://techidaily.com/will-redmi-note-13-proplus-5g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Redmi Note 13 Pro+ 5G play AVCHD mts files?</u></a></li>
 </ul></div>
 

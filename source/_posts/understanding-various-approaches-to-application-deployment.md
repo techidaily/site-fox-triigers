@@ -1,7 +1,7 @@
 ---
 title: Understanding Various Approaches to Application Deployment
-date: 2024-10-06T22:04:33.354Z
-updated: 2024-10-11T02:29:34.221Z
+date: 2024-10-11T03:56:35.141Z
+updated: 2024-10-16T19:34:24.364Z
 tags:
   - user-guide
 categories:
@@ -79,13 +79,6 @@ Table of Contents
 
 ## Installer Project Types
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specialized templates
 
  Each specialized template is designed for a specific application type, package type or deployment method. Also, a wizard helps you configure elements specific to each template.
@@ -95,25 +88,44 @@ Table of Contents
 ![Vs app template](https://cdn.advancedinstaller.com/img/project/vs-app-template.png "Vs app template")This template allows you to configure an installer for a Visual Studio application. You don't need any license to build a project of this type.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### .NET Framework Application
 
 ![Dotnet template](https://cdn.advancedinstaller.com/img/project/dotnet-template.png "Dotnet template")This template allows you to configure an installer for a .NET Framework application. Note that this project type requires a[Professional](https://tools.techidaily.com/advancedinstaller/products/) license.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Visual Basic 6.0 Application
 
 ![Vb6 template](https://cdn.advancedinstaller.com/img/project/vb6-template.png "Vb6 template")This template allows you to configure an installer for a Visual Basic 6.0 application. You don't need any license to build a project of this type.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ASP.NET Application
@@ -124,48 +136,42 @@ Table of Contents
 
 ![Mixed3264 template](https://cdn.advancedinstaller.com/img/project/mixed3264-template.png "Mixed3264 template")This template allows you to configure a mixed 32/64-bit installer. Note that this project type requires an Professional license.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Client/Server Application Installation Package
 
 ![Client server template](https://cdn.advancedinstaller.com/img/project/client-server-template.png "Client server template")This template allows you to configure an installer for a client/server application. Note that this project type requires an [Enterprise](https://tools.techidaily.com/advancedinstaller/products/) license.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### XNA Game Installer
 
 ![Xna game template](https://cdn.advancedinstaller.com/img/project/xna-game-template.png "Xna game template")This template allows you to create an installation for an XNA-based game. Note that this project type requires an Enterprise license.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### SharePoint Solution
 
 ![Sharepoint](https://cdn.advancedinstaller.com/img/project/sharepoint.png "Sharepoint")This template allows you to create an installation for a SharePoint solution. Note that this project type requires an Enterprise license.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### MSIX Package
 
 ![Modification](https://cdn.advancedinstaller.com/img/project/modification.png "Modification")This template allows you to create MSIX packages. Note that this project type requires a Professional license.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### RAD Studio Application
 
@@ -174,13 +180,6 @@ Table of Contents
 ### Real Studio Application
 
 ![Real template](https://cdn.advancedinstaller.com/img/project/real-template.png "Real template")This template allows you to configure an installer for a Real Studio application. You don't need any license to build a project of this type.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Generic templates
 
@@ -193,15 +192,22 @@ Table of Contents
 ![Professional Project](https://cdn.advancedinstaller.com/img/project/professional.png "Professional Project") You have access to all the functionality offered in a Simple project and, in addition, you can create file associations, define custom actions, install services, add merge modules, customize your installation package's user interface and more. After the trial period expires, a Professional license is required to build a project of this type.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enterprise
 
 ![Enterprise Project](https://cdn.advancedinstaller.com/img/project/enterprise.png "Enterprise Project")This type of project gives you access to all the functionality offered by a Professional and Java Application projects. Additionally it offers a dialog editor, driver installation support and IIS configuration. After the trial period expires, an Enterprise license is required to build a project of this type.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Architect
 
@@ -240,24 +246,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-mark-crafting-unique-podcast-graphics/"><u>[New] Mastering the Mark Crafting Unique Podcast Graphics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-find-the-optimal-balance-equipment-for-drone-photography/"><u>[Updated] How To Find the Optimal Balance Equipment for Drone Photography</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/"><u>[Updated] Unveiling the Secret Sauce for Massive TikTok Content Grabs</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/advanced-techniques-in-detecting-installed-software-versions/"><u>Advanced Techniques in Detecting Installed Software Versions</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/comprehensive-guide-working-with-json-files-on-the-web/"><u>Comprehensive Guide: Working with JSON Files on the Web</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/die-beste-software-zum-aufzeichnen-von-bildschirminhalten-auf-windows-pcs-fur-profis-und-anfanger-bei-windows-1087/"><u>Die Beste Software Zum Aufzeichnen Von Bildschirminhalten Auf Windows-PCs: Für Profis Und Anfänger Bei Windows 10/8/7</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortlessly-extend-apowersoft-scanning-apps-paid-plans-on-mobile-devices/"><u>Effortlessly Extend Apowersoft Scanning App's Paid Plans on Mobile Devices</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/essential-summary-of-project-goals-progress-and-results/"><u>Essential Summary of Project Goals, Progress, and Results</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-ini-settings-within-windows-file-management-interface/"><u>Exploring INI Settings Within Windows File Management Interface</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-gionee-frp-by-drfone-android/"><u>Full Guide to Bypass Gionee FRP</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-how-to-effortlessly-watch-wmv-files-on-your-iphone/"><u>Guide: How to Effortlessly Watch WMV Files on Your iPhone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a15-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A15 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y17s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y17s without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/itunes-version-121-common-issues-and-troubleshooting-tips/"><u>ITunes Version 12.1 - Common Issues and Troubleshooting Tips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/master-the-art-of-fb-story-downloads-on-every-device/"><u>Master the Art of FB Story Downloads on Every Device</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimizing-fastcgi-configuration-for-improved-server-performance/"><u>Optimizing FastCGI Configuration for Improved Server Performance</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-more-using-emojis-in-youtube-conversations/"><u>Smile More Using Emojis in YouTube Conversations</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/unraveling-the-dependencies-of-imsixdriver-in-your-system/"><u>Unraveling the Dependencies of IMsixDriver in Your System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-composite-skies-a-drone-video-editors-strategic-guide/"><u>[Updated] Composite Skies A Drone Video Editor’s Strategic Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-clonezilla-expert-guide-on-recovering-individual-files-with-disk-imaging-techniques/"><u>1. CloneZilla: Expert Guide on Recovering Individual Files with Disk Imaging Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-next-level-techniques-outperforming-fbx-recording/"><u>2024 Approved Next-Level Techniques Outperforming FBX Recording</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027559484-pc17live/"><u>簡単ガイド:PCおよびスマホにて「17LIVE」ライブ配信を記録し、永久保持する方法</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/como-hacer-una-copia-de-seguridad-de-su-disco-duro-con-un-usb-bootable-en-windows-11/"><u>Cómo Hacer Una Copia De Seguridad De Su Disco Duro Con Un USB Bootable en Windows 11</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/duplicacao-segura-de-midia-digital-guia-completo/"><u>Duplicação Segura De Mídia Digital – Guia Completo</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-instructions-for-creating-a-bootable-windows-1011-usb-installation-media/"><u>Easy Instructions for Creating a Bootable Windows 10/11 USB Installation Media</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-video-appeal-crafting-unforgettable-thumbnail-images-for-2024/"><u>Elevate Video Appeal Crafting Unforgettable Thumbnail Images for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ensure-secure-data-safeguarding-with-raid-0-backup-strategies/"><u>Ensure Secure Data Safeguarding with RAID 0 Backup Strategies</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/free-methods-for-formatting-and-clearing-data-from-your-hard-drive-using-windows-11/"><u>Free Methods for Formatting and Clearing Data From Your Hard Drive Using Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-discovering-non-gopro-action-cam-options-top-15-picks/"><u>In 2024, Discovering Non-GoPro Action Cam Options Top 15 Picks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 14</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/iphone-musik-aus-dem-ipod-auf-die-itunes-mediathek-ubertragen-mit-fonebackup/"><u>IPhone Musik Aus Dem iPod Auf Die iTunes-Mediathek Übertragen Mit FoneBackup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-privacy-stopping-followers-on-ig/"><u>Mastering Privacy Stopping Followers on IG</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-apple-watch-lifespan-with-these-8-key-settings-adjustments-for-better-battery-efficiency-expert-tips/"><u>Maximize Apple Watch Lifespan with These 8 Key Settings Adjustments for Better Battery Efficiency | Expert Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/order-matters-how-to-experience-the-complete-storyline-of-superman-movies/"><u>Order Matters! How to Experience the Complete Storyline of Superman Movies</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/recuperacion-de-datos-tras-un-formateo-accidental-del-disco-duro-externo-seagate/"><u>Recuperación De Datos Tras Un Formateo Accidental Del Disco Duro Externo Seagate</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-youtube-green-screen-videos-and-inspire-your-green-screen-ideas-for-2024/"><u>Watch Youtube Green Screen Videos and Inspire Your Green Screen Ideas for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728507592498-windowsphotorec/"><u>Windows用ファイル復元手順：PhotoRecと互換性のある代替ソフトを使って</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Working with JSON Files on the Web"
-date: 2024-10-04T05:28:34.676Z
-updated: 2024-10-11T02:05:42.862Z
+date: 2024-10-15T07:10:00.405Z
+updated: 2024-10-16T18:06:16.143Z
 tags:
   - user-guide
 categories:
@@ -100,9 +100,23 @@ The JSON File functionality allows you to achieve the following installation tas
 
 The JSON file support can be used for configuring JSON files that are part of the installation package or that are already present on the target system. This feature is very useful if you are deploying an application which requires user specific information, like username or password. The information must be collected during install and must be store in the same JSON file installed by the package. Another case scenario is when an application is upgraded and one or more JSON files must be updated as well, without the need to delete and copy their newer version.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Update files that are part of the installation package
 
 In this case you have an JSON file that you want to install and then update it, all done in the same install package. This is possible because a _regular_ JSON file is installed on the target machine before the JSON changes are applied. In order to achieve this behaviour, first add the JSON file as a _"regular file"._ Then, simply add the same JSON file in the _Windows Installer_ format and by using the [JSON Editor](https://tools.techidaily.com/advancedinstaller/products/) modify the content (an Object, Array, Null, Boolean, Number or String) that you want to create, update or remove.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Update files that are present on the target machine
 
@@ -110,43 +124,29 @@ In this case the JSON file is present on the target machine. Simply add the JSON
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When the JSON Files are used to configure a file from the installation package, use the "New JSON File" option to create a new JSON update with the same name and installation directory.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating new JSON Files
 
 ![New JSON File](https://cdn.advancedinstaller.com/img/toolbar/json-new.png "New JSON File")Use the \[New JSON File \] toolbar button or the “New JSON File” tree/list context menu item.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Editing an existing JSON File
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button, the “Properties...” list context menu item, press theEnter key while a JSON file is selected in the “Files” panel or double click on a JSON file.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)JSON files can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -186,18 +186,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-music-making-magic-selecting-background-beats-for-vids-for-2024/"><u>[New] Music Making Magic Selecting Background Beats for Vids for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors-for-2024/"><u>[New] The Best in Class Evaluating the Top 8 Sub to SRT Convertors for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-gaiety-media-download-review/"><u>[Updated] Gaiety Media Download Review</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-online-oasis-viewer/"><u>[Updated] In 2024, Online Oasis Viewer</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-captivate-and-enchant-explore-the-best-creative-reactions-on-yt/"><u>2024 Approved Captivate and Enchant Explore the Best Creative Reactions on YT</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/comprehensive-language-translation-hub/"><u>Comprehensive Language Translation Hub</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-techniques-for-expertly-shortening-your-videos-a-beginners-guide/"><u>Effortless Techniques for Expertly Shortening Your Videos - A Beginner's Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ensuring-your-safety-a-step-by-step-guide-to-verifying-the-security-of-downloads/"><u>Ensuring Your Safety - A Step-by-Step Guide to Verifying the Security of Downloads</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/eradicating-the-google-safety-alert-infection-a-step-by-step-guide-with-malwarefox/"><u>Eradicating the Google Safety Alert Infection: A Step-by-Step Guide with MalwareFox</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/fast-filtration-solutions/"><u>Fast Filtration Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xr-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XR to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-for-non-responsive-numeric-keys-on-keyboards/"><u>Solution Steps for Non-Responsive Numeric Keys on Keyboards</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-rated-presentation-software-for-ios-devices/"><u>Top-Rated Presentation Software for iOS Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-delving-into-the-strengths-of-yuneecs-typhoon-h-drone/"><u>[Updated] 2024 Approved Delving Into the Strengths of Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-diy-photography-support-systems/"><u>[Updated] DIY Photography Support Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-silence-unwanted-post-suggestions-on-insta/"><u>[Updated] In 2024, Silence Unwanted Post Suggestions on Insta</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discord-dialogue-perfecting-your-replies/"><u>2024 Approved Discord Dialogue Perfecting Your Replies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-essentials-to-carve-out-your-creative-space/"><u>2024 Approved The Essentials to Carve Out Your Creative Space</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/4-expert-tips-for-backing-up-all-your-files-in-windows-11/"><u>4 Expert Tips for Backing Up All Your Files in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728472257860-windows-11/"><u>簡単にWindows 11でダイナミックディスクを複製する方法</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728508390161-windowsssd/"><u>利用しやすく無料 - 人気のWindows専用SSD切り替えツールリスト</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/fixing-a-raw-ntfs-partition-on-your-windows-11-machine-using-these-proven-strategies/"><u>Fixing a Raw NTFS Partition on Your Windows 11 Machine Using These Proven Strategies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-moto-e13-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Moto E13 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-device-security-a-step-by-step-guide-to-using-find-my-iphone/"><u>Mastering Device Security: A Step-by-Step Guide to Using Find My iPhone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/microsoft-projektdatei-beschadigt-losungsanleitung-zur-fehlerbehebung/"><u>Microsoft Projektdatei Beschädigt? Lösungsanleitung Zur Fehlerbehebung</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-modifying-excel-gridline-colors-easily/"><u>Step-by-Step Guide: Modifying Excel Gridline Colors Easily</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/windows-10-3/"><u>Windows 10 重新安裝後失去檔案？3項專家解決方法！</u></a></li>
 </ul></div>
 

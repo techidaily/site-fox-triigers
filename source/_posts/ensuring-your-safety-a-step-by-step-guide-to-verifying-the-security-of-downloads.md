@@ -1,7 +1,7 @@
 ---
 title: Ensuring Your Safety - A Step-by-Step Guide to Verifying the Security of Downloads
-date: 2024-10-08T20:56:05.264Z
-updated: 2024-10-11T06:20:01.592Z
+date: 2024-10-10T10:42:00.512Z
+updated: 2024-10-17T00:51:23.987Z
 tags:
   - product
   - antivirus
@@ -77,20 +77,13 @@ Downloading files is not the only way you can end up with malware on your machin
 [![infected website](https://www.malwarefox.com/wp-content/uploads/2019/06/infected_website.jpg)](https://www.malwarefox.com/wp-content/uploads/2019/06/infected%5Fwebsite.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 That said, there are ways to block the virus at its primary stage. There are certain precautions you can take to insure against malware and reasonably ensure that the file you are downloading is safe.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Before you download
 
@@ -116,6 +109,13 @@ That said, there may be times when you might be concerned that a file might be m
 
 We’ll take a look at them next.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Online Malware Scanners
 
 Remember those days when almost every antivirus provider had an online component that let you scan your files in a browser? Of course, you do! It was many years ago when free online scanners like these were the norm, made available as addons that needed to be installed and enabled on in the browser.
@@ -135,13 +135,6 @@ Better yet, the detection results are displayed within seconds or minutes!
 There are a handful of such services now available, with the most popular being [VirusTotal](https://www.virustotal.com/). It scans the files you upload with over 70 scanners, confirming whether it contains any malware like virus, Trojans, worms, and more.
 
 Other excellent options are [MetaDefender](https://metadefender.opswat.com/), [VirSCAN,](http://www.virscan.org/) [Jotti,](https://virusscan.jotti.org/) [NoVirusThanks](https://www.novirusthanks.org/) and [NoDistribute](https://nodistribute.com/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Say Hello to VirusTotal
 
@@ -164,16 +157,10 @@ After the scans are completed, you are presented with a summary page that contai
 [![virustotal website](https://www.malwarefox.com/wp-content/uploads/2019/06/virustotal_website.png)](https://www.malwarefox.com/wp-content/uploads/2019/06/virustotal%5Fwebsite.png)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can use VirusTotal to not just scan program installers, executables and firmware files, but the service can be used to detect malware in any file — from Word documents and PDFs to images, sounds and videos. For common files, you will probably see a popup that notifies you that your file has already been analyzed recently. You can either view the analysis, or if the date was months ago, reanalyze it.
@@ -181,13 +168,6 @@ You can use VirusTotal to not just scan program installers, executables and firm
 If your file gets a clean bill of health from these scans, there is a fair chance that it does not come packing malware. In case of a false positive, you can also perform a web search on the file name and often find people discussing whether it is a virus or not.
 
 [![virustotal scan](https://www.malwarefox.com/wp-content/uploads/2019/06/virustotal_scan.png)](https://www.malwarefox.com/wp-content/uploads/2019/06/virustotal%5Fscan.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That is all fine and dandy. But how to use the service to scan the files you want to download before you download them? Glad you asked, because not only are there multiple ways to send files to VirusTotal, there are also a couple different ways you can make sure what you are downloading is safe.
 
@@ -213,11 +193,31 @@ Even the best tools can be surpassed.
 
 Case in point, the tale of CCleaner 5.33 above, a perfect example of how even multiengine antivirus tools like VirusTotal can struggle to keep up with the latest malware. That does not diminish their usefulness in any way — just goes to show the massive levels of threats we face.
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 If you regularly download stuff from the Internet, you most definitely need to be extra cautious on your end and use good sense when clicking on links. It also pays to take necessary precautions by installing capable security programs, and scanning your downloads before and after clicking on the button.
 
 Ultimately, the more you download, the better you will be able to tell suspicious downloads apart from authentic ones. Let security software handle the rest.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -244,20 +244,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-innovative-discussion-themes-for-vloggers/"><u>[New] In 2024, Innovative Discussion Themes for Vloggers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-engaging-viewers-on-youtube-gaming-livestreams/"><u>[Updated] 2024 Approved Engaging Viewers on YouTube Gaming Livestreams</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-premier-gif-application-selection-for-iphone-users/"><u>[Updated] 2024 Approved Premier GIF Application Selection for iPhone Users</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/comprehensive-walkthrough-on-creating-accessible-video-synopses/"><u>Comprehensive Walkthrough on Creating Accessible Video Synopses</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/cut-the-pixels-keep-quality-discover-no-cost-solutions-for-reducing-jpeg-file-sizes-to-under-100-kb/"><u>Cut the Pixels, Keep Quality: Discover No-Cost Solutions for Reducing JPEG File Sizes to Under 100 KB</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/essential-configuration-options-for-successful-software-installs/"><u>Essential Configuration Options for Successful Software Installs</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/identify-and-eliminate-o97mdplinka-trojan-infections-expert-tips-from-malwarefox/"><u>Identify & Eliminate O97M/DPLink.A Trojan Infections - Expert Tips From MalwareFox</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-android-vocal-mixer-app/"><u>In 2024, Premier Android Vocal Mixer App</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-scaling-video-size-without-quality-loss-on-youtube/"><u>In 2024, Scaling Video Size Without Quality Loss on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/leveraging-time-stamps-for-enhanced-video-clarity-on-youtube/"><u>Leveraging Time Stamps for Enhanced Video Clarity on YouTube</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimize-and-implement-iidriver-solutions-effectively/"><u>Optimize and Implement IIDriver Solutions Effectively</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premium-web-resources-curated-alarm-tones/"><u>Premium Web Resources Curated Alarm Tones</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/the-best-5-functional-mouse-recording-devices-you-need-to-try/"><u>The Best 5 Functional Mouse Recording Devices You Need to Try!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-sound-upload-tools-for-tiktok-users-in-2020/"><u>Top Sound Upload Tools for TikTok Users in 2020</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-installing-logitech-g29-race-wheel-on-windows-operating-systems-win-7810/"><u>Ultimate Guide to Installing Logitech G29 Race Wheel on Windows Operating Systems: Win 7/8/10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-evaluating-frame-rates-the-decision-on-30-vs-60hz/"><u>[Updated] In 2024, Evaluating Frame Rates The Decision on 30 Vs. 60Hz</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screensnap-2023-the-new-standard-in-recording-for-2024/"><u>[Updated] ScreenSnap 2023 – The New Standard in Recording for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728509198584-6/"><u>最省力解決表格中未可删除问题 - 6种策略</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-acronis-true-image-at-a-steal-save-20-with-exclusive-promo-code/"><u>Get Acronis True Image at a Steal: Save 20% with Exclusive Promo Code!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-unreliable-are-artificial-intelligence-systems-in-spotting-duplicate-articles/"><u>How Unreliable Are Artificial Intelligence Systems in Spotting Duplicate Articles?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/human-like-or-gender-neutral-names-charlie-alex-sam-jordan-taylor-riley/"><u>Human-Like or Gender-Neutral Names: Charlie, Alex, Sam, Jordan, Taylor, Riley</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-itel-s23-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Itel S23</u></a></li>
+<li><a href="https://solve-info.techidaily.com/los-mejorestros-herramientas-gratuitas-para-recuperacion-de-archivos-en-sistemas-windows/"><u>Los Mejorestros Herramientas Gratuitas Para Recuperación De Archivos en Sistemas Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ize-your-youtube-channels-using-google-analytics/"><u>Maximize Your YouTube Channels Using Google Analytics</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/microsoft-outlookpst/"><u>Microsoft Outlook全文書PSTへの完全な移行ガイド</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-enhancing-audio-production-integrating-and-leveraging-audacitys-autotune-feature/"><u>New 2024 Approved Enhancing Audio Production Integrating and Leveraging Audacitys Autotune Feature</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/passos-simples-para-recuperacao-de-dados-excluidos-do-cartao-sd/"><u>Passos Simples Para Recuperação De Dados Excluídos Do Cartão SD</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/quick-and-simple-guide-fixing-windows-7-issues-without-using-a-cd/"><u>Quick and Simple Guide: Fixing Windows 7 Issues Without Using a CD</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/reviving-your-failing-hard-disk-top-3-strategies-for-repair/"><u>Reviving Your Failing Hard Disk: Top 3 Strategies for Repair</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722808430181-star-wars-squadrons-an-exciting-odyssey-into-the-heart-of-spectacular-interstellar-combat/"><u>Star Wars: Squadrons – An Exciting Odyssey Into the Heart of Spectacular Interstellar Combat.</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-expanding-your-storage-with-a-new-ssd-or-hdd-in-windows-11/"><u>Step-by-Step Guide: Expanding Your Storage with a New SSD or HDD in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Website Customization & Control Panel Setup
-date: 2024-10-09T23:54:58.750Z
-updated: 2024-10-10T18:04:56.457Z
+date: 2024-10-11T19:02:02.931Z
+updated: 2024-10-16T16:26:24.734Z
 tags:
   - user-guide
 categories:
@@ -99,13 +99,20 @@ This view allows you to properly install and configure a new website on the targ
 
 ![Website settings](https://cdn.advancedinstaller.com/img/ui/website-settings.png "Website settings")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -115,15 +122,28 @@ The _friendly name_ of the website. This field is of [Formatted Type](https://to
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg) If, at install time, the site name is set to "Default Web Site", then the configuration for that site will be skipped. Only the settings configured for its child items (web applications and virtual directories) will be set and installed under "Default Website".
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Physical Folder
 
 You can set the root physical folder for the new website. Use the \[... \] button to change the root location. The [Folder Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to choose a folder.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Install Condition
 
@@ -131,18 +151,18 @@ You can set a condition for the installation of this website. The condition will
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Use the following _recommended condition_ so that web sites can get removed or installed during maintenance depending on how the user sets their feature states:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 (!WebSiteFeature = 3 AND &WebSiteFeature <> 2) OR (&WebSiteFeature = 3)
 
 Copy
 
 Where WebSiteFeature is the [identifier](https://tools.techidaily.com/advancedinstaller/products/) of the feature containing the website's resources.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Physical Path Credentials
 
@@ -154,23 +174,9 @@ The website is loaded before the first request for it arrives from the users. Th
 
 Having all the above already loaded will make improve the UX for the first user accessing the website.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Start website immediately
 
 If this option is checked, the Advanced Installer IIS configuration tool will attempt to start the associated service instance for the newly created website.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Identity
 
@@ -187,10 +193,10 @@ However, you may want to manually specify a website identifier (index). This can
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In case of an **identity conflict**, you have the option of assigning to the website the **next** available index on that server or to apply the "Error Policy" specified for that Web Site.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Error Policy
@@ -239,18 +245,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-tips-and-tricks-for-flawless-sims-4-recordings/"><u>[New] In 2024, Tips and Tricks for Flawless Sims 4 Recordings</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1-streamline-report-design-with-the-enhanced-ssrs-resource-management-panel/"><u>1. Streamline Report Design with the Enhanced SSRS Resource Management Panel</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g84-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G84 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/disabling-enhanced-audio-options-in-windows-10-for-optimal-sound-quality/"><u>Disabling Enhanced Audio Options in Windows 10 for Optimal Sound Quality</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/download-movavis-free-online-format-converter-for-f4v-to-swf-and-vice-versa/"><u>Download Movavi's Free Online Format Converter for F4V to SWF and Vice Versa</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-transformation-guide-convert-pdfs-into-clear-sharp-png-format-with-these-5-simple-steps-on-windows-10/"><u>Effortless Transformation Guide: Convert PDFs Into Clear, Sharp PNG Format with These 5 Simple Steps on Windows 10</u></a></li>
-<li><a href="https://discover-community.techidaily.com/enhance-your-online-presence-with-manycam-integrated-into-singsnap-the-top-choice-for-digital-performers/"><u>Enhance Your Online Presence with ManyCam Integrated Into SingSnap - The Top Choice for Digital Performers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/eradicating-the-google-safety-alert-infection-a-step-by-step-guide-with-malwarefox/"><u>Eradicating the Google Safety Alert Infection: A Step-by-Step Guide with MalwareFox</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/fast-filtration-solutions/"><u>Fast Filtration Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-a1x-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo A1x 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-wearables-5-considerations-when-picking-a-tracker/"><u>Navigating the World of Wearables: 5 Considerations When Picking a Tracker</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/revive-missing-images-on-your-galaxy-note-device-with-efficient-data-retrieval-solutions/"><u>Revive Missing Images on Your Galaxy Note Device with Efficient Data Retrieval Solutions</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-rated-presentation-software-for-ios-devices/"><u>Top-Rated Presentation Software for iOS Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-initially-yours-the-ultimate-gear-list-for-gopros/"><u>[New] 2024 Approved Initially Yours The Ultimate Gear List for GoPros</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamline-meeting-recording-on-devices-with-gotomeeting-for-2024/"><u>[New] Streamline Meeting Recording on Devices with GoToMeeting for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-videography-7-free-sound-effects-collection/"><u>[Updated] Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-enhancing-content-creation-10-must-have-ig-editing-software/"><u>[Updated] Enhancing Content Creation 10 Must-Have IG Editing Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-outro-crafting-made-easy-the-best-free-guide-top-6/"><u>[Updated] Outro Crafting Made Easy - The Best Free Guide (Top 6)</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comment-deplacer-des-applications-installees-dun-pc-vers-un-autre-avec-windows-11/"><u>Comment Déplacer Des Applications Installées D'un PC Vers Un Autre Avec Windows 11</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comment-recupere-t-on-un-fichier-efface-sur-une-partition-ntfs/"><u>Comment Récupère-T-On Un Fichier Effacé Sur Une Partition NTFS ?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effective-techniques-to-exit-lenovo-system-locked-on-repair-screen/"><u>Effective Techniques to Exit Lenovo System Locked on Repair Screen</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effiziente-methoden-zur-ubertragung-ihrer-festplattendaten-auf-ein-intel-solid-state-drive/"><u>Effiziente Methoden Zur Übertragung Ihrer Festplattendaten Auf Ein Intel Solid State Drive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hit-compliant-resolution-enhanced-missing-touch-sensitivity/"><u>HIT Compliant Resolution - Enhanced Missing Touch Sensitivity</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-6-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 6 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-assassins-creed-valhalla-from-frequently-crashing-on-your-pc/"><u>How to Stop Assassin's Creed: Valhalla From Frequently Crashing on Your PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-reels-borrow-tips-and-tricks-from-tiktok-to-go-viral-for-2024/"><u>Instagram Reels Borrow Tips & Tricks From TikTok to Go Viral for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-on-retrieving-lost-illustrator-projects-due-to-system-failures-or-accidental-removal/"><u>Step-by-Step Tutorial on Retrieving Lost Illustrator Projects Due to System Failures or Accidental Removal</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-5-strategien-warum-ist-onedrive-im-windows-explorer-nicht-sichtbar/"><u>Top 5 Strategien: Warum Ist OneDrive Im Windows Explorer Nicht Sichtbar?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/tutorial-pemulihan-apple-notes-ios-terbentuk-tanpa-cadangan/"><u>Tutorial Pemulihan Apple Notes iOS Terbentuk Tanpa Cadangan</u></a></li>
 </ul></div>
 

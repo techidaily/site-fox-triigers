@@ -1,7 +1,7 @@
 ---
 title: Custom Action Implementation in IDotNet Framework
-date: 2024-10-08T04:23:32.465Z
-updated: 2024-10-11T01:47:54.005Z
+date: 2024-10-14T00:55:28.213Z
+updated: 2024-10-17T00:39:34.996Z
 tags:
   - user-guide
 categories:
@@ -125,27 +125,27 @@ Table of Contents
 
 ## IDotNetCustomAction
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IDotNetCustomAction : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This is a custom action that launches a .NET Assembly. The assembly must have a class that inherits the Installer class with the RunInstaller attribute set to true.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -155,25 +155,11 @@ This is a custom action that launches a .NET Assembly. The assembly must have a 
 
 **Array<INetParameter> Parameters** \- Gets the collection or parameters to pass information to your custom action.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Methods
 
 **AddParameter(String aName, String aValue) returns INetParameter** \- Creates and adds new parameter to custom action parameters collection.
 
 **RemoveParameter(INetParameter aParameter)** \- Removes and destroys the specified parameter.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Examples
 
@@ -182,6 +168,13 @@ $project = $advinst.CreateProjectS(“architect”)
 $dllFile = $project.FilesComponent.AddFileS("appdir", "D:\DotNetCustomAction.dll")
 $custActs = $project.CustomActionsComponent.NewLaunchInstalledFile($dllFile)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## There are 2 custom actions because “DotNetCustomAction.dll” is build for “Any CPU” platform
 $custActs[0].ConfigFilePath = "[TempFolder]DotNetCustomAction.dll_Config.xml"
 $custActs[0].AddParameter("new parameter", "parameter value")
@@ -189,6 +182,13 @@ $custActs[1].ConfigFilePath = "[TempFolder]DotNetCustomAction.dll_Config.xml"
 $custActs[1].AddParameter("new parameter", "parameter value")
 
 Copy
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -229,20 +229,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-4-effective-ways-to-captivate-ig-audiences-with-loop-videos/"><u>[New] 4 Effective Ways to Captivate IG Audiences with Loop Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-from-frame-by-frame-filmmaking-to-financial-flourishing/"><u>[New] In 2024, From Frame-by-Frame Filmmaking to Financial Flourishing</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/comprehensive-techniques-for-secure-packaging-authentication/"><u>Comprehensive Techniques for Secure Packaging Authentication</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensuring-optimal-performance-downloading-display-drivers-for-toshiba-satellite-notebooks-in-windows-environment/"><u>Ensuring Optimal Performance: Downloading Display Drivers for Toshiba Satellite Notebooks in Windows Environment</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/essential-pre-launch-checklist-for-software-releases/"><u>Essential Pre-Launch Checklist for Software Releases</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-effective-techniques-to-rectify-sound-issues-in-your-powerpoint-slideshows/"><u>Expert Advice: Effective Techniques to Rectify Sound Issues in Your PowerPoint Slideshows</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-the-essential-attributes-of-interfaces-in-programming/"><u>Exploring the Essential Attributes of Interfaces in Programming</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-the-various-vm-configuration-settings/"><u>Exploring the Various VM Configuration Settings</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/getting-started-with-apowersoft-a-comprehensive-tutorial-on-their-free-sound-recording-tool/"><u>Getting Started with Apowersoft: A Comprehensive Tutorial on Their Free Sound Recording Tool</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sportswomens-scorecard-poker-analysis/"><u>In 2024, SPORTSWOMEN'S SCORECARD Poker Analysis</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-knowledge-proven-strategies-for-successful-and-productive-studying/"><u>Mastering Knowledge: Proven Strategies for Successful and Productive Studying</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oppo-a38-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Oppo A38</u></a></li>
-<li><a href="https://extra-support.techidaily.com/screen-spectacular-sj6-vs-yi-4k-edition-for-2024/"><u>Screen Spectacular SJ6 Vs. Yi 4K Edition for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-on-incorporating-individuals-into-images/"><u>Step-by-Step Guide on Incorporating Individuals Into Images</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-extended-size-mousepads-a-comprehensive-guide/"><u>Top Rated Extended-Size Mousepads : A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content-for-2024/"><u>[New] Harnessing the Power of Hashtags to Amplify Your IGTV Content for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unrivaled-video-tech-for-apple-phones/"><u>[Updated] Unrivaled Video Tech for Apple Phones</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-how-to-retrieve-lost-images-for-free-top-techniques-for-your-canon-camera/"><u>1. How To Retrieve Lost Images For Free: Top Techniques for Your Canon Camera</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-resolving-gtfo-application-errors/"><u>Easy Fixes: Resolving GTFO Application Errors</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guida-passo-passo-a-usare-wbadmin-per-costruire-il-backup-dellimmagine-di-ripristino-in-windows-11/"><u>Guida Passo-Passo a Usare WBAdmin per Costruire Il Backup Dell'Immagine Di Ripristino in Windows 11</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-safely-copy-an-active-hard-drive-in-windows/"><u>How to Safely Copy an Active Hard Drive in Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-brighten-up-your-gameplay-tips-to-fix-a-black-screen-on-obs/"><u>In 2024, Brighten Up Your Gameplay Tips to Fix a Black Screen on OBS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-perfect-virtual-screens-choosing-best-meet-backgrounds/"><u>In 2024, Perfect Virtual Screens Choosing Best Meet Backgrounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reignite-your-onedrive-login-windows-solutions-needed/"><u>Reignite Your OneDrive Login: Windows Solutions Needed</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/securing-your-windows-server-understanding-the-benefits-of-differential-and-incremental-backups/"><u>Securing Your Windows Server: Understanding the Benefits of Differential and Incremental Backups</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/usbsd/"><u>USBメモリまたはSDカードからコマンドラインで削除されたファイルの回復手順</u></a></li>
 </ul></div>
 
