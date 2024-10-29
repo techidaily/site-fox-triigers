@@ -1,7 +1,7 @@
 ---
 title: "Understanding Email Marketing KPIs: An Essential Guide by MassMail Software"
-date: 2024-10-19T17:28:41.619Z
-updated: 2024-10-23T04:28:24.584Z
+date: 2024-10-27T19:48:17.613Z
+updated: 2024-10-28T20:31:05.214Z
 tags:
   - product
 categories:
@@ -22,13 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -40,10 +33,10 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -58,18 +51,18 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -83,16 +76,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -106,31 +99,38 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -167,16 +167,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-from-basic-to-bold-invest-in-excellent-cam-add-ons/"><u>[New] From Basic to Bold Invest in Excellent Cam Add-Ons</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-cut-the-clutter-convert-videos-discover-the-best-alternatives-for-flv-to-yt/"><u>[New] In 2024, Cut the Clutter, Convert Videos Discover the Best Alternatives for Flv to YT</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-steps-to-prevent-unplanned-recordings-in-qt-for-2024/"><u>[New] Steps to Prevent Unplanned Recordings in QT for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-inspecting-slowdown-in-your-photo-booth-recording/"><u>2024 Approved Inspecting Slowdown in Your Photo Booth Recording</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/como-aumentar-la-capacidad-de-tu-disco-ps4-sin-perder-datos-una-guia-paso-a-paso/"><u>Cómo Aumentar La Capacidad De Tu Disco PS4 Sin Perder Datos: Una Guía Paso a Paso</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-create-a-network-or-nas-drive-backup-on-windows-10-and-11/"><u>How to Create a Network or NAS Drive Backup on Windows 10 & 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-s23-tactical-edition-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy S23 Tactical Edition to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Itel A60? | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/seo-strategies-in-2009-focusing-on-attraction-sex-or-brand-development-for-online-success/"><u>SEO Strategies in 2009: Focusing on Attraction (SEX) or Brand Development for Online Success?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-picks-the-ultimate-guide-to-the-best-65-and-above-televisions-featured-by-zdnet/"><u>Top Picks: The Ultimate Guide to the Best 65 & Above Televisions - Featured by ZDNet</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/windows-recovery-via-f11-a-misconception-for-versions-8-10-and-11-clarified/"><u>Windows Recovery via F11: A Misconception for Versions 8, 10 & 11 - Clarified</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-premier-cycling-titles-to-try-out/"><u>[New] 2024 Approved Premier Cycling Titles to Try Out</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-guides-for-gathering-live-video-conversations-for-2024/"><u>[Updated] Guides for Gathering Live Video Conversations for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mastering-picart-a-guide-to-clear-backgrounds/"><u>[Updated] In 2024, Mastering PicArt A Guide to Clear Backgrounds</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/best-solutions-speeding-up-your-iphone-post-ios-1718-upgrade/"><u>Best Solutions: Speeding Up Your iPhone Post-iOS 17/18 Upgrade</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808211095-easy-how-to-tutorial-for-windows-11-setup-via-external-usb-stick-including-images/"><u>Easy How-To Tutorial for Windows 11 Setup via External USB Stick - Including Images!</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-the-world-of-caas-how-containers-transform-cloud-computing-services/"><u>Exploring the World of CaaS: How Containers Transform Cloud Computing Services</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/hddssdwindows-user-when-did-the-united-states-first-claim-texas-as-its-own/"><u>HDDをSSDに素早く変更するためのWindows # User: When Did the United States First Claim Texas as Its Own?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-closer-look-at-the-m1-pro-versus-m1-max-in-apple-devices/"><u>In 2024, A Closer Look at the M1 Pro Versus M1 Max in Apple Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-narzo-n55-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme Narzo N55</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-the-art-of-ms-word-data-retrieval-essential-techniques-for-rescuing-unsaved-and-vanished-text-documents/"><u>Mastering the Art of MS Word Data Retrieval: Essential Techniques for Rescuing Unsaved & Vanished Text Documents</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimales-cloning-software-fur-ihre-konigsturm-ssds/"><u>Optimales Cloning-Software Für Ihre Königsturm SSDs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-ranked-qled-televisions-your-ultimate-guide/"><u>Top-Ranked QLED Televisions : Your Ultimate Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/upgrading-to-windows-11-will-it-affect-my-game-library/"><u>Upgrading to Windows 11: Will It Affect My Game Library?</u></a></li>
 </ul></div>
 

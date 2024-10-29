@@ -1,7 +1,7 @@
 ---
 title: Differences Between Proactive Contacting & Reactive Lead Generation - Mastering Email Campaigns Using MassMail Tools
-date: 2024-10-21T03:28:01.806Z
-updated: 2024-10-22T19:45:37.060Z
+date: 2024-10-24T16:25:18.916Z
+updated: 2024-10-28T16:12:02.105Z
 tags:
   - product
 categories:
@@ -36,6 +36,13 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -44,13 +51,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -58,10 +58,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -76,27 +76,27 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -106,22 +106,15 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -148,6 +141,13 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -167,21 +167,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earnings-enlightenment-joshi-and-youtube-success-stories/"><u>[Updated] 2024 Approved Earnings Enlightenment Joshi and YouTube Success Stories</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tips-for-stellar-video-conclusions/"><u>[Updated] Tips for Stellar Video Conclusions</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728481467412-tpm-20-windows-11/"><u>完成 TPM 2.0 驗證並開始 Windows 11 更新流程</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/como-aumentar-la-capacidad-de-tu-disco-ps4-sin-perder-datos-una-guia-paso-a-paso/"><u>Cómo Aumentar La Capacidad De Tu Disco PS4 Sin Perder Datos: Una Guía Paso a Paso</u></a></li>
-<li><a href="https://techtrends.techidaily.com/epic-hollywood-action-flicks-list-best-picks-for-free-viewing-and-download/"><u>Epic Hollywood Action Flicks List: Best Picks for Free Viewing and Download</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/hard-disk-clonazione-contro-sistema-operativo-cloning-scoprire-le-principali-strategie-e-tecniche/"><u>Hard Disk Clonazione Contro Sistema Operativo Cloning: Scoprire Le Principali Strategie E Tecniche</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/latest-updates-to-windows-11-introduce-streamlined-file-sharing-with-android-and-accelerated-voice-dictation-capabilities-zdnet/"><u>Latest Updates to Windows 11 Introduce Streamlined File Sharing with Android and Accelerated Voice Dictation Capabilities | ZDNET</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/reimagine-your-gaming-experience-sonys-audio-customization/"><u>Reimagine Your Gaming Experience Sony's Audio Customization</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/resolved-your-icloud-photos-and-videos-are-now-fully-ready/"><u>Resolved: Your iCloud Photos & Videos Are Now Fully Ready</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/review-of-escort-ix-radar-detector-an-intelligent-companion-that-evolves-with-your-journey/"><u>Review of Escort iX Radar Detector: An Intelligent Companion that Evolves with Your Journey</u></a></li>
-<li><a href="https://discover-best.techidaily.com/swiftly-convert-swf-files-discover-the-power-of-swf-video-converter-factory-pros-complimentary-demo-version/"><u>Swiftly Convert SWF Files: Discover the Power of Swf Video Converter Factory Pro's Complimentary Demo Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranked-gaming-headphones-and-speakers-professional-reviews-techradar/"><u>Top-Ranked Gaming Headphones & Speakers : Professional Reviews | TechRadar</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/troubleshooting-your-windows-7-saving-process-stuck-at-97-57-6-methods-and-a-key-strategy/"><u>Troubleshooting Your Windows 7 Saving Process Stuck at 97% / 57% - 6 Methods & a Key Strategy</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/vrouwtje-heeft-haar-externe-harde-schijf-verloren-gezuiverd-met-steun-en-oplossingen/"><u>Vrouwtje Heeft Haar Externe Harde Schijf Verloren... Gezuiverd Met Steun en Oplossingen!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/wegwijzer-verwijderd-terugleggen-in-windows-1011-eerste-schritte-en-deels-gelezen-methode/"><u>Wegwijzer Verwijderd Terugleggen in Windows 10/11: Eerste Schritte En Deels-Gelezen Methode</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-captivating-your-audience-youtube-intro-excellence-with-imovie/"><u>[Updated] Captivating Your Audience YouTube Intro Excellence with iMovie</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streaming-showdown-twitchs-challenge-to-youtube/"><u>[Updated] Streaming Showdown Twitch's Challenge to YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone-for-2024/"><u>[Updated] Top 5 Podcast Apps for Listening to Podcasts on an iPhone for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-guide-to-sharing-on-instagram-videos-and-more/"><u>2024 Approved Guide to Sharing on Instagram Videos & More</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-social-media-zoom-and-facebook-live-interactions/"><u>2024 Approved Syncing Social Media Zoom and Facebook Live Interactions</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/scopri-il-top-programma-di-riproduzione-delloperating-system-windows-10/"><u>Scopri Il Top Programma Di Riproduzione Dell'Operating System Windows 10</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/soluciones-efectivas-para-evitar-que-la-copia-de-seguridad-de-windows-nque-se-quede-pendiente-al-97-o-57/"><u>Soluciones Efectivas Para Evitar Que La Copia De Seguridad De Windows N'Que Se Quede Pendiente Al 97% O 57%</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728470542671-win11/"><u>Win11硬碟拆分逆向操作視頻 - 重要指南</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/oshdd-os/"><u>セキュアOS削除機能付きHDD消去ソフトウェア: OSデータ完全処理</u></a></li>
 </ul></div>
 

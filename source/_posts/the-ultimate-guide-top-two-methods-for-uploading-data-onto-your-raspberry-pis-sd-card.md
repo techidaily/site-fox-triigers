@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Top Two Methods for Uploading Data Onto Your Raspberry Pi's SD Card"
-date: 2024-10-21T02:22:13.826Z
-updated: 2024-10-23T05:25:17.605Z
+date: 2024-10-27T17:09:33.607Z
+updated: 2024-10-28T21:44:20.529Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6d193ed35f1214a7fd553c445c38b6b7633741c0bda3a9fe486dfd62eae70d54.jpg
@@ -57,10 +57,10 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
@@ -75,19 +75,19 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
 * Or you can click **Custom...** to create a backup according to your needs.
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Finally, click **OK** to confirm.
 
@@ -142,19 +142,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -169,22 +156,15 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 👉 **Notes:**
@@ -193,10 +173,10 @@ Select the corresponding backup methods if you want to backup system, partition 
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Restore Disk & Files
@@ -218,16 +198,23 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 👉 **Notes:** 
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -264,6 +251,13 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
@@ -288,13 +282,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -302,6 +289,13 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -320,24 +314,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-editors-expert-analysis-videdit-pro-a-2023-overview-for-2024/"><u>[New] Editor's Expert Analysis VidEdit Pro – A 2023 Overview for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cultivating-commitment-gentle-subscription-strategies/"><u>[Updated] 2024 Approved Cultivating Commitment Gentle Subscription Strategies</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-expert-advice-for-staying-copyright-compliant-online/"><u>[Updated] 2024 Approved Expert Advice for Staying Copyright Compliant Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmoras-recipe-for-captivating-youtube-trailers/"><u>[Updated] 2024 Approved Filmora’s Recipe for Captivating YouTube Trailers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-social-media-strategy-decoding-igtv-versus-youtubes-features/"><u>[Updated] In 2024, Social Media Strategy Decoding IGTV Versus YouTube's Features</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/90861241-2024-approved-economical-growth-methodology-subscribe-now/"><u>2024 Approved Economical Growth Methodology - Subscribe Now!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-full-degree-potential-editing-strategies-with-adobe-premiere/"><u>2024 Approved Unlocking Full Degree Potential Editing Strategies with Adobe Premiere</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/affordable-traffic-strategies-top-4-cost-effective-methods-using-massmail-software-2009-edition/"><u>Affordable Traffic Strategies: Top 4 Cost-Effective Methods Using MassMail Software - 2009 Edition</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/complete-restoration-of-your-lenovo-device-using-system-recovery-utility/"><u>Complete Restoration of Your Lenovo Device Using System Recovery Utility</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/crafting-successful-email-marketing-strategies-top-7-faqs-unveiled-by-massmail-experts/"><u>Crafting Successful Email Marketing Strategies: Top 7 FAQs Unveiled by MassMail Experts</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/essential-volume-settings-ensuring-optimal-backup-locations/"><u>Essential Volume Settings: Ensuring Optimal Backup Locations</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guia-paso-a-paso-para-restablecer-el-sistema-con-cmd-en-windows-71011/"><u>Guía Paso a Paso Para Restablecer El Sistema Con CMD en Windows (7/10/11)</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guia-sencilla-para-desinstalar-el-sistema-operativo-windows-10-y-aplicaciones-con-ghost/"><u>Guía Sencilla Para Desinstalar El Sistema Operativo Windows 10 Y Aplicaciones Con Ghost</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lava-storm-5g-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Lava Storm 5G Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-multiple-languages-through-film/"><u>Mastering Multiple Languages Through Film</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/maximize-your-outreach-the-ultimate-guide-to-harnessing-web-based-prospect-opportunities-using-massmail/"><u>Maximize Your Outreach - The Ultimate Guide to Harnessing Web-Based Prospect Opportunities Using MassMail</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-setting-up-gmail-as-a-backup-destination-with-aomei-backupper/"><u>Step-by-Step Guide: Setting Up Gmail as a Backup Destination with AOMEI Backupper</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/windowshddcmd/"><u>Windows上でのHDDバックアップ:CMDを使った簡単なガイド</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/shagi-po-organizacii-ezhenedelnogo-rezervirovaniya-fajlov-na-windows-server/"><u>Шаги По Организации Еженедельного Резервирования Файлов На Windows Server</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-freezing-your-window-windows-screenshoting-guide/"><u>[New] In 2024, Freezing Your Window Windows Screenshoting Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-5-ps1-emulation-tools-for-modern-pcs/"><u>[Updated] Ultimate 5 PS1 Emulation Tools for Modern PCs</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/beginners-guide-performing-a-simple-file-and-folder-synchronization-using-aomei-backupper/"><u>Beginner's Guide: Performing a Simple File & Folder Synchronization Using AOMEI Backupper</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/best-email-marketing-techniques-and-insights-from-top-2020-publications-a-guide-with-massmail-software/"><u>Best Email Marketing Techniques & Insights From Top 2020 Publications: A Guide with MassMail Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-prime-top-8-budget-friendly-srt-translator-tools/"><u>Choosing Prime Top 8 Budget-Friendly SRT Translator Tools</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-2-best-no-cost-wd-drive-synchronization-tools/"><u>Discover 2 Best No-Cost WD Drive Synchronization Tools</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/dynamic-pricing-strategies-for-e-commerce-setting-optimal-online-product-rates-with-massmail/"><u>Dynamic Pricing Strategies for E-Commerce: Setting Optimal Online Product Rates with MassMail</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effective-b2b-email-campaign-techniques-elevate-your-sales-using-our-updated-guide-massmail/"><u>Effective B2B Email Campaign Techniques: Elevate Your Sales Using Our Updated Guide (Massmail)</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/fichiers-volumineux-un-tutoriel-etape-par-etape-sur-le-recherche-dans-windows-versions-11-a-7/"><u>Fichiers Volumineux : Un Tutoriel Étape Par Étape Sur Le Recherche Dans Windows (Versions 11 À 7)</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-a18-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo A18 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-13-mini-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 13 mini Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/page-missing-error-what-to-do-when-you-encounter-a-404/"><u>Page Missing Error: What To Do When You Encounter a 404</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/precision-rhythm-tracking-made-simple-try-these-free-ones-for-2024/"><u>Precision Rhythm Tracking Made Simple - Try These Free Ones for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/revitalize-your-asus-device-using-onekey-recovery-for-original-configuration-restoration/"><u>Revitalize Your Asus Device Using OneKey Recovery for Original Configuration Restoration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secrets-of-successful-podcast-covers-revealed-for-2024/"><u>Secrets of Successful Podcast Covers Revealed for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/streamline-digital-messaging-amongst-peers-the-ultimate-guide-to-group-emails-on-social-platforms-using-massmail-technology/"><u>Streamline Digital Messaging Amongst Peers: The Ultimate Guide to Group Emails on Social Platforms Using MassMail Technology</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-xiaomi-redmi-13c-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Xiaomi Redmi 13C to Gmail | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/bes-monetization-metrics-for-a-million-viewers/"><u>Youtube's Monetization Metrics for A Million Viewers</u></a></li>
 </ul></div>
 
