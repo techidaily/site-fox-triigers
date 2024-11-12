@@ -1,7 +1,7 @@
 ---
 title: Exploring the Essential Attributes of Interfaces in Programming
-date: 2024-10-11T04:38:35.267Z
-updated: 2024-10-16T16:21:02.797Z
+date: 2024-11-07T19:47:06.665Z
+updated: 2024-11-12T18:18:47.896Z
 tags:
   - user-guide
 categories:
@@ -84,6 +84,19 @@ This view allows you to specify the settings required to create a new COM Interf
 
 ## Interface
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Name
 
 The interface name.
@@ -96,6 +109,13 @@ The number of methods declared in the interface.
 
 Specify the base interface.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Proxy Stub
 
 Provide marshaling support for your interface.
@@ -104,23 +124,9 @@ Provide marshaling support for your interface.
 
 The 16-bit proxy/stub DLL CLSID.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 32-bit Stub CLSID
 
 The 32-bit proxy/stub DLL CLSID.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Type Library
 
@@ -128,24 +134,24 @@ The 32-bit proxy/stub DLL CLSID.
 
 Specify the type library's ID.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Version
 
 Specify the type library's version.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Location
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Registry path
@@ -185,24 +191,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/hannel-specific-choices-top-microphone-picks-adapted-to-each-youtube-niche/"><u>[New] Channel-Specific Choices Top Microphone Picks Adapted To Each YouTube Niche</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-dynamic-scripting-for-videos/"><u>[Updated] 2024 Approved Dynamic Scripting for Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-extract-your-favorites-best-playlist-tools-reviewed-and-rated/"><u>[Updated] Extract Your Favorites Best Playlist Tools Reviewed and Rated</u></a></li>
-<li><a href="https://article-files.techidaily.com/best-practices-to-speed-up-or-slow-down-music-in-spotify-for-2024/"><u>Best Practices to Speed Up or Slow Down Music in Spotify for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/can-you-recover-deleted-text-messages-from-an-icloud-backup-a-comprehensive-guide/"><u>Can You Recover Deleted Text Messages From an iCloud Backup? A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/comment-installer-et-utiliser-un-pilote-de-repair-disk-pour-windows-v7-8-10-ou-11/"><u>Comment Installer Et Utiliser Un Pilote De Repair Disk Pour Windows V7, 8, 10 Ou 11</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/gptwindows-11mbrgpt/"><u>GPTへ簡単移行:Windows 11でのMBRとGPT切り替え手法（複数選択）</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-etape-par-etape-pour-transferer-des-logiciels-installes-entre-deux-ordinateurs-sous-windows-11/"><u>Guide Étape Par Étape Pour Transférer Des Logiciels Installés Entre Deux Ordinateurs Sous Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-xcover-7-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy XCover 7 Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-create-an-affordable-customizable-virtual-reality-gear/"><u>In 2024, How to Create an Affordable, Customizable Virtual Reality Gear</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/las-topas-tecnicas-como-hacer-que-tu-fotografia-se-almacene-en-dropbox-sin-esfuerzo/"><u>Las Topas Técnicas: Cómo Hacer Que Tu Fotografía Se Almacene en Dropbox Sin Esfuerzo</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/most-effective-plextor-utilities-for-reliable-os-cloning-processes/"><u>Most Effective Plextor Utilities for Reliable OS Cloning Processes</u></a></li>
-<li><a href="https://fox-info.techidaily.com/saving-big-on-vr-equipment-from-china/"><u>Saving Big on VR Equipment From China</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-for-setting-up-a-secure-pxe-boot-environment-on-windows-systems/"><u>Step-by-Step Tutorial for Setting Up a Secure PXE Boot Environment on Windows Systems</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/story-1-the-misunderstanding-of-esophageal-involvement/"><u>Story 1: The Misunderstanding of Esophageal Involvement</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/streamline-your-zoom-meetings-screen-sharing-essentials/"><u>Streamline Your Zoom Meetings Screen Sharing Essentials</u></a></li>
-<li><a href="https://fox-links.techidaily.com/text-temporal-tinkering-tools-for-2024/"><u>Text Temporal Tinkering Tools for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/urban-adventure-top-games-similar-to-gta-v/"><u>Urban Adventure Top Games Similar to GTA V</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/windows-1110dism/"><u>Windows 11/10のDISMによるオフライン修復手順ガイド</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-quintet-at-the-pinnacle-youtube-subscribers/"><u>[New] 2024 Approved The Quintet at the Pinnacle YouTube Subscribers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-monetization-milestone-the-500-subscriber-trick/"><u>[New] Monetization Milestone The 500-Subscriber Trick</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-media-stardom-guide/"><u>[Updated] Social Media Stardom Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728472257860-windows-11/"><u>簡単にWindows 11でダイナミックディスクを複製する方法</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquering-the-shadows-effective-solutions-for-league-of-legends-screen-malfunctions-insights-from-2amo/"><u>Conquering the Shadows: Effective Solutions for League of Legends Screen Malfunctions - Insights From 2Amo</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/einfach-einrichten-vss-backup-prozesse-erklart-und-implementiert/"><u>Einfach Einrichten: VSS-Backup-Prozesse Erklärt Und Implementiert</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-and-lumafusion-differ-in-os-portability-price-and-performance-know-your-own-demands-and-choose-accordingly/"><u>FCPX and Lumafusion Differ in OS, Portability, Price, and Performance. Know Your Own Demands and Choose Accordingly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/microsoft-projektdatei-beschadigt-losungsanleitung-zur-fehlerbehebung/"><u>Microsoft Projektdatei Beschädigt? Lösungsanleitung Zur Fehlerbehebung</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategies-to-monitor-and-record-teen-activity-online-fb-focused/"><u>Strategies to Monitor and Record Teen Activity Online, FB-Focused</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-night-light-doesnt-work-on-windows-10-and-11-systems/"><u>Troubleshooting: Night Light Doesn't Work on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/windows-10-3/"><u>Windows 10 重新安裝後失去檔案？3項專家解決方法！</u></a></li>
 </ul></div>
 
