@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Campaign Timetable: 4 Simple Steps to Configure Email Deliveries for the Modern Age Using MassMail Pro"
-date: 2024-11-06T19:51:14.220Z
-updated: 2024-11-12T19:26:45.219Z
+date: 2024-11-15T23:58:27.473Z
+updated: 2024-11-21T22:32:47.623Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -31,13 +35,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -51,13 +48,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -65,10 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -84,16 +71,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -103,6 +81,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -116,6 +98,10 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -128,22 +114,12 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -173,20 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-the-past-top-10-educational-history-yt-channels/"><u>[New] In 2024, Exploring the Past Top 10 Educational History YT Channels</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-10-leading-mobile-vr-headsets-ranked/"><u>[Updated] 2024 Approved 10 Leading Mobile VR Headsets Ranked</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-perfecting-iphoneipad-screenshots-a-youtube-guide/"><u>[Updated] 2024 Approved Perfecting iPhone/iPad Screenshots A YouTube Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-reimagining-blockbuster-favorites-7-swap/"><u>[Updated] 2024 Approved Reimagining Blockbuster Favorites - #7 Swap</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728508390161-windowsssd/"><u>利用しやすく無料 - 人気のWindows専用SSD切り替えツールリスト</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/come-eseguire-il-ripristino-del-contenuto-di-windows-con-lutilita-wbadmin/"><u>Come Eseguire Il Ripristino Del Contenuto Di Windows Con L'Utilità WBAdmin</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-complet-comment-activer-les-fichiers-en-mode-hors-ligne-dans-windows-10-pour-une-synchronisation-facile/"><u>Guide Complet : Comment Activer Les Fichiers en Mode Hors Ligne Dans Windows 10 Pour Une Synchronisation Facile</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-recover-deleted-youtube-songs-on-pcs-and-iphones-the-ultimate-tutorial/"><u>How To Recover Deleted YouTube Songs On PCs And iPhones – The Ultimate Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-clear-up-your-photos-best-10-online-image-enhancers-revealed/"><u>In 2024, Clear Up Your Photos Best 10 Online Image Enhancers Revealed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-green-visual-sets-accessibility-to-diy-filmmaking-templates/"><u>In 2024, Green Visual Sets Accessibility to DIY Filmmaking Templates</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-device-security-a-step-by-step-guide-to-using-find-my-iphone/"><u>Mastering Device Security: A Step-by-Step Guide to Using Find My iPhone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/restore-your-accidentally-deleted-documents-from-the-recycle-bin-in-windows-7-without-paying/"><u>Restore Your Accidentally Deleted Documents From the Recycle Bin in Windows 7 Without Paying</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/steps-to-deactivate-enhanced-cursor-movement-on-mac-systems/"><u>Steps to Deactivate Enhanced Cursor Movement on Mac Systems</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-5-libres-de-costo-programas-antivirus-para-windows-11/"><u>Top 5 Libres De Costo Programas Antivirus Para Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-from-playtime-to-pixels-the-ultimate-list-of-6-ways-to-record-minecraft/"><u>[Updated] 2024 Approved From Playtime to Pixels The Ultimate List of 6 Ways to Record Minecraft</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-capture-not-just-point-and-shoot-mastering-the-hero5-black/"><u>2024 Approved Pro Capture, Not Just Point-and-Shoot Mastering the Hero5 Black</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/automatic-playback-setup-for-diy-flipbooks-on-flipbuilder-tips-and-tricks/"><u>Automatic Playback Setup for DIY Flipbooks on FlipBuilder: Tips and Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-websites-for-downloading-skype-ringtone-for-2024/"><u>Best Websites For Downloading Skype Ringtone for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/combining-languages-crafting-buttons-with-english-and-portuguese-descriptions-on-flipbuilder/"><u>Combining Languages: Crafting Buttons with English and Portuguese Descriptions on FlipBuilder</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/creating-unique-titles-for-your-online-flash-novels-using-flipbuilder-a-step-by-step-guide/"><u>Creating Unique Titles for Your Online Flash Novels Using FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/diy-guide-crafting-protective-covers-for-your-customized-flipping-books-learn-with-flipbuildercom/"><u>DIY Guide: Crafting Protective Covers for Your Customized Flipping Books [Learn with FlipBuilder.com]</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-battlefield-5-computer-malfunctions-crash-fix-guide-for-gamers/"><u>Resolve Battlefield 5 Computer Malfunctions - Crash Fix Guide for Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-plugged-in-but-not-charging-problems-on-your-surface-device-today/"><u>Resolve Plugged-In But Not Charging Problems on Your Surface Device Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-definitive-guide-how-to-get-and-maintain-current-drivers-for-epsons-et-3760-printer-in-windows-environment/"><u>The Definitive Guide: How to Get and Maintain Current Drivers for Epson's ET-#3760 Printer in Windows Environment</u></a></li>
 </ul></div>
 

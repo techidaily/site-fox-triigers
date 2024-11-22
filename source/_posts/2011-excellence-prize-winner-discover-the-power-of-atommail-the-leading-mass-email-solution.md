@@ -1,7 +1,7 @@
 ---
 title: "2011 Excellence Prize Winner: Discover the Power of AtomMail - The Leading Mass Email Solution"
-date: 2024-11-05T19:13:34.130Z
-updated: 2024-11-12T19:29:36.160Z
+date: 2024-11-20T12:47:40.816Z
+updated: 2024-11-22T01:57:23.019Z
 tags:
   - product
 categories:
@@ -44,18 +44,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -73,6 +70,10 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -86,64 +87,35 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -153,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,18 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-screen-capture-connoisseurs-your-guide-to-preserving-twitvid-media/"><u>[New] In 2024, Screen Capture Connoisseurs Your Guide to Preserving TwitVid Media</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tips-for-perfected-framing-implementing-letterboxing-on-social-media/"><u>[New] In 2024, Tips for Perfected Framing Implementing Letterboxing on Social Media</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-augmenting-film-vistas-with-apple-playlist/"><u>[Updated] Augmenting Film Vistas with Apple Playlist</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-prioritizing-visibility-a-guide-to-insta-highlights-perfection/"><u>[Updated] Prioritizing Visibility A Guide to Insta Highlights Perfection</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-how-to-effortlessly-transform-mp4-files-into-high-quality-wav-format-without-any-data-loss-free/"><u>1. How to Effortlessly Transform MP4 Files Into High-Quality WAV Format Without Any Data Loss (Free)</u></a></li>
-<li><a href="https://games-able.techidaily.com/armor-upgrade-guide-choosing-your-steam-deck-case-2024/"><u>Armor Upgrade Guide: Choosing Your Steam Deck Case, 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/expandiendo-capacidad-una-guia-completa-para-copiar-e-instalar-una-nueva-ssd-mas-grande/"><u>Expandiendo Capacidad: Una Guía Completa Para Copiar E Instalar Una Nueva SSD Más Grande</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-infinix-note-30-vip-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Infinix Note 30 VIP Phone? Unlock It Now</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimal-posting-schedule-discover-top-timing-with-massmail-software/"><u>Optimal Posting Schedule: Discover Top Timing with MassMail Software!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ripristina-la-partizione-mancante-in-windows-11-guida-rapida-e-facile-con-video-tutorial/"><u>Ripristina La Partizione Mancante in Windows 11: Guida Rapida E Facile Con Video Tutorial!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/speedily-resolve-windows-11-failure-to-recognize-external-storage-devices/"><u>Speedily Resolve Windows 11 Failure to Recognize External Storage Devices</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-spf-records-in-email-systems-a-deep-dive-with-massmail/"><u>Understanding SPF Records in Email Systems: A Deep Dive with MassMail</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/wie-ubertrage-ich-daten-von-meinem-iphone-auf-einen-pc-kabelgebunden-oder-drahtlos/"><u>Wie Übertrage Ich Daten Von Meinem iPhone Auf Einen PC - Kabelgebunden Oder Drahtlos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-magix-music-maker-review/"><u>[New] In 2024, Magix Music Maker Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-best-practice-video-placement-on-facebook-vh/"><u>[Updated] In 2024, Best Practice Video Placement on Facebook (V/H)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unlock-your-content-potential-best-ideas-for-youtube-themes/"><u>[Updated] Unlock Your Content Potential Best Ideas for YouTube Themes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-exploring-media-magic-an-in-depth-analysis-of-magix-vpx/"><u>2024 Approved Exploring Media Magic An In-Depth Analysis of Magix VPX</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/cpu/"><u>理解するためのガイド：CPU使用率が多くなってしまう</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728498646673-windows-11/"><u>上級者向けWindows 11引っ越しガイド：選び方とおすすめソリューション</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-nokia-g310-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Nokia G310 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/complete-guide-to-saving-your-bitlocker-password-a-simple-walkthrough/"><u>Complete Guide to Saving Your BitLocker Password: A Simple Walkthrough</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/einfache-migration-oem-windows-11-auf-eine-neue-ssd-ubertragen-schritt-fur-schritt-anleitung/"><u>Einfache Migration: OEM-Windows 11 Auf Eine Neue SSD Übertragen – Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-official-epson-v600-printer-drivers/"><u>Free Download: Official Epson V600 Printer Drivers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guide-implementing-scheduled-backups-over-a-network-drive-in-windows-server-environments/"><u>Guide: Implementing Scheduled Backups Over a Network Drive in Windows Server Environments</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/hassle-free-tiktok-age-checks-for-2024/"><u>Hassle-Free TikTok Age Checks for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/remedying-non-responsive-recordings/"><u>Remedying Non-Responsive Recordings</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/resolving-windows-10-error-0x87e00196-a-step-by-step-guide/"><u>Resolving Windows 10 Error 0X87E00196: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-plants-vs-zombies-battle-for-neighborville-a-hilarious-action-packed-adventure/"><u>Review of 'Plants Vs. Zombies: Battle for Neighborville' - A Hilarious, Action-Packed Adventure</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-4-methods-for-command-line-file-backups-on-windows-10/"><u>Top 4 Methods for Command Line File Backups on Windows 10</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/verschollene-dokumente-wiederfinden-bei-seagate-externem-laufwerk-expertentipps-zum-wiederherstellen/"><u>Verschollene Dokumente Wiederfinden Bei Seagate Externem Laufwerk - Expertentipps Zum Wiederherstellen</u></a></li>
 </ul></div>
 

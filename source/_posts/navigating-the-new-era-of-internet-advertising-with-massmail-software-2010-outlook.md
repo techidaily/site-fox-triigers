@@ -1,7 +1,7 @@
 ---
 title: Navigating the New Era of Internet Advertising with Massmail Software - 2010 Outlook
-date: 2024-11-10T16:43:27.124Z
-updated: 2024-11-12T18:29:48.785Z
+date: 2024-11-15T10:51:54.956Z
+updated: 2024-11-21T17:07:29.126Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -33,10 +37,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -52,10 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -65,16 +63,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -97,13 +86,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -111,13 +93,6 @@ If you use several types of media to promote your campaign, use a different keyw
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -127,9 +102,17 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -146,13 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,19 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-linguistic-linkers-the-premier-list-for-offline-recognition-devices/"><u>[New] In 2024, Linguistic Linkers The Premier List for Offline Recognition Devices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unleash-your-youtube-potential-steps-to-finding-and-managing-video-collab-partners/"><u>[Updated] 2024 Approved Unleash Your YouTube Potential Steps to Finding & Managing Video Collab Partners</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728467371943-2/"><u>如何從格式化硬碟中無料回復你的照片：2種有效方法</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/best-methoden-zur-ios-unterstutzung-dauerhaft-deaktivierter-videodateien/"><u>Best Methoden Zur iOS-Unterstützung Dauerhaft Deaktivierter Videodateien</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-s18e-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo S18e</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-vs-retail-a-comprehensive-guide-on-building-or-buying-a-pc-tailored-for-you/"><u>DIY vs Retail: A Comprehensive Guide on Building or Buying a PC Tailored for You</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-repair-guide-for-common-issues-in-windows-11-23h2-setup-process-discover-top-7-solutions/"><u>Effortless Repair Guide for Common Issues in Windows 11 23H2 Setup Process: Discover Top 7 Solutions</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/expert-tips-for-debugging-and-fixing-memory-issues-in-windows-applications/"><u>Expert Tips for Debugging and Fixing Memory Issues in Windows Applications</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-novice-to-expert-a-comprehensive-guide-to-macs-preview-software/"><u>From Novice to Expert A Comprehensive Guide to Mac's Preview Software</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-complet-proteger-votre-disque-dur-ps34-les-etapes-pour-une-sauvegarde-fiable/"><u>Guide Complet : Protéger Votre Disque Dur PS3/4 - Les Étapes Pour Une Sauvegarde Fiable</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-tips-seamlessly-accessing-and-accepting-shared-photobooks/"><u>IPhone Tips: Seamlessly Accessing and Accepting Shared Photobooks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/progopro-tips-for-cinematic-results/"><u>ProGoPro Tips for Cinematic Results</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ultimate-guide-crafting-the-perfect-bootable-winpe-usb-for-easy-installations/"><u>Ultimate Guide: Crafting the Perfect Bootable WinPE USB for Easy Installations</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-complete-control-over-your-youtube-viewing-experience/"><u>[New] In 2024, Complete Control Over Your YouTube Viewing Experience</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-project-configuration-navigating-the-pathway-parameters-section/"><u>1. Project Configuration: Navigating the Pathway Parameters Section</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-pioneering-playgrounds-of-action-adventure-classics-top-10/"><u>2024 Approved Pioneering Playgrounds of Action-Adventure Classics (Top 10)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210065017-9781647849757-006-the-great-tao-of-spiritual-science-series-06-the-nature-spirituality-hsin-hsing/"><u>生命奧秘全書006：心性自然－靈性之修練與心性評量（養性篇）: The Great Tao of Spiritual Science Series 06: The Nature Spirituality "Hsin Hsing " | Free Book</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/advanced-techniques-in-detecting-installed-software-versions/"><u>Advanced Techniques in Detecting Installed Software Versions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ajeys-youtube-profit-milestones/"><u>Ajey's YouTube Profit Milestones</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comprehensive-guide-working-with-json-files-on-the-web/"><u>Comprehensive Guide: Working with JSON Files on the Web</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-your-files-with-movavis-w64-online-tool-quick-simple-and-free/"><u>Convert Your Files with Movavi's W64 Online Tool - Quick, Simple & Free</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortlessly-extend-apowersoft-scanning-apps-paid-plans-on-mobile-devices/"><u>Effortlessly Extend Apowersoft Scanning App's Paid Plans on Mobile Devices</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-summary-of-project-goals-progress-and-results/"><u>Essential Summary of Project Goals, Progress, and Results</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-ini-settings-within-windows-file-management-interface/"><u>Exploring INI Settings Within Windows File Management Interface</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-editors-full-breakdown-of-editsphere-suite-updated/"><u>In 2024, Editor's Full Breakdown of EditSphere Suite - Updated</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-navigating-mac-screenshot-file-type-changes/"><u>In 2024, Navigating Mac Screenshot File Type Changes</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/itunes-version-121-common-issues-and-troubleshooting-tips/"><u>ITunes Version 12.1 - Common Issues and Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-call-recording-leveraging-google-voice-and-movavi-solutions/"><u>Mastering Call Recording: Leveraging Google Voice and Movavi Solutions</u></a></li>
+<li><a href="https://discover-help.techidaily.com/mastering-the-art-of-mp4-subtitling-a-comprehensive-tutorial/"><u>Mastering the Art of MP4 Subtitling: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-fastcgi-configuration-for-improved-server-performance/"><u>Optimizing FastCGI Configuration for Improved Server Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/troubleshoot-your-pcs-audio-glitches-with-these-5-proven-techniques-for-windows-11/"><u>Troubleshoot Your PC's Audio Glitches with These 5 Proven Techniques for Windows 11</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/unraveling-the-dependencies-of-imsixdriver-in-your-system/"><u>Unraveling the Dependencies of IMsixDriver in Your System</u></a></li>
 </ul></div>
 

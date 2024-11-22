@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Innovation in Email Automation: 2011'S Top Honoree, Atomic Mail Sender by Massmail Software Unveiled!"
-date: 2024-11-05T16:54:46.920Z
-updated: 2024-11-12T18:37:12.202Z
+date: 2024-11-20T11:09:38.241Z
+updated: 2024-11-21T22:02:26.494Z
 tags:
   - product
 categories:
@@ -18,6 +18,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
@@ -32,22 +36,12 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -65,10 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -83,16 +74,13 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -114,13 +102,6 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
@@ -133,6 +114,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -142,10 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -167,18 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-professional-tips-for-iphone-360-videography/"><u>[New] Professional Tips for iPhone 360 Videography</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-insta-flip-fundamentals-understanding-video-angles-for-max-impact/"><u>[Updated] Insta-Flip Fundamentals Understanding Video Angles for Max Impact</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-webcam-wisdom-for-professional-streaming-enthusiasts/"><u>2024 Approved Webcam Wisdom for Professional Streaming Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-chatgpt-as-a-source-for-credible-medical-insights-and-tips/"><u>Evaluating ChatGPT as a Source for Credible Medical Insights and Tips</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-7-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 7 Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-prevent-file-copying-on-an-external-ssd-in-macos-discover-6-effective-methods/"><u>How to Prevent File Copying on an External SSD in macOS - Discover 6 Effective Methods</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/secure-your-gmail-data-with-these-proven-backup-methods/"><u>Secure Your Gmail Data with These Proven Backup Methods!</u></a></li>
-<li><a href="https://win-docs.techidaily.com/securing-your-memories-a-step-by-step-guide-to-enabling-recently-deleted-feature-for-photos-on-iphone-with-ios-16-and-17/"><u>Securing Your Memories: A Step-by-Step Guide to Enabling 'Recently Deleted' Feature for Photos on iPhone with iOS 16 and 17</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/software-download-nutzen-sie-die-windows-11-installations-toolkit-laden-und-installieren/"><u>Software-Download: Nutzen Sie Die Windows 11 Installations-Toolkit - Laden Und Installieren</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/synchroniser-votre-disque-de-stockage-synology-astuces-pour-une-integration-en-temps-reel-avec-pc-et-nas-rivalisant/"><u>Synchroniser Votre Disque De Stockage Synology : Astuces Pour Une Intégration en Temps Réel Avec PC Et NAS Rivalisant</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/tecnicas-provenidas-para-resgatar-informacion-en-una-memoria-sd-inutilizada/"><u>Técnicas Provenidas Para Resgatar Información en Una Memoria SD Inutilizada</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-cheap-but-powerful-video-editing-software/"><u>Updated In 2024, Cheap but Powerful Video Editing Software</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728497180628-aomei/"><u>プロフェイストユーザーのための AOMEI バックアッパープロ - クラウド販売</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-update-short-form-video-coverage/"><u>[Updated] 2024 Approved Update Short-Form Video Coverage</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-clonezilla-expert-guide-on-recovering-individual-files-with-disk-imaging-techniques/"><u>1. CloneZilla: Expert Guide on Recovering Individual Files with Disk Imaging Techniques</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728467371943-2/"><u>如何從格式化硬碟中無料回復你的照片：2種有效方法</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/best-methoden-zur-ios-unterstutzung-dauerhaft-deaktivierter-videodateien/"><u>Best Methoden Zur iOS-Unterstützung Dauerhaft Deaktivierter Videodateien</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-mystery-how-to-rectify-microsoft-store-error-0x80072efd/"><u>Decoding the Mystery: How to Rectify Microsoft Store Error 0X80072EFD</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/duplicacao-segura-de-midia-digital-guia-completo/"><u>Duplicação Segura De Mídia Digital – Guia Completo</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebooks-ultimate-add-ons-for-the-tech-enthusiast-for-2024/"><u>Facebook's Ultimate Add-Ons for the Tech Enthusiast for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-se-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone SE without Security Questions?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/iphone-musik-aus-dem-ipod-auf-die-itunes-mediathek-ubertragen-mit-fonebackup/"><u>IPhone Musik Aus Dem iPod Auf Die iTunes-Mediathek Übertragen Mit FoneBackup</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-the-art-of-audio-modulation-speed-and-pitch-online-guide-for-2024/"><u>New Mastering the Art of Audio Modulation Speed & Pitch Online Guide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/rectification-of-injustice-for-2024/"><u>Rectification of Injustice for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/recuperacion-de-datos-tras-un-formateo-accidental-del-disco-duro-externo-seagate/"><u>Recuperación De Datos Tras Un Formateo Accidental Del Disco Duro Externo Seagate</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-sound-experience-with-easy-fixes-for-windows-11-devices/"><u>Revive Your Sound Experience with Easy Fixes for Windows 11 Devices</u></a></li>
 </ul></div>
 

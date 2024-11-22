@@ -1,7 +1,7 @@
 ---
 title: "Understanding Email Marketing KPIs: An Essential Guide by MassMail Software"
-date: 2024-11-07T17:18:11.134Z
-updated: 2024-11-12T20:06:56.332Z
+date: 2024-11-21T04:04:16.085Z
+updated: 2024-11-22T11:44:03.436Z
 tags:
   - product
 categories:
@@ -22,13 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -42,6 +35,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -58,10 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -85,36 +79,27 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -122,10 +107,7 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -167,19 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-delving-into-youtubes-digital-video-workshop/"><u>[New] In 2024, Delving Into YouTube's Digital Video Workshop</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-tips-on-how-skip-edgenuity-videos-for-2024/"><u>[Updated] Tips on How Skip Edgenuity Videos for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1-ricostruisci-i-tuoi-dati-senza-costi-come-recuperare-informazioni-da-un-hard-disk-formattato-per-errore/"><u>1. Ricostruisci I Tuoi Dati Senza Costi: Come Recuperare Informazioni Da Un Hard Disk Formattato per Errore</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-fundamentals-of-creating-alluring-podcast-descriptions/"><u>2024 Approved The Fundamentals of Creating Alluring Podcast Descriptions</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/como-pasar-fotografias-desde-una-sd-card-a-su-computadora-tres-formas-faciles/"><u>Cómo Pasar Fotografías Desde Una SD Card a Su Computadora - Tres Formas Fáciles</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content-for-2024/"><u>From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-pour-creer-un-disque-de-demarrage-windows-11-avec-une-cle-usb-comment-faire-du-pe-win/"><u>Guide Pour Créer Un Disque De Démarrage Windows 11 Avec Une Clé USB : Comment Faire Du PE WIN</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-navigating-the-seo-landscape-top-keyword-research-instruments/"><u>In 2024, Navigating the SEO Landscape Top Keyword Research Instruments</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/in-depth-aomei-backupper-support-qanda-for-troubleshooting-and-solutions/"><u>In-Depth AOMEI Backupper Support Q&A for Troubleshooting and Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/schritt-fur-schritt-anleitung-zur-verlegung-einer-sim-karte-auf-ein-neues-iphone-modelle-15-14-13-unter-verwendung-von-esim/"><u>Schritt-Für-Schritt Anleitung Zur Verlegung Einer SIM-Karte Auf Ein Neues iPhone (Modelle 15, 14, 13) Unter Verwendung Von eSIM.</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95687184-9781440580031-the-modern-guide-to-witchcraft/"><u>The Modern Guide to Witchcraft | Free Book</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-tale-of-two-sides-in-the-vr-revolution-for-2024/"><u>The Tale of Two Sides in the VR Revolution for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/standing-subscription-tiers-youtube-tv-explained/"><u>Understanding Subscription Tiers YouTube TV Explained</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-in-depth-analysis-top-9-freeware-logo-designers-unveiled/"><u>[New] 2024 Approved In-Depth Analysis Top 9 Freeware Logo Designers Unveiled</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-ultimate-setup-guide-for-effective-after-effects-texting/"><u>[New] 2024 Approved The Ultimate Setup Guide for Effective After Effects Texting</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-enlarge-social-media-content-with-televisions/"><u>[New] In 2024, Enlarge Social Media Content with Televisions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-top-picks-for-sky-hdr-images-online-compilation/"><u>[New] In 2024, Top Picks for Sky HDR Images Online Compilation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-constructing-compelling-channel-overviews-for-2024/"><u>[Updated] Constructing Compelling Channel Overviews for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-navigating-apples-screen-recording-tools/"><u>[Updated] In 2024, Navigating Apple's Screen Recording Tools</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728497344339-windows-1011/"><u>「Windows 10/11」で消した画像・写真をもう一度取り戻せる方法：ベストセレクション</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/4-effective-techniques-to-recover-deleted-files-in-windows-10/"><u>4 Effective Techniques to Recover Deleted Files in Windows 10</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728480852529-windows-111087/"><u>最新修復技術指南：針對Windows 11、10、8及7的高效檔案回復方法</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/come-ripristinare-laccount-utente-rimosso-involontariamente-in-windows-10-e-11-con-questi-semplici-passaggi/"><u>Come Ripristinare L'account Utente Rimosso Involontariamente in Windows 10 E 11 Con Questi Semplici Passaggi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevate-gameplay-expert-advice-for-eliminating-low-fps-drops-on-valorant-updated-tips/"><u>Elevate Gameplay: Expert Advice for Eliminating Low FPS Drops on Valorant [Updated Tips]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-make-your-device-sing-a-step-by-step-guide-to-personalized-ringtone-setup-on-android/"><u>In 2024, Make Your Device Sing A Step-by-Step Guide to Personalized Ringtone Setup on Android</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ripristina-la-tua-cronologia-di-wechat-con-facilita-un-metodo-senza-back-up/"><u>Ripristina La Tua Cronologia Di WeChat Con Facilità: Un Metodo Senza Back-Up!</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/tote-ssds-neu-beleben-erfolgreicher-wege-zum-datenwiedergewinnung/"><u>Tote SSDs Neu Beleben: Erfolgreicher Wege Zum Datenwiedergewinnung</u></a></li>
 </ul></div>
 
