@@ -1,7 +1,7 @@
 ---
 title: "2011 Excellence Prize Winner: Discover the Power of AtomMail - The Leading Mass Email Solution"
-date: 2024-11-20T12:47:40.816Z
-updated: 2024-11-22T01:57:23.019Z
+date: 2024-11-28T17:48:04.491Z
+updated: 2024-11-30T19:25:36.088Z
 tags:
   - product
 categories:
@@ -32,9 +32,17 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -45,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -70,10 +78,6 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -82,25 +86,25 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -110,13 +114,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-magix-music-maker-review/"><u>[New] In 2024, Magix Music Maker Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-best-practice-video-placement-on-facebook-vh/"><u>[Updated] In 2024, Best Practice Video Placement on Facebook (V/H)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-unlock-your-content-potential-best-ideas-for-youtube-themes/"><u>[Updated] Unlock Your Content Potential Best Ideas for YouTube Themes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-exploring-media-magic-an-in-depth-analysis-of-magix-vpx/"><u>2024 Approved Exploring Media Magic An In-Depth Analysis of Magix VPX</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/cpu/"><u>理解するためのガイド：CPU使用率が多くなってしまう</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728498646673-windows-11/"><u>上級者向けWindows 11引っ越しガイド：選び方とおすすめソリューション</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-nokia-g310-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Nokia G310 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/complete-guide-to-saving-your-bitlocker-password-a-simple-walkthrough/"><u>Complete Guide to Saving Your BitLocker Password: A Simple Walkthrough</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/einfache-migration-oem-windows-11-auf-eine-neue-ssd-ubertragen-schritt-fur-schritt-anleitung/"><u>Einfache Migration: OEM-Windows 11 Auf Eine Neue SSD Übertragen – Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-official-epson-v600-printer-drivers/"><u>Free Download: Official Epson V600 Printer Drivers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-implementing-scheduled-backups-over-a-network-drive-in-windows-server-environments/"><u>Guide: Implementing Scheduled Backups Over a Network Drive in Windows Server Environments</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/hassle-free-tiktok-age-checks-for-2024/"><u>Hassle-Free TikTok Age Checks for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/remedying-non-responsive-recordings/"><u>Remedying Non-Responsive Recordings</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/resolving-windows-10-error-0x87e00196-a-step-by-step-guide/"><u>Resolving Windows 10 Error 0X87E00196: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-plants-vs-zombies-battle-for-neighborville-a-hilarious-action-packed-adventure/"><u>Review of 'Plants Vs. Zombies: Battle for Neighborville' - A Hilarious, Action-Packed Adventure</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-4-methods-for-command-line-file-backups-on-windows-10/"><u>Top 4 Methods for Command Line File Backups on Windows 10</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/verschollene-dokumente-wiederfinden-bei-seagate-externem-laufwerk-expertentipps-zum-wiederherstellen/"><u>Verschollene Dokumente Wiederfinden Bei Seagate Externem Laufwerk - Expertentipps Zum Wiederherstellen</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-turbo-faster-window-photo-editor/"><u>[New] 2024 Approved Turbo Faster Window Photo Editor</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-techniques-for-saving-and-recording-ps4-gameplay-for-2024/"><u>[New] Essential Techniques for Saving and Recording PS4 Gameplay for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ps4pc/"><u>重建PS4存放的信息技術：解決PC平台如何回復硬碟數據的指南</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/installing-windows-adk-seamlessly-integrated-with-aomei-backupper-your-guide/"><u>Installing Windows ADK Seamlessly Integrated with AOMEI Backupper - Your Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/leading-zero-fee-converters-from-mp4-to-wmv-simplify-your-video-format-switching/"><u>Leading Zero Fee Converters From MP4 to WMV: Simplify Your Video Format Switching</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-compress-videos-in-minutes-10-free-online-tools-with-no-software/"><u>New In 2024, Compress Videos in Minutes 10 Free Online Tools with No Software</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/professionelle-losungen-fur-die-iphone-datensicherung-auf-windows-und-mac-os/"><u>Professionelle Lösungen Für Die iPhone-Datensicherung Auf Windows Und Mac OS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-best-free-audio-editors-for-m4a-files/"><u>S Best Free Audio Editors for M4A Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-broadcasts-using-manycams-cutting-edge-virtual-webcam-technology/"><u>Transform Your Broadcasts Using ManyCam's Cutting-Edge Virtual Webcam Technology</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-guide-for-retrieving-your-lost-iphotos-after-permanent-erasure/"><u>Ultimate Guide for Retrieving Your Lost iPhotos After Permanent Erasure</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/usb-usbusb/"><u>USBデバイス間で簡単にファイルを複写する方法 - USBから別のUSBへ</u></a></li>
 </ul></div>
 

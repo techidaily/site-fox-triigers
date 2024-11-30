@@ -1,7 +1,7 @@
 ---
 title: "Stay Positive, Write Effectively: Blogging Innovations From 2009 Featuring MassMail Tools"
-date: 2024-11-19T00:19:51.429Z
-updated: 2024-11-22T09:04:20.284Z
+date: 2024-11-23T17:09:34.429Z
+updated: 2024-11-30T17:28:24.911Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -36,13 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -57,6 +57,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -82,16 +86,12 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -106,13 +106,13 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,21 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-getting-started-in-vlogging-gear-and-software-guide-for-2024/"><u>[New] Getting Started in Vlogging Gear and Software Guide for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1-mastering-the-art-of-extraction-engaging-conversations-in-archiving/"><u>1. Mastering the Art of Extraction: Engaging Conversations in Archiving</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/2018s-top-4-must-know-avi-editors-for-stunning-video-creations/"><u>2018'S Top 4 Must-Know AVI Editors for Stunning Video Creations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-free-logo-blueprints-to-refine-and-personalize-your-symbol/"><u>2024 Approved Free Logo Blueprints to Refine and Personalize Your Symbol</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decision-guide-how-to-decide-on-your-next-macbook-comparing-features-of-m3-vs-m2-versions-techradar/"><u>Decision Guide: How to Decide on Your Next MacBook - Comparing Features of M3 Vs. M2 Versions | TechRadar</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/discover-the-ultimate-list-of-free-pdf-software-for-windows-users-ranked-in-2020/"><u>Discover the Ultimate List of Free PDF Software for Windows Users, Ranked in 2020</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-v29e-by-drfone-android/"><u>How to Bypass FRP from Vivo V29e?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-asus-rog-phone-8-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Asus ROG Phone 8 Pro Face Lock?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Tecno Spark Go (2024) | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-easier-mercedes-benz-equips-cars-with-chatgpt-and-voice-recognition-technology/"><u>Navigate Easier: Mercedes-Benz Equips Cars with ChatGPT and Voice Recognition Technology</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/navigating-through-the-xml-settings-section-a-comprehensive-guide/"><u>Navigating Through the XML Settings Section: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/repair-manual-restoring-a-detached-key-on-your-laptop/"><u>Repair Manual: Restoring a Detached Key on Your Laptop</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/resolve-aw-snap-glitch-in-chrome-when-pages-load-protect-with-malwarefox/"><u>Resolve 'Aw Snap!' Glitch in Chrome When Pages Load – Protect with MalwareFox</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/safe-android-system-reboot-protect-your-files/"><u>Safe Android System Reboot: Protect Your Files</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/selecting-excellent-backgrounds-for-video-calls/"><u>Selecting Excellent Backgrounds for Video Calls</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-how-to-insert-an-attachment-in-your-iphones-mail-app/"><u>Step-by-Step Tutorial: How to Insert an Attachment in Your iPhone's Mail App</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-transform-your-avi-images-from-video-to-graphics-using-filmora/"><u>[New] In 2024, Transform Your AVI Images From Video To Graphics Using Filmora</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-picture-perfect-adding-imagery-to-ig/"><u>[Updated] 2024 Approved Picture Perfect Adding Imagery to IG</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ultimate-conversion-manual-from-srt-to-various-formats/"><u>[Updated] 2024 Approved Ultimate Conversion Manual From SRT to Various Formats</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-interface-elements-exploring-the-functionality-of-the-programs-tab/"><u>1. Interface Elements: Exploring the Functionality of the Programs Tab</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-hidden-facets-of-instagram-story-consumption/"><u>2024 Approved The Hidden Facets of Instagram Story Consumption</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-guide-capturing-bbc-sounds-using-iplayer-app-for-both-pc-and-mac-users/"><u>Easy Guide: Capturing BBC Sounds Using iPlayer App – For Both PC & Mac Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-strategies-and-software-for-reducing-size-of-ultra-hd-videos/"><u>Effortless Strategies and Software for Reducing Size of Ultra HD Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/elevate-your-broadcast-with-manycam-the-ultimate-guide-to-virtual-cameras-and-professional-grade-live-video-software/"><u>Elevate Your Broadcast with ManyCam - The Ultimate Guide to Virtual Cameras and Professional-Grade Live Video Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/flash-and-fly-gaming-top-10-speedy-apps-on-desktopmobile/"><u>Flash & Fly Gaming Top 10 Speedy Apps on Desktop/Mobile</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-restore-lost-images-on-your-iphone-a-comprehensive-guide/"><u>How To Restore Lost Images on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-y100i-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y100i working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/omzetten-van-flv-videofilen-tot-mp4mov-veilige-gratis-online-instellingen/"><u>Omzetten Van FLV Videofilen Tot MP4/MOV: Veilige, Gratis Online Instellingen</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-a2-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo A2 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-modifying-system-parameters-via-the-advanced-settings-window/"><u>Step-by-Step Guide: Modifying System Parameters via the Advanced Settings Window</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-5-simple-tricks-to-enhance-smartphone-photography/"><u>Top 5 Simple Tricks to Enhance Smartphone Photography</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-ways-to-install-and-enjoy-super-mario-run-on-your-windows-or-mac-computer/"><u>Top Ways to Install and Enjoy Super Mario Run on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-the-edit-actions-settings-panel-a-comprehensive-guide/"><u>Understanding the Edit Actions Settings Panel: A Comprehensive Guide</u></a></li>
 </ul></div>
 

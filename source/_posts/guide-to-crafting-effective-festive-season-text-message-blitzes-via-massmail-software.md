@@ -1,7 +1,7 @@
 ---
 title: Guide to Crafting Effective Festive Season Text Message Blitzes via MassMail Software
-date: 2024-11-19T05:04:51.041Z
-updated: 2024-11-21T16:59:20.405Z
+date: 2024-11-24T20:00:32.904Z
+updated: 2024-11-30T18:10:29.473Z
 tags:
   - product
 categories:
@@ -21,10 +21,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -67,7 +63,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -75,12 +71,16 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -90,10 +90,6 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
@@ -101,10 +97,6 @@ When promoting your vanity short code, always provide the short code’s digits 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -115,12 +107,16 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,17 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-intriguing-ways-to-twist-images/"><u>[New] Intriguing Ways to Twist Images</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-11-useful-youtube-seo-tips-to-help-rank-your-video-high/"><u>[Updated] In 2024, 11 Useful YouTube SEO Tips to Help Rank Your Video High</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comment-la-corbeille-efface-les-dossiers-sans-controle-resolu/"><u>Comment La Corbeille Efface Les Dossiers Sans Contrôle [Résolu]</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/essential-characteristics-of-effective-drivers/"><u>Essential Characteristics of Effective Drivers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-group-theory-in-mathematics-key-concepts-and-applications/"><u>Exploring Group Theory in Mathematics: Key Concepts and Applications</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-retrieve-the-vid-and-pid-numbers-for-any-computer-or-peripheral/"><u>How to Retrieve the VID and PID Numbers for Any Computer or Peripheral</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a14-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A14 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g73-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G73 5G Phone FRP Lock</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/retrieve-lost-android-messages-effective-techniques-using-sms-recovery-apps/"><u>Retrieve Lost Android Messages: Effective Techniques Using SMS Recovery Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-solutions-to-correct-the-persistent-blue-discoloration-of-your-television-display/"><u>Top 8 Solutions to Correct the Persistent Blue Discoloration of Your Television Display</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-strategies-for-efficiently-transforming-keynote-presentations-into-powerpoint-format/"><u>Top Strategies for Efficiently Transforming Keynote Presentations Into PowerPoint Format</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-business-cloud-data-solutions/"><u>[New] Premier Business Cloud Data Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unleash-the-power-of-zoom-your-win10-journey-begins-here/"><u>[Updated] Unleash the Power of Zoom Your Win10 Journey Begins Here</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/8-critical-factors-in-deciding-between-bing-chat-and-chatgpt-for-freelance-work/"><u>8 Critical Factors in Deciding Between Bing Chat and ChatGPT for Freelance Work</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-on-lenovo-x1-carbon-gen-8-exceptional-arm-performance-advanced-5g-features-and-long-lasting-battery-zdnet-insights/"><u>Comprehensive Review on Lenovo X1 Carbon Gen 8: Exceptional Arm Performance, Advanced 5G Features and Long-Lasting Battery | ZDNet Insights</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Lenovo ThinkPhone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-itext-advanced-techniques-for-efficiently-editing-and-substituting-content/"><u>Mastering Itext: Advanced Techniques for Efficiently Editing and Substituting Content</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-screen-captures-a-step-by-step-guide-to-taking-screenshots-in-windows-10/"><u>Mastering Screen Captures: A Step-by-Step Guide to Taking Screenshots in Windows 10</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/navigating-the-configuration-options-section-a-guide-to-environmental-parameters/"><u>Navigating the Configuration Options Section: A Guide to Environmental Parameters</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-repackaging-workflows-using-advanced-installers-tailoring-capabilities/"><u>Optimizing Repackaging Workflows Using Advanced Installer's Tailoring Capabilities</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/straightforward-guide-how-to-easily-retrieve-and-store-veehd-content/"><u>Straightforward Guide: How to Easily Retrieve and Store VeeHD Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-correcting-severe-browser-js-problem-in-discord/"><u>Strategies for Correcting Severe Browser JS Problem in Discord</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-7-leading-computer-diagnostic-tools-preferred-by-it-professionals/"><u>Top 7 Leading Computer Diagnostic Tools Preferred by IT Professionals</u></a></li>
 </ul></div>
 

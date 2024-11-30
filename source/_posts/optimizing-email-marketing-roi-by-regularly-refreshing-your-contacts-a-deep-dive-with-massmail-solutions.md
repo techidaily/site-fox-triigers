@@ -1,7 +1,7 @@
 ---
 title: Optimizing Email Marketing ROI by Regularly Refreshing Your Contacts - A Deep Dive with MassMail Solutions
-date: 2024-11-20T19:37:56.574Z
-updated: 2024-11-21T16:26:45.306Z
+date: 2024-11-23T17:57:33.114Z
+updated: 2024-11-30T17:13:24.598Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -50,6 +58,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -67,7 +79,7 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -78,17 +90,9 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -98,17 +102,9 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -117,6 +113,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,19 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-high-speed-audio-alteration-software-summary/"><u>[New] High-Speed Audio Alteration Software Summary</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-tide-gear-surfing-camera-innovations-of-2023/"><u>[Updated] High Tide Gear Surfing Camera Innovations of 2023</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-react-if-your-live-video-is-quashed-on-facebook/"><u>[Updated] In 2024, How to React if Your Live Video Is Quashed on Facebook</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-kickstarting-your-digital-voice-the-complete-process-of-starting-a-youtube-chanel/"><u>[Updated] Kickstarting Your Digital Voice The Complete Process of Starting a YouTube Chanel</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-5-digital-media-screenshots/"><u>2024 Approved Elite 5 Digital Media Screenshots</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/affordable-email-campaigns-with-massmail-the-ideal-choice-for-smb-growth-strategies/"><u>Affordable Email Campaigns with MassMail: The Ideal Choice for SMB Growth Strategies</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-pour-creer-un-disque-de-demarrage-windows-11-avec-une-cle-usb-comment-faire-du-pe-win/"><u>Guide Pour Créer Un Disque De Démarrage Windows 11 Avec Une Clé USB : Comment Faire Du PE WIN</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mastering-online-marketing-discover-the-best-7-chrome-extensions-for-seo-and-smm-featuring-massmail-insights/"><u>Mastering Online Marketing: Discover the Best 7 Chrome Extensions for SEO & SMM - Featuring Massmail Insights!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/nine-proven-tips-for-loading-and-viewing-pictures-on-your-iphones-safari-app/"><u>Nine Proven Tips for Loading and Viewing Pictures on Your iPhone's Safari App</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimizing-your-lead-generation-top-3-strategies-for-crafting-high-converting-opt-in-email-lists-with-massmail/"><u>Optimizing Your Lead Generation: Top 3 Strategies for Crafting High-Converting Opt-In Email Lists with MassMail</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/schritt-fur-schritt-anleitung-zur-verlegung-einer-sim-karte-auf-ein-neues-iphone-modelle-15-14-13-unter-verwendung-von-esim/"><u>Schritt-Für-Schritt Anleitung Zur Verlegung Einer SIM-Karte Auf Ein Neues iPhone (Modelle 15, 14, 13) Unter Verwendung Von eSIM.</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/schritt-fur-schritt-leitfaden-zum-ubertragen-von-itms-musik-auf-deinen-pc-effizientes-kopieren-und-organisieren/"><u>Schritt-Für-Schritt Leitfaden Zum Übertragen Von ITMS Musik Auf Deinen PC – Effizientes Kopieren Und Organisieren</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-activating-and-setting-up-hyper-v-virtualization-in-windows-10/"><u>Ultimate Guide: Activating & Setting Up Hyper-V Virtualization in Windows 10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-maximizing-impact-with-google-based-podcast-uploads/"><u>[New] In 2024, Maximizing Impact with Google-Based Podcast Uploads</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-essential-tactics-for-viral-fb-video-marketing/"><u>[Updated] Essential Tactics for Viral FB Video Marketing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-secure-a-library-of-premium-free-graphic-designs/"><u>[Updated] How to Secure a Library of Premium, Free Graphic Designs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-learn-quick-image-text-alteration-online-resources/"><u>2024 Approved Learn Quick Image Text Alteration Online Resources</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guide-rapide-a-la-copie-du-message-demarrage-dun-serveur-windows-server-versions-2003-2008-et-2012-sans-reinstaller/"><u>Guide Rapide À La Copie Du Message Démarrage D’un Serveur Windows Server (Versions 2003, 2008 Et 2012) Sans Réinstaller</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-and-retrieve-picturesvideos-from-a-water-damaged-iphone-11-pro-that-wont-turn-on-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone 11 Pro That Wont Turn on | Stellar</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-journey-from-prose-to-picture-play/"><u>In 2024, A Journey From Prose to Picture Play</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-phantom-v-fold-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Phantom V Fold Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-the-art-of-ms-word-data-retrieval-essential-techniques-for-rescuing-unsaved-and-vanished-text-documents/"><u>Mastering the Art of MS Word Data Retrieval: Essential Techniques for Rescuing Unsaved & Vanished Text Documents</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-top-bottom-screen-problem-correcting-flipped-videos-on-an-asus-laptop/"><u>Resolving the Top-Bottom Screen Problem: Correcting Flipped Videos on an ASUS Laptop</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/scopri-i-6-metodi-per-ripristinare-dai-binari-la-cartella-spazzatura/"><u>Scopri I 6 Metodi per Ripristinare Dai Binari La Cartella Spazzatura</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-techniques-for-finding-and-restoring-unsaved-work-in-microsoft-word/"><u>Top Techniques for Finding and Restoring Unsaved Work in Microsoft Word</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/upgraded-deployment-techniques-beyond-windows-deployment-service-for-improved-network-setup-performance/"><u>Upgraded Deployment Techniques Beyond Windows Deployment Service for Improved Network Setup Performance</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728461756042-windows/"><u>セーフモード使用時にWindows上のファイルを安全に保存する方法</u></a></li>
 </ul></div>
 

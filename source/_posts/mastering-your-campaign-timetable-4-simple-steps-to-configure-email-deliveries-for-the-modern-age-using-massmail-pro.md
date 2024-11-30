@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Campaign Timetable: 4 Simple Steps to Configure Email Deliveries for the Modern Age Using MassMail Pro"
-date: 2024-11-15T23:58:27.473Z
-updated: 2024-11-21T22:32:47.623Z
+date: 2024-11-27T20:19:46.401Z
+updated: 2024-11-30T17:26:34.031Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -48,15 +52,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,10 +74,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -81,10 +81,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -94,13 +90,13 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -109,6 +105,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -119,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -149,16 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-from-playtime-to-pixels-the-ultimate-list-of-6-ways-to-record-minecraft/"><u>[Updated] 2024 Approved From Playtime to Pixels The Ultimate List of 6 Ways to Record Minecraft</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-capture-not-just-point-and-shoot-mastering-the-hero5-black/"><u>2024 Approved Pro Capture, Not Just Point-and-Shoot Mastering the Hero5 Black</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/automatic-playback-setup-for-diy-flipbooks-on-flipbuilder-tips-and-tricks/"><u>Automatic Playback Setup for DIY Flipbooks on FlipBuilder: Tips and Tricks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-websites-for-downloading-skype-ringtone-for-2024/"><u>Best Websites For Downloading Skype Ringtone for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/combining-languages-crafting-buttons-with-english-and-portuguese-descriptions-on-flipbuilder/"><u>Combining Languages: Crafting Buttons with English and Portuguese Descriptions on FlipBuilder</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creating-unique-titles-for-your-online-flash-novels-using-flipbuilder-a-step-by-step-guide/"><u>Creating Unique Titles for Your Online Flash Novels Using FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/diy-guide-crafting-protective-covers-for-your-customized-flipping-books-learn-with-flipbuildercom/"><u>DIY Guide: Crafting Protective Covers for Your Customized Flipping Books [Learn with FlipBuilder.com]</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-battlefield-5-computer-malfunctions-crash-fix-guide-for-gamers/"><u>Resolve Battlefield 5 Computer Malfunctions - Crash Fix Guide for Gamers</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-plugged-in-but-not-charging-problems-on-your-surface-device-today/"><u>Resolve Plugged-In But Not Charging Problems on Your Surface Device Today</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-definitive-guide-how-to-get-and-maintain-current-drivers-for-epsons-et-3760-printer-in-windows-environment/"><u>The Definitive Guide: How to Get and Maintain Current Drivers for Epson's ET-#3760 Printer in Windows Environment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-aesthetic-essentials-for-youtube-artistry/"><u>[New] 2024 Approved Free Aesthetic Essentials for YouTube Artistry</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtube-to-avi-mastery-top-8-convertors-reviewed/"><u>[Updated] 2024 Approved YouTube to AVI Mastery Top 8 Convertors Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-first-visual-hook-creating-personalized-thumbnails/"><u>2024 Approved YouTube's First Visual Hook Creating Personalized Thumbnails</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/build-your-own-material-dashboard-for-free-using-vue-laravel-and-json-api-comprehensive-guide-from-creativetim/"><u>Build Your Own Material Dashboard for Free Using Vue, Laravel, and JSON API - Comprehensive Guide From @CreativeTim</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/create-your-blogs-best-impressions-with-our-no-cost-nextjstailwind-template-by-creative-tim-get-it-here/"><u>Create Your Blog's Best Impressions with Our No-Cost NextJS/Tailwind Template by Creative Tim – Get It Here!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-photo-mastery-top-8-web-based-creation-suite/"><u>In 2024, Photo Mastery Top 8 Web-Based Creation Suite</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-pip-activatedeactivate-in-safari-on-apple-devices-for-2024/"><u>Mastering PIP Activate/Deactivate in Safari on Apple Devices for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/pro-paper-kit-v2-advanced-bootstrap-4-user-interface-suite-by-creatively-timed-solutions/"><u>Pro Paper Kit v2 Advanced Bootstrap 4 User Interface Suite by Creatively Timed Solutions</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/react-and-aspnet-based-free-material-dashboard-by-creative-tim-streamlined-monitoring-for-web-applications/"><u>React & ASP.NET Based Free Material Dashboard by Creative Tim - Streamlined Monitoring for Web Applications</u></a></li>
 </ul></div>
 

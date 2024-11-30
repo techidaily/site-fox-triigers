@@ -1,7 +1,7 @@
 ---
 title: "Understanding Email Marketing KPIs: An Essential Guide by MassMail Software"
-date: 2024-11-21T04:04:16.085Z
-updated: 2024-11-22T11:44:03.436Z
+date: 2024-11-26T18:36:34.378Z
+updated: 2024-11-30T20:18:26.812Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -37,7 +45,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -48,15 +56,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,10 +86,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -90,25 +94,13 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -118,9 +110,17 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,20 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-in-depth-analysis-top-9-freeware-logo-designers-unveiled/"><u>[New] 2024 Approved In-Depth Analysis Top 9 Freeware Logo Designers Unveiled</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-ultimate-setup-guide-for-effective-after-effects-texting/"><u>[New] 2024 Approved The Ultimate Setup Guide for Effective After Effects Texting</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-enlarge-social-media-content-with-televisions/"><u>[New] In 2024, Enlarge Social Media Content with Televisions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-top-picks-for-sky-hdr-images-online-compilation/"><u>[New] In 2024, Top Picks for Sky HDR Images Online Compilation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-constructing-compelling-channel-overviews-for-2024/"><u>[Updated] Constructing Compelling Channel Overviews for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-navigating-apples-screen-recording-tools/"><u>[Updated] In 2024, Navigating Apple's Screen Recording Tools</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728497344339-windows-1011/"><u>「Windows 10/11」で消した画像・写真をもう一度取り戻せる方法：ベストセレクション</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/4-effective-techniques-to-recover-deleted-files-in-windows-10/"><u>4 Effective Techniques to Recover Deleted Files in Windows 10</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728480852529-windows-111087/"><u>最新修復技術指南：針對Windows 11、10、8及7的高效檔案回復方法</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/come-ripristinare-laccount-utente-rimosso-involontariamente-in-windows-10-e-11-con-questi-semplici-passaggi/"><u>Come Ripristinare L'account Utente Rimosso Involontariamente in Windows 10 E 11 Con Questi Semplici Passaggi</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/elevate-gameplay-expert-advice-for-eliminating-low-fps-drops-on-valorant-updated-tips/"><u>Elevate Gameplay: Expert Advice for Eliminating Low FPS Drops on Valorant [Updated Tips]</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-make-your-device-sing-a-step-by-step-guide-to-personalized-ringtone-setup-on-android/"><u>In 2024, Make Your Device Sing A Step-by-Step Guide to Personalized Ringtone Setup on Android</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ripristina-la-tua-cronologia-di-wechat-con-facilita-un-metodo-senza-back-up/"><u>Ripristina La Tua Cronologia Di WeChat Con Facilità: Un Metodo Senza Back-Up!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/tote-ssds-neu-beleben-erfolgreicher-wege-zum-datenwiedergewinnung/"><u>Tote SSDs Neu Beleben: Erfolgreicher Wege Zum Datenwiedergewinnung</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-room-prep-101-ensuring-your-system-is-ready-for-oculus-rift/"><u>[Updated] 2024 Approved Room Prep 101 Ensuring Your System Is Ready for Oculus Rift</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-eradicate-commercial-breaks-in-facebook-videos-for-2024/"><u>[Updated] Eradicate Commercial Breaks in Facebook Videos for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-how-to-retrieve-lost-images-for-free-top-techniques-for-your-canon-camera/"><u>1. How To Retrieve Lost Images For Free: Top Techniques for Your Canon Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-multicam-pro-streaming-software-and-digital-camera-alternatives/"><u>1. MultiCam Pro: Streaming Software and Digital Camera Alternatives</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-meeting-mastery-streaming-google-meet-directly-to-youtube/"><u>2024 Approved Meeting Mastery Streaming Google Meet Directly to YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-opera-gx-with-a-month-of-free-disco/"><u>Boosting Opera GX with a Month of Free Disco</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guida-passo-passo-a-usare-wbadmin-per-costruire-il-backup-dellimmagine-di-ripristino-in-windows-11/"><u>Guida Passo-Passo a Usare WBAdmin per Costruire Il Backup Dell'Immagine Di Ripristino in Windows 11</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-safely-copy-an-active-hard-drive-in-windows/"><u>How to Safely Copy an Active Hard Drive in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-find-x6mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo Find X6Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/probleme-dacces-aux-dossiers-de-messagerie-par-defaut-dans-microsoft-outlook/"><u>Problème D'accès Aux Dossiers De Messagerie Par Défaut Dans Microsoft Outlook</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/problemi-di-prestazioni-con-ssd-su-windows-11-ecco-le-migliori-risoluzioni/"><u>Problemi Di Prestazioni Con SSD Su Windows 11? Ecco Le Migliori Risoluzioni!</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/securing-your-windows-server-understanding-the-benefits-of-differential-and-incremental-backups/"><u>Securing Your Windows Server: Understanding the Benefits of Differential and Incremental Backups</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/simple-guide-seamlessly-transferring-your-nas-data-to-the-cloud-with-services-similar-to-onedrive/"><u>Simple Guide: Seamlessly Transferring Your NAS Data to the Cloud with Services Similar to OneDrive</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-text-message-problem-with-these-7-fixes/"><u>Troubleshoot Your iPhone's Text Message Problem with These 7 Fixes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-industry-standard-adobe-premiere-pro-for-mac-video-editors/"><u>Updated The Industry Standard Adobe Premiere Pro for Mac Video Editors</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/usbsd/"><u>USBメモリまたはSDカードからコマンドラインで削除されたファイルの回復手順</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728489111686-windows-server/"><u>Windows Server文件同步解析：两种轻松的方法</u></a></li>
 </ul></div>
 
