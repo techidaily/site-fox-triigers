@@ -1,7 +1,7 @@
 ---
 title: "Understanding Email Marketing KPIs: An Essential Guide by MassMail Software"
-date: 2024-12-05T02:44:58.795Z
-updated: 2024-12-08T18:35:24.765Z
+date: 2024-12-10T18:42:35.786Z
+updated: 2024-12-15T00:42:17.840Z
 tags:
   - product
 categories:
@@ -18,17 +18,9 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -41,12 +33,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -56,11 +52,19 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -74,13 +78,13 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -106,17 +110,9 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-unparalleled-online-success-stories-from-youtube/"><u>[New] 2024 Approved Unparalleled Online Success Stories From YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-sourav-joshis-financial-journey-charting-a-profitable-course-on-youtube/"><u>[New] In 2024, Sourav Joshi’s Financial Journey Charting a Profitable Course on YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-engaging-users-with-instagrams-interactive-survey-feature/"><u>[Updated] In 2024, Engaging Users with Instagram's Interactive Survey Feature</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-ideal-internet-hubs-alarm-tunes-acquisition-spots/"><u>2024 Approved Ideal Internet Hubs Alarm Tunes Acquisition Spots</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/a-comprehensive-analysis-of-events-in-the-opium-wars-educational-material-from-yl-computing-and-yl-software/"><u>A Comprehensive Analysis of Events in the Opium Wars - Educational Material From YL Computing and YL Software</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/common-problems-and-fixes-for-unclear-screens-insights-from-yl-computings-expert-software-guidance/"><u>Common Problems and Fixes for Unclear Screens - Insights From YL Computing's Expert Software Guidance</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-transfer-adding-excel-data-to-your-desktop-with-yl-computings-simple-methods/"><u>Effortless Transfer: Adding Excel Data to Your Desktop with YL Computing's Simple Methods</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/enabling-windows-defender-firewall-on-windows-11-step-by-step-guide-techsolutions/"><u>Enabling Windows Defender Firewall on Windows 11: Step-by-Step Guide - TechSolutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/getting-started-with-digital-image-detailing-for-2024/"><u>Getting Started with Digital Image Detailing for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-re-boot-your-unresponsive-printer-tips-and-tricks-yl-computing/"><u>How to Re-Boot Your Unresponsive Printer: Tips and Tricks - YL Computing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-animated-text-that-jumps-master-class-with-easy-steps/"><u>In 2024, Animated Text That Jumps Master Class with Easy Steps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-iconic-tricks-from-the-80s-for-stunning-videos/"><u>In 2024, Iconic Tricks From the '80S for Stunning Videos</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/maximizing-pc-speed-expert-tips-on-driver-updates-for-enhanced-performance-byteblast-solutions/"><u>Maximizing PC Speed: Expert Tips on Driver Updates for Enhanced Performance - ByteBlast Solutions</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/monetizing-digital-coins-for-everyday-use-the-essential-guide-by-yl-software-experts/"><u>Monetizing Digital Coins for Everyday Use: The Essential Guide by YL Software Experts</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/renaming-your-digital-data-made-easy-filefolder-name-changes-for-windows-users-yl-tech-tips/"><u>Renaming Your Digital Data Made Easy: File/Folder Name Changes for Windows Users - YL Tech Tips</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-gaming-pcs-the-ultimate-guide-by-yl-computing-find-your-perfect-match/"><u>Top Gaming PCs: The Ultimate Guide by YL Computing - Find Your Perfect Match!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-starter-linux-os-proven-quality-and-features-by-industry-experts-your-ultimate-guide/"><u>Top-Rated Starter Linux OS: Proven Quality & Features by Industry Experts - Your Ultimate Guide!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-step-by-step-guide-solving-teardown-app-crashes/"><u>Ultimate Step-by-Step Guide: Solving Teardown App Crashes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-poco-c50-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Poco C50? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-path-to-subtle-iphone-shots-4-essential-techniques-discovered/"><u>[New] In 2024, The Path to Subtle iPhone Shots 4 Essential Techniques Discovered</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-chronicle-your-conquests-with-galaxy-screen-captures/"><u>[Updated] 2024 Approved Chronicle Your Conquests with Galaxy Screen Captures</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/accelerate-your-pcs-performance-effective-techniques-to-clear-up-disk-space-tips-from-yl-computing/"><u>Accelerate Your PC's Performance: Effective Techniques to Clear Up Disk Space - Tips From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-8-family-monitoring-applications-for-online-security-2e4rly-reviewed/"><u>Best 8 Family Monitoring Applications for Online Security - 2E4rly Reviewed</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/discover-frame-styles-for-your-custom-inserts-flipbuildercom/"><u>Discover Frame Styles for Your Custom Inserts - FlipBuilder.com</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-registry-functions-in-it-systems-with-yl-software-insights/"><u>Exploring Registry Functions in IT Systems with YL Software Insights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/google-endorsed-mondly-your-language-mastery-guide/"><u>Google Endorsed: Mondly - Your Language Mastery Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/high-definition-marvels-ant-man-desktop-backgrounds-by-yl-computing-yl-software/"><u>High Definition Marvel's Ant-Man Desktop Backgrounds by YL Computing - YL Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-document-your-playthroughs-with-easy-ps4-image-captures/"><u>How to Document Your Playthroughs with Easy PS4 Image Captures</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-samsung-galaxy-m54-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Samsung Galaxy M54 5G Is Unlocked</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-parodic-play-writing-and-producing-humor-videos/"><u>In 2024, Parodic Play Writing and Producing Humor Videos</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/long-lasting-performance-expert-advice-on-avoiding-pc-sluggishness-from-yl-software-experts/"><u>Long-Lasting Performance: Expert Advice on Avoiding PC Sluggishness From YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-1053-non-responding-windows-service/"><u>Resolving Error 1053: Non-Responding Windows Service</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/solving-audio-quirks-fix-your-sound-cards-noise-and-echo-issues-with-expert-tips-from-yl-software/"><u>Solving Audio Quirks: Fix Your Sound Card's Noise and Echo Issues with Expert Tips From YL Software</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/troubleshooting-your-laptop-charger-issues-with-guidance-from-yl-tech-experts/"><u>Troubleshooting Your Laptop Charger Issues with Guidance From YL Tech Experts</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/uncover-graphic-card-faults-a-step-by-step-tutorial-by-yl-software-experts/"><u>Uncover Graphic Card Faults: A Step-by-Step Tutorial by YL Software Experts</u></a></li>
 </ul></div>
 
