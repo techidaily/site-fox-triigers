@@ -1,7 +1,7 @@
 ---
 title: "Best Email Marketing Techniques & Insights From Top 2020 Publications: A Guide with MassMail Software"
-date: 2024-12-09T04:34:32.076Z
-updated: 2024-12-15T03:43:03.420Z
+date: 2024-12-22T17:02:45.029Z
+updated: 2024-12-24T02:29:27.876Z
 tags:
   - product
 categories:
@@ -17,6 +17,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -36,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -53,6 +53,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -74,10 +78,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -86,21 +86,17 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -110,12 +106,16 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,22 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-youtube-content-via-finalcut-pro-techniques/"><u>[New] In 2024, Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-ultimate-guide-to-creating-slow-motion-content-in-tiktok-for-2024/"><u>[New] The Ultimate Guide to Creating Slow-Motion Content in TikTok for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-choosing-prime-top-8-budget-friendly-srt-translator-tools/"><u>[Updated] 2024 Approved Choosing Prime Top 8 Budget-Friendly SRT Translator Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unveiling-the-best-mp4-saving-software/"><u>[Updated] Unveiling the Best MP4 Saving Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/connecting-consciously-with-content-craftsmen-of-your-realm-for-2024/"><u>Connecting Consciously with Content Craftsmen of Your Realm for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-seamless-iphone-connectivity-on-windows-11-with-authorized-driver-installation/"><u>Ensure Seamless iPhone Connectivity on Windows 11 with Authorized Driver Installation</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/handling-sudden-pc-crashes-expert-tips-from-yl-software/"><u>Handling Sudden PC Crashes: Expert Tips From YL Software</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-accelerate-your-computer-with-free-software-recommendations-by-yl-tech-experts/"><u>How to Accelerate Your Computer with Free Software: Recommendations by YL Tech Experts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/navigating-the-market-robust-international-insights-vs-modest-forecasts-in-precious-metals-powered-by-yl-computing-and-yl-software/"><u>Navigating the Market: Robust International Insights Vs. Modest Forecasts in Precious Metals - Powered by YL Computing & YL Software</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/resetting-your-scanners-configuration-a-step-by-step-guide-by-yl-computing/"><u>Resetting Your Scanner's Configuration: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/secure-strategies-for-trading-cryptocurrencies-tips-and-best-practices-by-yl-computing/"><u>Secure Strategies for Trading Cryptocurrencies: Tips & Best Practices by YL Computing</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/the-impact-and-importance-of-deng-xiaopings-1978-economic-transformations-insights-from-yl-computing-and-yl-software/"><u>The Impact and Importance of Deng Xiaoping's 1978 Economic Transformations - Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/troubleshooting-lost-scanner-connections-on-windows-a-guide-by-yl-software-experts/"><u>Troubleshooting Lost Scanner Connections on Windows: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/troubleshooting-unresponsive-audio-devices-on-windows-expert-advice-by-yl-computing/"><u>Troubleshooting Unresponsive Audio Devices on Windows - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-ranking-the-top-game-console-ive-played-on-my-journey-through-gaming-history/"><u>Ultimate Ranking: The Top Game Console I've Played on My Journey Through Gaming History!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-through-glitches-in-facebook-live-video-uploads-for-2024/"><u>[New] Navigating Through Glitches in Facebook Live Video Uploads for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exquisite-photographic-saga-assembler/"><u>[Updated] Exquisite Photographic Saga Assembler</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-spotlight-on-professional-shoots-innovative-lighting-techniques/"><u>[Updated] Spotlight on Professional Shoots Innovative Lighting Techniques</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-stunning-lumachina-design-graphics-premium-backgrounds-and-wallpapers-by-yl-computing/"><u>Discover Stunning Lumachina Design Graphics: Premium Backgrounds & Wallpapers by YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-course-on-morphvox-converting-your-voice-professionally-for-2024/"><u>Full Course on MorphVOX Converting Your Voice Professionally for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/gbtc-trades-at-a-discount-new-bitcoin-etf-records-impressive-15b-in-transactions-with-btc-reaching-69k-analysis-from-yl-computing-yl-software/"><u>GBTC Trades at a Discount; New Bitcoin ETF Records Impressive $1.5B in Transactions with BTC Reaching $69K – Analysis From YL Computing, YL Software</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/high-resolution-pulp-fiction-themed-wallpapers-and-desktop-backgrounds-premium-hd-imagery-by-yl-computing/"><u>High-Resolution Pulp Fiction Themed Wallpapers & Desktop Backgrounds - Premium HD Imagery by YL Computing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-13-miniwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 13 mini/Windows/Mac</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-fix-a-non-installing-graphics-card-with-help-from-yl-software-tips-and-tricks/"><u>How to Fix a Non-Installing Graphics Card with Help From YL Software Tips & Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-sk-hynix-t31-ssd-in-m2-format-on-compact-usb-flash-drive/"><u>In-Depth Analysis of the SK Hynix T31 SSD in M.2 Format on Compact USB Flash Drive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-phantom-touch-issues-on-your-apple-watch-expert-advice-and-fixes-for-persistent-glitches-zdnet/"><u>Navigating Phantom Touch Issues on Your Apple Watch? Expert Advice & Fixes for Persistent Glitches | ZDNET</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-eliminating-malicious-programs-using-windows-defender-tips-from-yl-computing/"><u>Step-by-Step Guide: Eliminating Malicious Programs Using Windows Defender - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/troubleshooting-guide-for-unresponsive-graphics-cards-learn-from-yl-software-experts/"><u>Troubleshooting Guide for Unresponsive Graphics Cards - Learn From YL Software Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/updated-list-top-15-no-cost-dvd-duplication-programs-compared-and-ranked/"><u>Updated List : Top 15 No-Cost DVD Duplication Programs Compared and Ranked</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/yl-software-essentials-mastering-the-configuration-of-system-protection-parameters/"><u>YL Software Essentials: Mastering the Configuration of System Protection Parameters</u></a></li>
 </ul></div>
 

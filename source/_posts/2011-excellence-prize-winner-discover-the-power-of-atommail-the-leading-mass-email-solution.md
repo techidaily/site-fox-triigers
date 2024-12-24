@@ -1,7 +1,7 @@
 ---
 title: "2011 Excellence Prize Winner: Discover the Power of AtomMail - The Leading Mass Email Solution"
-date: 2024-12-10T17:35:25.730Z
-updated: 2024-12-15T01:50:07.808Z
+date: 2024-12-19T05:12:55.917Z
+updated: 2024-12-23T22:51:06.571Z
 tags:
   - product
 categories:
@@ -19,12 +19,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -36,13 +40,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -70,12 +74,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -86,17 +94,9 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -118,6 +118,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-best-eight-free-translation-tools-unveiled/"><u>[New] The Best Eight Free Translation Tools Unveiled</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-keep-it-secret-live-stream-on-instagram-anonymously/"><u>2024 Approved Keep It Secret Live Stream on Instagram Anonymously</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/celebrating-a-decade-in-seven-years-mondlys-impact/"><u>Celebrating a Decade-in-Seven Years: Mondly's Impact</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-selection-of-favorite-programs-streaming-now-on-discovery-plus-july/"><u>Exclusive Selection of Favorite Programs Streaming Now on Discovery Plus (July)</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/fix-your-scanner-woes-on-windows-11-with-professional-advice-from-yl-software/"><u>Fix Your Scanner Woes on Windows 11 with Professional Advice From YL Software</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-detect-ram-issues-on-your-pc-using-yl-software-solutions/"><u>How To Detect RAM Issues on Your PC Using YL Software Solutions</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/identifying-connected-components-in-your-system-with-insights-from-yl-softwares-tech-experts/"><u>Identifying Connected Components in Your System with Insights From YL Software's Tech Experts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ignite-your-youtube-streams-no-subscriber-count-needed-for-2024/"><u>Ignite Your Youtube Streams – No Subscriber Count Needed for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-advanced-techniques-for-incor-written-by-sarah-johnson/"><u>In 2024, Advanced Techniques for Incor Written By Sarah Johnson</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oneplus-ace-3-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from OnePlus Ace 3 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/maximizing-pc-speed-expert-tips-from-yl-software/"><u>Maximizing PC Speed: Expert Tips From YL Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/overcoming-mp4-import-errors-in-lightworks-with-effective-troubleshooting-techniques/"><u>Overcoming MP4 Import Errors in Lightworks with Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/premium-high-resolution-face-themes-with-captivating-wallpapers-and-desktop-backdrops-exclusive-creations-by-yl-software/"><u>Premium High-Resolution Face Themes with Captivating Wallpapers & Desktop Backdrops – Exclusive Creations by YL Software</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/safeguarding-your-snaps-secure-backup-from-phone-to-snapchat/"><u>Safeguarding Your Snaps Secure Backup From Phone to Snapchat</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tracing-back-to-the-roots-how-and-when-was-ai-born/"><u>Tracing Back to the Roots: How and When Was AI Born?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/troubleshooting-scanner-connectivity-failures-tips-and-solutions-by-yl-software-experts/"><u>Troubleshooting Scanner Connectivity Failures: Tips and Solutions by YL Software Experts</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/troubleshooting-tech-how-to-determine-malfunctioning-components-yl-computer-and-software-support/"><u>Troubleshooting Tech: How to Determine Malfunctioning Components - YL Computer & Software Support</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ultra-clear-deepika-padukone-hd-wallpaper-pack-and-bg-images-for-pcs-offered-by-yl-software-static-set/"><u>Ultra-Clear Deepika Padukone HD Wallpaper Pack and BG Images for PCs, Offered by YL Software – Static Set</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-blackout-issues-solving-gameplay-disruptions-on-your-display-insights-by-yl-computing/"><u>Understanding Blackout Issues: Solving Gameplay Disruptions on Your Display - Insights by YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-revelations-on-identifying-outstanding-film-making-talents/"><u>[New] In 2024, Revelations on Identifying Outstanding Film Making Talents</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-complete-guide-to-video-studios-focusing-on-xvideo-for-2024/"><u>[Updated] Complete Guide to Video Studios Focusing on XVideo for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-depth-look-at-facetune-a-photographers-best-friend/"><u>[Updated] In-Depth Look at Facetune A Photographer’s Best Friend</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-capture-the-airwaves-a-beginners-internet-radio-guide/"><u>2024 Approved Capture the Airwaves A Beginner's Internet Radio Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/afficher-les-fichiers-caches-dun-cle-usb-a-laide-de-la-ligne-de-commande-sous-windows/"><u>Afficher Les Fichiers Cachés D'un Clé USB À L'aide De La Ligne De Commande Sous Windows</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/complete-guide-to-saving-your-bitlocker-password-a-simple-walkthrough/"><u>Complete Guide to Saving Your BitLocker Password: A Simple Walkthrough</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/crea-imagenes-de-disco-sin-costo-en-windows-11-con-nuestras-recomendaciones-estelares-descubre-las-mejores-opciones-gratuitas/"><u>Crea Imágenes De Disco Sin Costo en Windows 11 Con Nuestras Recomendaciones Estelares - Descubre Las Mejores Opciones Gratuitas</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/deciphering-the-tech-enigma-a-comprehensive-guide-to-fix-selected-boot-device-failed-on-hp-laptops-with-windows/"><u>Deciphering the Tech Enigma: A Comprehensive Guide to Fix 'Selected Boot Device Failed' On HP Laptops with Windows</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/einfache-migration-oem-windows-11-auf-eine-neue-ssd-ubertragen-schritt-fur-schritt-anleitung/"><u>Einfache Migration: OEM-Windows 11 Auf Eine Neue SSD Übertragen – Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-lava-blaze-curve-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Lava Blaze Curve 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96511787-9781934716397-heal-yourself/"><u>Heal Yourself | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-phantom-v-flip-phone-without-pin-by-drfone-android/"><u>How to Unlock Tecno Phantom V Flip Phone without PIN</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-a-comprehensive-guide-for-free-video-translator-downloading/"><u>New 2024 Approved A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/reparieren-sie-die-datentragerpartitionierung-in-windows-11/"><u>Reparieren Sie Die Datenträgerpartitionierung in Windows 11</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/solution-de-partitionnement-reserve-pour-un-systeme-sur-disque-inexact-guide-complet/"><u>Solution De Partitionnement Réservé Pour Un Système Sur Disque Inexact - Guide Complet</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/tpmwindows-11115/"><u>TPMデバイスが確認されないエラーに対処：Windows 11/11の効果的解決策5つ</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-setting-up-advanced-filters-in-gmail/"><u>Ultimate Guide to Setting Up Advanced Filters in Gmail</u></a></li>
 </ul></div>
 
