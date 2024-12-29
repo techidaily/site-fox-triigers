@@ -1,7 +1,7 @@
 ---
 title: Differences Between Proactive Contacting & Reactive Lead Generation - Mastering Email Campaigns Using MassMail Tools
-date: 2024-12-21T21:57:11.610Z
-updated: 2024-12-23T19:14:26.053Z
+date: 2024-12-22T18:56:09.941Z
+updated: 2024-12-29T19:14:53.891Z
 tags:
   - product
 categories:
@@ -18,17 +18,9 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,12 +32,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -61,6 +57,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,20 +78,20 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -119,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -149,17 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-essential-free-online-music-libraries-15-picks/"><u>[New] In 2024, Essential Free Online Music Libraries 15 Picks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-effortless-link-up-merging-instagram-posts-with-facebook/"><u>[Updated] 2024 Approved Effortless Link Up Merging Instagram Posts with Facebook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-understanding-instagrams-privacy-controls-for-2024/"><u>[Updated] Understanding Instagram's Privacy Controls for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ai-powered-free-image-restoration-bring-back-the-past-with-yl-computings-innovative-technology/"><u>AI-Powered Free Image Restoration: Bring Back the Past with YL Computing's Innovative Technology</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/customize-your-language-preferences-and-region-in-windows-10-a-step-by-step-guide-by-yl-computing/"><u>Customize Your Language Preferences & Region in Windows 10 - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effective-memory-issues-fixes-master-tips-by-yl-software-professionals/"><u>Effective Memory Issues Fixes - Master Tips by YL Software Professionals</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/high-resolution-hd-forest-scenes-premium-background-images-and-photography-powered-by-yl-computing-solutions/"><u>High-Resolution HD Forest Scenes: Premium Background Images and Photography - Powered by YL Computing Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-ambiance-for-visionaries-incorporating-youtube-music-wisely/"><u>In 2024, Audio Ambiance for Visionaries Incorporating YouTube Music Wisely</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-on-screen-keyboard-in-windows-11-toggle-on-and-off-guide/"><u>Mastering the On-Screen Keyboard in Windows 11 - Toggle On & Off Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/maximizing-pc-speed-expert-tips-from-yl-software/"><u>Maximizing PC Speed: Expert Tips From YL Software</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-free-solutions-for-repairing-corrupted-photographic-files-easily/"><u>Unlock Free Solutions for Repairing Corrupted Photographic Files Easily</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unlock-the-full-potential-of-cod-warzone-solve-your-game-not-launching-troubles-today/"><u>Unlock the Full Potential of CoD: Warzone - Solve Your Game Not Launching Troubles Today!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-snaptweet-transporter-swift-transfer-of-tweets-content-for-2024/"><u>[New] SnapTweet Transporter Swift Transfer of Tweets' Content for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-accelerating-your-tiktok-content-made-simple/"><u>[Updated] In 2024, Accelerating Your TikTok Content Made Simple</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/complete-guide-fixing-the-unable-to-connect-to-windows-activation-services-issue/"><u>Complete Guide: Fixing the 'Unable to Connect to Windows Activation Services' Issue</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-quick-reference-for-iphone-memo-making/"><u>In 2024, The Ultimate Quick Reference for iPhone Memo-Making</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-lava-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Lava</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-enabling-restore-and-recovery-tools/"><u>Quick Guide: Enabling Restore & Recovery Tools</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/resolu-comment-gerer-le-deces-du-processus-critique-dans-windows-11-7-solutions-et-une-astuce/"><u>Résolu: Comment Gérer Le Décès Du Processus Critique Dans Windows 11 (7 Solutions Et Une Astuce)</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/restoring-accidentally-deleted-items-on-your-pc-a-guide-for-windows-11-10-8-and-surveillance/"><u>Restoring Accidentally Deleted Items on Your PC - A Guide for Windows 11, 10, 8 & Surveillance.</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/schnell-und-einfach-das-handbuch-fur-das-sichere-loschen-ihrer-nvme-solid-state-festplatte/"><u>Schnell Und Einfach - Das Handbuch Für Das Sichere Löschen Ihrer NVMe Solid-State-Festplatte</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/two-simple-methods-for-creating-a-full-disk-image-of-your-usb-flash-drive/"><u>Two Simple Methods for Creating a Full Disk Image of Your USB Flash Drive</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unresponsive-plugins-in-fcpx-heres-what-you-need-to-do/"><u>Unresponsive Plugins in FCPX? Heres What You Need to Do</u></a></li>
+<li><a href="https://article-helps.techidaily.com/what-phone-is-compatible-with-gear-vr-for-2024/"><u>What Phone Is Compatible With Gear VR for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728474675380-404/"><u>オンラインコンテンツにアクセスしようとすると見つからない：404エラー解析</u></a></li>
 </ul></div>
 
