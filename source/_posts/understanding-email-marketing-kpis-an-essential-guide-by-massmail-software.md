@@ -1,7 +1,7 @@
 ---
 title: "Understanding Email Marketing KPIs: An Essential Guide by MassMail Software"
-date: 2024-12-18T05:15:14.867Z
-updated: 2024-12-23T20:04:21.942Z
+date: 2025-01-01T23:31:41.416Z
+updated: 2025-01-08T21:13:41.209Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -33,7 +41,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -47,6 +55,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -70,49 +82,37 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -149,21 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-to-perfecting-slow-motion-on-your-android-device/"><u>[New] Step-by-Step Guide to Perfecting Slow Motion on Your Android Device</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-decoding-digital-dollars-an-effective-way-to-understand-youtube-revenue-dynamics/"><u>[Updated] In 2024, Decoding Digital Dollars An Effective Way to Understand YouTube Revenue Dynamics</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728497344339-windows-1011/"><u>「Windows 10/11」で消した画像・写真をもう一度取り戻せる方法：ベストセレクション</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimizing-video-quality-youtube-to-mpeg-conversion-strategies/"><u>2024 Approved Optimizing Video Quality YouTube to MPEG Conversion Strategies</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/4-effective-techniques-to-recover-deleted-files-in-windows-10/"><u>4 Effective Techniques to Recover Deleted Files in Windows 10</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728480852529-windows-111087/"><u>最新修復技術指南：針對Windows 11、10、8及7的高效檔案回復方法</u></a></li>
-<li><a href="https://blog-min.techidaily.com/die-top-3-methoden-zum-installieren-der-av1-codec-erweiterung-auf-windows-1011-aktualisiert/"><u>Die Top 3 Methoden Zum Installieren Der AV1 Codec-Erweiterung Auf Windows 10/11 - Aktualisiert</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-installation-intelligent-hd-520/"><u>Easy Installation: Intelligent HD 520</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-softened-screen-debut/"><u>In 2024, Softened Screen Debut</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/in-depth-instructions-for-saving-microsoft-outlook-mailbox-data-onto-your-personal-pc/"><u>In-Depth Instructions for Saving Microsoft Outlook Mailbox Data Onto Your Personal PC</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/kann-man-mit-chkdsk-verlorene-dateien-wiederherstellen-oder-wird-das-laufwerk-aufgeraumt/"><u>Kann Man Mit 'Chkdsk' Verlorene Dateien Wiederherstellen Oder Wird Das Laufwerk Aufgeräumt?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-complete-system-restore-on-windows/"><u>Step-by-Step Guide: Complete System Restore on Windows</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/tote-ssds-neu-beleben-erfolgreicher-wege-zum-datenwiedergewinnung/"><u>Tote SSDs Neu Beleben: Erfolgreicher Wege Zum Datenwiedergewinnung</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-your-iphone-screen-top-solutions-revealed/"><u>Trouble with Your iPhone Screen? Top Solutions Revealed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-mysteries-of-metaverse-persona-designs/"><u>Unveiling the Mysteries of Metaverse Persona Designs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/why-the-xiaomi-mi-smart-band-4-is-my-go-to-budget-fitness-device/"><u>Why the Xiaomi Mi Smart Band 4 Is My Go-To Budget Fitness Device</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-diving-into-the-world-of-youtubers-starting-your-channel-earning-cash/"><u>[New] 2024 Approved Diving Into the World of Youtubers Starting Your Channel, Earning Cash</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-instagrams-musical-emoji-use-for-2024/"><u>[Updated] Mastering the Art of Instagram's Musical Emoji Use for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-complete-introduction-to-snapchats-new-feature/"><u>2024 Approved A Complete Introduction to Snapchat's New Feature</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ps4pc/"><u>重建PS4存放的信息技術：解決PC平台如何回復硬碟數據的指南</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-atk0110-motherboard-free-installable-acpi-firmware-download/"><u>ASUS ATK0110 Motherboard: Free Installable ACPI Firmware Download</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/expert-tips-resolving-windows-startup-failures-without-recovery-options-windows-11-8-7/"><u>Expert Tips: Resolving Windows Startup Failures Without Recovery Options (Windows 11, 8, 7)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/google-pixelbook-go-analysis-exceptionally-crafted-chromeos-device-with-an-expensive-price-point/"><u>Google Pixelbook Go Analysis: Exceptionally Crafted ChromeOS Device with an Expensive Price Point</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-xs-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone XS Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-voice-transformation-tools-for-digital-talent-for-2024/"><u>Ideal Voice Transformation Tools for Digital Talent for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/if-you-have-backups-enabled-restore-from-the-latest-backup-where-the-mlv-files-were-still-present/"><u>If You Have Backups Enabled, Restore From the Latest Backup Where the MLV Files Were Still Present.</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/installing-windows-adk-seamlessly-integrated-with-aomei-backupper-your-guide/"><u>Installing Windows ADK Seamlessly Integrated with AOMEI Backupper - Your Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/professionelle-losungen-fur-die-iphone-datensicherung-auf-windows-und-mac-os/"><u>Professionelle Lösungen Für Die iPhone-Datensicherung Auf Windows Und Mac OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/proven-iphone-tips-effortless-video-length-and-size-control/"><u>Proven iPhone Tips Effortless Video Length & Size Control</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/usb-usbusb/"><u>USBデバイス間で簡単にファイルを複写する方法 - USBから別のUSBへ</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/vaio-windows-10-pc/"><u>VAIO Windows 10 PC バックアップのための最適な手法</u></a></li>
 </ul></div>
 

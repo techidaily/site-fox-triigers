@@ -1,7 +1,7 @@
 ---
 title: "Best Email Marketing Techniques & Insights From Top 2020 Publications: A Guide with MassMail Software"
-date: 2024-12-23T17:22:36.003Z
-updated: 2024-12-29T18:06:30.537Z
+date: 2025-01-06T04:33:15.614Z
+updated: 2025-01-08T17:27:58.211Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -41,7 +41,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -51,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -82,13 +78,13 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -98,25 +94,25 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-shaping-snapshots-transitioning-from-auto-to-smart-hdr-shooting/"><u>[New] 2024 Approved Shaping Snapshots Transitioning From Auto to Smart HDR Shooting</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-skype-recording-techniques-for-pc-mac-users/"><u>[Updated] 2024 Approved Skype Recording Techniques for PC, Mac Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-dominate-digital-space-secure-a-chain-of-1k-fansmonth-for-2024/"><u>[Updated] Dominate Digital Space Secure a Chain of 1K Fans/Month for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-best-picks-the-most-acclaimed-10-online-vimeo-video-harvesters/"><u>[Updated] In 2024, Best Picks The Most Acclaimed 10 Online Vimeo Video Harvesters</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-revealing-the-techniques-for-perfect-sound-transitions-for-2024/"><u>[Updated] Revealing the Techniques for Perfect Sound Transitions for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/2018s-top-4-must-know-avi-editors-for-stunning-video-creations/"><u>2018'S Top 4 Must-Know AVI Editors for Stunning Video Creations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-gopro-fixing-fish-eye-effects-in-video/"><u>2024 Approved Mastering GoPro Fixing Fish Eye Effects in Video</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/discover-the-ultimate-list-of-free-pdf-software-for-windows-users-ranked-in-2020/"><u>Discover the Ultimate List of Free PDF Software for Windows Users, Ranked in 2020</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-windows-10-compare-with-windows-7-key-features-and-improvements/"><u>How Does Windows 10 Compare with Windows 7 - Key Features and Improvements</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/endent-artists-guide-to-personalized-visual-tricks-for-2024/"><u>Independent Artists' Guide to Personalized Visual Tricks for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/navigating-through-the-xml-settings-section-a-comprehensive-guide/"><u>Navigating Through the XML Settings Section: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/resolve-aw-snap-glitch-in-chrome-when-pages-load-protect-with-malwarefox/"><u>Resolve 'Aw Snap!' Glitch in Chrome When Pages Load – Protect with MalwareFox</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/safe-android-system-reboot-protect-your-files/"><u>Safe Android System Reboot: Protect Your Files</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-conversion-techniques-transforming-mkv-files-into-prores-format/"><u>Seamless Conversion Techniques: Transforming MKV Files Into ProRes Format</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/simple-steps-recording-videos-with-your-chromebook-made-simple/"><u>Simple Steps: Recording Videos with Your Chromebook Made Simple</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-how-to-insert-an-attachment-in-your-iphones-mail-app/"><u>Step-by-Step Tutorial: How to Insert an Attachment in Your iPhone's Mail App</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-master-video-editing-in-final-cut-pro-for-windows-users/"><u>Step-by-Step Tutorial: Master Video Editing in Final Cut Pro for Windows Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-guide-to-effective-video-capturing-via-screencastify/"><u>[New] In 2024, Guide to Effective Video Capturing via Screencastify</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-evaluating-gopro-hero5-video-outputs/"><u>[Updated] 2024 Approved Evaluating GoPro Hero5 Video Outputs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-strategies-elevating-interview-audio-quality-with-iphoneipad/"><u>[Updated] Expert Strategies Elevating Interview Audio Quality with iPhone/iPad</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-stunning-lumachina-design-graphics-premium-backgrounds-and-wallpapers-by-yl-computing/"><u>Discover Stunning Lumachina Design Graphics: Premium Backgrounds & Wallpapers by YL Computing</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/gbtc-trades-at-a-discount-new-bitcoin-etf-records-impressive-15b-in-transactions-with-btc-reaching-69k-analysis-from-yl-computing-yl-software/"><u>GBTC Trades at a Discount; New Bitcoin ETF Records Impressive $1.5B in Transactions with BTC Reaching $69K – Analysis From YL Computing, YL Software</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/high-definition-emma-watson-wallpaper-downloads-at-1080p-resolution-high-quality-visual-content-for-pc-and-mobile-devices-by-yl-computing/"><u>High-Definition Emma Watson Wallpaper Downloads at 1080P Resolution - High-Quality Visual Content for PC and Mobile Devices by YL Computing</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/high-resolution-pulp-fiction-themed-wallpapers-and-desktop-backgrounds-premium-hd-imagery-by-yl-computing/"><u>High-Resolution Pulp Fiction Themed Wallpapers & Desktop Backgrounds - Premium HD Imagery by YL Computing</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-fix-a-non-installing-graphics-card-with-help-from-yl-software-tips-and-tricks/"><u>How to Fix a Non-Installing Graphics Card with Help From YL Software Tips & Tricks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-maximize-your-cam-flagship-gear-with-ease/"><u>In 2024, Maximize Your Cam Flagship Gear with Ease</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-depth-look-at-tomtom-bandit-camera-series-for-2024/"><u>In-Depth Look at TomTom Bandit Camera Series for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/insights-into-crypto-investments-unveiling-the-benefits-and-risks-with-yl-computing-yl-software/"><u>Insights Into Crypto Investments: Unveiling the Benefits and Risks with YL Computing | YL Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-amd-drivers-for-windows-installation-tutorials-for-windows-10-11-and-7-users/"><u>Latest AMD Drivers for Windows: Installation Tutorials for Windows 10, 11, and 7 Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-av1-format-with-adobe-premiere-pro-tips-for-efficient-imports-and-exports/"><u>Mastering AV1 Format with Adobe Premiere Pro: Tips for Efficient Imports & Exports</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/recording-power-20plus-best-practices-for-skype-chats-on-windowsmac-pcs-for-2024/"><u>Recording Power 20+ Best Practices for Skype Chats on Windows/Mac PCs for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-to-printer-pdf-files-tips-by-yl-computing/"><u>Step-by-Step Guide to Printer PDF Files - Tips by YL Computing</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-eliminating-malicious-programs-using-windows-defender-tips-from-yl-computing/"><u>Step-by-Step Guide: Eliminating Malicious Programs Using Windows Defender - Tips From YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-to-undo-an-unintended-repost-in-your-tiktok-feed/"><u>Tips to Undo an Unintended Repost in Your TikTok Feed</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transformar-tu-particion-mbr-al-formato-mas-moderno-gpt-con-windows-11-guia-sencilla/"><u>Transformar Tu Partición MBR Al Formato Más Moderno GPT Con Windows 11 - Guía Sencilla</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/troubleshooting-guide-for-unresponsive-graphics-cards-learn-from-yl-software-experts/"><u>Troubleshooting Guide for Unresponsive Graphics Cards - Learn From YL Software Experts</u></a></li>
 </ul></div>
 
