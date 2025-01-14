@@ -1,7 +1,7 @@
 ---
 title: Differences Between Proactive Contacting & Reactive Lead Generation - Mastering Email Campaigns Using MassMail Tools
-date: 2025-01-04T23:57:14.394Z
-updated: 2025-01-08T22:08:32.614Z
+date: 2025-01-07T23:06:40.282Z
+updated: 2025-01-14T20:10:42.452Z
 tags:
   - product
 categories:
@@ -19,16 +19,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -44,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -52,15 +52,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -91,7 +91,7 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -102,10 +102,6 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
@@ -113,6 +109,10 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,19 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-access-your-fb-links-easily-download-8-best-online-utilities/"><u>[New] Access Your FB Links Easily Download 8 Best Online Utilities</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-calculating-monetary-gain-for-a-milion-of-youtube-watchers/"><u>[New] Calculating Monetary Gain for a Milion of YouTube Watchers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-from-slow-motion-to-fast-forward-adjusting-videos-on-insta/"><u>[New] From Slow Motion to Fast Forward – Adjusting Videos on Insta</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-end-vector-sites-ranked-1-to-10/"><u>[New] High-End Vector Sites Ranked 1 to 10</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-immediate-fixes-for-the-recurring-windows-10-photos-crashes-for-2024/"><u>[New] Immediate Fixes for the Recurring Windows 10 Photos Crashes for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-impactful-design-system-complimentary-bootstrap-4-integrated-framework/"><u>Creative Tim's Impactful Design System – Complimentary, Bootstrap 4 Integrated Framework</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-notus-elite-premium-shopify-design-template/"><u>Creative Tim's Notus: Elite Premium Shopify Design Template</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-premium-pro-horizon-ai-template-suite-enhanced-nextjs-and-figma-integration-with-top-tier-stripe-and-supabase-support/"><u>Creative Tim's Premium PRO Horizon AI Template Suite: Enhanced NextJS and Figma Integration with Top-Tier Stripe & Supabase Support</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-advanced-vuejs-and-bootstrap-admin-panel-by-creative-tim/"><u>Free Advanced Vue.js & Bootstrap Admin Panel by Creative Tim</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-archive-your-online-dialogues-essential-steps-for-fb-chat-recordings/"><u>In 2024, Archive Your Online Dialogues Essential Steps for FB Chat Recordings</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oneplus-12r-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from OnePlus 12R to Another | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overclocking-odds-on-your-side-again-fast-fixes/"><u>Overclocking Odds on Your Side Again - Fast Fixes</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/premiere-vue-black-admin-panel-superior-vuejs-and-bootstrap-ebootstrap-4-framework-by-creative-tim/"><u>Premiere Vue Black Admin Panel: Superior Vuejs & Bootstrap Ebootstrap 4 Framework by Creative Tim</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1728480697185-windows-11/"><u>Windows 11における不正な起動ドライブを特定・解決するテクニック</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-expert-breakdown-of-adobe-cloud-plus-alternative-methods/"><u>[New] 2024 Approved Expert Breakdown of Adobe Cloud, Plus Alternative Methods</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevating-video-experience-non-youtube-hubs-explained/"><u>[New] Elevating Video Experience Non-Youtube Hubs Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-deciding-the-best-for-screens-is-obs-more-effective-than-fraps/"><u>[Updated] 2024 Approved Deciding the Best for Screens Is OBS More Effective than Fraps?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-puzzles-to-peril-the-gaming-genres-progression-for-2024/"><u>[Updated] From Puzzles to Peril The Gaming Genre's Progression for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/easy-gaming-memories-start-recording-now-in-2024/"><u>Easy Gaming Memories Start Recording Now, In 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-reducing-the-size-of-your-m4v-videos-without-loser-quality/"><u>Effective Strategies for Reducing the Size of Your M4V Videos without Loser Quality</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/enhancing-ui-with-icomponent-building-interoperable-components-in-net/"><u>Enhancing UI with IComponent - Building Interoperable Components in .NET</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-powershell-understanding-the-command-options-interface/"><u>Exploring PowerShell: Understanding the Command Options Interface</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-windows-file-attributes-panel-tips-and-tricks/"><u>Exploring Windows File Attributes Panel: Tips and Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterclass-for-srt-editing-in-macos/"><u>Masterclass for SRT Editing in macOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-graphics-driver-errors-in-wolcen-for-smooth-gaming-experience/"><u>Overcoming Graphics Driver Errors in Wolcen for Smooth Gaming Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-redmi-12-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Redmi 12 has been deleted.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/resolving-srt-export-woes-in-adobe-premiere-for-2024/"><u>Resolving SRT Export Woes in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-9-android-app-permissions-you-should-never-grant/"><u>Top 9 Android App Permissions You Should Never Grant</u></a></li>
 </ul></div>
 
