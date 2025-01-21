@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Crafting Email Subject Prefixes Using MassMail Tech
-date: 2025-01-10T21:04:52.502Z
-updated: 2025-01-14T23:19:41.334Z
+date: 2025-01-15T23:08:07.139Z
+updated: 2025-01-20T22:25:41.742Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -41,7 +41,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -71,12 +71,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -86,29 +90,21 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -130,6 +126,10 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -149,24 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-enhancing-playback-speed-in-tiktok-videos/"><u>[New] 2024 Approved Enhancing Playback Speed in TikTok Videos</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1-simple-steps-restore-your-openoffice-file-without-a-hitch/"><u>1. Simple Steps: Restore Your OpenOffice File Without a Hitch</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728498719391-windows-11/"><u>効率的にWindows 11リカバリーパーティションを作成・使用するための手引き - ２つの方法</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/como-aumentar-la-capacidad-de-tu-disco-ps4-sin-perder-datos-una-guia-paso-a-paso/"><u>Cómo Aumentar La Capacidad De Tu Disco PS4 Sin Perder Datos: Una Guía Paso a Paso</u></a></li>
-<li><a href="https://fox-links.techidaily.com/computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-for-2024/"><u>Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/criteria-for-picking-top-e-marketplace-networks-exploring-massmails-mlm-solutions/"><u>Criteria for Picking Top E-Marketplace Networks: Exploring Massmail's MLM Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-windows-security-bypassing-faulty-pins-easily/"><u>Enhance Windows Security: Bypassing Faulty PINs Easily</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/erstellen-einer-windows-10-systemwiederherstellungstabelle-zwei-effiziente-methoden/"><u>Erstellen Einer Windows 10-Systemwiederherstellungstabelle: Zwei Effiziente Methoden</u></a></li>
-<li><a href="https://win-blog.techidaily.com/gta-5-audio-glitches-fixed-for-optimal-gameplay-experience/"><u>GTA 5 Audio Glitches Fixed for Optimal Gameplay Experience</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guia-completa-para-respaldar-su-sistema-en-windows-7-previamente-a-la-actualizacion-hacia-windows-10/"><u>Guía Completa Para Respaldar Su Sistema en Windows 7 Previamente a La Actualización Hacia Windows 10</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-create-a-network-or-nas-drive-backup-on-windows-10-and-11/"><u>How to Create a Network or NAS Drive Backup on Windows 10 & 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-ultimate-pathway-to-successful-uploads-on-youtube/"><u>In 2024, The Ultimate Pathway to Successful Uploads on YouTube</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-condense-time-amplify-impact-time-lapse-video-creation-in-final-cut-pro/"><u>New In 2024, Condense Time, Amplify Impact Time Lapse Video Creation in Final Cut Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/refined-retouches-using-the-eraser-in-photoshop-proficiently/"><u>Refined Retouches Using the Eraser in Photoshop Proficiently</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/seamless-iphone-synchronization-a-guide-to-merging-your-devices-with-and-without-icloud/"><u>Seamless iPhone Synchronization: A Guide to Merging Your Devices, With and Without iCloud</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/seo-strategies-in-2009-focusing-on-attraction-sex-or-brand-development-for-online-success/"><u>SEO Strategies in 2009: Focusing on Attraction (SEX) or Brand Development for Online Success?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-on-synchronizing-playstation-4-controllers-quickly/"><u>Ultimate Tutorial on Synchronizing PlayStation 4 Controllers Quickly</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/windows-recovery-via-f11-a-misconception-for-versions-8-10-and-11-clarified/"><u>Windows Recovery via F11: A Misconception for Versions 8, 10 & 11 - Clarified</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-8-steps-to-make-your-instagram-unboxing-reels-viral/"><u>2024 Approved Top 8 Steps to Make Your Instagram Unboxing Reels Viral</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-transforming-youtube-video-to-animated-gif-user-friendly-tips/"><u>2024 Approved Transforming YouTube Video to Animated GIF User-Friendly Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029354041-mkv/"><u>劣化なしでMKVビデオを統合するためのテクニック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-productivity-the-power-of-chatgpt-in-onlyoffice-docspace/"><u>Boost Your Productivity: The Power of ChatGPT in ONLYOFFICE DocSpace</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/configuring-your-pcs-network-preferences-through-the-windows-control-panel-a-comprehensive-guide-insights-by-yl-computing/"><u>Configuring Your PC's Network Preferences Through the Windows Control Panel: A Comprehensive Guide - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/expert-guide-solving-graphics-card-issues-tips-and-steps-by-yl-computing/"><u>Expert Guide: Solving Graphics Card Issues - Tips & Steps by YL Computing</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/explore-exclusive-honda-jazz-screen-savers-and-more-quality-wallpapers-from-yl-computings-innovative-software-solutions/"><u>Explore Exclusive Honda Jazz Screen Savers and More - Quality Wallpapers From YL Computing's Innovative Software Solutions</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-can-you-retrieve-lost-password-information-through-windowss-control-panel-solutions-from-yl-computing-and-software/"><u>How Can You Retrieve Lost Password Information Through Windows's Control Panel - Solutions From YL Computing & Software</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-does-windows-defender-smartscreen-protect-your-pc-unveiling-features-with-yl-software-expertise/"><u>How Does Windows Defender SmartScreen Protect Your PC? Unveiling Features with YL Software Expertise</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-boost-your-computers-boot-up-time-tips-from-yl-computing-and-software-solutions/"><u>How to Boost Your Computer's Boot-Up Time: Tips From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-8-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 8 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-supplements-for-superior-gopro-performance/"><u>In 2024, Superior Supplements for Superior Gopro Performance</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/revive-your-input-devices-expert-tips-on-fixing-unresponsive-mice-and-keyboards-yl-computing/"><u>Revive Your Input Devices: Expert Tips on Fixing Unresponsive Mice and Keyboards - YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skyrocketing-results-with-7-innovative-ai-methods/"><u>Skyrocketing Results with 7 Innovative AI Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/social-sites-for-effective-youtube-video-promotion/"><u>Social Sites for Effective YouTube Video Promotion</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/uncovering-the-essence-of-obss-screen-capture-features-for-2024/"><u>Uncovering the Essence of OBS's Screen Capture Features for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/unveiling-the-distinctive-characteristics-of-crypto-vs-fiat-money-a-deep-dive-yl-computings-expert-insight/"><u>Unveiling the Distinctive Characteristics of Crypto Vs. Fiat Money: A Deep Dive - YL Computing's Expert Insight</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/yl-software-unveils-fire-saturday-series-premium-number-themed-wallpapers-and-background-visuals-for-enthusiasts/"><u>YL Software Unveils Fire Saturday Series: Premium Number-Themed Wallpapers and Background Visuals for Enthusiasts</u></a></li>
 </ul></div>
 
